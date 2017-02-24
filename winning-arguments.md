@@ -90,7 +90,7 @@ Another hypothesis one can put forth is that the gladiatorial games embodied the
 
 If you think of the funders and the watchers of the Roman gladiatorial games as different sets of players in the game (extending the boundaries of the game beyond the combat ring itself), one can venture that for the funders, the purpose of the games was often not frivolous, whereas for the watchers, the purpose of the games was most often frivolous.
 
-This example illustrates the principle that a game can have multiple purposes, some explicit and some implicit, and different players in a game can have different purposes. The explicit purpose(s) of a game, being explicit, are typically apparent to all. In contrast, probably in most cases it's unclear to all outside observers and most inside observers of a game what the important implicit purposes of the game are.
+This example illustrates the principle that a game can have multiple purposes, some explicit and some implicit, and different players in a game can have different purposes. The explicit purpose(s) of a game, being explicit, are typically apparent to all. In contrast, probably in most cases it's unclear all or almost all observers of a game what the important implicit purposes of the game are.
 
 ## Statements
 
