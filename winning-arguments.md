@@ -12,7 +12,7 @@ The first item of importance is the distinction between two senses of the word "
 
 Arguments in the first sense of the word are debates. By "debates," I mean exchanges involving multiple people where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about.
 
-Arguments in the second sense of the term are series of statements designed to provide reasons to believe that some conclusion(s) are true. Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" to refer to arguments in the first sense.
+Arguments in the second sense of the term are series of statements designed to provide reasons to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" to refer to arguments in the first sense.
 
 Here is an example of an argument:
 
@@ -32,19 +32,17 @@ Recall that a prime number is a number which is divisible only by itself and one
 
 Why is it true (at the second to last sentence of the argument) that the remainder of dividing p by x is 1? We produced x by multiplying together all the (finitely many) prime numbers and adding one. Therefore p goes into (x-1) evenly, i.e. the remainder of the division (x-1)/p is zero, and therefore the remainder of the division x/p is 1.
 
-This is another example of a winning argument. Mathematical facts, like the fact that there are infinitely many prime numbers, are extraordinarily uncontroversial. As we will see later, this is because math is a game that has simple and essentially agreed upon rules. By describing math as a game, I do not mean to imply that math is not an activity of seeking truth. I don't mean to take any position in this text on whether math is an activity of seeking truth. Nonetheless, it is clear that correct mathematical proofs are some of the best examples we have of winning arguments.
+This is another example of a winning argument. Mathematical facts, like the fact that there are infinitely many prime numbers, are extraordinarily uncontroversial. As we will see later, this is because math is a game that has simple and essentially agreed upon rules. By describing math as a game, I do not mean to imply that math is not an activity of seeking truth. I don't mean to take any position in this text on whether or not math is an activity of seeking the truth. Nonetheless, it is clear that correct mathematical proofs are some of the best examples we have of winning arguments.
 
-We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reasons to believe that some conclusion(s) are true. Let's now return to the distinction we made between debates and arguments. 
+We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reasons to believe some conclusion(s). Let's now return to the distinction we made between debates and arguments. 
 
 Debates almost always involve the participants making arguments. Can arguments occur anywhere except in the context of debates? 
 
 One place where you can find arguments is in books, especially books about philosophical or political subjects. An argument in a book is arguably not in the context of any debate, because a book is an inanimate object that can exist in many copies in different places and times. Books are objects which are incapable of participating reciprocally in debates. You can arguably let a book make arguments to you by reading it. You can also respond to the book's arguments, mentally, in your journal, to other people, to the author, etc. But the book cannot respond to your responses to its arguments. The author might be able to, if they're still alive, but that's another issue. This is what I mean when I say that books cannot participate reciprocally in debates. For these and many other reasons, you might say that arguments in books do not necessarily occur in the context of any debate, or perhaps that they never do.
 
+Nonetheless, you might argue that arguments in books usually do occur in the context of some debate or another. This idea is palatable if we accept, as examples of debates, public debates which take place over many years. A public debate on a question, roughly, is a situation where lots of people make arguments on and have debates on the question, across a significant slice of space and time. If you accept public debates as examples of debates, then you will probably accept that most arguments in most books occur in the context of some debate.
 
-
-
-
-
+A probable exception to this idea is the 
 
 
 However, arguments can also occur outside the context of debates. For example, if you open up any book on philosophy or politics, you will probably find many arguments. Arguments published in books do not , or at least not in the context of any immediate debate, though they may be said to occur in the context of wider public debates that occur over many years.
