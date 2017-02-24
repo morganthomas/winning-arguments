@@ -10,7 +10,7 @@ A great deal of importance has been introduced in the preceding two paragraphs, 
 
 The first item of importance is the distinction between two senses of the word "argument."
 
-Arguments in the first sense of the word are debates. By "debates," I mean exchanges involving multiple people where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about.
+Arguments in the first sense of the word are debates. By "debates," I mean exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about.
 
 Arguments in the second sense of the term are series of statements designed to provide reasons to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" to refer to arguments in the first sense.
 
@@ -42,7 +42,6 @@ One place where you can find arguments is in books, especially books about philo
 
 Nonetheless, you might argue that arguments in books usually do occur in the context of some debate or another. This idea is palatable if we accept, as examples of debates, public debates which take place over many years. A public debate on a question, roughly, is a situation where lots of people make arguments on and have debates on the question, across a significant slice of space and time. If you accept public debates as examples of debates, then you will probably accept that most arguments in most books occur in the context of some debate.
 
-A probable exception to this idea is the 
+A possible exception to this generalization is the (hypothetical) case where somebody writes a book which makes arguments on a topic nobody else has discussed, and then nobody reads the book. In this case, you could for the sake of uniformity say that the book occurs in the context of a debate involving one person, the author. However, this might be odd to say because there seems to be something inherently interactive, social, multi-personal about debates. I think most people are going to be inclined to say that the arguments in this book do not occur in the context of any debate.
 
 
-However, arguments can also occur outside the context of debates. For example, if you open up any book on philosophy or politics, you will probably find many arguments. Arguments published in books do not , or at least not in the context of any immediate debate, though they may be said to occur in the context of wider public debates that occur over many years.
