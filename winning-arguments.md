@@ -59,3 +59,25 @@ We will take both of the available approaches to understanding arguments. One ca
 Hopefully that discussion of the relationships between debates and arguments has clarified for the reader the distinction between debates and arguments, as well as helping to clarify each concept individually.
 
 Let's return to our original task of clarifying the meaning of the first three paragraphs of this text. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement."
+
+## Winning
+
+Let's start with "winning." What is winning? For starters, winning is something that happens to people in games (chess, baseball, etc.).
+
+Question: is winning something that ever happens *except* in the context of some game?
+
+Let's consider the phrase "winning at life." Winning at life is a form of winning, at least on a surface inspection of the phrase. One can also hypothesize that "winning at life" is in some usages a phrase with its own particular meaning that doesn't decompose as winning in the context of life, in the same way that a "close shave" doesn't always refer to a shave that was close.
+
+Let's assume for the moment that winning at life is a form of winning. If winning only ever happens in the context of some game, then it follows that life is a game. So, then, is life a game?
+
+"Life is a game" is a truism, a common statement that people are liable to spout as a form of shallow wisdom, perhaps without much reflection on how true it really is.
+
+## Statements
+
+## Reasons
+
+## Truth
+
+## Belief
+
+## Persuasion
