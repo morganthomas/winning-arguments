@@ -1,6 +1,6 @@
 # Winning Arguments
 
-Winning arguments is what we aim to show how to do in this book. We will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
+Winning arguments is what we aim to show how to do in this text. We will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
 
 First, it can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
 
