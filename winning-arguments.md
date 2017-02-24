@@ -4,7 +4,7 @@ The phrase "winning arguments" has at least two important senses.
 
 First, it can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
 
-Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense of "a series of statements designed to provide reasons to believe that some conclusion(s) are true." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
+Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense of "a series of statements designed to provide reasons to believe some conclusion(s)." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
 
 A great deal of importance has been introduced in the preceding three paragraphs, so let's unpack them.  
 
@@ -58,4 +58,4 @@ We will take both of the available approaches to understanding arguments. One ca
 
 Hopefully that discussion of the relationships between debates and arguments has clarified for the reader the distinction between debates and arguments, as well as helping to clarify each concept individually.
 
-Let's return to our original task of clarifying the meaning of the first three paragraphs of this text.
+Let's return to our original task of clarifying the meaning of the first three paragraphs of this text. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of dubious meaning remain. First and foremost, "winning," but also 
