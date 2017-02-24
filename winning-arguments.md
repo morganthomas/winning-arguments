@@ -4,9 +4,47 @@ The phrase "winning arguments" has at least two important senses.
 
 First, it can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
 
-Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense meaning "a series of statements designed to provide reasons to believe that some conclusion(s) are true." In this interpretation of the phrase, "winning" is an adjective.
+Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense meaning "a series of statements designed to provide reasons to believe that some conclusion(s) are true." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
 
 A great deal of importance has been introduced in the preceding two paragraphs, so let's unpack them.  
 
-The first item of importance is the distinction between two senses of the word "argument." Arguments in the first sense are debates. Arguments in the second sense are series of statements designed to provide reasons to believe that some conclusion(s) are true. Henceforth, in this text we will consistently use the term "argument" to refer to arguments in the second sense, and we will use the term "debate" to refer to arguments in the first sense.
+The first item of importance is the distinction between two senses of the word "argument."
 
+Arguments in the first sense of the word are debates. By "debates," I mean exchanges involving multiple people where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about.
+
+Arguments in the second sense of the term are series of statements designed to provide reasons to believe that some conclusion(s) are true. Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" to refer to arguments in the first sense.
+
+Here is an example of an argument:
+
+You shouldn't uncritically accept the conclusions of all scientific studies you come across. [Ioannidis (2005)](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) is a scientific study which claims that most published research findings are false. If you uncritically accept the conclusions of all scientific studies you come across, then you should accept Ioannidis (2005). But if you uncritically accept Ioannidis (2005), then you accept that most scientific studies draw false conclusions. So you shouldn't uncritically accept the conclusions of all scientific studies you come across, because if you do, you can expect to be adopting a lot of false beliefs.
+
+Let's analyze this argument. It seeks to prove that you should not uncritically accept the conclusions of all scientific studies you come across. It proceeds by assuming the opposite of what it seeks to prove, and deriving an absurd result. It grants for the sake of argument that we should uncritically accept the conclusions of all scientific studies we come across. The next move is based on the observation that if somebody thinks that way, you can make them believe anything that's said in a published scientific paper. The next move is to point out a paper, Ioannidis (2005), which will make us believe, under our sake-of-argument assumption, that most scientific studies conclude things that are false. With the further assumption that we should not uncritically accept information that's likely to be false, we can refute the statement that we started out by assuming.
+
+The argument above is an example of a *reductio ad absurdum* argument. A *reductio ad absurdum* argument, in a strict sense, is one that proceeds by assuming the negation of its conclusion, and deriving a logical contradiction thereby. In a looser sense, a *reductio ad absurdum* argument can derive, instead of a logical contradiction, an absurd consequence that will probably be unacceptable to the audience of the argument, leading the audience to reject the assumption that leads to that consequence.
+
+The argument above is a *reductio ad absurdum* argument in the looser sense. In the argument above, we first assume the view we wish to refute, and with a modest amount of information and background assumptions, we get to the conclusion that our assumption will likely lead us to accept many false things as true, something which makes most people want to back out of the assumption.
+
+The argument above is an example of a winning argument. I expect the reader agrees: it is hard to disagree with the reasoning, or the conclusion. I haven't encountered anybody who finds this argument unpersuasive. One reason the argument is so strong is the simplicity and effectiveness of its structure, which is based on the *reductio ad absurdum* idea that is the basis of many good arguments stretching back to ancient times.
+
+Let's round out this discussion with an example of an argument which is a *reductio ad absurdum* in the strict sense: that is, an argument which proceeds by assuming the opposite of that which it seeks to prove, and deriving a logical contradiction from that assumption. As our example, we will do an informal version of the classic proof, due to Euclid, that there are infinitely many prime numbers.
+
+Recall that a prime number is a number which is divisible only by itself and one. Suppose, towards reaching a contradiction, that there are finitely many prime numbers. Let x be the number resulting from multiplying together all the prime numbers and adding one. Since x is evidently larger than all prime numbers, x is not prime. That means that x is divisible by at least one prime number. Pick a prime that x is divisible by, and call it p. We know that the remainder of dividing x by p is 0, since that's what it means for x to be divisible by p. However, we also know that the remainder of dividing p by x is 1, because of how we produced x. This is a contradiction, demonstrating that our original assumption was false, or in other words that there are infinitely many prime numbers.
+
+Why is it true (at the second to last sentence of the argument) that the remainder of dividing p by x is 1? We produced x by multiplying together all the (finitely many) prime numbers and adding one. Therefore p goes into (x-1) evenly, i.e. the remainder of the division (x-1)/p is zero, and therefore the remainder of the division x/p is 1.
+
+This is another example of a winning argument. Mathematical facts, like the fact that there are infinitely many prime numbers, are extraordinarily uncontroversial. As we will see later, this is because math is a game that has simple and essentially agreed upon rules. By describing math as a game, I do not mean to imply that math is not an activity of seeking truth. I don't mean to take any position in this text on whether math is an activity of seeking truth. Nonetheless, it is clear that correct mathematical proofs are some of the best examples we have of winning arguments.
+
+We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reasons to believe that some conclusion(s) are true. Let's now return to the distinction we made between debates and arguments. 
+
+Debates almost always involve the participants making arguments. Can arguments occur anywhere except in the context of debates? 
+
+One place where you can find arguments is in books, especially books about philosophical or political subjects. An argument in a book is arguably not in the context of any debate, because a book is an inanimate object that can exist in many copies in different places and times. Books are objects which are incapable of participating reciprocally in debates. You can arguably let a book make arguments to you by reading it. You can also respond to the book's arguments, mentally, in your journal, to other people, to the author, etc. But the book cannot respond to your responses to its arguments. The author might be able to, if they're still alive, but that's another issue. This is what I mean when I say that books cannot participate reciprocally in debates. For these and many other reasons, you might say that arguments in books do not necessarily occur in the context of any debate, or perhaps that they never do.
+
+
+
+
+
+
+
+
+However, arguments can also occur outside the context of debates. For example, if you open up any book on philosophy or politics, you will probably find many arguments. Arguments published in books do not , or at least not in the context of any immediate debate, though they may be said to occur in the context of wider public debates that occur over many years.
