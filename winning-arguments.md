@@ -4,7 +4,7 @@ The phrase "winning arguments" has at least two important senses.
 
 First, it can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
 
-Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense meaning "a series of statements designed to provide reasons to believe that some conclusion(s) are true." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
+Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense of "a series of statements designed to provide reasons to believe that some conclusion(s) are true." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
 
 A great deal of importance has been introduced in the preceding two paragraphs, so let's unpack them.  
 
@@ -53,5 +53,7 @@ So far we've reached three generalizations about the relationship between argume
 * Arguments can, in principle, occur outside the context of debates.
 
 In my estimation, all of these points are important. That arguments usually occur in the context of debates, and debates usually contain arguments, tells us that arguments and debates are importantly related to each other and we need to understand them together. That arguments can, in principle, occur outside the context of debates tells us that arguments can be understood independently from debates (though it doesn't tell us whether that's the most useful way to understand them). It's probably not the case, on the other hand, that debates can be understood independently from arguments, since skilled debates are almost always in essence exchanges of arguments.
+
+In practice we will take both of the available approaches to understanding arguments. 
 
 Hopefully that discussion of the relationships between debates and arguments has clarified for the reader the distinction between debates and arguments, as well as helping to clarify each concept individually.
