@@ -80,7 +80,7 @@ Let's try to make a start on this question by identifying some things that are g
 
 Popular and typical examples of games include soccer, chess, poker, dice, solitaire, World of Warcraft, and slot machines. Childrens' games include [peekaboo](https://en.wikipedia.org/wiki/Peekaboo), [tag](https://en.wikipedia.org/wiki/Tag_(game)), [ring around the rosie](https://en.wikipedia.org/wiki/Ring_a_Ring_o'_Roses), and two people sitting on the ground and rolling a ball back and forth between each other.
 
-Examples of unusual things that might be games, but then again might not be games, include [war games](https://en.wikipedia.org/wiki/Military_exercise), abstract theoretical games like the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma) which are studied in [game theory](https://en.wikipedia.org/wiki/Prisoner's_dilemma), the game of human life, the game of capitalism, the game of love, 
+Examples of unusual things that might be games, but then again might not be games, include [war games](https://en.wikipedia.org/wiki/Military_exercise), abstract theoretical games like the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma) which are studied in [game theory](https://en.wikipedia.org/wiki/Prisoner's_dilemma), the game of human life, the game of capitalism, the game of love, the game of war, 
 
 ## Statements
 
