@@ -52,4 +52,4 @@ So far we've reached three generalizations about the relationship between argume
 * Debates usually contain arguments.
 * Arguments can, in principle, occur outside the context of debates.
 
-In my estimation, all of these points are important. That arguments usually occur in the context of debates, and debates usually contain arguments, tells us that arguments and debates are importantly related to each other and we need to understand them together. That arguments can, in principle, occur outside the context of debates tells us that arguments can be studied independently from debates, though it doesn't tell us that's the most productive way to study arguments.
+In my estimation, all of these points are important. That arguments usually occur in the context of debates, and debates usually contain arguments, tells us that arguments and debates are importantly related to each other and we need to understand them together. That arguments can, in principle, occur outside the context of debates tells us that arguments can be studied independently from debates, though it doesn't tell us whether that's the most productive way to study arguments.
