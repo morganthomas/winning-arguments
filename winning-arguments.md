@@ -84,11 +84,11 @@ From this list we can immediately state some generalizations that are not true a
 
 Roman gladiatorial combat was a game played to entertain people. In that sense it was frivolous in purpose. But, it was gruesome, violent, lethal, and expensive, so presumably there was some significant reason people went to the trouble and difficulty of putting on the games.
 
-One hypothesis I've heard is the following. Rome contained a large class of poor people who lived on welfare and therefore were not occupied with useful work, and it was found to be necessary to entertain them to prevent them from engaging in crime and disruption. If this was the primary purpose of the games for some of the people who funded them, then certainly there was nothing frivolous about the games for the funders. For the people watching the games, the purpose was probably frivolous.
+One hypothesis I've heard is the following. Rome contained a large class of poor people who lived on welfare and therefore were not occupied with useful work, and it was found to be necessary to entertain them to prevent them from engaging in crime and disruption. If this was the primary purpose of the games for some of the people who funded them, then certainly there was nothing frivolous about the games for those funders. For the people watching the games, the purpose was probably frivolous.
 
 Another hypothesis one can put forth is that the gladiatorial games embodied the Roman values of violence, domination, and heroism, and like most civilizations the Romans felt it was a worthwhile effort to put on events which could stand as monuments to their values. If we think of this as the primary purpose of the games, then one's inclined to say that the purpose is not frivolous, either for the funders or for the audience members.
 
-If you think of the funders and the watchers of the Roman gladiatorial games as different sets of players in the game (extending the boundaries of the game beyond the combat ring itself), one can venture that for the funders, the purpose of the games was often not frivolous, whereas for the watchers, the purpose of the game was frivolous.
+If you think of the funders and the watchers of the Roman gladiatorial games as different sets of players in the game (extending the boundaries of the game beyond the combat ring itself), one can venture that for the funders, the purpose of the games was often not frivolous, whereas for the watchers, the purpose of the games was most often frivolous.
 
 This example illustrates the principle that a game can have multiple purposes, some explicit and some implicit, and different players in a game can have different purposes.
 
