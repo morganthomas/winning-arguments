@@ -46,7 +46,10 @@ A possible exception to this generalization is the (hypothetical) case where som
 
 The possibility of such an exception makes more sense when we consider the plausibility of the idea that an argument in a book can occur in the context of multiple debates. For example, a single book about climate change can be involved in the overall public debate on climate change, while simultaneously being involved in many particular interpersonal debates about climate change, each occurring between a specific group of people together in one location in physical space or cyberspace. It seems reasonable to talk this way and say that the book is involved in multiple debates on one subject. If the number of debates a book is involved in can vary in number, then it seems only natural that the number could in principle equal zero, though that probably isn't common in reality.
 
-So far we've tentatively reached two generalizations:
+So far we've reached three generalizations about the relationship between arguments and debates:
 
-* Arguments almost always occur in the context of debates.
+* Arguments usually occur in the context of debates.
+* Debates usually contain arguments.
 * Arguments can, in principle, occur outside the context of debates.
+
+In my estimation, all of these points are important. That arguments usually occur in the context of debates, and debates usually contain arguments, tells us that arguments and debates are importantly related to each other and we need to understand them together. That arguments can, in principle, occur outside the context of debates tells us that arguments can be studied independently from debates, though it doesn't tell us that's the most productive way to study arguments.
