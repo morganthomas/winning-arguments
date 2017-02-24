@@ -78,7 +78,7 @@ If winning at life is a form of winning, and winning only ever happens in the co
 
 Let's try to make a start on this question by identifying some things that are games, and also some things that are not games, which fail to be games in ways that are interesting and tell us something about games. A lot of the judgment as to which is which is going to be subjective, but the judgments on particular cases aren't the important thing, but rather the general picture about what games are that emerges from the analysis.
 
-Popular and typical examples of games include soccer, chess, poker, dice, solitaire, World of Warcraft, and slot machines. Childrens' games include [peekaboo](https://en.wikipedia.org/wiki/Peekaboo), [tag](https://en.wikipedia.org/wiki/Tag_(game)), [ring around the rosie](https://en.wikipedia.org/wiki/Ring_a_Ring_o'_Roses), and two people sitting on the ground and rolling a ball back and forth between each other.
+Popular and typical examples of games include soccer, chess, poker, dice, solitaire, World of Warcraft, and slot machines. Childrens' games include [peekaboo](https://en.wikipedia.org/wiki/Peekaboo), [tag](https://en.wikipedia.org/wiki/Tag_(game)), [ring around the rosie](https://en.wikipedia.org/wiki/Ring_a_Ring_o'_Roses), and two people sitting on the ground and rolling a ball back and forth between each other. More unusal examples of games include [war games](https://en.wikipedia.org/wiki/Military_exercise), 
 
 ## Statements
 
