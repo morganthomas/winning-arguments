@@ -58,4 +58,4 @@ We will take both of the available approaches to understanding arguments. One ca
 
 Hopefully that discussion of the relationships between debates and arguments has clarified for the reader the distinction between debates and arguments, as well as helping to clarify each concept individually.
 
-Let's return to our original task of clarifying the meaning of the first three paragraphs of this text. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of dubious meaning remain. First and foremost, "winning," but also (with the evident dubiousness depending on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement."
+Let's return to our original task of clarifying the meaning of the first three paragraphs of this text. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of dubious meaning remain. First and foremost, "winning," but also (with the evident dubiousness depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," and "statement."
