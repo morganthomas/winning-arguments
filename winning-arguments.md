@@ -66,7 +66,7 @@ Let's return to our original task of clarifying the meaning of the first three p
 
 ## Games and winning
 
-Let's start with "winning." What is winning? For starters, winning is something that happens to people in games (chess, baseball, etc.).
+Let's start with "winning." What is winning? For starters, winning is most often something that happens to people in games (chess, baseball, etc.).
 
 Question: is winning something that ever happens *except* in the context of some game?
 
