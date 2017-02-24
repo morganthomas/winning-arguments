@@ -2,7 +2,7 @@
 
 Winning arguments is what we aim to show how to do in this text. We will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
 
-First, it can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
+First, "winning arguments" can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
 
 Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense of "a series of statements designed to provide reasons to believe some conclusion(s)." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
 
