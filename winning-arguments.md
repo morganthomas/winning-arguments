@@ -78,7 +78,7 @@ Let's assume for the moment that winning at life is a form of winning. If winnin
 
 Let's try to make a start on this question by identifying some things that are games, and also some things that are not games, which fail to be games in ways that are interesting and tell us something about games. A lot of the judgment as to which is which is going to be subjective, but the judgments on particular cases aren't the important thing, but rather the general picture about what games are that emerges from the analysis.
 
-
+Popular and typical examples of games include soccer, chess, poker, dice, solitaire, World of Warcraft, and slot machines.
 
 ## Statements
 
