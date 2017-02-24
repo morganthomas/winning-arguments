@@ -14,6 +14,8 @@ Arguments in the first sense of the word are debates. By "debates," I mean excha
 
 Arguments in the second sense of the term are series of statements designed to provide reasons to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" to refer to arguments in the first sense.
 
+## Examples of arguments
+
 Here is an example of an argument:
 
 You shouldn't uncritically accept the conclusions of all scientific studies you come across. [Ioannidis (2005)](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) is a scientific study which claims that most published research findings are false. If you uncritically accept the conclusions of all scientific studies you come across, then you should accept Ioannidis (2005). But if you uncritically accept Ioannidis (2005), then you accept that most scientific studies draw false conclusions. So you shouldn't uncritically accept the conclusions of all scientific studies you come across, because if you do, you can expect to be adopting a lot of false beliefs.
@@ -34,7 +36,9 @@ Why is it true (at the second to last sentence of the argument) that the remaind
 
 This is another example of a winning argument. Mathematical facts, like the fact that there are infinitely many prime numbers, are extraordinarily uncontroversial. As we will see later, this is because math is a game that has simple and essentially agreed upon rules. By describing math as a game, I do not mean to imply that math is not an activity of seeking truth. I don't mean to take any position in this text on whether or not math is an activity of seeking the truth. Nonetheless, it is clear that correct mathematical proofs are some of the best examples we have of winning arguments.
 
-We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reasons to believe some conclusion(s). Let's now return to the distinction we made between debates and arguments. 
+We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reasons to believe some conclusion(s). Let's now return to the distinction we made between debates and arguments.
+
+## Arguments and debates
 
 Debates almost always involve the participants making arguments. Can arguments occur anywhere except in the context of debates? 
 
@@ -60,7 +64,7 @@ Hopefully that discussion of the relationships between debates and arguments has
 
 Let's return to our original task of clarifying the meaning of the first three paragraphs of this text. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement."
 
-## Winning
+## Winning and games
 
 Let's start with "winning." What is winning? For starters, winning is something that happens to people in games (chess, baseball, etc.).
 
