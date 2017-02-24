@@ -57,3 +57,5 @@ In my estimation, all of these points are important. That arguments usually occu
 We will take both of the available approaches to understanding arguments. One can understand arguments either within the context of debates, or independently from debates. We will do both. It's very helpful to study arguments in what we will call the *context-free perspective,* i.e. outside the context of debates. This perspective helps us focus in on arguments' intrinsic properties, and thereby understand arguments much better. However, the perspective is unbalanced if we don't also study arguments in the *contextful perspective*, i.e. in the context of debates as they occur in reality.
 
 Hopefully that discussion of the relationships between debates and arguments has clarified for the reader the distinction between debates and arguments, as well as helping to clarify each concept individually.
+
+Let's return to our original task of clarifying the meaning of the first three paragraphs of this text.
