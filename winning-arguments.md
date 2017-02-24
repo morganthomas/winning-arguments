@@ -82,6 +82,8 @@ Popular and typical examples of games include soccer, chess, poker, dice, solita
 
 From this list we can immediately state some generalizations that are not true about all games. Not all games are frivolous in purpose; some, such as war games, are serious in purpose. Even games that are superficially frivolous in purpose can be games where you're competing for your own life, as shown by Roman gladiatorial combat. Non-lethal games can involve considerable stakes of money and glory, as exemplified in professional poker and in the Olympic Games.
 
+Roman gladiatorial combat was a game played to entertain people. In that sense it was frivolous in purpose. But, it was gruesome, violent, lethal, and expensive, so probably there was some good reason people invested in it. A plausible hypothesis I've heard is the following. Rome contained a large class of poor people who lived on welfare and therefore were not occupied with useful work, and it was found to be necessary to entertain them to prevent them from engaging in crime and disruption.
+
 ## Statements
 
 ## Reasons
