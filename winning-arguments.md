@@ -6,7 +6,7 @@ First, it can be interpreted to refer to an activity, the activity of winning ar
 
 Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense of "a series of statements designed to provide reasons to believe that some conclusion(s) are true." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
 
-A great deal of importance has been introduced in the preceding two paragraphs, so let's unpack them.  
+A great deal of importance has been introduced in the preceding three paragraphs, so let's unpack them.  
 
 The first item of importance is the distinction between two senses of the word "argument."
 
