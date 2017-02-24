@@ -76,7 +76,7 @@ Let's assume for the moment that winning at life is a form of winning. If winnin
 
 "Life is a game" is a truism, a common statement that people are liable to spout as a form of shallow wisdom, perhaps without much reflection on how true it really is. How true is the truism? To answer that, we need to ask, what does the truism mean? To answer that, we need to ask, what do the words in the truism mean? "Life" in the truism seems to refer to human life, and probably it's clear enough what we're referring to there. What about "game?" What is a game?
 
-
+Let's try to make a start on this question by naming, first, some things that are games, and then, some things that are not games, which fail to be games in ways that are interesting and tell us something about games.
 
 ## Statements
 
