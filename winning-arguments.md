@@ -68,7 +68,7 @@ Let's return to our original task of clarifying the meaning of the first three p
 
 What is winning? For starters, winning is most often something that happens to people in the context of games (chess, baseball, etc.).
 
-Question: is winning something that ever happens *except* in the context of some game?
+Question: is winning something that ever happens to people *except* in the context of some game?
 
 Let's consider the phrase "winning at life." Winning at life is a form of winning, at least on a surface inspection of the phrase. One can also hypothesize that "winning at life" is in some usages a phrase with its own particular meaning that doesn't decompose as winning in the context of life, in the same way that a "close shave" doesn't always refer to a shave that was close.
 
@@ -95,6 +95,8 @@ This example illustrates the principle that a game can have multiple purposes, s
 Furthermore, people can be unaware of their own motivations. it seems to be the case that most of people's mental activity is unconscious, i.e. not witnessed or observed by the conscious mind, and psychologists agree that people can have unconscious motivations for things. Some argue that most or all things we do are influenced at least in part, or even mostly, by unconscious motivations. This is not a psychology text, and we won't try to answer the question of in what ways and to what extent people's behavior is influenced by unconscious motivations. However, based on the existence of unconscious motivations, we can say that a game may have an implicit purpose of which no observers have any awareness.
 
 Given our limited access to our own minds, and our near lack of access to others' minds, it's clear why probably in almost all cases it's unclear to all or almost all observers of a game what all of the implicit purposes of the game are.
+
+Let's poke at some of the more dubious examples we gave of games, to see what we can learn about games in the process. 
 
 ## Statements
 
