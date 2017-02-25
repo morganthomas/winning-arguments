@@ -90,7 +90,9 @@ Another hypothesis one can put forth is that the gladiatorial games embodied the
 
 If you think of the funders and the watchers of the Roman gladiatorial games as different sets of players in the game (extending the boundaries of the game beyond the combat ring itself), one can venture that for the funders, the purpose of the games was often not frivolous, whereas for the watchers, the purpose of the games was most often frivolous.
 
-This example illustrates the principle that a game can have multiple purposes, some explicit and some implicit, and different players in a game can have different purposes. The explicit purpose(s) of a game, being explicit, are typically apparent to all. In contrast, probably in almost all cases it's unclear to all or almost all observers of a game what all of the important implicit purposes of the game are.
+This example illustrates the principle that a game can have multiple purposes, some explicit and some implicit, and different players in a game can have different purposes. The explicit purpose(s) of a game, being explicit, are typically apparent to all. In contrast, probably in almost all cases it's unclear to all or almost all observers of a game what all of the important implicit purposes of the game are. This is because implicit purposes are, by definition, not stated, and since we can't read each other's thoughts we have no reliable way of knowing each other's unstated motivations.
+
+Furthermore, people can be unaware of their own motivations. it seems to be the case that most of people's mental activity is unconscious, i.e. not witnessed or observed by the conscious mind, and psychologists agree that people can have unconscious motivations for things. Some argue that most or all things we do are influenced at least in part, or even mostly, by unconscious motivations. This is not a psychology text, and we won't try to answer the question of in what ways and to what extent people's behavior is influenced by unconscious motivations. However, based on the existence of unconscious motivations, we can say that a game may have an implicit purpose of which no observers have any awareness.
 
 ## Statements
 
