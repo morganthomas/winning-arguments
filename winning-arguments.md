@@ -96,7 +96,9 @@ Furthermore, people can be unaware of their own motivations. it seems to be the 
 
 Given our limited access to our own minds, and our near lack of access to others' minds, it's clear why probably in almost all cases it's unclear to all or almost all observers of a game what all of the implicit purposes of the game are.
 
-Let's poke at some of the more dubious examples we gave of games, to see what we can learn about games in the process. 
+Let's poke at one of the more dubious examples we gave of a game, to see what we can learn about games in the process.
+
+TODO: Explain prisoner's dilemma and address whether it's a game
 
 ## Statements
 
