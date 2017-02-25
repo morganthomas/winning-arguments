@@ -100,6 +100,12 @@ Let's now switch gears and poke at one of the more dubious examples we gave of a
 
 TODO: Explain prisoner's dilemma and address whether it's a game
 
+Let's now switch gears again. Let's give some examples of things that are not games, which fail to be games in interesting ways that might tell us something about games.
+
+Here's an example of a non-game: making toast. If you are a native English speaker: does it sound natural to describe making toast as a game? For me, the answer is that it is not natural. Making toast is not a game. It's some other kind of activity. Food preparation.
+
+Here are some examples of activities that are not usually called games: fixing your toaster; driving to work; working; sleeping; having sex; thinking; conversation; serving on a jury in a court of law; voting. People don't usually call any of these things games, and yet many of them have certain similarities to games. Serving on a jury and voting both have game-like qualities, being socially agreed upon systems of rules within which people make decisions in order to fulfill the objective of the game (making a fair decision on the case being presented, and electing representatives and resolving plebiscites, respectively).
+
 ## Statements
 
 ## Reasons
