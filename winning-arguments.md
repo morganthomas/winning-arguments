@@ -30,7 +30,7 @@ The first item of importance is the distinction between two senses of the word "
 
 Arguments in the first sense of the word are debates. By "debates," I mean exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about.
 
-Arguments in the second sense of the term are series of statements designed to provide reasons to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" instead of the first sense of "argument."
+Arguments in the second sense of the term are series of statements designed to provide reasons to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" in order to retire the first sense of the term "argument."
 
 ### Examples of arguments
 
