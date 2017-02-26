@@ -1,5 +1,15 @@
 # Winning Arguments
 
+## How to use this text
+
+You can use this text as a practical guide to winning arguments, to reasoning about any subject, to seeking the truth about any subject, and to misleading people about any subject. This text consists of three parts:
+
+1. The main text is an exploration of the theoretical foundations of winning arguments. The same theoretical foundations that explain how to win arguments on any subject also explain how to reason about any subject, how to seek the truth about any subject, and how to mislead people about any subject. The same knowledge can be used for any of these purposes, and it's up to the person who has it to use it responsibly. The author advises the reader against the use of any techniques to deliberately mislead people, as the author believes this almost invariably leads to consequences more deplorable than what would have resulted if one told the truth.
+
+2. The next part is a set of exercises 
+
+## Introduction
+
 Winning arguments is what we aim to show how to do in this text. We will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
 
 First, "winning arguments" can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
@@ -14,7 +24,7 @@ Arguments in the first sense of the word are debates. By "debates," I mean excha
 
 Arguments in the second sense of the term are series of statements designed to provide reasons to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" to refer to arguments in the first sense.
 
-## Examples of arguments
+### Examples of arguments
 
 Here is an example of an argument:
 
@@ -38,7 +48,7 @@ This is another example of a winning argument. Mathematical facts, like the fact
 
 We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reasons to believe some conclusion(s). Let's now return to the distinction we made between debates and arguments.
 
-## Arguments and debates
+### Arguments and debates
 
 Debates almost always involve the participants making arguments. Can arguments occur anywhere except in the context of debates? 
 
@@ -106,12 +116,12 @@ Here's an example of a non-game: making toast. If you are a native English speak
 
 Here are some examples of activities that are not usually called games: fixing your toaster; driving to work; working; sleeping; having sex; thinking; conversation; serving on a jury in a court of law; voting. People don't usually call any of these things games, and yet many of them have certain similarities to games. Serving on a jury and voting both have game-like qualities, being group activities governed by socially agreed upon systems of rules within which people make decisions in order to fulfill the objective of the activity (making a fair decision on the case being presented, or electing representatives and resolving plebiscites, respectively). Conversation, and language use in general, have many game-like qualities, being subject to many elaborate, unspoken rules. Game-like activities can be found strewn throughout life if you look for them.
 
-## Statements
+### Statements
 
-## Reasons
+### Reasons
 
-## Truth
+### Truth
 
-## Belief
+### Belief
 
-## Persuasion
+### Persuasion
