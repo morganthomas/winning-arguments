@@ -8,7 +8,7 @@ The text is an exploration of the theoretical foundations of winning arguments. 
 
 The author advises the reader against the use of any techniques to deliberately mislead people, as the author believes this almost invariably leads to consequences more deplorable than what would have resulted if one told the truth.
 
-The text contains exercises, which the author feels will further the reader's learning, and which the reader is encouraged to do if they feel it will further their learning. The greatest exercise, of course, is life, where you can exercise the skills you can learn in this text in almost any domain.
+The text contains exercises, which the author feels will further the reader's learning, and which the reader is encouraged to do if they feel it will further their learning. The greatest exercise, of course, is life, where you can fruitfully exercise the skills of reasoning, critical thinking, and argumentation you can learn in this text in almost any context of life.
 
 ## Introduction
 
