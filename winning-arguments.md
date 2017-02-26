@@ -6,7 +6,7 @@ You can use this text as a practical guide to winning arguments, to reasoning ab
 
 The text is an exploration of the theoretical foundations of winning arguments. The same theoretical foundations that explain how to win arguments on any subject also explain how to reason about any subject, how to seek the truth about any subject, and how to mislead people about any subject. The same knowledge can be used for any of these purposes, and it's up to the person who has it to use it responsibly.
 
-The author advises the reader against the use of any techniques to deliberately mislead people, as the author believes this almost invariably leads to consequences more deplorable than what would have resulted if one told the truth.
+The author advises the reader against the use of any techniques to deliberately mislead people, as the author believes misleading people almost invariably leads, in the long haul, to consequences more deplorable than what would have resulted if one told the truth.
 
 The text contains exercises, which the author feels will be likely to further the reader's learning, and which the reader is encouraged to do if they feel it will further their learning. The greatest exercise, of course, is life, where you can fruitfully exercise the skills of reasoning, critical thinking, and argumentation you can learn in this text in almost any context of life.
 
