@@ -10,6 +10,10 @@ The author advises the reader against the use of any techniques to deliberately 
 
 The text contains exercises, which the author feels will be likely to further the reader's learning, and which the reader is encouraged to do when they feel they will further their learning. The greatest exercise, of course, is life, where you can fruitfully exercise the skills of reasoning, critical thinking, and argumentation you can learn in this text in almost any context of life.
 
+This text is meant to be read from start to finish without skipping around. It is cumulative; each piece builds upon preceding pieces. In general you shouldn't expect to fully understand a part of the text unless you understand the text up to that point. 
+
+For those who have not read much philosophy before, I apologize for the plodding and theoretical nature of the text, and I would like to offer some words of advice on how to read it. Start by reading it one sentence at a time, making sure you understand at least what each sentence is saying, though not necessarily why it's being said, before moving onto the next sentence. If there's a sentence that confuses you in a way you can't quickly figure out, you can plow forward and see if subsequent text clarifies what's going on. If you get totally lost and stop being able to follow what's being said, you can go back to the last point in the text up to which you're comfortable you've understood things, and re-read from there. I recommend patience in this process, especially if you are new to philosophy.
+
 ## Introduction
 
 Winning arguments is what we aim to show how to do in this text. We will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
