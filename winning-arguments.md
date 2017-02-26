@@ -2,11 +2,13 @@
 
 ## How to use this text
 
-You can use this text as a practical guide to winning arguments, to reasoning about any subject, to seeking the truth about any subject, and to misleading people about any subject. This text consists of three parts:
+You can use this text as a practical guide to winning arguments, to reasoning about any subject, to seeking the truth about any subject, and to misleading people about any subject.
 
-1. The main text is an exploration of the theoretical foundations of winning arguments. The same theoretical foundations that explain how to win arguments on any subject also explain how to reason about any subject, how to seek the truth about any subject, and how to mislead people about any subject. The same knowledge can be used for any of these purposes, and it's up to the person who has it to use it responsibly. The author advises the reader against the use of any techniques to deliberately mislead people, as the author believes this almost invariably leads to consequences more deplorable than what would have resulted if one told the truth.
+The text is an exploration of the theoretical foundations of winning arguments. The same theoretical foundations that explain how to win arguments on any subject also explain how to reason about any subject, how to seek the truth about any subject, and how to mislead people about any subject. The same knowledge can be used for any of these purposes, and it's up to the person who has it to use it responsibly.
 
-2. The next part is a set of exercises 
+The author advises the reader against the use of any techniques to deliberately mislead people, as the author believes this almost invariably leads to consequences more deplorable than what would have resulted if one told the truth.
+
+The text contains exercises, which the author feels will further the reader's learning, and which the reader is encouraged to do if they feel it will further their learning. The greatest exercise, of course, is life, where you can exercise the skills you can learn in this text in almost any domain.
 
 ## Introduction
 
