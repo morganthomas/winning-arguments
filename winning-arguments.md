@@ -76,7 +76,7 @@ Hopefully that discussion of the relationships between debates and arguments has
 
 Let's return to our original task of clarifying the meaning of the first three paragraphs of this text. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement." Let's analyze the meanings of these words.
 
-## Winning
+## Winning, and games
 
 What is winning? For starters, winning is most often something that happens to people in the context of games (chess, baseball, etc.).
 
