@@ -4,7 +4,7 @@
 
 You can use this text as a practical guide to winning arguments, to reasoning about any subject, to seeking the truth about any subject, and to misleading people about any subject.
 
-The text is an exploration of the theoretical foundations of winning arguments. The same theoretical foundations that explain how to win arguments on any subject also explain how to reason about any subject, how to seek the truth about any subject, and how to mislead people about any subject. The same knowledge can be used for any of these purposes, and it's up to the person who has it to use it responsibly.
+The text is a philosophical exploration of the theoretical foundations of winning arguments. The same theoretical foundations that explain how to win arguments on any subject also explain how to reason about any subject, how to seek the truth about any subject, and how to mislead people about any subject. The same knowledge can be used for any of these purposes, and it's up to the person who has it to use it responsibly.
 
 The author advises the reader against the use of any techniques to deliberately mislead people, as the author believes misleading people almost invariably leads, in the long haul, to consequences more deplorable than what would have resulted if one told the truth.
 
@@ -12,7 +12,9 @@ The text contains exercises, which the author feels will be likely to further th
 
 This text is meant to be read from start to finish without skipping around. It is cumulative; each piece builds upon preceding pieces. In general you shouldn't expect to fully understand a part of the text unless you understand the text up to that point. 
 
-For those who have not read much philosophy before, I apologize for the plodding and theoretical nature of the text, and I would like to offer some words of advice on how to read it. Start by reading it one sentence at a time, making sure you understand at least what each sentence is saying, though not necessarily why it's being said, before moving onto the next sentence. If there's a sentence that confuses you in a way you can't quickly figure out, you can plow forward and see if subsequent text clarifies what's going on. If you get totally lost and stop being able to follow what's being said, you can go back to the last point in the text up to which you're comfortable you've understood things, and re-read from there. To those who are new to philosophy, I recommend patience.
+For those who have not read much philosophy before, I apologize for the plodding and theoretical nature of the text, and I would like to offer some words of advice on how to read it. Start by reading it one sentence at a time, making sure you understand at least what each sentence is saying, though not necessarily why it's being said, before moving onto the next sentence. If there's a sentence that confuses you in a way you can't quickly figure out, you can plow forward and see if subsequent text clarifies what's going on. If you get totally lost and stop being able to follow what's being said, you can go back to the last point in the text up to which you're comfortable you've understood things, and re-read from there.
+
+To those who are new to philosophy, I recommend patience with the speed of one's understanding. Philosophical thoughts are usually developed by going over the same problems again and again, and understanding philosophical writing often requires going through it multiple times and thinking about it a lot.
 
 ## Introduction
 
