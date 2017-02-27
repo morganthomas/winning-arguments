@@ -156,6 +156,8 @@ Let's return to our original question in this section. What is winning? At the s
 
 What seems to be the case is that **winning always occurs in the context of some game or gamelike activity**. "Game or gamelike activity" is, as we have seen, a very broad category, taking in things as disparate as soccer, capitalism, and life. For that reason, it's not a very strong claim to say that winning always occurs in the context of some game or gamelike activity. We'll assume this generalization going forward.
 
+What is winning? Winning is a condition in a game. Typically it's a condition defined by the rules of the game.
+
 ## Laws and rules
 
 ## Statements
