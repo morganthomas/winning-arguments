@@ -162,6 +162,10 @@ What is winning? Winning is a condition which a player of a game, or a participa
 
 TODO
 
+### Winning arguments and winning debates
+
+Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates.
+
 ## Laws and rules
 
 ## Statements
