@@ -152,6 +152,10 @@ What conclusion are we led to about whether games are always cooperative? In thi
 
 ### Winning
 
+Let's return to our original question in this section. What is winning? At the start of the section we asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
+
+What seems to be the case is that **winning always occurs in the context of some game or gamelike activity**. "Game or gamelike activity" is, as we have seen, a very broad category, taking in things as disparate as soccer, capitalism, and life. I think the reader will have no trouble on reflection agreeing that this generalization is correct.
+
 ## Laws and rules
 
 ## Statements
