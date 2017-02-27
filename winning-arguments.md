@@ -126,7 +126,7 @@ Here are some more examples of activities that are not usually called games: fix
 
 We have collected some examples and non-examples of games, and we have a substantial middle ground of things that arguably have both gamelike and non-gamelike qualities, including voting, serving on a jury, and, usually, working. Let's use this data to evaluate some possible generalizations about games.
 
-Do games always have rules? Can we think of an example of a game that has no rules? Conversation, one might argue, is a game with no rules. In some sense this is true; people are free to say whatever they want. However, conversation does have many unstated norms that are usually not violated.
+**Do games always have rules?** Can we think of an example of a game that has no rules? Conversation, one might argue, is a game with no rules. In some sense this is true; people are free to say whatever they want. However, conversation does have many unstated norms that are usually not violated.
 
 One of the norms that most conversations can (at least in my experience) be observed to follow is that when talking about a subject, one should not make a statement on a new subject until nobody still has a statement to make on the current subject, unless an interruption from the environment requires a change of subject. In such a case, the norm usually followed in the conversations I observe is to return to the same point in the suspended conversation where the interruption occurred, once the interruption has been dealt with.
 
