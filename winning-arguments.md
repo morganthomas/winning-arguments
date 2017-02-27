@@ -132,6 +132,10 @@ One of the norms that most conversations can (at least in my experience) be obse
 
 Besides such conversational norms of speaking priority, which are I'm sure not universal to all conversations, each conversation will invariably follow many rules of grammar and prononunciation particular to the language(s) being used in the conversation. These are further examples of rules that conversations follow. Therefore we can say that conversations have rules. Therefore we can say the game of conversation is not a counterexample to the claim that games always have rules.
 
+Other counterexamples I'm aware of can be disposed of in similar ways. It looks like anything that bears a family resemblance to a game has rules, and any appearance of a gamelike activity lacking rules is probably due to failure to look sufficiently broadly for rules governing the activity. In interpreting this statement, it should be understood that rules need not be inviolable to be rules.
+
+When speaking English, people usually follow certain rules of grammar. Sometimes people violate the rules of English grammar. Folk vernaculars of English can have their own grammars different from standard English grammar, but in most cases those grammars have their own internal consistencies. [TODO: Citation needed] 
+
 ### Statements
 
 ### Reasons
