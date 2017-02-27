@@ -128,7 +128,7 @@ We have collected some examples and non-examples of games, and we have a substan
 
 **Do games always have rules?** Can we think of an example of a game that has no rules? Conversation, one might argue, is a game with no rules. In some sense this is true; people are free to say whatever they want. However, conversation does have many unstated norms that are usually not violated.
 
-One of the norms that most conversations can (at least in my experience) be observed to follow is that when talking about a subject, one should not make a statement on a new subject until nobody still has a statement to make on the current subject, unless an interruption from the environment requires a change of subject. In such a case, the norm usually followed in the conversations I observe is to return to the same point in the suspended conversation where the interruption occurred, once the interruption has been dealt with.
+One of the norms that most conversations can (at least in my experience) be observed to follow is that when talking about a subject, one should not make a statement on a new subject until nobody still has a statement to make on the current subject, unless an interruption from the environment requires a change of subject. In the case of an interruption from the environment, the norm usually followed in the conversations I observe is to return to the same point in the suspended conversation where the interruption occurred, once the interruption has been dealt with.
 
 Besides such conversational norms of speaking priority, which are I'm sure not universal to all conversations, each conversation will invariably follow many rules of grammar and prononunciation particular to the language(s) being used in the conversation. These are further examples of rules that conversations follow. Therefore we can say that conversations have rules. Therefore we can say the game of conversation is not a counterexample to the claim that games always have rules.
 
@@ -139,6 +139,8 @@ When speaking English, people usually follow rules of grammar. Sometimes people 
 So far as our discussion has led us to be able to see, the generalization is true that **games and gamelike activities always follow rules**. If there are exceptions to this generalization, they seem to be obscure.
 
 The nature of rules is well worth exploring in more depth. However, in order to complete our discussion of games, so that we can move on to discuss our primary topic of winning, we will delay discussing the nature of rules in more depth.
+
+**Are games always competitive?** 
 
 ### Laws and rules
 
