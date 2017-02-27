@@ -140,7 +140,7 @@ So far as our discussion has led us to be able to see, the generalization is tru
 
 The nature of rules is well worth exploring in more depth. However, in order to complete our discussion of games, so that we can move on to discuss our primary topic of winning, we will delay discussing the nature of rules in more depth.
 
-**Are games always competitive?** The answer appears to be no. For some childrens' games, such as [peekaboo](https://en.wikipedia.org/wiki/Peekaboo) and and [ring around the rosie](https://en.wikipedia.org/wiki/Ring_a_Ring_o'_Roses), it's difficult to see any sense in which they are competitive. However, most games are competitive in some sense. Even solitary games usually involve self-competition, trying to learn and do better.
+**Are games always competitive?** The answer appears to be **no**. For some childrens' games, such as [peekaboo](https://en.wikipedia.org/wiki/Peekaboo) and and [ring around the rosie](https://en.wikipedia.org/wiki/Ring_a_Ring_o'_Roses), it's difficult to see any sense in which they are competitive. However, most games are competitive in some sense. Even solitary games usually involve self-competition, trying to learn and do better.
 
 ### Laws and rules
 
