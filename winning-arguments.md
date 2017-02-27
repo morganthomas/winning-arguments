@@ -166,6 +166,8 @@ TODO
 
 Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates.
 
+TODO
+
 ## Laws and rules
 
 ## Statements
