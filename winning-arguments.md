@@ -150,6 +150,8 @@ In solitary games the obvious comment would be that there is no cooperation beca
 
 What conclusion are we led to about whether games are always cooperative? In this case we're led to **no single conclusion**. What we've said indicates that if self-cooperation is a form of cooperation, then games are always cooperative, and on the other hand, if self-cooperation is a form of cooperation, then games are not always cooperative. In addition, what we've said indicates that multi-player games are always cooperative.
 
+TODO: Game as a cluster concept
+
 ### Winning
 
 Let's return to our original question in this section. What is winning? At the start of the section we asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
