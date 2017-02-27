@@ -138,6 +138,10 @@ When speaking English, people usually follow rules of grammar. Sometimes people 
 
 So far as our discussion has led us to be able to see, the generalization is true that **games and gamelike activities always follow rules**. If there are exceptions to this generalization, they seem to be obscure.
 
+The nature of rules is well worth exploring in more depth. However, in order to complete our discussion of games, so that we can move on to discuss our primary topic of winning, we will delay discussing the nature of rules in more depth.
+
+### Rules
+
 ### Statements
 
 ### Reasons
