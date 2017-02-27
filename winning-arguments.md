@@ -136,7 +136,7 @@ Other counterexamples I'm aware of can be disposed of in similar ways. It looks 
 
 When speaking English, people usually follow rules of grammar. Sometimes people violate the rules of grammar they normally follow. Folk vernaculars of English can have their own grammars different from standard English grammar, but in most cases those grammars have their own internal consistencies. [TODO: Citation needed] In addition, there is more than one standard English, as there is standard British English, standard American English, and so forth. This illustrates that there is a great deal of complexity and inconsistency when it comes to rules of English grammar. We can still say as a generalization that English speakers, and speakers of every other language, follow the rules of grammar particular to their dialects most of the time when speaking. This illustrates the nuance that can apply when discussing the rules of games. Rules of games can be very flexible and granular in scope.
 
-So far as our discussion has led us to be able to see, the generalization is true that games and gamelike activities always follow rules. If there are exceptions to this generalization, they seem to be obscure, unless our analysis is in error.
+So far as our discussion has led us to be able to see, the generalization is true that games and gamelike activities always follow rules. If there are exceptions to this generalization, they seem to be obscure.
 
 ### Statements
 
