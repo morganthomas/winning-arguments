@@ -146,7 +146,7 @@ The nature of rules is well worth exploring in more depth. However, in order to 
 
 In solitary games the obvious comment would be that there is no cooperation because cooperation requires multiple people. This is true in an obvious sense. However, it's also false in a less obvious sense, in that playing a game requires internal coordination on the part of a person. In order to play a game, a person has to coordinate the different parts of their mind and body to focus them towards a single task. In the same sense, every activity whatsoever done by a person involves self-cooperation. One could fairly object that self-cooperation is an undue extension of the term "cooperation," and I will not press the point.
 
-What conclusion are we led to about whether games are always cooperative? In this case we're led to **no single conclusion**. What we've said indicates that if self-cooperation is a form of cooperation, then games are always cooperative, and on the other hand, if self-cooperation is a form of cooperation, then games are not always cooperative. In addition, multi-player games are always cooperative.
+What conclusion are we led to about whether games are always cooperative? In this case we're led to **no single conclusion**. What we've said indicates that if self-cooperation is a form of cooperation, then games are always cooperative, and on the other hand, if self-cooperation is a form of cooperation, then games are not always cooperative. In addition, what we've said indicates that multi-player games are always cooperative.
 
 ### Laws and rules
 
