@@ -4,7 +4,7 @@
 
 You can use this text as a practical guide to winning arguments, to reasoning about any subject, to seeking the truth about any subject, and to misleading people about any subject.
 
-The text is a philosophical exploration of the theoretical foundations of winning arguments. The same theoretical foundations that explain how to win arguments on any subject also explain how to reason about any subject, how to seek the truth about any subject, and how to mislead people about any subject. The same knowledge can be used for any of these purposes, and it's up to the person who has it to use it responsibly.
+The text is a philosophical study of language, reasoning, argumentation, and related topics, with the stated practical aim. The same theories that explain how to win arguments on any subject also explain how to reason about any subject, how to seek the truth about any subject, and how to mislead people about any subject. The same knowledge can be used for any of these purposes, and it's up to the person who has it to use it responsibly.
 
 The author advises the reader against the use of any techniques to deliberately mislead people, as the author believes misleading people almost invariably leads, in the long haul, to consequences more deplorable than what would have resulted if one told the truth.
 
