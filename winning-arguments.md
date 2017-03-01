@@ -170,7 +170,7 @@ For any life you can describe, you can imagine multiple frames of evaluation whi
 
 Winning at life, in this respect, is unlike winning at most games, in that fair observers will frequently disagree about whether somebody is winning at life, whereas for most games, fair observers will almost always agree about who the winner of the game is and whether there is a winner. This disanalogy is an interesting conceptual disconnect that seems worth working out, to see what can be learned.
 
-The disanalogy also reminds us of a question we asked a ways back and still haven't answered: is life a game? To illustrate the silliness of this particular question, let's ask a more basic question: is life a gamelike activity? To ask this is to ask whether life is like games, especially typical games. The answer to this is that life is like them in some ways (e.g., you have to follow rules), and unlike them in other ways (e.g., most games don't inevitably end in death).
+The disanalogy also reminds us of a question we asked a ways back and still haven't answered: is life a game? To illustrate the silliness of this particular question, let's ask a more basic question: is life a gamelike activity? To ask this is to ask whether life is like games, especially typical games. The answer to this is that life is like them in some ways (e.g., you have to follow rules), and unlike them in other ways (e.g., most games don't inevitably end in death, whereas all lives do).
 
 ### Winning arguments and winning debates
 
