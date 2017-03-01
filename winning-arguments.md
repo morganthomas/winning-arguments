@@ -194,6 +194,8 @@ When one achieves an implicit purpose one has in playing a game, this typically 
 
 In most cases, when we talk about winning, we're talking about explicit winning. However, it certainly seems that success in life is not predicated on others' awareness of one's intentions, so that it seems unreasonable to discount implicit winning as a form of winning.
 
+TODO: Good example of implicit winning
+
 ### Winning arguments and winning debates
 
 Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates.
