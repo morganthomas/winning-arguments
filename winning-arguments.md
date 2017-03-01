@@ -186,7 +186,7 @@ If one wants to do something resembling winning at life, then it's clearly neces
 
 We have analyzed the concept of winning at life at some length. Let's now turn back to the general concept of winning. To understand winning better, it would be interesting to have a theory of winning which might explain some of the confusing observations we've made, such as that there are so many different, incompatible frames of evaluation with which to judge winning and losing at life.
 
-Our theory of winning is as follows: to win, in a game, is to achieve a purpose one has in the game. Typically, when one is explicitly declared the winner of a game, this means that one has won according to the rules of the game, or in other words that one has achieved the explicit purpose stated in the rules of the game. When one achieves an implicit purpose one has in a game, this carries the feeling of victory, but if the purpose is implicit then the celebration will probably also be implicit, meaning in this case internal.
+Our theory of winning is as follows: to win, in a game, is to achieve a purpose one has in the game. Typically, when one is explicitly declared the winner of a game, this means that one has won according to the rules of the game, or in other words that one has achieved the explicit purpose stated in the rules of the game. When one achieves an implicit purpose one has in playing a game, this typically carries the feeling of victory, but if the purpose is implicit then the celebration will typically also be implicit, meaning in this case internal.
 
 ### Winning arguments and winning debates
 
