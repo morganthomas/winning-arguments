@@ -160,7 +160,7 @@ What seems to be the case is that **winning always occurs in the context of some
 
 What is winning? Winning is a condition which a player of a game, or a participant of a gamelike activity, can obtain or be in. Typically it's a condition defined by the rules of the game or activity. However, these generalizations belie some complexities.
 
-TODO
+Consider, again, winning at life. Whether somebody is winning at the game of life is relative to some frame of evaluation. For example, consider a person who amassed great wealth through ethically dubious yet legal means. From a straightforwardly capitalist point of view, we might say they were winning at life, because they are amassing wealth in the free market. From a Christian pont of view, we would probably say they were not winning at life. The Christian judgment is based on the belief that life is a game where the object is to seek the way of Christ, which the wealthy person in our example is not doing. These two frames of evaluation, capitalism and Christianity, provide two very different perspectives on whether the person of the example is winning at life.
 
 ### Winning arguments and winning debates
 
