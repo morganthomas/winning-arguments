@@ -168,7 +168,7 @@ Consider, as a further example, somebody who lived an impoverised life in a rura
 
 For any life you can describe, you can imagine multiple frames of evaluation which provide different conclusions about whether the liver of that life was winning. This is to say that facts alone are not sufficient to determine a judgment of winning at life or not winning at life. One also needs some additional ingredient, what we are generically calling a frame of evaluation.
 
-Winning at life, in this respect, is unlike winning at most games, in that fair observers will frequently disagree about whether somebody is winning at life, whereas for most games, fair observers will almost always agree about who the winner of the game is and whether there is a winner. This disanalogy is an interesting conceptual disconnect that seems worth working out. It also reminds us of a question we asked a ways back and still haven't answered: is life a game?
+Winning at life, in this respect, is unlike winning at most games, in that fair observers will frequently disagree about whether somebody is winning at life, whereas for most games, fair observers will almost always agree about who the winner of the game is and whether there is a winner. This disanalogy is an interesting conceptual disconnect that seems worth working out, to see what can be learned. The disanalogy also reminds us of a question we asked a ways back and still haven't answered: is life a game?
 
 ### Winning arguments and winning debates
 
