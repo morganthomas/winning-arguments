@@ -184,6 +184,8 @@ It is probably more accurate in most cases to say that people apply many differe
 
 If one wants to do something resembling winning at life, then it's clearly necessary to unify multiple conflicting frames of evaluation that one applies to one's life into a single frame of evaluation, which can and should evolve over time. The reason this is necessary is that without a unified frame of evaluation to judge success and therefore guide decision making, one's decisions won't move one's life in a consistent direction, and rather than reaping the rewards that come from pursuing a well strategized life, one may instead drift about without ever finding lasting success. This does not argue against drifting about for a time in life; this can be helpful for learning, self discovery, and so forth. It just argues that if one's interested in something resembling winning at life, then one should be interested in the pursuit of coherence in and the working out of contradictions between the theories and ideas that one applies to one's life and one's choices, and in the eventual development of a philosophy and direction in life if one lacks those things in good measure.
 
+We have analyzed the concept of winning at life at some length. Let's now turn back to the general concept of winning. Can we give a general theory of winning, that might untangle some of the questions we've raised?
+
 ### Winning arguments and winning debates
 
 Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates.
