@@ -186,7 +186,15 @@ If one wants to do something resembling winning at life, then it's clearly neces
 
 We have analyzed the concept of winning at life at some length. Let's now turn back to the general concept of winning. To understand winning better, it would be interesting to have a theory of winning which might explain some of the confusing observations we've made, such as that there are so many different, incompatible frames of evaluation with which to judge winning and losing at life.
 
-Our theory of winning is as follows: to win, in a game, is to achieve a purpose one has in the game. Typically, when one is explicitly declared the winner of a game, this means that one has won according to the rules of the game, or in other words that one has achieved the explicit purpose stated in the rules of the game. When one achieves an implicit purpose one has in playing a game, this typically carries the feeling of victory, but if the purpose is implicit then the celebration will typically also be implicit, meaning in this case internal. We can therefore acknowledge a distinction between explicit, socially agreed upon winning due to achieving a game's explicit purpose as defined in the rules, and implicit, internally celebrated winning due to achieving one's own implicit purpose(s) in playing the game. In most cases, when we talk about winning, we're talking about winning in the former, explicit sense. On the other hand, the sense of "winning at life" is usually more along the lines of the implicit, internally celebrated sense of "winning."
+Our theory of winning is as follows: **to win, in a game, is to achieve a purpose one has in the game**.
+
+Typically, when one is explicitly declared the winner of a game, this means that one has won according to the rules of the game, or in other words that one has achieved the explicit purpose stated in the rules of the game. We'll call this **explicit winning**.
+
+When one achieves an implicit purpose one has in playing a game, this typically carries the feeling of victory, but if the purpose is implicit then the celebration will typically also be implicit, meaning in this case internal. We'll call this **implicit winning**.
+
+We have acknowledged a distinction between explicit, socially agreed upon winning due to achieving a game's explicit purpose as defined in the rules, and implicit, internally celebrated winning due to achieving one's own implicit purpose(s) in playing the game.
+
+In most cases, when we talk about winning, we're talking about explicit winning. On the other hand, "winning at life" usually refers to a more implicit kind of winning, typically expressing a person's success by their own standards, a person's winning at their own game if you will, at least when those standards attract admiration from others, or when their game is considered a respectable game to play.
 
 ### Winning arguments and winning debates
 
