@@ -166,6 +166,8 @@ For example, consider a person who amassed great wealth through ethically dubiou
 
 Consider, as a further example, somebody who lived an impoverised life in a rural region of the world where they farmed, gained religious education, gained training as a warrior, and died young in combat. From one frame of evaluation, we might say this person had an underprivileged and ultimately oppressed life where their future as an individual was subjugated to the nonsensical needs of a national war machine. From another frame of evaluation, we might say that this person led a virtuous and spiritual life which culminated in the honor of dying in a fight for that which is sacred. Again, each of these narratives provides very different conclusions as to whether this person is winning at life.
 
+For any life you can describe, you can imagine multiple frames of evaluation which provide different conclusions about whether the liver of that life was winning. This is to say that facts alone are not sufficient to determine a judgment of winning at life or not winning at life. One also needs some additional ingredient, what we are generically calling a frame of evaluation.
+
 ### Winning arguments and winning debates
 
 Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates.
