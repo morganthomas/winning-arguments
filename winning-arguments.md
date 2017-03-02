@@ -206,7 +206,7 @@ Having analyzed the concept of winning, we can now shed more light on the concep
 
 Thus, we have two concepts in the title to analyze: the concept of winning arguments, and the concept of winning debates. "A winning argument," we presumed, means essentially "a persuasive argument;" but a deeper conceptual analysis of the phrase remains to be done. "Winning debates" refers to the activity of winning in debates.
 
-TODO
+Let's start by digging deeper into the concept of winning debates. 
 
 ## Laws and rules
 
