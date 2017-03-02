@@ -208,7 +208,7 @@ Thus, we have two concepts in the title to analyze: the concept of winning argum
 
 "A winning argument," we presumed, means essentially "a persuasive argument;" but a deeper conceptual analysis of the phrase remains to be done.
 
-"Winning debates" refers to the activity of winning in debates, where debates are a kind of game or gamelike activity which we have discussed before; but a deeper conceptual analysis of the phrase "winning debates" remains to be done.
+"Winning debates" refers to the activity of winning in debates, where debates are a kind of game or gamelike activity which we have discussed before; but a conceptual analysis of the phrase "winning debates" remains to be done.
 
 TODO
 
