@@ -212,7 +212,7 @@ Let's start by digging deeper into the concept of winning debates. The phrase "w
 
 Are debates competitive? Recall we defined a "debate" as "an exchange of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about." Typically debates are competitive, as participants compete to persuade other participants of their point of view.
 
-Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to put in effort to understand each others' statements and respond with relevant, appropriate statements.
+Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to understand each others' statements and respond with relevant, appropriate statements.
 
 Do debates follow rules? TODO
 
