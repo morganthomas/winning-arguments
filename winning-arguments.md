@@ -204,13 +204,15 @@ Now let's pick at our theory and see how it does and what it says in various cir
 
 Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates. We are back where we were at the start of the Introduction, at our attempt to explain the meaning of the title, Winning Arguments.
 
-In the first three paragraphs of the Introduction, we distinguished between two senses of "winning arguments," corresponding to two senses of "argument," i.e. "argument" in the sense of "an exchange of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about," and "argument" in the sense of "a series of statements designed to provide reasons to believe some conclusion(s)." We refer to the former as debates and the latter as arguments.
+In the first three paragraphs of the Introduction, we distinguished between two senses of "winning arguments," corresponding to two senses of "argument," i.e. "argument" in the sense of "debate," and "argument" in the sense of "a series of statements designed to provide reasons to believe some conclusion(s)." We refer to the former as debates and the latter as arguments.
 
 Thus, we have two concepts stated by the title, both of which we need to analyze: the concept of winning arguments, and the concept of winning debates. "A winning argument," we presumed, means essentially "a persuasive argument;" but a deeper conceptual analysis of the phrase remains to be done. "Winning debates" refers to the activity of winning in debates.
 
 Let's start by digging deeper into the concept of winning debates. The phrase "winning debates" presupposes that debates are a kind of game or gamelike activity. Are they? Well, are debates like games? Let's ask some more questions that shed light on that.
 
-Are debates competitive? Almost always a debate involves 
+Are debates competitive? Recall we defined a "debate" as "an exchange of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about." Typically debates are competitive, as participants compete to persuade other participants of their point of view.
+
+Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to put in effort to understand each others' assertions and respond with assertions that are connected to previous assertions in ways that make them relevant and warranted.
 
 ## Laws and rules
 
