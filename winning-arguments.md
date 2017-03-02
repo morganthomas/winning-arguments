@@ -202,11 +202,15 @@ Now let's pick at our theory and see how it does and what it says in various cir
 
 ### Winning arguments and winning debates
 
-Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates. We are back at the starting point of the analysis, which was our attempt at the start of the text to explain the meaning of the title, Winning Arguments. In the start of our analysis, we distinguished between two senses of "winning arguments," corresponding to two senses of "argument," i.e. "argument" in the sense of "debate," and "argument" in the sense of "a series of statements designed to provide reasons to believe some conclusion(s)." We refer to the former as debates and the latter as arguments.
+Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates. We are back where we were at the start of the Introduction, at our attempt to explain the meaning of the title, Winning Arguments.
+
+In the first three paragraphs of the Introduction, we distinguished between two senses of "winning arguments," corresponding to two senses of "argument," i.e. "argument" in the sense of "debate," meaning "exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about," and "argument" in the sense of "a series of statements designed to provide reasons to believe some conclusion(s)." We refer to the former as debates and the latter as arguments.
 
 Thus, we have two concepts stated by the title, both of which we need to analyze: the concept of winning arguments, and the concept of winning debates. "A winning argument," we presumed, means essentially "a persuasive argument;" but a deeper conceptual analysis of the phrase remains to be done. "Winning debates" refers to the activity of winning in debates.
 
-Let's start by digging deeper into the concept of winning debates. 
+Let's start by digging deeper into the concept of winning debates. The phrase "winning debates" presupposes that debates are a kind of game or gamelike activity. Are they? Well, are debates like games? Let's ask some more questions that shed light on that.
+
+Are debates competitive? Almost always a debate involves 
 
 ## Laws and rules
 
