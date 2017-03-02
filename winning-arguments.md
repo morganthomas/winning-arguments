@@ -214,6 +214,8 @@ Are debates competitive? Recall we defined a "debate" as "an exchange of communi
 
 Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to put in effort to understand each others' statements and respond with relevant, appropriate statements.
 
+Do debates follow rules? TODO
+
 ## Laws and rules
 
 ## Statements
