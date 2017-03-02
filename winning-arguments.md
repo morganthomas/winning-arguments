@@ -196,6 +196,8 @@ In most cases, when we talk about winning, we're talking about explicit winning.
 
 We can think of many examples of implicit winning. One is playing chess with a potential romantic interest and accomplishing the implicit purpose of having meaningful and pleasant social interaction with them, perhaps in addition to the explicit purpose of winning the game. Another example of implicit winning is taking care of some financial chores and accomplishing the implicit purpose of increasing one's sense of financial confidence, in addition to the explicit purpose of refinancing one's debt or whatever it was. Another example of implicit winning is finishing a job at work and doing it well, accomplishing the implicit purpose of giving one's life purpose and giving oneself a reason for self-pride in a job well done, as well as the explicit purpose of fulfilling one's work obligations.
 
+Now let's pick at our theory and see how it does and what it says in various circumstances. TODO
+
 ### Winning arguments and winning debates
 
 Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates.
