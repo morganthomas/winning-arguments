@@ -194,6 +194,8 @@ When one achieves an implicit purpose one has in playing a game, this typically 
 
 In most cases, when we talk about winning, we're talking about explicit winning. However, it certainly seems that success in life is not predicated on others' awareness of one's intentions, so that it seems unreasonable to discount implicit winning as a form of winning.
 
+We can think of many examples of implicit winning. One is playing chess with a potential romantic interest and accomplishing the implicit purpose of having meaningful and pleasant social interaction with them, perhaps in addition to the explicit purpose of winning the game. Another example of implicit winning is taking care of some financial chores and accomplishing the implicit purpose of increasing one's sense of financial confidence, in addition to the explicit purpose of refinancing one's debt or whatever it was.
+
 TODO: Good example of implicit winning
 
 ### Winning arguments and winning debates
