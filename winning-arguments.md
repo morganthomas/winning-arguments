@@ -204,11 +204,7 @@ Now let's pick at our theory and see how it does and what it says in various cir
 
 Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates. We are back at the starting point of the analysis, which was our attempt at the start of the text to explain the meaning of the title, Winning Arguments. In the start of our analysis, we distinguished between two senses of "winning arguments," corresponding to two senses of "argument," i.e. "argument" in the sense of "debate," and "argument" in the sense of "a series of statements designed to provide reasons to believe some conclusion(s)." We refer to the former as debates and the latter as arguments.
 
-Thus, we have two concepts in the title to analyze: the concept of winning arguments, and the concept of winning debates.
-
-"A winning argument," we presumed, means essentially "a persuasive argument;" but a deeper conceptual analysis of the phrase remains to be done.
-
-"Winning debates" refers to the activity of winning in debates, where debates are a kind of game or gamelike activity which we have discussed before. We have a great deal to discuss about the concept of winning debates.
+Thus, we have two concepts in the title to analyze: the concept of winning arguments, and the concept of winning debates. "A winning argument," we presumed, means essentially "a persuasive argument;" but a deeper conceptual analysis of the phrase remains to be done. "Winning debates" refers to the activity of winning in debates.
 
 TODO
 
