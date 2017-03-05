@@ -160,6 +160,12 @@ What can we say overall about the meaning of the word "game?" On this, let's quo
 
 "67. I can think of no better expression to characterize these similarities than "family resemblances"; for the various resemblances between members of a family: build, features, colour of eyes, gait, temperament, etc. etc. overlap and criss-cross in the same way.—And I shall say: **'games' form a family**." [emphasis added]
 
+### Rules
+
+We have agreed that games always have rules. However, we have not discussed at any length what rules are. Understanding rules is quite central to understanding games, and to understanding the principles of winning arguments. 
+
+TODO
+
 ### Winning
 
 Let's return to our original question in this section. What is winning? At the start of the section we asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
@@ -215,8 +221,6 @@ Are debates competitive? Recall we defined a "debate" as "an exchange of communi
 Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to understand each others' statements and respond with relevant, appropriate statements.
 
 Do debates follow rules? TODO
-
-## Laws and rules
 
 ## Statements
 
