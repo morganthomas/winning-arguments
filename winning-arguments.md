@@ -160,9 +160,9 @@ What can we say overall about the meaning of the word "game?" On this, let's quo
 
 "67. I can think of no better expression to characterize these similarities than "family resemblances"; for the various resemblances between members of a family: build, features, colour of eyes, gait, temperament, etc. etc. overlap and criss-cross in the same way.—And I shall say: **'games' form a family**." [emphasis added]
 
-### Rules
+### Rules and laws
 
-We have agreed that games always have rules. However, we have not discussed at any length what rules are. Understanding rules is quite central to understanding games, and to understanding the principles of winning arguments. 
+We have agreed that games always have rules. However, we have not discussed at any length what rules are. Understanding rules is quite central to understanding games, and to understanding the principles of winning arguments. To understand rules, it is also helpful to compare the meaning of the word "rule" with the meaning of the word "law." Since the terms are close in meaning, comparing and contrasting the meanings of the terms is informative about both.
 
 TODO
 
