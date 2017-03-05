@@ -162,7 +162,7 @@ What can we say overall about the meaning of the word "game?" On this, let's quo
 
 ### Rules and laws
 
-We have agreed that games always have rules. However, we have not discussed at any length what rules are. Understanding rules is quite central to understanding games, and to understanding the principles of winning arguments. To understand rules, it is also helpful to compare the meaning of the word "rule" with the meaning of the word "law." Since the terms are close in meaning, comparing and contrasting the meanings of the terms is informative about both.
+We have agreed that games always have rules. However, we have not discussed at any length what rules are. Understanding rules is quite central to understanding games, and to understanding the principles of winning arguments. To understand rules, it is also helpful to compare the meaning of the word "rule" with the meaning of the word "law." Since the terms are close in meaning, comparing and contrasting the meanings of the terms is informative about both. Therefore we will embark on a unified analysis of rules and laws.
 
 TODO
 
