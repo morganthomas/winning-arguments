@@ -168,6 +168,8 @@ There are many different laws and sets of laws of varying kinds, degrees, and sc
 
 [Examples of rules](https://en.wikipedia.org/wiki/Rule) (or at any rate things that people call rules) include: the rules of any game; the [M'Naghten rules](https://en.wikipedia.org/wiki/M'Naghten_rules), the [right-hand rule](https://en.wikipedia.org/wiki/Right-hand_rule), the [five-second rule](https://en.wikipedia.org/wiki/Five-second_rule), 
 
+TODO
+
 ### Winning
 
 Let's return to our original question in this section. What is winning? At the start of the section we asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
