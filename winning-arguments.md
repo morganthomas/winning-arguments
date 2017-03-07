@@ -174,9 +174,9 @@ There is some overlap between the categories of rules and laws. For example, the
 
 Is every rule a law? Is every law a rule? "The laws of chess" and "the rules of biology" are odd sounding phrases, probably, to most native English speakers. "The laws of chess" sounds odd, perhaps, because it suggests that the rules of chess have some quality of inevitability, whereas in fact people regularly play [variants](https://en.wikipedia.org/wiki/Chess960) [of](https://en.wikipedia.org/wiki/Three-dimensional_chess) [chess](https://en.wikipedia.org/wiki/List_of_chess_variants), cheat at chess, misunderstand the rules of chess, etc. "The rules of biology" sounds odd, perhaps, because it suggests the connotation of rules that biological organisms must obey, as opposed to laws that their parts do obey. These phrases are still probably understandable in context, and they need not have the illogical connations we have described for them.
 
-Our language experiments suggest that there is, firstly, a delicate difference in meaning between "rule" and "law," and secondly, a great deal of overlap in meaning between the terms.
+Our language experiments suggest, firstly, that there is a delicate difference in meaning between "rule" and "law," and secondly, that there is a great deal of similarity in meaning between "rule" and "law."
 
-This overlap is so great that one reasonable hypothesis is that "rule" and "law" are essentially different words for the same concept, which we apply habitually to different kinds of things, without any deeper distinction.
+The similarity in meaning between "rule" and "law" is so great that one reasonable hypothesis is that "rule" and "law" are essentially different words for the same concept, which we apply habitually to different kinds of things, without any deeper distinction.
 
 TODO
 
