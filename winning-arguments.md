@@ -176,7 +176,7 @@ Is every rule a law? Is every law a rule? "The laws of chess" and "the rules of 
 
 Our linguistic thought experiments suggest, firstly, that there is a delicate difference in meaning between "rule" and "law," and secondly, that there is a great deal of similarity in meaning between "rule" and "law."
 
-The similarity in meaning between "rule" and "law" is so great that one reasonable hypothesis is that "rule" and "law" are essentially different words for the same concept, which we apply habitually to different kinds of things, without any deeper distinction.
+The similarity in meaning between "rule" and "law" is so great that one reasonable hypothesis is that "rule" and "law" are essentially different words for the same concept, which we apply habitually to different kinds of things, without any deeper distinction. One way of describing the hypothesized vague, habitual distinction is to observe that laws are usually broad in their domain of applicability, whereas rules are usually narrow in their domain of applicability.
 
 TODO
 
