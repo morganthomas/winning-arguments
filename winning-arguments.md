@@ -178,6 +178,8 @@ Our linguistic thought experiments suggest, firstly, that there is a delicate di
 
 The similarity in meaning between "rule" and "law" is so great that one reasonable hypothesis is that "rule" and "law" are essentially different words for the same concept, which we apply habitually to different kinds of things, without any deeper distinction. One way of describing the hypothesized vague, habitual distinction is to observe that laws are usually broad in their domain of applicability, whereas rules are usually narrow in their domain of applicability.
 
+
+
 TODO
 
 ### Winning
