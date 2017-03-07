@@ -170,6 +170,10 @@ There are many different laws and sets of laws of varying kinds, degrees, and sc
 
 I am not aware of any counterexamples to the following generalization: all rules are defined and established by humans. Many laws, also, are clearly defined and established by humans, such as the laws of the legal systems of states, regions, and municipalities. Other laws, arguably, are not defined and established by humans. Though descriptions of physical theories such as Newtonian physics are clearly products of humans, some would argue that Newtonian physics (or some hypothetical complete physical theory) is a description of laws of nature that exist objectively, independently of humans, regardless of whether we know about them. If laws of nature exist objectively, then there are laws that weren't created by humans. Some would argue that systems of religious law, such as sharia law or the Ten Commandments, were created by God and therefore not created by humans. In summary, some but arguably not all laws are created by humans, whereas essentially all things people call rules are created by humans, so far as the author knows.
 
+There is some overlap between the categories of rules and laws. For example, the following statement seems fair: the laws of Newtonian physics are rules describing the motion of physical bodies. This example shows how muddled the distinction between rules and laws is. 
+
+Is every rule a law? Is every law a rule? "The laws of chess" and "the rules of psychology" are odd sounding phrases. "The laws of chess" sounds odd, perhaps, because it suggests that the rules of chess have some quality of inevitability, whereas in fact people regularly play [variants](https://en.wikipedia.org/wiki/Chess960) [of](https://en.wikipedia.org/wiki/Three-dimensional_chess) [chess](https://en.wikipedia.org/wiki/List_of_chess_variants), cheat at chess, misunderstand the rules of chess, etc.
+
 TODO
 
 ### Winning
