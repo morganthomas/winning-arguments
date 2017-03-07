@@ -180,6 +180,8 @@ The similarity in meaning between "rule" and "law" is so great that one hypothes
 
 One objection to the view that "rule" and "law" are essentially the same concept is as follows. All things we habitually call rules seem to be made by humans. A qualifier to this is that rules can also be made by the creations of humans, as when computer programs generate rules for other programs to follow. Rules govern humans and the operations of the creations of humans. Laws, on the other hand, according to the objection, are not always created by humans, and sometimes they govern nature rather than humans or the creations of humans. If one accepts the foregoing, then one will acknowledge a substantive distinction between rules and laws.
 
+For the sake of clear nomenclature, we will use the term "natural laws" to refer to laws which are not created by humans but rather are features of nature. We are not assuming that any natural laws exist, but we have a word for any of them that do.
+
 TODO
 
 ### Winning
