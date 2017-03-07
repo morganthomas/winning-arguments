@@ -184,6 +184,12 @@ For the sake of clear nomenclature, we will use the term "natural law" to refer 
 
 The nature and extent of the difference in meaning between "rule" and "law" is, at the end of the day, a question of opinion. The subtleties of the distinction are interesting. What's perhaps more interesting, though, is looking deeper into the basic meanings of the terms "rule" and "law." Let's see if we can look into the heart of the term "rule" to see what we find, and then let's see if we can find something different in the heart of the term "law."
 
+It would be helpful to establish more relations between "rule" and other terms we have studied. We have generalized that games and gamelike activities follow rules. Can we also generalize that rules occur in the context of games and gamelike activities?
+
+Let's look back to the examples of rules we gave. Do all of them occur in the context of games or gamelike activities? Let's examine. The M'Naghten rules are rules for legal proceedings, which are a gamelike activity used to settle legal cases. The right-hand rule is a mini-game for remembering orientation conventions in 3D vector math. The five-second rule is a mini-game (lacking any factual basis) which we play to justify eating food off the floor.
+
+What about the [rule of 72](https://en.wikipedia.org/wiki/Rule_of_72)?
+
 TODO
 
 ### Winning
