@@ -188,6 +188,8 @@ It would be helpful to establish more relations between "rule" and other terms w
 
 Let's look back to the examples of rules we gave. Do all of them occur in the context of games or gamelike activities? Let's examine. The M'Naghten rules are rules for legal proceedings, which are a gamelike activity used to settle legal cases. The right-hand rule is a mini-game for remembering orientation conventions in 3D vector math. The five-second rule is a mini-game (lacking any factual basis) which we play to justify eating food off the floor. The [rule of 72](https://en.wikipedia.org/wiki/Rule_of_72) is a rule of thumb that one can employ in the gamelike activity of investment portfolio construction. One illustration that investment portfolio construction is a gamelike activity is that [a number of games](https://www.google.com/?q=stock+market+simulator) have been closely modeled after the activity of trading the stock market. Trading the stock market has, in turn, drawn comparison to gambling games such as poker.
 
+Bearing in mind the flexibility of the concept "game or gamelike activity," it seems fair to generalize that rules occur in the context of games or gamelike activities. 
+
 TODO
 
 ### Winning
