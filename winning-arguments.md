@@ -182,6 +182,8 @@ One objection to the view that "rule" and "law" are essentially the same concept
 
 For the sake of clear nomenclature, we will use the term "natural law" to refer to laws which are not created by humans. By definition, then, natural laws include any laws created by God, if God exists. I am not assuming that any natural laws exist, but we have a word for any that do exist (as well as any that don't exist).
 
+The nature and extent of the difference in meaning between "rule" and "law" is, at the end of the day, a question of opinion. The subtleties of the question are interesting. What's perhaps more interesting, though, is looking into the heart of the meanings of the terms "rule" and "law." Let's see if we can look into the heart of the term "rule," see what we find, and then let's see if we can find something different in the heart of the term "law."
+
 TODO
 
 ### Winning
