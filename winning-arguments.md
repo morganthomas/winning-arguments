@@ -92,7 +92,7 @@ What is winning? For starters, winning is most often something that happens to p
 
 Question: is winning something that ever happens to people *except* in the context of some game?
 
-Let's consider the phrase "winning at life." Winning at life is a form of winning, at least on a surface inspection of the phrase. One can also hypothesize that "winning at life" is in some usages a phrase with its own particular meaning that doesn't decompose as winning in the context of life, in the same way that a "close shave" doesn't always refer to a shave that was close.
+To make a start on what's going to be a highly roundabout answer to this question, let's consider the phrase "winning at life." Winning at life is a form of winning, at least on a surface inspection of the phrase. One can also hypothesize that "winning at life" is in some usages a phrase with its own particular meaning that doesn't decompose as winning in the context of life, in the same way that a "close shave" doesn't always refer to a shave that was close.
 
 If winning at life is winning in the context of life, and winning only ever happens in the context of some game, then it follows that life is a game. So, then, is life a game? 
 
