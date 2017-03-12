@@ -198,7 +198,7 @@ This generalization is violated by the statement "the laws of Newtonian physics 
 
 1. Rules always occur in the context of games or gamelike activities.
 2. The laws of Newtonian physics are objective features of nature rather than a human-constructed system for understanding nature.
-3. The laws of Newtonian physics, are rules.
+3. The laws of Newtonian physics are rules.
 4. Nature itself is not a gamelike activity.
 
 If statements 1-3 are true, then we can conclude that nature itself is a gamelike activity, since if the laws of Newtonian physics are objective features of nature, then the context to which they apply is nature itself. If the laws of Newtonian physics are rules, then it follows that nature itself is a gamelike activity, in direct contradiction of statement 4. Hence, we are required by logic to reject at least one of statements 1-4.
@@ -216,6 +216,10 @@ Evidently, for statement 2t to make sense, statement 2w must be true. However, o
 My view is that I can't accept or reject statement 2w because I don't have the knowledge to say whether it's true or false. That sharpens our constraint to the following. We must reject at least one of four terminological rules: statements 1, 2t, 3, and 4.
 
 This example illustrates that logic, the need for logical consistency, is one constraint on how we use language. Most of us are not willing to use language in logically inconsistent ways, in part because it will usually result in our views appearing unconvincing to others, and perhaps in us being looked upon as stupid or crazy. People can use language however they want; people are free to follow and to break any of the terminological rules on the table, in any combination. However, if logical consistency is important to us, there are certain sets of terminological rules we cannot adopt: for example, we cannot adopt all of statements 1, 2t, 3, and 4. The foregoing is a *reductio ad absurdum* argument against the conjunction of statements 1-4.
+
+I would prefer not to reject statement 1, "rules always occur in the context of games or gamelike activities," because it's a generalization we've established with some justification. I would prefer not to need to reject statement 3, because it seems like a natural enough statement to me. I would prefer not to need to reject statement 4, because nature itself, while it is undoubtedly gamelike in many respects, is quite different from typical examples of games. That leaves statement 2t. I have no allegiance to statement 2t, because I don't think we have evidence for statement 2w. Indeed, anybody who does not accept statement 2w won't accept statement 2t either. This makes statement 2t seem like the most likely candidate for rejection.
+
+Let's examine further. Why shouldn't we accept statement 2w? 
 
 ### Winning
 
