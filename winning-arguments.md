@@ -263,6 +263,8 @@ Prescriptive rules work a little differently. Anybody can state prescriptive rul
 
 Descriptive rules can be about people or things, but descriptive rules about people will never hold universally, because humans have freedom of choice. Dictionaries are examples of sets of descriptive rules about human behavior. Dictionaries describe the senses of words as most commonly used by English speakers. However, English speakers can and occasionally do use words in senses not described in dictionaries.
 
+Dictionaries can also be thought of as sets of prescriptive rules, for example if you're of the opinion that people ought to spell words the way they're found in the dictionary, or if you're of the opinion that people ought to use words that are in the dictionary only in senses defined in the dictionary.
+
 TODO
 
 ### Winning
