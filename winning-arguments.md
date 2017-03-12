@@ -249,6 +249,10 @@ It still feels odd to speak of the "laws of chess." At the point we've arrived a
 
 Let's summarize what we've said about rules up to this point. Rules are defined and established by humans. Pretty much anything can follow rules. Games have rules, and rules occur in the context of games and gamelike activities. There is no substantive difference in meaning between "rule" and "law," understanding the unqualified term "law" to exclude laws of nature (but to include human-constructed descriptions thereof). Laws are a kind of rule, but the term "law" isn't applied to all rules, but only to certain rules whose jurisdictions are particularly wide.
 
+So far we have established some relationships between rules and other things: rules are related to the humans who make them, the games they're part of, and the things that follow them. However, we have not yet examined in any detail what rules are in themselves.
+
+TODO
+
 ### Winning
 
 Let's return to our original question in this section. What is winning? At the start of the section we asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
