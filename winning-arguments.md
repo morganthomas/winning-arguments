@@ -207,9 +207,9 @@ All of these statements can be thought of as terminological rules. Statement 1 s
 
 Statement 2 is a compound of a terminological rule and a statement about the world. We can think of it as a combination into one statement of the following two statements:
 
-**Statement 2w:** There are objective laws of nature correlating to human-constructed descriptions of Newtonian physics.
+**Statement 2w:** There are objective laws of nature correlating to human-constructed descriptions of the laws of Newtonian physics.
 
-**Statement 2t:** We should use the phrase "the laws of Newtonian physics" to refer to said laws of nature, as opposed to using the phrase "the laws of Newtonian physics" to refer to said human-constructed descriptions.
+**Statement 2t:** We should use the phrase "the laws of Newtonian physics" to refer to said objective laws of nature, as opposed to using the phrase "the laws of Newtonian physics" to refer to said human-constructed descriptions.
 
 Evidently, for statement 2t to make sense, statement 2w must be true. However, one can accept statement 2w and reject statement 2t. If one neither accepts nor rejects statement 2w, if one maintains that one does not know whether or statement 2w is true, one can still reject statement 2t.
 
