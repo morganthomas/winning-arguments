@@ -257,11 +257,9 @@ Essentially any rule can be written in the form of a statement (possibly a very 
 
 When somebody states a rule, there are two broad senses in which the rule can be meant. The rule can be meant as a descriptive rule, stating that empirically, the statement of the rule holds true. The laws of Newtonian physics are rules of this type. A rule can also be meant as a prescriptive rule, stating that people should choose to follow the rule. Legal laws are rules of this type.
 
-Anybody can state a descriptive rule. Descriptive rules can be correct or incorrect in a few different ways. If the statement of a descriptive rule is true in all cases, the rule is universally correct. If the statement of a descriptive rule is true in the great majority of cases, with rare exceptions, the rule is correct as a generalization. Descriptive rules that only hold in some cases are also interesting, but probably "rule" isn't the best word for them; maybe "pattern" is better.
+Anybody can state a descriptive rule. Descriptive rules can be correct or incorrect in a few different ways. If the statement of a descriptive rule is true in all cases, the rule is universally correct. If the statement of a descriptive rule is true in the great majority of cases, with rare exceptions, the rule is correct as a generalization. Descriptive rules that only hold in some cases are also interesting, but probably "rule" isn't the best word for them; maybe "pattern" is better. A descriptive rule is correct or incorrect regardless of who states it. There is no authority besides reality on what descriptive rules are correct.
 
-A descriptive rule is correct or incorrect regardless of who states it. There is no authority besides reality on what descriptive rules are correct.
-
-Prescriptive rules work differently. Anybody can propose prescriptive rules, but typically they need to persuade others to consent to follow them, which others are typically free not to do. Prescriptive rules are also made by various rulemaking entities with self-proclaimed and recognized authority based on consensus and/or force. Examples of these include governments, international organizations like the UN and the EU, standards organizations like ISO and ANSI, and so forth.
+Prescriptive rules work a little differently. Anybody can state prescriptive rules, but typically they need to persuade others to consent to follow them, which others are typically free not to do. Prescriptive rules are also made by various rulemaking entities with self-proclaimed and recognized authority based on consensus and/or force. Examples of these include governments, international organizations like the UN and the EU, standards organizations like ISO and ANSI, and so forth.
 
 TODO
 
