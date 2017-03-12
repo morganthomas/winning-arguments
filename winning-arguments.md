@@ -243,6 +243,8 @@ The following suggests itself: non-violence is part of the rules we follow in th
 
 We can immediately generalize this answer as follows. Legal laws are among the rules of the social game that the members of a society play in order to constitute that society.
 
+Thus far we have gotten rid of two distinctions between laws and rules. We have terminologically separated objective laws of nature out of usages of the term "law" in its unqualified usage.
+
 TODO: What are rules?
 
 ### Winning
