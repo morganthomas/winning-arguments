@@ -235,6 +235,8 @@ Do any distinctions in meaning remain for us between "rule" and "law?" Let's con
 
 In what ways are situations to which legal laws apply like games, and in what ways are they unlike games? Situations to which legal laws apply are always like games in the respect that in them one is required to follow rules. Since laws can be made about anything, situations about which there are legal laws can be arbitrarily non-gamelike. Let's ask, then, about the gamelike and non-gamelike characteristics of typical situations about which there are legal laws.
 
+Let's start with violence. Most forms of violence are illegal in most jurisdictions. Is violence gamelike? 
+
 TODO: What are rules?
 
 ### Winning
