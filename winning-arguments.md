@@ -251,6 +251,8 @@ Let's summarize what we've said about rules up to this point. Rules are defined 
 
 So far we have established some relationships between rules and other things: rules are related to the humans who make them, the games they're part of, and the things that follow them. However, we have not yet examined in any detail what rules are in themselves. What are rules?
 
+Essentially any rule can be written in the form of a statement (possibly a very long one). The statement of a rule says what is true about the world if the rule is followed. When what the rule says isn't true, we say the rule is broken.
+
 TODO
 
 ### Winning
