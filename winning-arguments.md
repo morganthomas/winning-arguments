@@ -239,6 +239,8 @@ Let's start with violence. Most forms of violence are illegal in most jurisdicti
 
 Non-violence postulates certain rules, which vary depending on who you're asking. These rules usually amount to prohibitions on violating the bodies of other people, where violating the bodies of other people ranges from violations such as touching somebody without permission to violations such as mangling a person limb from limb. These rules serve the purpose of preventing people from being harmed and maintaining social cohesion by prohibiting interpersonal conflicts from escalating to the point of violence. Rules of non-violence are based on the observation, long validated by history, that violence almost always leads to consequences more deplorable than the problems it was trying to solve.
 
+The following suggests itself: non-violence is part of the rules we follow in the game of society. On this way of thinking, society is a game humans play whose purposes include the survival and reproduction of the society and its members.
+
 TODO: What are rules?
 
 ### Winning
