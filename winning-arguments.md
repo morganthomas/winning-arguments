@@ -255,7 +255,7 @@ It's not useful to answer this question by giving a dictionary definition of "ru
 
 Essentially any rule can be written in the form of a statement (possibly a very long one). The statement of a rule says what is true in the context of the rule if the rule is followed. When what the rule says isn't true, we say the rule has been broken.
 
-When somebody states a rule, there are two broad senses in which the rule can be meant. The rule can be meant as a descriptive rule, stating that empirically, the statement of the rule holds true. The laws of Newtonian physics are rules of this type. A rule can also be meant as a descriptive rule, stating that people should choose to follow the rule. Legal laws are rules of this type.
+When somebody states a rule, there are two broad senses in which the rule can be meant. The rule can be meant as a descriptive rule, stating that empirically, the statement of the rule holds true. The laws of Newtonian physics are rules of this type. A rule can also be meant as a prescriptive rule, stating that people should choose to follow the rule. Legal laws are rules of this type.
 
 TODO
 
