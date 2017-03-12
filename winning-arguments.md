@@ -205,7 +205,7 @@ If statements 1-3 are true, then we can conclude that nature itself is a gamelik
 
 All of these statements can be thought of as terminological rules. Statement 1 says that if we're willing to call something a rule, we should be willing to call its context a game or gamelike activity. Statement 3 says we should be willing to refer to the laws of Newtonian physics as rules. Statement 4 says we should not be willing to describe nature itself as a gamelike activity.
 
-Statement 2 is subtler. It may seem to be inescapably a statement about the world because the statement means that there are laws which are features of the real world which correlate in some way to the human-constructed descriptions of the theory of Newtonian physics. In this interpretation, statement 2 is clearly about the world. However, statement 2 can be better interpreted as implicitly combining this assertion about the world with a second terminological assertion. Statement 2 says, not only are there objective laws of nature correlating to human-constructed descriptions of Newtonian physics, but furthermore, we should use the phrase "the laws of Newtonian physics" to refer to said laws of nature, as opposed to using the phrase "the laws of Newtonian physics" to refer to said human-constructed descriptions. Therefore statement 2 is a combination of a statement about the world with a terminological assertion. Let us refer to these two parts of statement 2 as statement 2w and statement 2t, respectively.
+Statement 2 is a compound of a terminological rule and a statement about the world. We can think of it as a combination into one statement of the following two statements:
 
 **Statement 2w:** There are objective laws of nature correlating to human-constructed descriptions of Newtonian physics.
 
@@ -246,6 +246,8 @@ We can immediately generalize this answer as follows. Legal laws are among the r
 Thus far we have gotten rid of two distinctions between laws and rules. We have terminologically separated objective laws of nature out of usages of the term "law" in its unqualified usage. We have also categorized legal laws as rules (of the social games that members of a society play in order to constitute that society). Aside from the qualifier that objective laws of nature are obviously laws in some sense, can we draw any distinction between laws and rules within the terminological framework we have set up? It seems not; within our terminological framework, laws (in the unqualified sense) seem to be a type of rules in every case.
 
 It still feels odd to speak of the "laws of chess." At the point we've arrived at, we have no substantive distinction between rules and laws, but there is still a distinction of habitual application of the two terms to different things. The laws of Newtonian physics are rules we are happy to call laws. The rules of chess, not so much. In general, we seem to apply the term "law" to rules that cover a larger jurisdiction than other rules.
+
+Let's summarize what we've said about rules up to this point. Rules are defined and established by humans. There is no substantive difference in meaning between "rule" and "law," understanding the unqualified term "law" to exclude laws of nature (but to include human-constructed descriptions thereof). Games have rules, and rules occur in the context of games and gamelike activities. 
 
 Let's now address a general question: what are rules? TODO
 
