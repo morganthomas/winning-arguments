@@ -261,7 +261,7 @@ Anybody can state a descriptive rule. Descriptive rules can be correct or incorr
 
 A descriptive rule is correct or incorrect regardless of who states it. There is no authority besides reality on what descriptive rules are correct.
 
-Prescriptive rules work differently. Anybody can propose prescriptive rules, but typically they need to persuade others to consent to follow them, which others are typically free not to do. Prescriptive rules are also made by various rulemaking bodies with self-proclaimed and recognized authority based on consensus and/or force. 
+Prescriptive rules work differently. Anybody can propose prescriptive rules, but typically they need to persuade others to consent to follow them, which others are typically free not to do. Prescriptive rules are also made by various rulemaking entities with self-proclaimed and recognized authority based on consensus and/or force. Examples of these include governments, international organizations like the UN and the EU, standards organizations like ISO and ANSI, and so forth.
 
 TODO
 
