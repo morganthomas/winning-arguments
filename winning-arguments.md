@@ -219,7 +219,9 @@ This example illustrates that logic, the need for logical consistency, is one co
 
 I would prefer not to reject statement 1, "rules always occur in the context of games or gamelike activities," because it's a generalization we've established with some justification. I would prefer not to need to reject statement 3, because it seems like a natural enough statement to me. I would prefer not to need to reject statement 4, because nature itself, while it is undoubtedly gamelike in many respects, is quite different from typical examples of games. That leaves statement 2t. I have no allegiance to statement 2t, because I don't think we have evidence for statement 2w. Indeed, anybody who does not accept statement 2w won't accept statement 2t either. This makes statement 2t seem like the most likely candidate for rejection.
 
-Let's examine further. Why shouldn't we accept statement 2w? 
+Let's examine further. Why shouldn't we accept statement 2w? Why don't we have the knowledge to say that it's true?
+
+For starters, Newtonian physics is known to be correct only in restricted contexts and to a certain degree of approximation. Newtonian physics was formulated by inductive generalization from a certain body of phenomena, namely the motions of objects that can be seen with the naked eye. When it comes to very small objects, very large scale phenomena, very high speeds, very high energy levels, etc., Newtonian physics ceases to be correct and other theories, like quantum physics and general relativity, are required to get the right answers. Quantum physics and general relativity, in turn, have proven extremely difficult to unify into a single logically consistent theory. All of this suggests that Newtonian physics, as well as all existing theories, represent only our best current state of understanding. This casts doubt on the idea of assuming that the laws of Newtonian physics are written into nature in some sense, rather than being human constructions that approximate the actual behavior of nature in a wide yet limited variety of cases.
 
 ### Winning
 
