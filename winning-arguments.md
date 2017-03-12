@@ -247,7 +247,7 @@ It still feels odd to speak of the "laws of chess." At the point we've arrived a
 
 Let's summarize what we've said about rules up to this point. Rules are defined and established by humans. Games have rules, and rules occur in the context of games and gamelike activities. There is no substantive difference in meaning between "rule" and "law," understanding the unqualified term "law" to exclude laws of nature (but to include human-constructed descriptions thereof). Laws are a kind of rule, but the term "law" isn't applied to all rules, but only to certain rules whose jurisdictions are particularly wide.
 
-Let's now ask a general question: what are rules? TODO
+Let's now ask a general question: what are rules? 
 
 
 
