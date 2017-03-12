@@ -229,6 +229,8 @@ In short, then, there are good reasons to doubt statement 2w, a statement to whi
 
 The same problem we have encountered with Newtonian physics occurs with other phrases that refer either to laws or nature or to human-constructed descriptions of supposed laws of nature. Examples of phrases presenting this problem include "the laws of general relativity," "the laws of quantum mechanics," "the laws of chemistry," "the laws of biology," etc. In all such cases, in this text we shall interpret the phrases as referring to human constructed descriptions of laws, or to the ideas expressed by those descriptions, and not to objective laws of nature. This is, as with the case of the laws of Newtonian physics, not an attempt to say that there aren't corresponding objective laws of nature (though many of the same difficulties with asserting positively the existence of such laws present themselves in other cases). It's simply a terminological choice driven by the desire not to take a position on what objective laws of nature exist.
 
+TODO: What are rules?
+
 ### Winning
 
 Let's return to our original question in this section. What is winning? At the start of the section we asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
