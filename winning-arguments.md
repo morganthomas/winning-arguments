@@ -249,7 +249,9 @@ It still feels odd to speak of the "laws of chess." At the point we've arrived a
 
 Let's summarize what we've said about rules up to this point. Rules are defined and established by humans. Pretty much anything can follow rules. Games have rules, and rules occur in the context of games and gamelike activities. There is no substantive difference in meaning between "rule" and "law," understanding the unqualified term "law" to exclude laws of nature (but to include human-constructed descriptions thereof). Laws are a kind of rule, but the term "law" isn't applied to all rules, but only to certain rules whose jurisdictions are particularly wide.
 
-So far we have established some relationships between rules and other things: rules are related to the humans who make them, the games they're part of, and the things that follow them. However, we have not yet examined in any detail what rules are in themselves. What are rules?
+So far we have established some relationships between rules and other things: rules are related to the humans who make them, the games they're part of, and the things that follow them. However, we have not yet examined in enough detail what rules are in themselves. What are rules?
+
+It's not useful to answer this question by giving a dictionary definition of "rule." "Rule" is such a central, basic concept in human thought that explaining it in terms of simpler concepts is impossible. Instead, we need to explain what rules are in a much more indirect fashion, by examining the concept of rules from many different angles.
 
 Essentially any rule can be written in the form of a statement (possibly a very long one). The statement of a rule says what is true in the context of the rule if the rule is followed. When what the rule says isn't true, we say the rule has been broken.
 
