@@ -261,7 +261,9 @@ Anybody can state a descriptive rule. Descriptive rules can be correct or incorr
 
 Prescriptive rules work a little differently. Anybody can state prescriptive rules, but typically they need to persuade others to consent to follow them, which others are typically free not to do. Prescriptive rules are also made by various rulemaking entities with self-proclaimed and recognized authority based on consensus and/or force. Examples of these include governments, international organizations like the UN and the EU, standards organizations like ISO and ANSI, and so forth.
 
-Descriptive rules can be about people or things, but descriptive rules about people will never hold universally, because humans have freedom of choice. Dictionaries are examples of sets of descriptive rules about human behavior. Dictionaries describe the senses of words as most commonly used by English speakers. However, English speakers can and occasionally do use words in senses not described in dictionaries.
+Descriptive rules can be about people or things, but descriptive rules about people will never hold universally, because humans have freedom of choice.
+
+Dictionaries are examples of sets of descriptive rules about human behavior. Dictionaries describe the senses of words as most commonly used by English speakers. However, English speakers can and occasionally do use words in senses not described in dictionaries.
 
 Dictionaries can also be thought of as sets of prescriptive rules, for example if you're of the opinion that people ought to spell words the way they're found in the dictionary, or if you're of the opinion that people ought to use words that are in the dictionary only in senses defined in the dictionary.
 
