@@ -215,7 +215,7 @@ Evidently, for statement 2t to make sense, statement 2w must be true. However, o
 
 My view is that I can't accept or reject statement 2w because I don't have the knowledge to say whether it's true or false. That sharpens our constraint to the following. We must reject at least one of four terminological rules: statements 1, 2t, 3, and 4.
 
-This example illustrates that logic, the need for logical consistency, is one constraint on how we use language. Most of us are not willing to use language in logically inconsistent ways, in part because it will result in our views appearing unconvincing to others, and perhaps in us being looked upon as stupid or crazy.
+This example illustrates that logic, the need for logical consistency, is one constraint on how we use language. Most of us are not willing to use language in logically inconsistent ways, in part because it will result in our views appearing unconvincing to others, and perhaps in us being looked upon as stupid or crazy. People can use language however they want; people are free to reject any of the terminological rules on the table, in any combination. However, if logical consistency is important to us, there are certain sets of terminological rules we cannot adopt: for example, all of statements 1, 2t, 3, and 4.
 
 ### Winning
 
