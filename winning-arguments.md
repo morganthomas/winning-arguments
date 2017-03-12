@@ -198,12 +198,12 @@ This generalization is violated by the statement "the laws of Newtonian physics 
 
 1. Rules always occur in the context of games or gamelike activities.
 2. The laws of Newtonian physics are objective features of nature rather than a human-constructed system for understanding nature.
-3. The laws of Newtonian physics are rules.
+3. The laws of Newtonian physics, are rules.
 4. Nature itself is not a gamelike activity.
 
 If statements 1-3 are true, then we can conclude that nature itself is a gamelike activity, since if the laws of Newtonian physics are objective features of nature, then the context to which they apply is nature itself. If the laws of Newtonian physics are rules, then it follows that nature itself is a gamelike activity, in direct contradiction of statement 4. Hence, we are required by logic to reject at least one of statements 1-4.
 
-Whereas statement 2 seems to be a statement about the world, statements 1, 3, and 4 are essentially terminological rules. Statement 1 says that if we're willing to call something a rule, we should be willing to call its context a game or gamelike activity.
+Whereas statement 2 seems to be a statement about the world, statements 1, 3, and 4 are essentially terminological rules. Statement 1 says that if we're willing to call something a rule, we should be willing to call its context a game or gamelike activity. Statement 3 says we should be willing to refer to the laws of Newtonian physics as rules. Statement 4 says we should not be willing to describe nature itself as a gamelike activity.
 
 ### Winning
 
