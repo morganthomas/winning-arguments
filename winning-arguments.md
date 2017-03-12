@@ -247,8 +247,6 @@ Thus far we have gotten rid of two distinctions between laws and rules. We have 
 
 It still feels odd to speak of the "laws of chess." At the point we've arrived at, we have no substantive distinction between rules and laws, but there is still a distinction of habitual application of the two terms to different things. The laws of Newtonian physics are rules we are happy to call laws. The rules of chess, not so much. In general, we seem to apply the term "law" to rules that cover a larger jurisdiction than other rules.
 
-TODO: What are rules?
-
 ### Winning
 
 Let's return to our original question in this section. What is winning? At the start of the section we asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
