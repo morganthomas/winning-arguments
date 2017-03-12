@@ -211,7 +211,9 @@ Statement 2 is a compound of a terminological rule and a statement about the wor
 
 **Statement 2t:** We should use the phrase "the laws of Newtonian physics" to refer to said objective laws of nature, as opposed to using the phrase "the laws of Newtonian physics" to refer to said human-constructed descriptions.
 
-Evidently, for statement 2t to make sense, statement 2w must be true. However, one can accept statement 2w and reject statement 2t. If one neither accepts nor rejects statement 2w, if one maintains that one does not know whether or statement 2w is true, one can still reject statement 2t.
+For statement 2t to make sense, statement 2w must be true. If statement 2w is not true, then there are no objective laws of nature correlating to the laws of Newtonian physics, making "said laws of nature" in statement 2t unable to refer to anything.
+
+One can accept statement 2w and reject statement 2t. If one neither accepts nor rejects statement 2w, if one maintains that one does not know whether or statement 2w is true, one can still reject statement 2t.
 
 My view is that I can't accept or reject statement 2w because I don't have the knowledge to say whether it's true or false. That sharpens our constraint to the following. We must reject at least one of four terminological rules: statements 1, 2t, 3, and 4.
 
