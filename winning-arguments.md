@@ -243,7 +243,7 @@ The following suggests itself: non-violence is part of the rules we follow in th
 
 We can immediately generalize this answer as follows. Legal laws are among the rules of the social game that the members of a society play in order to constitute that society.
 
-Thus far we have gotten rid of two distinctions between laws and rules. We have terminologically separated objective laws of nature out of usages of the term "law" in its unqualified usage. We have also categorized legal laws as rules (of the social games that members of a society play in order to constitute that society). Aside from the qualifier that objective laws of nature are obviously laws in some sense, can we draw any distinction between laws and rules within the terminological framework we have set up?
+Thus far we have gotten rid of two distinctions between laws and rules. We have terminologically separated objective laws of nature out of usages of the term "law" in its unqualified usage. We have also categorized legal laws as rules (of the social games that members of a society play in order to constitute that society). Aside from the qualifier that objective laws of nature are obviously laws in some sense, can we draw any distinction between laws and rules within the terminological framework we have set up? It seems not; within our terminological framework, laws seem in the unqualified sense seem to be a type of rules in every case.
 
 TODO: What are rules?
 
