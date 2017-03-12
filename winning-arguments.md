@@ -233,7 +233,7 @@ This terminological choice collapses a substantive distinction in meaning we've 
 
 Do any distinctions in meaning remain for us between "rule" and "law?" Let's consider the case of the laws of legal systems of nations, states, municipalities, etc, or "legal laws" as we shall say. Are legal laws rules? It seems natural to say so. By our principles, that means that legal laws are rules that apply in the context of some game or gamelike activity. The contexts that the laws of a legal system apply to are all situations in the jurisdiction of the legal system about which laws have been made in the given legal system.
 
-In what respects are situations to which legal laws apply like games? 
+In what ways are situations to which legal laws apply like games? 
 
 In what ways are situations to which legal laws apply unlike games? 
 
