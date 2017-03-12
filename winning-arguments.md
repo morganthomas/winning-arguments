@@ -231,6 +231,8 @@ The same problem we have encountered with Newtonian physics occurs with other ph
 
 This terminological choice collapses a substantive distinction in meaning we've seen between the terms "rule" and "law," namely that "law" can refer to laws of nature whereas "rule" seems to refer to the rules of humans. Under our sharpened terminology, the natural laws we know (the laws of physics, chemistry, etc.) are just a kind of rule. For example, the laws of Newtonian physics are the rules of the game of Newtonian physics. Newtonian physics is a gamelike activity that humans practice in order to build bridges, go to the moon, etc. Similarly for the rest of natural science.
 
+Do any distinctions in meaning remain for us between "rule" and "law?" Let's consider the case of the laws of legal systems of nations, states, municipalities, etc.
+
 TODO: What are rules?
 
 ### Winning
