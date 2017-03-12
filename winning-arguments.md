@@ -251,7 +251,7 @@ Let's summarize what we've said about rules up to this point. Rules are defined 
 
 So far we have established some relationships between rules and other things: rules are related to the humans who make them, the games they're part of, and the things that follow them. However, we have not yet examined in enough detail what rules are in themselves. What are rules?
 
-It's not useful to answer this question by giving a dictionary definition of "rule." "Rule" is such a central, basic concept in human thought that explaining it in terms of simpler concepts is impossible. Instead, we need to explain what rules are in a much more indirect fashion, by examining the concept of rules from many different angles.
+It's not useful to answer this question by giving a dictionary definition of "rule." "Rule" is such a central, basic concept in human thought that explaining it in terms of simpler concepts is impossible. Instead, we need to explain what rules are in a much more indirect fashion, by examining the concept of rules, as it's used in practice, from many different angles.
 
 Essentially any rule can be written in the form of a statement (possibly a very long one). The statement of a rule says what is true in the context of the rule if the rule is followed. When what the rule says isn't true, we say the rule has been broken.
 
