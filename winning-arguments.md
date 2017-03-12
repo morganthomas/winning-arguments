@@ -255,7 +255,7 @@ It's not useful to answer this question by giving a dictionary definition of "ru
 
 Essentially any rule can be written in the form of a statement (possibly a very long one). The statement of a rule says what is true in the context of the rule if the rule is followed. When what the rule says isn't true, we say the rule has been broken.
 
-When somebody states a rule, there are two broad senses in which the rule can be meant. The rule can be meant as a descriptive rule, stating that empirically, the statement of the rule holds true. The laws of Newtonian physics are rules of this type. A rule can also be meant as a prescriptive rule, stating that people should choose to follow the rule. Legal laws are rules of this type.
+Rules are of two types: **descriptive rules** and **prescriptive rules**. The statement of a descriptive rule states that empirically, the statement of a rule holds true. The laws of Newtonian physics are examples of descriptive rules. The statement of a prescriptive rule, on the other hand, states that people should choose to follow the rule. Legal laws are examples of prescriptive rules.
 
 Anybody can state a descriptive rule. Descriptive rules can be correct or incorrect in a few different ways. If the statement of a descriptive rule is true in all cases, the rule is universally correct. If the statement of a descriptive rule is true in the great majority of cases, with rare exceptions, the rule is correct as a generalization. Descriptive rules that only hold in some cases are also interesting, but probably "rule" isn't the best word for them; maybe "pattern" is better. A descriptive rule is correct or incorrect regardless of who states it. There is no authority besides reality on what descriptive rules are correct.
 
