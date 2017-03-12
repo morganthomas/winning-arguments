@@ -241,7 +241,7 @@ Non-violence postulates certain rules, which vary depending on who you're asking
 
 The following suggests itself: non-violence is part of the rules we follow in the game of society. On this way of thinking, society is a game humans play whose purposes include the survival and reproduction of the society and its members. Different societies are different games with different rules. However, all of the ones I'm aware of include rules against violence, because games of society accomplish their purposes better when such rules are instituted.
 
-We can immediately generalize this answer, venturing the common sense seeming statement that legal laws are among the rules of the social game that the members of a society play in order to constitute that society.
+We can immediately generalize this answer as follows. Legal laws are among the rules of the social game that the members of a society play in order to constitute that society.
 
 TODO: What are rules?
 
