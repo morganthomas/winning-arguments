@@ -84,9 +84,7 @@ We will take both of the available approaches to understanding arguments. One ca
 
 Hopefully that discussion of the relationships between debates and arguments has clarified for the reader the distinction between debates and arguments, as well as helping to clarify each concept individually.
 
-Let's return to our original task of clarifying the meaning of the first three paragraphs of this text. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement." Let's analyze the meanings of these words.
-
-## Winning, and games
+Let's return to our original task of clarifying the meaning of the first three paragraphs of this text. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement." Let's analyze the meanings of these words, starting with "winning."
 
 What is winning? For starters, winning is most often something that happens to people in the context of games (chess, baseball, etc.).
 
@@ -97,6 +95,8 @@ To make a start on what's going to be a highly roundabout answer to this questio
 If winning at life is winning in the context of life, and winning only ever happens in the context of some game, then it follows that life is a game. So, then, is life a game? 
 
 "Life is a game" is a truism, a common statement that people are liable to spout as a form of shallow wisdom, perhaps without much reflection on how true it really is. How true is the truism? To answer that, we need to ask, what does the truism mean? To answer that, we need to ask, what do the words in the truism mean? "Life" in the truism seems to refer to human life, and probably it's clear enough what we're referring to there. What about "game?" What is a game?
+
+## Games
 
 Let's try to make a start on this question by identifying some things that are games, and also some things that are not games, which fail to be games in ways that are interesting and tell us something about games. A lot of the judgment as to which is which is going to be subjective, but the judgments on particular cases aren't in the end the important thing, but rather what's important is the general picture of games that emerges from the analysis.
 
@@ -164,7 +164,7 @@ What can we say overall about the meaning of the word "game?" On this, let's quo
 
 "67. I can think of no better expression to characterize these similarities than "family resemblances"; for the various resemblances between members of a family: build, features, colour of eyes, gait, temperament, etc. etc. overlap and criss-cross in the same way.—And I shall say: **'games' form a family**." [emphasis added]
 
-### Rules and laws
+## Rules and laws
 
 We have agreed that games always have rules. However, we have not discussed at any length what rules are. Understanding rules is quite central to understanding games, and to understanding the principles of winning arguments. To understand rules, it is also helpful to compare the meaning of the word "rule" with the meaning of the word "law." Since the terms are close in meaning, comparing and contrasting the meanings of the terms is informative about both. Therefore we will embark on a unified analysis of rules and laws.
 
@@ -269,9 +269,9 @@ Dictionaries can also be thought of as sets of prescriptive rules, for example i
 
 TODO
 
-### Winning
+## Winning
 
-Let's return to our original question in this section. What is winning? At the start of the section we asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
+Let's return to a question we asked a ways back. What is winning? At the start of the section we asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
 
 What seems to be the case is that **winning always occurs in the context of some game or gamelike activity**. "Game or gamelike activity" is, as we have seen, a very broad category, taking in things as disparate as soccer, capitalism, and life. For that reason, it's not a very strong claim to say that winning always occurs in the context of some game or gamelike activity. We'll assume this generalization going forward.
 
@@ -313,7 +313,7 @@ We can think of many examples of implicit winning. One is playing chess with a p
 
 Now let's pick at our theory and see how it does and what it says in various circumstances. TODO
 
-### Winning arguments and winning debates
+## Winning arguments and winning debates
 
 Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates. We are back where we were at the start of the Introduction, at our attempt to explain the meaning of the title, Winning Arguments.
 
