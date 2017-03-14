@@ -339,6 +339,8 @@ Often, in a debate between two sides, we say that one side has won a debate when
 
 A generalization these examples suggest is that often a debate is won when a consensus is reached, i.e. when there is only one side. If reaching consensus was the purpose of all debaters, then all debaters have won. If persuading others of their views was the purpose of all debaters, then only whoever articulated the consensus view has won. In either case, if consensus is not reached, then nobody has won.
 
+Most debates are not won by anybody in this sense. Most of the time, debates do not reach a consensus. However, probably in most debates, various implicit purposes are accomplished. For example, debates are useful learning experiences, and they can be an outlet for angry and aggressive emotions.
+
 ## Statements
 
 ## Reasons
