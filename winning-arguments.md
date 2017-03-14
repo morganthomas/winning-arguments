@@ -341,7 +341,17 @@ A generalization these examples suggest is that often a debate is won when a con
 
 Most debates are not won by anybody in this sense. Most of the time, debates do not reach a consensus. However, probably in most debates, various implicit purposes are accomplished. For example, debates are useful learning experiences, debates can be fun, and they can be an outlet for angry and aggressive emotions.
 
-In a practical sense, I would say that the key to winning debates is preparation. Many forms of preparation are required to be an impressive debater on a topic. One needs general facility with language and the techniques of debate. One needs background knowledge on the subject matter of debate. One needs a thorough knowledge of the various arguments for and against the position one wants to argue for. And it should be the case that taken all together, those arguments favor one's own position. This will always be a matter of judgment, and in many cases the best one can shoot for is that the arguments will favor one's position in most people's judgment.
+In a practical sense, I would say that the following are the most important rules of debate:
+
+**1. Be right.**
+
+The most important rule for winning debates is to avoid getting into debates that you are going to lose in the first place. If you'd like to build a reputation as somebody who wins arguments and can be trusted to speak the truth, you should think before you speak and not get into arguments that you are going to lose.
+
+If you are just learning to win arguments, this is basically the opposite of what you should do. If you are just learning to win arguments, get into any argument, defend any position, and don't worry about being wrong; just take advantage of opportunities to debate.
+
+**2. Prepare.**
+
+Many forms of preparation are required to be an impressive debater on a topic. One needs general facility with language and the techniques of debate. One needs background knowledge on the subject matter of debate. One needs a thorough knowledge of the various arguments for and against the position one wants to argue for. And it should be the case that taken all together, those arguments favor one's own position. This will always be a matter of judgment, and in many cases the best one can shoot for is that the arguments will favor one's position in most people's judgment.
 
 ## Statements
 
