@@ -329,7 +329,7 @@ Are debates competitive? Recall we defined a "debate" as "an exchange of communi
 
 Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to understand each others' statements and respond with relevant, appropriate statements.
 
-Do debates follow rules? As we have noted before, participants in a debate are usually free to say whatever they want. As such there are no descriptive rules (about the speech of participants) that all debates can be observed to follow. Similarly, there is no rulemaking authority with the power to enforce prescriptive rules applying to all debates. In short, there are no rules that all debates follow.
+Do debates follow rules? As we have noted before, participants in a debate are usually free to say whatever they want. As such there are no descriptive rules (about the speech of participants) that all debates can be observed to follow. Similarly, there is no rulemaking authority with the power to enforce prescriptive rules applying to all debates. In short, there are no rules that all debates follow, nor do we have any reason to expect in the future that there will be such rules.
 
 ## Statements
 
