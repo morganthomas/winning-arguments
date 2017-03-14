@@ -337,7 +337,7 @@ Debates are evidently fairly gamelike. This renders palatable the usage of the p
 
 Often, in a debate between two sides, we say that one side has won a debate when it has become clear that their position is more persuasive and most followers of the debate are persuaded of that side. Similarly, in a multipolar debate, with more than two sides, we could say that one side has won the debate when it has become the dominant view, the view that most hold and which many more hold than the next popular view.
 
-A generalization these examples suggest is that often a debate is won when a consensus is reached, i.e. when there is only one side. If reaching consensus was the purpose of all debaters, then all debaters have won. If persuading others of their views was the purpose of all debaters, then only whoever articulated the consensus view has won.
+A generalization these examples suggest is that often a debate is won when a consensus is reached, i.e. when there is only one side. If reaching consensus was the purpose of all debaters, then all debaters have won. If persuading others of their views was the purpose of all debaters, then only whoever articulated the consensus view has won. In either case, if consensus is not reached, then nobody has won.
 
 ## Statements
 
