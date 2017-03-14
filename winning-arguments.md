@@ -337,6 +337,8 @@ Debates are evidently fairly gamelike. This renders palatable the usage of the p
 
 Often, in a debate between two sides, we say that one side has won a debate when it has become clear that their position is more persuasive and most followers of the debate are persuaded of that side. Similarly, in a multipolar debate, with more than two sides, we could say that one side has won the debate when it has become the dominant view, the view that most hold and which many more hold than the next popular view.
 
+
+
 ## Statements
 
 ## Reasons
