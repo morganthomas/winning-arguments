@@ -355,6 +355,8 @@ Many forms of preparation are required to be an impressive debater on a topic. O
 
 You can generally assume your prep work for a debate won't be adequate, unless you overmatch your opponents in correctness on the debate topic and in debating skill. Otherwise, your opponents will probably bring up arguments you didn't think of, and these arguments may create big problems for you.
 
+**3. Balance intellectual confidence and intellectual humility.**
+
 We are usually overconfident in our own beliefs, which translates into overconfidence that we will win a debate, retrospective overconfidence that we did win a debate, etc. When we notice our own overconfidence in our beliefs, we can overcompensate with under-confidence in our beliefs. Training away our overconfidence and finding a balanced degree of confidence in each belief that we hold is the work of a lifetime.
 
 ## Statements
