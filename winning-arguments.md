@@ -341,6 +341,8 @@ A generalization these examples suggest is that often a debate is won when a con
 
 Most debates are not won by anybody in this sense. Most of the time, debates do not reach a consensus. However, probably in most debates, various implicit purposes are accomplished. For example, debates are useful learning experiences, debates can be fun, and they can be an outlet for angry and aggressive emotions.
 
+In a practical sense, I would say that the key to winning debates is preparation. Many forms of preparation are required to be an impressive debater on a topic. One needs general facility with language and the techniques of debate. One needs background knowledge on the subject matter of debate. One needs a thorough knowledge of the various arguments for and against the position one wants to argue for. And it should be the case that taken all together, those arguments favor of one's position.
+
 ## Statements
 
 ## Reasons
