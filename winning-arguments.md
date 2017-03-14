@@ -353,7 +353,9 @@ If you are just learning to win debates, that is basically the opposite of what 
 
 Many forms of preparation are required to be an impressive debater on a topic. One needs general facility with language and the techniques of debate. One needs background knowledge on the subject matter of debate. One needs a thorough knowledge of the various arguments for and against the position one wants to argue for. And it should be the case that taken all together, those arguments favor one's own position. This will always be a matter of judgment, and in many cases the best one can shoot for is that the arguments will favor one's position in most people's judgment.
 
-You can generally assume your prep work for a debate won't be adequate, unless you overmatch your opponents in correctness on the debate topic and in debating skill. Otherwise, your opponents will probably bring up arguments you didn't think of, and they may create big problems for you. We are usually overconfident in our own beliefs, which translates into overconfidence that we will win a debate, retrospective overconfidence that we did win a debate, etc. When we notice our own overconfidence in our beliefs, we can overcompensate with under-confidence in our beliefs. Training away our overconfidence and finding a balanced degree of confidence in each belief that we hold is the work of a lifetime.
+You can generally assume your prep work for a debate won't be adequate, unless you overmatch your opponents in correctness on the debate topic and in debating skill. Otherwise, your opponents will probably bring up arguments you didn't think of, and they may create big problems for you.
+
+We are usually overconfident in our own beliefs, which translates into overconfidence that we will win a debate, retrospective overconfidence that we did win a debate, etc. When we notice our own overconfidence in our beliefs, we can overcompensate with under-confidence in our beliefs. Training away our overconfidence and finding a balanced degree of confidence in each belief that we hold is the work of a lifetime.
 
 ## Statements
 
