@@ -341,7 +341,7 @@ A generalization these examples suggest is that often a debate is won when a con
 
 Most debates are not won by anybody in this sense. Most of the time, debates do not reach a consensus. However, probably in most debates, various implicit purposes are accomplished. For example, debates are useful learning experiences, debates can be fun, and they can be an outlet for angry and aggressive emotions.
 
-In a practical sense, I would say that the following are the most important rules of debate:
+In a practical sense, I would say that the following two rules are the most important rules of debate:
 
 **1. Be right.**
 
