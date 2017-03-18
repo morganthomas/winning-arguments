@@ -118,7 +118,7 @@ The example of the Roman games illustrates the principle that a game can have mu
 
 Furthermore, people can be unaware of their own motivations. It is widely agreed, including among experts in psychology, that most of people's mental activity is unconscious, i.e. not witnessed or observed by their conscious minds. This consensus holds that among people's motivations for things they do, there are their unconscious motivations. Some argue that most or all things we do are influenced at least in part, or even mostly, by unconscious motivations.
 
-This is not a psychology text, and we won't try to answer the question of in what ways and to what extent people's behavior is influenced by unconscious motivations. However, if indeed unconscious motivations exist, then we can say that a game may have an implicit purpose of which no observers have any awareness.
+This is not a psychology text, and we won't try to answer the question of in what ways and to what extent people's behavior is influenced by unconscious motivations. However, if the reader agrees that unconscious motivations exist, then we can say that a game may have an implicit purpose of which no observers have any awareness.
 
 Given our limited access to our own minds, and our near lack of access to others' minds, it's clear why probably in almost all cases it's unclear to all or almost all observers of a game what all of the implicit purposes of the game are.
 
