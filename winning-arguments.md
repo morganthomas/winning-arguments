@@ -98,7 +98,7 @@ To make a start on what's going to be a highly roundabout answer to this questio
 
 If winning at life is winning in the context of life, and winning only ever happens in the context of some game, then it follows that life is a game. So, then, is life a game? 
 
-"Life is a game" is a truism, a common statement that people are liable to spout as a form of shallow wisdom, perhaps without much reflection on how true it really is. How true is the truism? To answer that, we need to ask, what does the truism mean? To answer that, we need to ask, what do the words in the truism mean? "Life" in the truism seems to refer to human life, and probably it's clear enough what we're referring to there. What about "game?"
+"Life is a game" is a truism, a common statement that people are liable to spout as a form of shallow wisdom, perhaps without much reflection on how true it really is. How true is the truism? To answer that, we need to ask, what does the truism mean? To answer that, we need to ask, what do the words in the truism "life is a game" mean? "Life" seems to refer to human life, and probably it's clear enough what we're referring to there. What about "game?"
 
 ## Games
 
