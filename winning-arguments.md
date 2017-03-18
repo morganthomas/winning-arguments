@@ -344,7 +344,7 @@ People can have many different purposes in a debate. Here are some examples of p
 
 Here are some examples of purposes that people can have in listening to debates:
 
-* To learn about the topic.
+* To learn about the topic and/or form one's opinion on it.
 * To learn about the participants in the debate.
 * To be included in the social group having the debate.
 * To be entertained.
