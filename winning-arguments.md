@@ -19,6 +19,7 @@ For those who have not read much philosophy before, I apologize for the plodding
 * If there's a sentence or a section that's giving you too much difficulty, you can skip it.
 * If you get totally lost and stop being able to follow what's being said, you can go back to the last point in the text up to which you're comfortable you've understood things, and re-read from there.
 * If you come across a word you don't know, whose meaning you can't infer from context, then you should look up a definition for the word.
+* If you come across a word whose meaning you don't know in the particular context it's used, then look for a standard dictionary definition of the word and see if that fits.
 
 To those who are new to philosophy, I recommend patience with the speed of one's understanding if it proves to try one's patience. Philosophical thoughts are usually developed by going over the same problems again and again over the course of years, and understanding philosophical writing often requires reading it multiple times and thinking about it over time.
 
@@ -189,7 +190,7 @@ This generalization does not necessarily extend to laws. Many laws are clearly d
 * Though descriptions of physical theories such as Newtonian physics are products of humans, some would argue that Newtonian physics (or some hypothetical complete physical theory) is a description of laws of nature that exist objectively, independently of humans, regardless of whether we know about said laws. If laws of nature exist objectively, then they weren't established by humans.
 * Many would argue that systems of religious law, such as sharia law or the Ten Commandments, were created by God and therefore not defined or established by humans.
 
-In summary, some but arguably not all laws are created by humans, whereas essentially all things people call rules are created by humans, so far as the author knows.
+In summary, some but arguably not all laws are defined and established by humans, whereas essentially all things people call rules are defined and established by humans, so far as the author knows.
 
 There is some potential overlap between the categories of rules and laws. For example, the following statement seems fair: the laws of Newtonian physics are rules describing the motion of physical bodies. From that statement it follows that the laws of Newtonian physics are both rules and laws. If we accept that there are many (or in fact any) things which we can reasonably call either rules or laws, then it follows that there are no properties which all rules have and all laws lack, or vice versa.
 
