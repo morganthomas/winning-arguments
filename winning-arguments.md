@@ -14,7 +14,7 @@ This text is meant to be read from start to finish without skipping around. It i
 
 For those who have not read much philosophy before, I apologize for the plodding and abstract nature of the text, which will probably be a challenge for some people new to philosophy. I would like to offer some words of advice on how to read the text.
 
-* Start out by reading one sentence at a time. Make sure you understand at least what each sentence is saying, before moving onto the next sentence. You can relax this rule if you're comfortable that you're following the text.
+* Start out by reading one sentence at a time. Make sure you understand at least what each sentence is literally saying, before moving onto the next sentence. You can relax this rule if you're comfortable that you're following the text.
 * If you understand what's being said but not why it's being said, you can just plow forward and imagine it will eventually become clear.
 * If there's a sentence or a section that's giving you too much difficulty, you can skip it.
 * If you get totally lost and stop being able to follow what's being said, you can go back to the last point in the text up to which you're comfortable you've understood things, and re-read from there.
