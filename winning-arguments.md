@@ -36,8 +36,6 @@ Arguments in the first sense of the word are debates. By "debates," I mean excha
 
 Arguments in the second sense of the term are series of statements designed to provide reason to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" in order to retire the first sense of the term "argument."
 
-### Examples of arguments
-
 Here is an example of an argument:
 
 **(Question Science)** You shouldn't uncritically accept the conclusions of all scientific studies you come across. [Ioannidis (2005)](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) is a scientific study which claims that most published research findings are false. If you should uncritically accept the conclusions of all scientific studies you come across, then you should accept Ioannidis (2005). But if you uncritically accept Ioannidis (2005), then you accept that most scientific studies draw false conclusions. That means you shouldn't uncritically accept the conclusions of all scientific studies you come across, because if you do, you can expect to be adopting a lot of false beliefs.
@@ -63,8 +61,6 @@ Infinitude of Primes is another example of a winning argument. Mathematical theo
 Nonetheless, correct mathematical proofs are some of the best examples we have of winning arguments, due to their persuasive power and their ability to quell mathematical controversy across recorded history. People of all known times and cultures have been seen by historians of math to have mutually consistent understandings of math in almost all respects, whereas such agreement can be observed in few other areas of study.
 
 We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reason to believe some conclusion(s). Let's now return to the distinction we made between debates and arguments.
-
-### Arguments and debates
 
 Debates almost always involve the participants making arguments. Can arguments occur anywhere except in the context of debates? 
 
