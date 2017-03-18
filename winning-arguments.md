@@ -389,7 +389,7 @@ In a practical sense, I would say that the following two rules are the most impo
 
 There is little it's better to have on your side in a debate than the truth.
 
-The most important rule for winning debates is to avoid getting into debates that you are going to lose in the first place. If you'd like to build a reputation as somebody who wins arguments and can be trusted to speak the truth, you should think before you speak and not get into arguments that you are going to lose.
+The most important rule for winning debates is to avoid getting into debates that you are going to lose in the first place. If you'd like to build a reputation as somebody who speaks the truth, you should think before you speak and not get into debates that you are going to lose.
 
 If you are just learning to win debates, that is basically the opposite of what you should do. If you are just learning to win arguments, you would do well to be willing to get into any argument, defend any position, and not worry about being wrong. When you're learning to debate, just take advantage of opportunities to debate.
 
