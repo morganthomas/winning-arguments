@@ -349,14 +349,14 @@ Here are some examples of purposes that people can have in listening to debates:
 * To be included in the social group having the debate.
 * To be entertained.
 
-Debates can have a variety of different structures. The most common structure might be the *two-fixed-opposed-sides debate*, which has the following characteristics:
+Debates can have a variety of different structures. The most common structure might be the **two-fixed-opposed-sides debate**, which has the following characteristics:
 
 * Two positions are being debated.
 * The two positions are (believed by the participants to be) incompatible with each other, meaning that one cannot coherently hold both positions at the same time. In a common special case, the two positions hold that a certain proposition is true or is false, respectively.
 * The positions being debated do not change throughout the course of the debate.
 * The side that each speaking participant is arguing for does not change throughout the course of the debate.
 
-Another structure, which contrasts in interesting ways with the two-fixed-opposed-sides debate, is the *truth-seeking debate*, which has the following characteristics:
+Another structure, which contrasts in interesting ways with the two-fixed-opposed-sides debate, is the **truth-seeking debate**, which has the following characteristics:
 
 * An open-ended set of positions are being debated.
 * Participants do not have any fixed outcome in mind for the debate and are prepared to change their minds as a result of the debate.
