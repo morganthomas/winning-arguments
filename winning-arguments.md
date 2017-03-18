@@ -371,7 +371,7 @@ In a truth-seeking debate, the purpose and therefore the conditions for winning 
 
 The foregoing comments give us some idea of what it means to win debates. There are many different kinds of debates where different kinds of winning are possible, but we have at least a basic grip on that diversity at this point. Now we have fulfilled one of our first objectives in the introduction, which was to explain the phrase "winning debates."
 
-Let's now turn to the companion phrase "winning arguments." Recall we defined "argument" as "a series of statements designed to provide reasons to believe some conclusion(s)." We concluded on cursory inspection that the phrase "winning arguments" means something like "persuasive arguments." Can we dig into the meaning of this phrase more deeply?
+Let's now turn to the companion phrase "winning arguments." Recall we defined "argument" as "a series of statements designed to provide reason to believe some conclusion(s)." We concluded on cursory inspection that the phrase "winning arguments" means something like "persuasive arguments." Can we dig into the meaning of this phrase more deeply?
 
 
 
