@@ -14,7 +14,7 @@ This text is meant to be read from start to finish without skipping around. It i
 
 For those who have not read much philosophy before, I apologize for the plodding and abstract nature of the text, which will probably be a challenge for people new to philosophy. I would like to offer some words of advice on how to read the text. Start by reading it one sentence at a time, making sure you understand at least what each sentence is saying, before moving onto the next sentence. If you understand what's being said but not why it's being said, you can just plow forward and imagine it will eventually become clear. If there's a sentence or a section that's giving you too much difficulty, you can skip it. If you get totally lost and stop being able to follow what's being said, you can go back to the last point in the text up to which you're comfortable you've understood things, and re-read from there.
 
-To those who are new to philosophy, I recommend patience with the speed of one's understanding if it proves to be a problem. Philosophical thoughts are usually developed by going over the same problems again and again over the course of years, and understanding philosophical writing often requires reading it multiple times and thinking about it over time.
+To those who are new to philosophy, I recommend patience with the speed of one's understanding if it proves to try one's patience. Philosophical thoughts are usually developed by going over the same problems again and again over the course of years, and understanding philosophical writing often requires reading it multiple times and thinking about it over time.
 
 In this text we will engage in an activity we call "conceptual analysis." Conceptual analysis is analysis of the meaning of words or concepts with the aim of clarifying their meaning and understanding it more deeply. In general, and in this text, conceptual analysis falls somewhere between the two poles of purely descriptive analysis, describing how various people have used a word or concept, and purely prescriptive analysis, defining a precise meaning for the term which the author uses and argues that readers should use. Descriptive conceptual analysis is useful for uncovering the many layers of meaning that are often present in everyday terms. Prescriptive conceptual analysis, used judiciously, is useful for establishing clear communication and laying linguistic foundations that can be built on. A gentle and careful blending of descriptive and prescriptive conceptual analysis provides, in my experience, a powerful and versatile ingredient for philosophical argumentation. This text is or aims to be, among other things, a study in the method of conceptual analysis, and a large proportion of the text is conceptual analysis.
 
@@ -389,13 +389,15 @@ In a practical sense, I would say that the following two rules are the most impo
 
 There is little it's better to have on your side in a debate than the truth.
 
-The most important rule for winning debates is to avoid getting into debates that you are going to lose in the first place. If you'd like to build a reputation as somebody who speaks the truth, you should think before you speak and not get into debates that you are going to lose.
+The most important rule for winning debates is to **avoid getting into debates that you are going to lose in the first place.** If you'd like to build a reputation as somebody who speaks the truth, you should think before you speak and not get into debates that you are going to lose.
 
 If you are just learning to win debates, that is basically the opposite of what you should do. If you are just learning to win debates, you would do well to be willing to get into any debate, defend any position, and not worry too much about being wrong. When you're learning to debate, just take advantage of opportunities to practice.
 
 Skilled debaters still need to practice to stay skilled. However, skilled debaters probably have a highly developed skill of playing out debates in their head, and the amount of practice they need debating with others is likely to be reduced by their ability to practice in their head.
 
 Most people probably have debates in their head. However, inexperienced debaters probably won't be able to anticipate the arguments that would be leveled against their positions in a real debate; whereas a more experienced debater is more likely to be able on their own to come up with the arguments a real opponent might come up with against their positions. This is why less experienced debaters need more practice debating with real people.
+
+In the case of two-fixed-opposed-sides debates, the rule "avoid getting 
 
 **2. Prepare.**
 
