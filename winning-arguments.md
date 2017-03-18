@@ -367,7 +367,11 @@ There are, of course, going to be debates which fit neither of these description
 
 These two structures have substantially different conditions for winning, because they have substantially different purposes. In the two-fixed-opposed-sides debate, generally the participants share the assumption that exactly one of the two positions is correct, and the condition for winning, as understood by the debate participants, is typically more or less to establish to the satisfaction of the observers of the debate that one's own side has the more persuasive arguments in its favor. The purpose of a two-fixed-opposed-sides debate is usually to establish dominance of one of the two positions over the other.
 
-In a truth-seeking debate, the purpose and therefore the conditions for winning are quite different. The purpose is not to establish dominance of one position over another. Usually, the purpose is to arrive at a consensus that a certain position represents the truth on the topic of interest. If every participant's principal purpose was to reach such consensus, then when consensus is achieved, we can say that everybody has won, because everybody has achieved their principal purpose. On the other hand, if consensus is not reached, then we would probably say nobody has won, because nobody has achieved their principal purpose.
+In a truth-seeking debate, the purpose and therefore the conditions for winning are quite different. The purpose is not to establish dominance of one position over another. Usually, the purpose is to arrive at a consensus that a certain position represents the truth on the topic of interest. If every participant's principal purpose was to reach such consensus, then when consensus is achieved, we can say that everybody has won, because everybody has achieved their principal purpose. On the other hand, if consensus is not reached, then we would probably say nobody has won, because nobody has achieved their principal purpose. In short, the goal of a truth-seeking debate is consensus rather than dominance, and in a truth-seeking debate everybody wins or doesn't win together, rather than one side winning and another losing.
+
+The foregoing comments give us some idea of what it means to win debates. There are many different kinds of debates where different kinds of winning are possible, but we have at least a basic grip on that diversity at this point. Now we have fulfilled one of our first objectives in the introduction, which was to explain the phrase "winning debates."
+
+Let's now turn to the companion phrase "winning arguments." Recall we defined "argument" as "a series of statements designed to provide reasons to believe some conclusion(s)." We concluded on cursory inspection that the phrase "winning arguments" means something like "persuasive arguments." Can we dig into the meaning of this phrase more deeply?
 
 
 
@@ -376,11 +380,8 @@ In a truth-seeking debate, the purpose and therefore the conditions for winning 
 
 
 
-Often, in a debate between two sides, we say that one side has won a debate when it has become clear that their position is more persuasive and most followers of the debate are persuaded of that side. Similarly, in a multipolar debate, with more than two sides, we could say that one side has won the debate when it has become the dominant view, the view that most hold and which many more hold than the next popular view.
 
-A generalization these examples suggest is that often a debate is won when a consensus is reached, i.e. when there is only one side. If reaching consensus was the purpose of all debaters, then all debaters have won. If persuading others of their views was the purpose of all debaters, then only whoever articulated the consensus view has won. In either case, if consensus is not reached, then nobody has won.
 
-Most debates are not won by anybody in this sense. Most of the time, debates do not reach a consensus. However, probably in most debates, various implicit purposes are accomplished. For example, debates are useful learning experiences, debates can be fun, and they can be an outlet for angry and aggressive emotions.
 
 In a practical sense, I would say that the following two rules are the most important rules of debate:
 
