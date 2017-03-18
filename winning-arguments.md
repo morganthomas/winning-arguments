@@ -331,7 +331,21 @@ Do debates follow rules? As we have noted before, participants in a debate are u
 
 Debates can, however, be observed to follow rules. For example, the speech within debates generally follows rules of grammar and so forth. Other rules of interest applying to debates include rules of logic, rules of politeness and common decency, and other norms governing linguistic communication, such as [Grice's conversational maxims](https://www.sas.upenn.edu/~haroldfs/dravling/grice.html). As we have already observed, none of these rules are always followed in debates. However, they are often followed. Perhaps more interestingly, following these rules, along with various other widely accepted rules of language use and debate, tends to help one win debates. Why this is the case, and what it means to win debates, are questions that we haven't fully addressed, either in this text or as a species. We will do our best to investigate.
 
-Debates are evidently fairly gamelike. This renders palatable the usage of the phrase "winning debates." What is it to win a debate? We have said that to win is to achieve a purpose one has in a game or gamelike activity. Therefore, one can be said to win a debate if one achieves a purpose one has in it. Usually, the purpose of debating is to persuade others.
+Debates are evidently fairly gamelike. This renders palatable the usage of the phrase "winning debates." What is it to win a debate? We have said that to win is to achieve a purpose one has in a game or gamelike activity. Therefore, one can be said to win a debate if one achieves a purpose one has in it.
+
+People can have many different purposes in a debate. Here are some examples of purposes that people can have in speaking in debates:
+
+* To persuade others of a certain point of view on a topic.
+* To determine the truth about a topic.
+* To impress others with one's intelligence and rhetorical skill, and thereby increase one's social status.
+* To blow off steam.
+* To humiliate one's opponents.
+
+Here are some examples of purposes that people can have in listening to debates:
+
+* To learn about the topic.
+* To learn about the participants in the debate.
+* To be entertained.
 
 Often, in a debate between two sides, we say that one side has won a debate when it has become clear that their position is more persuasive and most followers of the debate are persuaded of that side. Similarly, in a multipolar debate, with more than two sides, we could say that one side has won the debate when it has become the dominant view, the view that most hold and which many more hold than the next popular view.
 
