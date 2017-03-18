@@ -24,7 +24,7 @@ Winning arguments is what we aim to show how to do in this text. We will show ho
 
 First, "winning arguments" can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
 
-Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense of "a series of statements designed to provide reasons to believe some conclusion(s)." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
+Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense of "a series of statements designed to provide reason to believe some conclusion(s)." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
 
 A great deal of importance has been introduced in the preceding three paragraphs, so let's unpack the ideas further.
 
@@ -32,7 +32,7 @@ The first item of importance is the distinction between two senses of the word "
 
 Arguments in the first sense of the word are debates. By "debates," I mean exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about.
 
-Arguments in the second sense of the term are series of statements designed to provide reasons to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" in order to retire the first sense of the term "argument."
+Arguments in the second sense of the term are series of statements designed to provide reason to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" in order to retire the first sense of the term "argument."
 
 ### Examples of arguments
 
@@ -58,7 +58,7 @@ Why is it true (at the second to last sentence of the argument) that the remaind
 
 Infinitude of Primes is another example of a winning argument. Mathematical facts, like the fact that there are infinitely many prime numbers, are extraordinarily uncontroversial. As we will see later, this is because math is a game that has simple and essentially agreed upon rules. By describing math as a game, I do not mean to imply that math is not an activity of seeking truth. I don't mean to take any position in this text on whether or not math is an activity of seeking the truth. Nonetheless, it is clear that correct mathematical proofs are some of the best examples we have of winning arguments.
 
-We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reasons to believe some conclusion(s). Let's now return to the distinction we made between debates and arguments.
+We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reason to believe some conclusion(s). Let's now return to the distinction we made between debates and arguments.
 
 ### Arguments and debates
 
@@ -317,7 +317,7 @@ Now let's pick at our theory and see how it does and what it says in various cir
 
 Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates. We are back where we were at the start of the Introduction, at our attempt to explain the meaning of the title, Winning Arguments.
 
-In the first three paragraphs of the Introduction, we distinguished between two senses of "winning arguments," corresponding to two senses of "argument," i.e. "argument" in the sense of "debate," and "argument" in the sense of "a series of statements designed to provide reasons to believe some conclusion(s)." We refer to the former as debates and the latter as arguments.
+In the first three paragraphs of the Introduction, we distinguished between two senses of "winning arguments," corresponding to two senses of "argument," i.e. "argument" in the sense of "debate," and "argument" in the sense of "a series of statements designed to provide reason to believe some conclusion(s)." We refer to the former as debates and the latter as arguments.
 
 Thus, we have two concepts stated by the title, both of which we need to analyze: the concept of winning arguments, and the concept of winning debates. "A winning argument," we presumed, means essentially "a persuasive argument;" but a deeper conceptual analysis of the phrase remains to be done. "Winning debates" refers to the activity of winning in debates.
 
