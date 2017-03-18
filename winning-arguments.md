@@ -367,7 +367,7 @@ There are, of course, going to be debates which fit neither of these description
 
 These two structures have substantially different conditions for winning, because they have substantially different purposes. In the two-fixed-opposed-sides debate, generally the participants share the assumption that exactly one of the two positions is correct, and the condition for winning, as understood by the debate participants, is typically more or less to establish to the satisfaction of the observers of the debate that one's own side has the more persuasive arguments in its favor. The purpose of a two-fixed-opposed-sides debate is usually to establish dominance of one of the two positions over the other.
 
-In a truth-seeking debate, the purpose and therefore the conditions for winning are usually entirely different. 
+In a truth-seeking debate, the purpose and therefore the conditions for winning are quite different. The purpose is not to establish dominance of one position over another. Usually, the purpose is to arrive at a consensus that a certain position represents the truth on the topic of interest. If every participant's principal purpose was to reach such consensus, then when consensus is achieved, we can say that everybody has won, because everybody has achieved their principal purpose. On the other hand, if consensus is not reached, then we would probably say nobody has won, because nobody has achieved their principal purpose.
 
 
 
