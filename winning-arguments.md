@@ -325,9 +325,7 @@ Let's start by digging deeper into the concept of winning debates. The phrase "w
 
 Recall we defined debates to be "exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about."
 
-Are debates competitive? Recall we defined a "debate" as "an exchange of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about." Typically debates are competitive, as participants compete to persuade other participants of their point of view.
-
-Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to understand each others' statements and respond with relevant, appropriate statements.
+Are debates competitive? Typically so, as participants compete to persuade other participants of their point of view. Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to understand each others' statements and respond with relevant, appropriate statements.
 
 Do debates follow rules? As we have noted before, participants in a debate are usually free to say whatever they want. As such there are no descriptive rules (about the speech of participants) that all debates can be observed to follow. Similarly, there is no rulemaking authority with the power to enforce prescriptive rules applying to all debates. In short, there are no rules that all debates follow. Nor do we have any reason to expect in the future that there will be such rules.
 
@@ -355,7 +353,7 @@ If you are just learning to win debates, that is basically the opposite of what 
 
 Many forms of preparation are required to be an impressive debater on a topic. One needs general facility with language and the techniques of debate. One needs background knowledge on the subject matter of debate. One needs a thorough knowledge of the various arguments for and against the position one wants to argue for. And it should be the case that taken all together, those arguments favor one's own position. This will always be a matter of judgment, and in many cases the best one can hope for is that the arguments will favor one's position in most people's judgment.
 
-You can generally assume your prep work for a debate won't be adequate, unless you overmatch your opponents in correctness on the debate topic and in debating skill. Your debate partners will likely bring up arguments you didn't think of, and these arguments may create big problems for your view. Hold great respect for what your opponent knows that you don't know, because you don't know what they know.
+You can generally assume your prep work for a debate won't be adequate, unless you overmatch your opponents in correctness on the debate topic and in debating skill. Your debate partners will likely bring up arguments you didn't think of, and these arguments may create big problems for your view. Hold great respect for what your debate partner knows that you don't know, because you don't know what they know.
 
 We are usually overconfident in our own beliefs, which translates into overconfidence that we will win a debate, retrospective overconfidence that we did win a debate, etc. When we notice our own overconfidence in our beliefs, we can over-correct and end up with under-confidence in what we know. Training away our overconfidence in our beliefs and finding a balanced degree of confidence in each belief that we hold is the work of a lifetime.
 
