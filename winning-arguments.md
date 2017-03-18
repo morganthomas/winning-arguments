@@ -337,9 +337,10 @@ People can have many different purposes in a debate. Here are some examples of p
 
 * To persuade others of a certain point of view on a topic.
 * To determine the truth about a topic.
+* To be included in the social group having the debate.
 * To impress others with one's intelligence and rhetorical skill, and thereby increase one's social status.
 * To blow off steam.
-* To humiliate one's opponents.
+* To humiliate one's debate opponents.
 
 Here are some examples of purposes that people can have in listening to debates:
 
