@@ -349,6 +349,25 @@ Here are some examples of purposes that people can have in listening to debates:
 * To be included in the social group having the debate.
 * To be entertained.
 
+Debates can have a variety of different structures. The most common structure might be the *two-fixed-opposed-sides debate*, which has the following characteristics:
+
+* Two positions are being debated.
+* The two positions are (believed by the participants to be) incompatible with each other, meaning that one cannot coherently hold both positions at the same time. In a common special case, the two positions hold that a certain proposition is true or is false, respectively.
+* The positions being debated do not change throughout the course of the debate.
+* The side that each speaking participant is arguing for does not change throughout the course of the debate.
+
+Another structure, which contrasts in interesting ways with the two-fixed-opposed-sides debate, is the *truth-seeking debate*, which has the following characteristics:
+
+* An open-ended set of positions are being debated.
+* Participants do not have any fixed outcome in mind for the debate and are prepared to change their minds as a result of the debate.
+* Participants may change their positions at any time and as many times as they choose.
+* Participants may refrain from holding a position.
+
+
+
+
+
+
 Often, in a debate between two sides, we say that one side has won a debate when it has become clear that their position is more persuasive and most followers of the debate are persuaded of that side. Similarly, in a multipolar debate, with more than two sides, we could say that one side has won the debate when it has become the dominant view, the view that most hold and which many more hold than the next popular view.
 
 A generalization these examples suggest is that often a debate is won when a consensus is reached, i.e. when there is only one side. If reaching consensus was the purpose of all debaters, then all debaters have won. If persuading others of their views was the purpose of all debaters, then only whoever articulated the consensus view has won. In either case, if consensus is not reached, then nobody has won.
