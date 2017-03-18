@@ -395,7 +395,7 @@ If you are just learning to win debates, that is basically the opposite of what 
 
 Skilled debaters still need to practice to stay skilled. However, skilled debaters probably have a highly developed skill of playing out debates in their head, and the amount of practice they need debating with others is likely to be reduced by their ability to practice in their head.
 
-Most people probably have debates in their head. However, inexperienced debaters probably won't be able to anticipate the arguments that would be leveled against their positions in a real debate; whereas a more experienced debater is more likely to be able on their own to come up with the arguments a real opponent might come up with.
+Most people probably have debates in their head. However, inexperienced debaters probably won't be able to anticipate the arguments that would be leveled against their positions in a real debate; whereas a more experienced debater is more likely to be able on their own to come up with the arguments a real opponent might come up with. This is why less experienced debaters need more practice debating with real people.
 
 **2. Prepare.**
 
