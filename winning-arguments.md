@@ -456,6 +456,11 @@ Here are some examples of statements:
 * Every statement is either true or false.
 * If the axioms of arithmetic can prove themselves to be incapable of proving any statement about numbers to be both true and false, then the axioms of arithmetic can prove any statement about numbers.
 
+Here are some examples of sentences that are not statements:
+
+* Why am I cold?
+* Get over here!
+
 ## Reasons
 
 ## Truth
