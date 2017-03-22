@@ -453,6 +453,7 @@ Here are some examples of statements:
 * It is early in the morning.
 * After we harvest the wheat we will store it in silos.
 * Within the lives of others we can find some of the most important insights about ourselves.
+* Every statement is either true or false.
 
 ## Reasons
 
