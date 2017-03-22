@@ -455,6 +455,7 @@ Here are some examples of statements:
 * Within the lives of others we can find some of the most important insights about ourselves.
 * Every statement is either true or false.
 * If the axioms of arithmetic can prove themselves to be incapable of proving any statement about numbers to be both true and false, then the axioms of arithmetic can prove any statement about numbers.
+* 2+2=5.
 
 Here are some examples of sentences that are not statements:
 
