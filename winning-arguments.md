@@ -432,11 +432,11 @@ We are usually overconfident in our own beliefs, which translates into overconfi
 
 ## Statements
 
-Back in the Introduction, I gave a series of words from the first three paragraphs that needed explanation:
+The first three paragraphs of the Introduction explained the meaning of the title, and the entirety of the text since then has been an attempt to explain the meaning of the first three paragraphs of the Introduction. Back in the Introduction, I gave a series of words from the first three paragraphs that needed explanation:
 
 > Let's return to our original task of clarifying the meaning of the first three paragraphs of this Introduction. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement." Let's analyze the meanings of these words, starting with "winning."
 
-We've done our analysis of "winning," but the rest of these words remain to be analyzed: "true," "reason," "believe," and "statement." Next we shall analyze the word "statement."
+We've done our analysis of "winning," but the rest of these words remain to be analyzed: "true," "reason," "believe," and "statement." In this section we shall analyze the word "statement."
 
 What is a statement? A statement is a kind of sentence. Here are some dictionary definitions of "statement" that I looked up on Google:
 
