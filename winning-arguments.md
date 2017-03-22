@@ -91,7 +91,7 @@ We will take both of the available approaches to understanding arguments. One ca
 
 Hopefully that discussion of the relationships between debates and arguments has clarified for the reader the distinction between debates and arguments, as well as helping to clarify each concept individually.
 
-Let's return to our original task of clarifying the meaning of the first three paragraphs of this text. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement." Let's analyze the meanings of these words, starting with "winning."
+Let's return to our original task of clarifying the meaning of the first three paragraphs of this Introduction. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement." Let's analyze the meanings of these words, starting with "winning."
 
 What is winning? For starters, winning is most often something that happens to people in the context of games (chess, baseball, etc.).
 
@@ -413,8 +413,6 @@ Skilled debaters still need to practice to stay skilled. However, skilled debate
 
 Most people probably have debates in their head. However, inexperienced debaters probably won't be able to anticipate the arguments that would be leveled against their positions in a real debate; whereas a more experienced debater is more likely to be able on their own to come up with the arguments a real opponent might come up with against their positions. This is why less experienced debaters need more practice debating with real people.
 
-In the case of two-fixed-opposed-sides debates, the rule "avoid getting 
-
 **2. Prepare.**
 
 Many forms of preparation are required to be an impressive debater on a topic. One needs general facility with language and the techniques of debate. One needs background knowledge on the subject matter of debate. One needs a thorough knowledge of the various arguments for and against the position one wants to argue for. And it should be the case that taken all together, those arguments favor one's own position. This will always be a matter of judgment, and in many cases the best one can hope for is that the arguments will favor one's position in most people's judgment.
@@ -423,7 +421,22 @@ You can generally assume your prep work for a debate won't be adequate, unless y
 
 We are usually overconfident in our own beliefs, which translates into overconfidence that we will win a debate, retrospective overconfidence that we did win a debate, etc. When we notice our own overconfidence in our beliefs, we can over-correct and end up with under-confidence in what we know. Training away our overconfidence in our beliefs and finding a balanced degree of confidence in each belief that we hold is the work of a lifetime.
 
+
+
+
+
+
+
+
+
+
 ## Statements
+
+Back in the Introduction, I gave a series of words from the first three paragraphs that needed explanation:
+
+   Let's return to our original task of clarifying the meaning of the first three paragraphs of this Introduction. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement." Let's analyze the meanings of these words, starting with "winning."
+
+We've done our analysis of "winning," but the rest of these words remain to be analyzed: "true," "reason," "believe," and "statement." Next let we shall analyze the word "statement."
 
 ## Reasons
 
