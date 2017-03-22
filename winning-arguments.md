@@ -436,7 +436,7 @@ Back in the Introduction, I gave a series of words from the first three paragrap
 
    Let's return to our original task of clarifying the meaning of the first three paragraphs of this Introduction. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement." Let's analyze the meanings of these words, starting with "winning."
 
-We've done our analysis of "winning," but the rest of these words remain to be analyzed: "true," "reason," "believe," and "statement." Next let we shall analyze the word "statement."
+We've done our analysis of "winning," but the rest of these words remain to be analyzed: "true," "reason," "believe," and "statement." Next we shall analyze the word "statement."
 
 ## Reasons
 
