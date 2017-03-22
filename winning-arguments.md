@@ -449,6 +449,7 @@ Logicians frequently provide various definitions of the word "statement." In thi
 Here are some examples of statements:
 
 * I am cold.
+* This is a pen.
 * It is early in the morning.
 * After we harvest the wheat we will store it in silos.
 * Within the lives of others we can find some of the most important insights about ourselves.
