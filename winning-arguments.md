@@ -438,6 +438,14 @@ Back in the Introduction, I gave a series of words from the first three paragrap
 
 We've done our analysis of "winning," but the rest of these words remain to be analyzed: "true," "reason," "believe," and "statement." Next we shall analyze the word "statement."
 
+What is a statement? A statement is a kind of sentence. Here are some dictionary definitions of "statement" that I looked up on Google:
+
+* a definite or clear expression of something in speech or writing.
+* an official account of facts, views, or plans, especially one for release to the media.
+* a formal account of events given by a witness, defendant, or other party to the police or in a court of law.
+
+Logicians frequently provide formal definitions of the word "statement." In this text, we shall use the following formal semi-definition of the word "statement." **A statement is a sentence which can be asserted or denied.**
+
 ## Reasons
 
 ## Truth
