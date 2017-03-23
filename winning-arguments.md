@@ -488,6 +488,7 @@ Here are some examples of statements in our version of first-order logic:
 * (*a* is a dog)
 * ((*a* is a dog) and (*b* is a cat))
 * (for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant)))
+* (for all *a*, (if (*a* is a person) then (for some *b*, ((*b* is a person) and (*b* loves *a)))))
 
 As you can see, these statements look a lot like statements in English, but not quite. Let's go through the rules that define the grammar of this language.
 
