@@ -454,7 +454,7 @@ Here are some examples of statements:
 * After we harvest the wheat we will store it in the silos.
 * Within the lives of others we can find some of the most important insights about ourselves.
 * Every statement is either true or false.
-* If the axioms of arithmetic can prove themselves to be incapable of proving any statement about numbers to be both true and false, then the axioms of arithmetic can prove any statement about numbers.
+* If the axioms of math can prove themselves to be incapable of proving any statement about numbers to be both true and false, then the axioms of math can prove any statement about numbers.
 * 2+2=4.
 * 2+2=5.
 
