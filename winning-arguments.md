@@ -462,6 +462,8 @@ Here are some examples of sentences that are not statements:
 
 * Why am I cold?
 * Get over here!
+* Fuck you!
+* Help!
 
 ## Reasons
 
