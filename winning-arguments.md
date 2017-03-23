@@ -492,10 +492,11 @@ Here are some examples of statements in our version of first-order logic:
 
 As you can see, these statements look a lot like statements in English, but not quite. Let's go through the rules that define the grammar of this language.
 
-There are three kinds of words in (our presentation of) first-order logic: variable names, predicate words, and connective words.
+There are three kinds of words in (our presentation of) first-order logic: object names, predicate names, verbs, and connective words.
 
-* For **variable names** we will use single italicized lower case letters: *a*, *b*, *c*...
-* For **predicate words** we will use ordinary English categorical phrases (e.g. "a dog"), adjective phrases (e.g. "clean"), or upper case letters (P, Q, R, ...). 
+* For **object names** we will use single italicized lower case letters: *a*, *b*, *c*...
+* For **predicate names** we will use ordinary English categorical phrases (e.g. "a dog"), adjective phrases (e.g. "clean"), or upper case letters (P, Q, R, ...). 
+* For **verbs** we will use ordinary English verbs, e.g. "loves." 
 * The following are all the **connective words**: **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
 We will also need notations for variables ranging over variable names, predicate words, and statements:
@@ -509,6 +510,8 @@ A "lexical unit" (of our presentation of first-order logic) is a word, a parenth
 A "statement" (of our presentation of first-order logic) is any sequence of lexical units which can be formed according to the following rules:
 
 * If **a** is a variable name and **P** is a predicate word, then (**a** is **P**) is a statement.
+* If **a** is a variable name and **v** is a verb, then (**a** **v**) is a statement.
+* If **a** and **b** are variable names and **v** is a verb, then (**a** **v** **b**) is a statement.
 * If **A** is a statement, then (not **A**) is a statement.
 * If **A** is a statement and **B** is a statement, then:
   * (if **A** then **B**) is a statement.
