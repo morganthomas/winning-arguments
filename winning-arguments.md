@@ -494,10 +494,10 @@ Here are some examples of statements in our version of first-order logic:
 
 As you can see, these statements look a lot like statements in English, but not quite. Let's go through the rules that define the grammar of this language.
 
-There are three kinds of words in (our presentation of) first-order logic: variable names, predicate names, verbs, and connective words.
+There are three kinds of words in (our presentation of) first-order logic: variable names, predicates, verbs, and connective words.
 
 * For **variable names** we will use single italicized lower case letters: *a*, *b*, *c*...
-* For **predicates** we will use ordinary English categorical phrases (e.g. "a dog"), adjective phrases (e.g. "clean"), or upper case letters (P, Q, R, ...). 
+* For **predicates** we will use ordinary English phrases denoting categories, specific objects, or properties (e.g. "a dog," "POTUS," "clean"), or upper case letters (P, Q, R, ...). 
 * For **verbs** we will use ordinary English verbs, e.g. "loves." 
 * The following are all the **connective words:** **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
@@ -549,9 +549,13 @@ Let us show how these grammar rules can be used to derive the examples we gave a
 * By rule 5, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant)) is a statement.
 * By rule 6, (for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant))) is a statement.
 
+TODO: Philosophy of what predicates are
+
 The reader should understand the foregoing to the extent that they can produce an unlimited number of statements in first-order logic; produce for each of them derivations conforming to the pattern we have demonstrated; and distinguish between valid and invalid syntax for statements of first-order logic.
 
 TODO: Exercises
+
+TODO: Translating English into first-order logic
 
 ## Truth
 
