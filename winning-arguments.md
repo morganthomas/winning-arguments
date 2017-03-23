@@ -483,7 +483,31 @@ There is a lot of interesting stuff to unpack here. Let's start by learning a si
 
 Our presentation of first-order logic is notationally different from most other presentations of first-order logic, in that we opt to use English words in place of logical symbols. However, in essence our language should be equivalent to all other presentations of the language of first-order logic.
 
-There are three kinds of words in (our presentation of) first-order logic: variable names, predicate words, and connective words. We will use single italicized lower case letters: *a*, *b*, *c*... as variable names. For predicate words we will use ordinary English categorical phrases (e.g. "a dog") or adjective phrases (e.g. "clean"). We will also use upper case letters for predicate words: P, Q, R, ...
+There are three kinds of words in (our presentation of) first-order logic: variable names, predicate words, and connective words.
+
+* For **variable names** we will use single italicized lower case letters: *a*, *b*, *c*...
+* For **predicate words** we will use ordinary English categorical phrases (e.g. "a dog"), adjective phrases (e.g. "clean"), or upper case letters (P, Q, R, ...). 
+* The following are all the **connective words**: **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
+
+We will also need notations for variables ranging over variable names, predicate words, and statements:
+
+* When we need a variable that ranges over variable names, i.e. a *meta-variable*, we will use bolded lower case letters: **a**, **b**, **c**, ...
+* When we need a variable that ranges over predicates, i.e. a *predicate variable*, we will use bolded upper case letters: **P**, **Q**, **R**, ...
+* When we need a variable that ranges over statements, i.e. a *statement variable*, we will use bolded upper case letters from the beginning of the alphabet: **A**, **B**, **C**, ...
+
+A "lexical unit" (of our presentation of first-order logic) is a word or a parenthesis.
+
+A "statement" (of our presentation of first-order logic) is any sequence of lexical units which can be formed according to the following rules:
+
+* If **a** is a variable name and **P** is a predicate word, then "**a** is **P**" is a statement.
+* If **A** is a statement, then "not **A**" is a statement.
+* If **A** is a statement and **B** is a statement, then:
+  * "(if **A** then **B**)" is a statement.
+  * "(**A** and **B**)" is a statement.
+  * "(**A** or **B**)" is a statement.
+* If **A** is a statement and **a** is a variable name, then:
+  * "for all **a** (**A**)" is a statement.
+  * "for some **a** (**A**)" is a statement.
 
 ## Truth
 
