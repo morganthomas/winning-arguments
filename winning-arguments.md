@@ -479,6 +479,8 @@ There are many approaches to the study of the grammar of statements. Indeed, the
 * A **formal grammar** describes the grammar of an artificial language or so-called **formal language**, using notation with precise, formal meaning, which renders it entirely unambiguous what does and does not constitute valid syntax for a statement of the formal language.
 * A **theory of grammar** is a theory which says something about grammars as a whole, or about some restricted class of grammars. For instance, if one wishes to explain the concept of formal grammars in a thorough way, then this requires a theory of formal grammars. The [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy) is an example of a theory of formal grammars.
 
+We have just introduced a great deal that requires further explanation.
+
 ## Truth
 
 ## Reasons
