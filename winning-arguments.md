@@ -513,6 +513,7 @@ Here are some examples of statements produced according to these grammar rules:
 
 * (*a* is a dog)
 * ((*a* is a dog) and (*b* is a cat))
+* (for all *a*, (if (*a* is Santa Claus) then (*a* lives at the North Pole)))
 
 ## Truth
 
