@@ -495,7 +495,7 @@ We will also need notations for variables ranging over variable names, predicate
 * When we need a variable that ranges over predicates, i.e. a *predicate variable*, we will use bolded upper case letters: **P**, **Q**, **R**, ...
 * When we need a variable that ranges over statements, i.e. a *statement variable*, we will use bolded upper case letters from the beginning of the alphabet: **A**, **B**, **C**, ...
 
-A "lexical unit" (of our presentation of first-order logic) is a word or a parenthesis.
+A "lexical unit" (of our presentation of first-order logic) is a word, a parenthesis, or a comma.
 
 A "statement" (of our presentation of first-order logic) is any sequence of lexical units which can be formed according to the following rules:
 
