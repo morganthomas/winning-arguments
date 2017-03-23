@@ -509,7 +509,10 @@ A "statement" (of our presentation of first-order logic) is any sequence of lexi
   * (for all **a**, **A**) is a statement.
   * (for some **a**, **A**) is a statement.
 
+Here are some examples of statements produced according to these grammar rules:
 
+* (*a* is a dog)
+* ((*a* is a dog) and (*b* is a cat))
 
 ## Truth
 
