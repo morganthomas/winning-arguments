@@ -497,7 +497,7 @@ There are three kinds of words in (our presentation of) first-order logic: objec
 * For **object names** we will use single italicized lower case letters: *a*, *b*, *c*...
 * For **predicate names** we will use ordinary English categorical phrases (e.g. "a dog"), adjective phrases (e.g. "clean"), or upper case letters (P, Q, R, ...). 
 * For **verbs** we will use ordinary English verbs, e.g. "loves." 
-* The following are all the **connective words**: **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
+* The following are all the **connective words:** **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
 We will also need notations for variables ranging over variable names, predicate words, and statements:
 
