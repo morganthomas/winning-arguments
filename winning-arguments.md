@@ -476,7 +476,8 @@ There are many approaches to the study of the grammar of statements. Indeed, the
 * A **natural language grammar** attempts to describe the grammar of a natural language.
   * A **descriptive natural language grammar** attempts to describe the rules of grammar actually followed (in ordinary cases) by some population of speakers.
   * A **prescriptive natural language grammar** defines the rules of grammar that some population of speakers should use, at least according to the author(s) of the grammar.
-* A **formal language grammar** describes the grammar of a made-up language, using notation with precise, formal meaning, which renders it entirely unambiguous what does and does not constitute valid syntax for a statement of the language.
+* A **formal grammar** describes the grammar of an artificial language or so-called **formal language**, using notation with precise, formal meaning, which renders it entirely unambiguous what does and does not constitute valid syntax for a statement of the formal language.
+* A **theory of grammar** is a theory which says something about grammars as a whole, or about some restricted class of grammars. For instance, if one wishes to explain the concept of formal grammars in a thorough way, then this requires a theory of formal grammars. The [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy) is an example of a theory of formal grammars.
 
 ## Truth
 
