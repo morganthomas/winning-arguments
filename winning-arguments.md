@@ -542,7 +542,7 @@ Let us show how these grammar rules can be used to derive the examples we gave a
 **(for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant))) is a statement.**
 
 * *a* is a variable name.
-* "Santa Claus" is a predicate.
+* "Santa Claus" is a predicate (denoting an object).
 * By rule 1, (*a* is Santa Claus) is a statement.
 * "a North Pole inhabitant" is a predicate (denoting a property).
 * By rule 1, (*a* is a North Pole inhabitant) is a statement.
