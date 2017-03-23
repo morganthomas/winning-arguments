@@ -405,6 +405,8 @@ If you are just learning to win debates, that is basically the opposite of what 
 
 Skilled debaters still need to practice to stay skilled. However, skilled debaters probably have a highly developed skill of playing out debates in their head, and the amount of practice they need debating with others is likely to be reduced by their ability to practice in their head. (Most people probably have debates in their head. However, inexperienced debaters probably won't be able to anticipate the arguments that would be leveled against their positions in a real debate.)
 
+If you're going to debate people in a fixed-opposed-sides format, then you should make sure that your side is the one that is correct. If you're going to engage in a truth-seeking debate, just make sure that's also the purpose of your debate partners.
+
 **2. Prepare.**
 
 Many forms of preparation are required to be an impressive debater on a topic. One needs general facility with language and the techniques of debate. One needs background knowledge on the subject matter of debate. One needs a thorough knowledge of the various arguments for and against the position one wants to argue for. And it should be the case that taken all together, those arguments favor one's own position. This will always be a matter of judgment, and in many cases the best one can hope for is that the arguments will favor one's position in most people's judgment.
