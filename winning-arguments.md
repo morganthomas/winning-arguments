@@ -492,16 +492,16 @@ Here are some examples of statements in our version of first-order logic:
 
 As you can see, these statements look a lot like statements in English, but not quite. Let's go through the rules that define the grammar of this language.
 
-There are three kinds of words in (our presentation of) first-order logic: object names, predicate names, verbs, and connective words.
+There are three kinds of words in (our presentation of) first-order logic: variable names, predicate names, verbs, and connective words.
 
-* For **object names** we will use single italicized lower case letters: *a*, *b*, *c*...
-* For **predicate names** we will use ordinary English categorical phrases (e.g. "a dog"), adjective phrases (e.g. "clean"), or upper case letters (P, Q, R, ...). 
+* For **variable names** we will use single italicized lower case letters: *a*, *b*, *c*...
+* For **predicates** we will use ordinary English categorical phrases (e.g. "a dog"), adjective phrases (e.g. "clean"), or upper case letters (P, Q, R, ...). 
 * For **verbs** we will use ordinary English verbs, e.g. "loves." 
 * The following are all the **connective words:** **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
-We will also need notations for variables ranging over variable names, predicate words, and statements:
+We will also need notations for variables ranging over different types of words:
 
-* When we need a variable that ranges over variable names, i.e. a *meta-variable*, we will use bolded lower case letters: **a**, **b**, **c**, ...
+* When we need a variable that ranges over object names, i.e. a *meta-variable*, we will use bolded lower case letters: **a**, **b**, **c**, ...
 * When we need a variable that ranges over predicates, i.e. a *predicate variable*, we will use bolded upper case letters: **P**, **Q**, **R**, ...
 * When we need a variable that ranges over statements, i.e. a *statement variable*, we will use bolded upper case letters from the beginning of the alphabet: **A**, **B**, **C**, ...
 
