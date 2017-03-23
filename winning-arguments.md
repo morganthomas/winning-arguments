@@ -483,7 +483,7 @@ There is a lot of interesting stuff to unpack here. Let's start by learning a si
 
 Our presentation of first-order logic is notationally different from most other presentations of first-order logic, in that we opt to use English words in place of logical symbols, making the notation more naturally readable for English speakers, but less compact.
 
-In essence the version of first-order logic we present should be equivalent to all other presentations of first-order logic, despite many superficial differences. The reader can, as an exercise, find another presentation of first-order logic and find for themselves the reasons why that system is for all intents and purposes interchangeable with ours, despite their differences. Our presentation differs in tricky ways from most presentations of first-order logic, so that this is an interesting exercise for a student of mathematical logic.
+In essence the version of first-order logic we present should be equivalent to all other presentations of first-order logic, despite many superficial differences. The reader can, as an exercise, find another presentation of first-order logic and find for themselves the reasons why that system is for all intents and purposes interchangeable with ours, despite their differences. Our presentation differs in tricky ways from most presentations of first-order logic, so that this can be an interesting exercise for a student of mathematical logic.
 
 Here are some examples of statements in our version of first-order logic:
 
