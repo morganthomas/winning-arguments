@@ -483,7 +483,7 @@ There is a lot of interesting stuff to unpack here. Let's start by learning a si
 
 Our presentation of first-order logic is notationally different from most other presentations of first-order logic, in that we opt to use English words in place of logical symbols. However, in essence our language should be equivalent to all other presentations of the language of first-order logic.
 
-There are three kinds of words in (our presentation of) first-order logic: variable names, predicate words, and connective words. We will use single italicized lower case letters, *a*, *b*, *c*, etc. as variable names. We will use ordinary English categorical or adjective phrases as predicate words: "a dog," "clean," etc.
+There are three kinds of words in (our presentation of) first-order logic: variable names, predicate words, and connective words. We will use single italicized lower case letters: *a*, *b*, *c*... as variable names. For predicate words we will use ordinary English categorical phrases (e.g. "a dog") or adjective phrases (e.g. "clean"). We will also use upper case letters for predicate words: P, Q, R, ...
 
 ## Truth
 
