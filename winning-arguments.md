@@ -539,6 +539,20 @@ Let us show how these grammar rules can be used to derive the examples we gave a
 * (*a* is a dog) is a statement (see above).
 * By rule 5, ((*a* is a dog) and (*a* runs)) is a statement.
 
+**(for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant))) is a statement.**
+
+* *a* is a variable name.
+* "Santa Claus" is a predicate.
+* By rule 1, (*a* is Santa Claus) is a statement.
+* "a North Pole inhabitant" is a predicate.
+* By rule 1, (*a* is a North Pole inhabitant) is a statement.
+* By rule 5, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant)) is a statement.
+* By rule 6, (for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant))) is a statement.
+
+The reader should understand the foregoing to the extent that they can produce an unlimited number of statements in first-order logic; produce for each of them derivations conforming to the pattern we have demonstrated; and distinguish between valid and invalid syntax for statements of first-order logic.
+
+TODO: Exercises
+
 ## Truth
 
 ## Reasons
