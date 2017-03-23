@@ -474,8 +474,8 @@ Statements, like other sentences, tend to follow rules of grammar. Rules of gram
 There are many approaches to the study of the grammar of statements. Indeed, there are a number of different kinds of grammatical theory of note:
 
 * Natural language grammars attempt to describe the grammar of a natural language.
-** Descriptive natural language grammars attempt to describe the rules of grammar actually followed (in ordinary cases) by some population of speakers.
-** Prescriptive natural language grammars define the rules of grammar that some population of speakers should use, according to the producers of the grammars.
+  * Descriptive natural language grammars attempt to describe the rules of grammar actually followed (in ordinary cases) by some population of speakers.
+  * Prescriptive natural language grammars define the rules of grammar that some population of speakers should use, according to the producers of the grammars.
 * Formal language grammars describe the grammar of a made-up language, using notation with precise, formal meaning, which renders it entirely unambiguous what does and does not constitute valid syntax for a statement of the language.
 
 ## Truth
