@@ -465,6 +465,8 @@ Here are some examples of sentences that are not statements:
 * Fuck you!
 * Help!
 
+"Why am I cold?" is a question, and questions cannot be believed or disbelieved. The remaining examples can all be categorized as [imperative sentences](https://www.thoughtco.com/imperative-sentence-grammar-1691152).
+
 ## Reasons
 
 ## Truth
