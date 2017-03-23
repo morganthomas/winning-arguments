@@ -471,6 +471,13 @@ Here are some examples of sentences that are not statements:
 
 Statements, like other sentences, tend to follow rules of grammar. Rules of grammar vary between languages, but there are various common themes. The majority of sentences are statements. The full complexity of grammar is manifest in the grammar of statements. The grammar of statements, which does not include the grammar of non-statement sentences, is an interesting study in its own right. In addition, an understanding of the grammar of statements is important background knowledge for what follows. Therefore, our next step in understanding statements is to embark on a study of the grammar of statements, setting aside the question of the grammar of non-statement sentences. 
 
+There are many approaches to the study of the grammar of statements. Indeed, there are a number of different kinds of grammatical theory of note:
+
+* Natural language grammars attempt to describe the grammar of a natural language.
+** Descriptive natural language grammars attempt to describe the rules of grammar actually followed (in ordinary cases) by some population of speakers.
+** Prescriptive natural language grammars define the rules of grammar that some population of speakers should use, according to the producers of the grammars.
+* Formal language grammars describe the grammar of a made-up language, using notation with precise, formal meaning, which renders it entirely unambiguous what does and does not constitute valid syntax for a statement of the language.
+
 ## Truth
 
 ## Reasons
