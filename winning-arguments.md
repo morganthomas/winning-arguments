@@ -502,12 +502,12 @@ A "statement" (of our presentation of first-order logic) is any sequence of lexi
 * If **a** is a variable name and **P** is a predicate word, then "**a** is **P**" is a statement.
 * If **A** is a statement, then "not **A**" is a statement.
 * If **A** is a statement and **B** is a statement, then:
-  * "(if **A** then **B**)" is a statement.
-  * "(**A** and **B**)" is a statement.
-  * "(**A** or **B**)" is a statement.
+  * "if **A** then **B**" is a statement.
+  * "**A** and **B**" is a statement.
+  * "**A** or **B**" is a statement.
 * If **A** is a statement and **a** is a variable name, then:
-  * "for all **a** (**A**)" is a statement.
-  * "for some **a** (**A**)" is a statement.
+  * "for all **a**, **A**" is a statement.
+  * "for some **a**, **A**" is a statement.
 
 ## Truth
 
