@@ -403,9 +403,7 @@ The most important rule for winning debates is to **avoid getting into debates t
 
 If you are just learning to win debates, that is basically the opposite of what you should do. If you are just learning to win debates, you would do well to be willing to get into any debate, defend any position, and not worry too much about being wrong. When you're learning to debate, just take advantage of opportunities to practice.
 
-Skilled debaters still need to practice to stay skilled. However, skilled debaters probably have a highly developed skill of playing out debates in their head, and the amount of practice they need debating with others is likely to be reduced by their ability to practice in their head.
-
-Most people probably have debates in their head. However, inexperienced debaters probably won't be able to anticipate the arguments that would be leveled against their positions in a real debate; whereas a more experienced debater is more likely to be able on their own to come up with the arguments a real opponent might come up with against their positions. This is why less experienced debaters need more practice debating with real people.
+Skilled debaters still need to practice to stay skilled. However, skilled debaters probably have a highly developed skill of playing out debates in their head, and the amount of practice they need debating with others is likely to be reduced by their ability to practice in their head. (Most people probably have debates in their head. However, inexperienced debaters probably won't be able to anticipate the arguments that would be leveled against their positions in a real debate.)
 
 **2. Prepare.**
 
