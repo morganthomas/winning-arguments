@@ -511,18 +511,19 @@ A "lexical unit" (of our presentation of first-order logic) is a word, a parenth
 
 A "statement" (of our presentation of first-order logic) is any sequence of lexical units which can be formed according to the following rules:
 
-* If **a** is a variable name and **P** is a predicate word, then (**a** is **P**) is a statement.
-* If **a** is a variable name and **v** is a verb, then (**a** **v**) is a statement.
-* If **a** and **b** are variable names and **v** is a verb, then (**a** **v** **b**) is a statement.
-* If **A** is a statement, then (not **A**) is a statement.
-* If **A** is a statement and **B** is a statement, then:
+1. If **a** is a variable name and **P** is a predicate word, then (**a** is **P**) is a statement.
+2. If **a** is a variable name and **v** is a verb, then (**a** **v**) is a statement.
+3. If **a** and **b** are variable names and **v** is a verb, then (**a** **v** **b**) is a statement.
+4. If **A** is a statement, then (not **A**) is a statement.
+5. If **A** is a statement and **B** is a statement, then:
   * (if **A** then **B**) is a statement.
   * (**A** and **B**) is a statement.
   * (**A** or **B**) is a statement.
-* If **A** is a statement and **a** is a variable name, then:
+6. If **A** is a statement and **a** is a variable name, then:
   * (for all **a**, **A**) is a statement.
   * (for some **a**, **A**) is a statement.
 
+Let us show how these rules can be used to 
 
 ## Truth
 
