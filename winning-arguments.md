@@ -471,7 +471,7 @@ Here are some examples of sentences that are not statements:
 
 Statements, like other sentences, tend to follow rules of grammar. Rules of grammar vary between languages, but there are various common themes. The majority of sentences are statements. The full complexity of grammar is manifest in the grammar of statements. The grammar of statements, which does not include the grammar of non-statement sentences, is an interesting study in its own right. In addition, an understanding of the grammar of statements is important background knowledge for what follows. Therefore, our next step in understanding statements is to embark on a study of the grammar of statements, setting aside the question of the grammar of non-statement sentences. 
 
-There are many approaches to the study of the grammar of statements. Indeed, there are a number of different kinds of grammatical theory of note:
+There are many approaches to the study of grammar. Indeed, there are a number of different kinds of grammatical theory of note:
 
 * A **natural language grammar** attempts to describe the grammar of a natural language.
   * A **descriptive natural language grammar** attempts to describe the rules of grammar actually followed (in ordinary cases) by some population of speakers.
@@ -479,9 +479,7 @@ There are many approaches to the study of the grammar of statements. Indeed, the
 * A **formal grammar** exactly describes the grammar of an artificial language, a so-called **formal language**. Formal grammars are usually written in notation with precise, formal meaning, which renders it entirely unambiguous what does and does not constitute valid syntax for a statement of the formal language.
 * A **theory of grammar** is a theory which says something about grammars as a whole, or about some restricted class of grammars. For instance, if one wishes to explain the concept of formal grammars in a thorough way, then this requires a theory of formal grammars. The [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy) is an example of a precise theory of formal grammars, explaining what a formal grammar is and categorizing them according to how difficult it is to parse statements in them.
 
-We have just introduced a great deal that requires further explanation. Digging into these topics will further our understanding of the grammar of statements.
-
-
+We have just introduced a great deal that requires further explanation. Digging into these topics will further our understanding of the grammar of statements. We will start by digging into the concept of formal grammar. This is a useful place to start because natural languages are very complex, and we can focus on the important issues by first studying very simple toy languages where unnecessary difficulties have been eliminated.
 
 ## Truth
 
