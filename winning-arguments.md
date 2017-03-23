@@ -528,7 +528,7 @@ Let us show how these grammar rules can be used to derive the examples we gave a
 **(*a* is a dog) is a statement.**
 
 * *a* is a variable name.
-* "a dog" is a predicate.
+* "a dog" is a predicate (denoting a category).
 * By rule 1, (*a* is a dog) is a statement.
 
 **((*a* is a dog) and (*a* runs)) is a statement.**
@@ -544,7 +544,7 @@ Let us show how these grammar rules can be used to derive the examples we gave a
 * *a* is a variable name.
 * "Santa Claus" is a predicate.
 * By rule 1, (*a* is Santa Claus) is a statement.
-* "a North Pole inhabitant" is a predicate.
+* "a North Pole inhabitant" is a predicate (denoting a property).
 * By rule 1, (*a* is a North Pole inhabitant) is a statement.
 * By rule 5, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant)) is a statement.
 * By rule 6, (for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant))) is a statement.
