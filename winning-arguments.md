@@ -444,7 +444,7 @@ What is a statement? A statement is a kind of sentence. Here are some dictionary
 * an official account of facts, views, or plans, especially one for release to the media.
 * a formal account of events given by a witness, defendant, or other party to the police or in a court of law.
 
-The study of winning arguments is mostly a study of statements and the relationships between statements. Therefore, we should take care to have a good understanding of statements.
+The study of winning arguments is mostly a study of statements and the relationships between statements. Therefore, we should take care to develop a good understanding of statements.
 
 Logicians frequently provide various definitions of the word "statement." In this text, we shall use the following definition of the word "statement." **A statement is a sentence which can be believed or disbelieved.** This definition picks out a certain wide class of sentences, spanning across all natural languages and many formal languages. This class probably agrees in essential intent, if not in actual [extension](https://en.wikipedia.org/wiki/Extension_(semantics)), with most modern logicians' definitions of "statement."
 
@@ -467,7 +467,9 @@ Here are some examples of sentences that are not statements:
 * Fuck you!
 * Help!
 
-"Why am I cold?" is a question. "Get over here!" and "help!" are imperative sentences. An [imperative sentence](https://www.thoughtco.com/imperative-sentence-grammar-1691152) is "a type of sentence that gives advice or instructions or that expresses a request or a command." "Fuck you!" is also an imperative sentence, literally speaking, but is perhaps better thought of as an [ejaculation](https://en.wikipedia.org/wiki/Ejaculation_(grammar)). Clearly, none of these sentences can be believed or disbelieved. For example, I make no sense if I say, "I believe that why am I cold?" or "I believe that fuck you!" Therefore, these sentences are not statements.
+"Why am I cold?" is a question. "Get over here!" and "help!" are imperative sentences. An [imperative sentence](https://www.thoughtco.com/imperative-sentence-grammar-1691152) is "a type of sentence that gives advice or instructions or that expresses a request or a command." "Fuck you!" can be literally interpreted as an imperative sentence (telling the target to fuck themselves). However, "fuck you!" is perhaps better thought of as an [ejaculation](https://en.wikipedia.org/wiki/Ejaculation_(grammar)). Clearly, none of these sentences can be believed or disbelieved. For example, I make no sense if I say, "I believe that why am I cold?" or "I believe that fuck you!" Therefore, these sentences are not statements.
+
+
 
 ## Truth
 
