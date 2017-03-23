@@ -481,7 +481,7 @@ There are many approaches to the study of grammar. Indeed, there are a number of
 
 There is a lot of interesting stuff to unpack here. Let's start by learning a simple formal language of statements. We're going to explain how to write statements in a toy language whose only sentences are statements. This language is called **(the language of) first-order logic**. First-order logic is notable in that it has an extremely simple grammar, and essentially any statement can be expressed in first-order logic.
 
-Our presentation of first-order logic is notationally different from most other presentations of first-order logic, in that we opt to use English words in place of logical symbols, maximizing the readability of the notation at the expense of making it somewhat longer to write. However, in essence our language should be equivalent to all other presentations of the language of first-order logic.
+Our presentation of first-order logic is notationally different from most other presentations of first-order logic, in that we opt to use English words in place of logical symbols, making the notation more naturally readable but less compact. However, in essence our language should be equivalent to all other presentations of the language of first-order logic.
 
 Here are some examples of statements in our version of first-order logic:
 
