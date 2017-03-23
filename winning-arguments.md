@@ -516,12 +516,12 @@ A "statement" (of our presentation of first-order logic) is any sequence of lexi
 3. If **a** and **b** are variable names and **v** is a verb, then (**a** **v** **b**) is a statement.
 4. If **A** is a statement, then (not **A**) is a statement.
 5. If **A** is a statement and **B** is a statement, then:
-  * (if **A** then **B**) is a statement.
-  * (**A** and **B**) is a statement.
-  * (**A** or **B**) is a statement.
+    * (if **A** then **B**) is a statement.
+    * (**A** and **B**) is a statement.
+    * (**A** or **B**) is a statement.
 6. If **A** is a statement and **a** is a variable name, then:
-  * (for all **a**, **A**) is a statement.
-  * (for some **a**, **A**) is a statement.
+    * (for all **a**, **A**) is a statement.
+    * (for some **a**, **A**) is a statement.
 
 Let us show how these rules can be used to 
 
