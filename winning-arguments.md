@@ -479,9 +479,7 @@ There are many approaches to the study of grammar. Indeed, there are a number of
 * A **formal grammar** exactly describes the grammar of an artificial language, a so-called **formal language**. Formal grammars are usually written in notation with precise, formal meaning, which renders it entirely unambiguous what does and does not constitute valid syntax for a statement of the formal language.
 * A **theory of grammar** is a theory which says something about grammars as a whole, or about some restricted class of grammars. For instance, if one wishes to explain the concept of formal grammars in a thorough way, then this requires a theory of formal grammars. The [Chomsky hierarchy](https://en.wikipedia.org/wiki/Chomsky_hierarchy) is an example of a precise theory of formal grammars, explaining what a formal grammar is and categorizing them according to how difficult it is to parse statements in them.
 
-We have just introduced a great deal that requires further explanation. Digging into these topics will further our understanding of the grammar of statements. We will start by digging into the concept of formal grammars. This is a useful place to start because natural languages are very complex, and we can focus on the deep and important issues by first studying very simple toy languages where unnecessary difficulties, shallow complexities that distract us from the simple mysteries, have been eliminated.
-
-
+There is a lot of interesting stuff to unpack here. Let's start by learning a simple formal language of statements. We're going to explain how to write statements in a toy language (whose only sentences are statements). The language is essentially a subset of English, but with more flexible syntax that can make use of parentheses to unambiguously write arbitrarily complex statements with deeply nested clauses.
 
 ## Truth
 
