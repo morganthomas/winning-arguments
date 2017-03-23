@@ -525,13 +525,13 @@ A "statement" (of our presentation of first-order logic) is any sequence of lexi
 
 Let us show how these grammar rules can be used to derive the examples we gave above of statements:
 
-**(*a* is a dog)**
+**(*a* is a dog) is a statement.**
 
 * *a* is a variable name.
 * "a dog" is a predicate.
 * By rule 1, (*a* is a dog) is a statement.
 
-**((*a* is a dog) and (*a* runs))**
+**((*a* is a dog) and (*a* runs)) is a statement.**
 
 * *a* is a variable name.
 * "runs" is a verb.
