@@ -444,6 +444,8 @@ What is a statement? A statement is a kind of sentence. Here are some dictionary
 * an official account of facts, views, or plans, especially one for release to the media.
 * a formal account of events given by a witness, defendant, or other party to the police or in a court of law.
 
+The study of winning arguments is mostly a study of statements and the relationships between statements. Therefore, we should take care to have a good understanding of statements.
+
 Logicians frequently provide various definitions of the word "statement." In this text, we shall use the following definition of the word "statement." **A statement is a sentence which can be believed or disbelieved.** This definition picks out a certain wide class of sentences, spanning across all natural languages and many formal languages. This class probably agrees in essential intent, if not in actual [extension](https://en.wikipedia.org/wiki/Extension_(semantics)), with most modern logicians' definitions of "statement."
 
 Here are some examples of statements:
