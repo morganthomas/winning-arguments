@@ -465,7 +465,7 @@ Here are some examples of sentences that are not statements:
 * Fuck you!
 * Help!
 
-"Why am I cold?" is a question. "Get over here!" and "help!" are imperative sentences. An [imperative sentence](https://www.thoughtco.com/imperative-sentence-grammar-1691152) is "a type of sentence that gives advice or instructions or that expresses a request or a command." "Fuck you!" is also an imperative sentence, literally speaking, but is perhaps better thought of as an [ejaculation](https://en.wikipedia.org/wiki/Ejaculation_(grammar)). Clearly, none of these sentences can be believed or disbelieved. For example, I make no sense if I try to say, "I believe that why am I cold?" or "I believe that fuck you!"
+"Why am I cold?" is a question. "Get over here!" and "help!" are imperative sentences. An [imperative sentence](https://www.thoughtco.com/imperative-sentence-grammar-1691152) is "a type of sentence that gives advice or instructions or that expresses a request or a command." "Fuck you!" is also an imperative sentence, literally speaking, but is perhaps better thought of as an [ejaculation](https://en.wikipedia.org/wiki/Ejaculation_(grammar)). Clearly, none of these sentences can be believed or disbelieved. For example, I make no sense if I try to say, "I believe that why am I cold?" or "I believe that fuck you!" Therefore, these sentences are not statements.
 
 ## Reasons
 
