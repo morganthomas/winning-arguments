@@ -469,7 +469,7 @@ Here are some examples of sentences that are not statements:
 
 "Why am I cold?" is a question. "Get over here!" and "help!" are imperative sentences. An [imperative sentence](https://www.thoughtco.com/imperative-sentence-grammar-1691152) is "a type of sentence that gives advice or instructions or that expresses a request or a command." "Fuck you!" can be literally interpreted as an imperative sentence (telling the target to fuck themselves). However, "fuck you!" is perhaps better thought of as an [ejaculation](https://en.wikipedia.org/wiki/Ejaculation_(grammar)). Clearly, none of these sentences can be believed or disbelieved. For example, I make no sense if I say, "I believe that why am I cold?" or "I believe that fuck you!" Therefore, these sentences are not statements.
 
-
+Statements, like other sentences, tend to follow rules of grammar. Rules of grammar vary between languages, but there are various common themes. The majority of sentences are statements. The full complexity of grammar is manifest in the grammar of statements. The grammar of statements, which does not include the grammar of non-statement sentences, is an interesting study in its own right, which is important preparatory work for what follows. Therefore, our next step in understanding statements is to embark on a study of the grammar of statements, setting aside the question of the grammar of non-statement sentences. 
 
 ## Truth
 
