@@ -483,11 +483,11 @@ There is a lot of interesting stuff to unpack here. Let's start by learning a si
 
 Our presentation of first-order logic is notationally different from most other presentations of first-order logic, in that we opt to use English words in place of logical symbols. However, in essence our language should be equivalent to all other presentations of the language of first-order logic.
 
-Here are some examples of statements produced according to our grammar for first-order logic:
+Here are some examples of statements in our version of first-order logic:
 
 * (*a* is a dog)
 * ((*a* is a dog) and (*b* is a cat))
-* (for all *a*, (if (*a* is Santa Claus) then (*a* lives at the North Pole)))
+* (for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant)))
 
 As you can see, these statements look a lot like statements in English, but not quite. Let's go through the rules that define the grammar of this language.
 
