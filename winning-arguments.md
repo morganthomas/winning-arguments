@@ -497,7 +497,7 @@ As you can see, these statements look a lot like statements in English, but not 
 There are three kinds of words in (our presentation of) first-order logic: variable names, predicates, verbs, and connective words.
 
 * For **variable names** we will use single italicized lower case letters: *a*, *b*, *c*...
-* For **predicates** we will use ordinary English phrases denoting categories, specific objects, or properties (e.g. "a dog," "POTUS," "clean"), or upper case letters (P, Q, R, ...). 
+* For **predicates** we will use ordinary English phrases denoting categories, specific objects, or properties (e.g. "a dog," "the President of the United States," "clean"), or upper case letters (P, Q, R, ...). 
 * For **verbs** we will use ordinary English verbs, e.g. "loves." 
 * The following are all the **connective words:** **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
