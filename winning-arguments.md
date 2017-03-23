@@ -393,7 +393,7 @@ A winning argument is an argument which wins. What does that mean? Basically it 
 
 Accomplishing the purpose(s) one has in a debate generally entails persuading others of a point of view, and/or exchanging ideas in a way which appears to move oneself and/or others closer to the truth. Arguments, certainly, are great not only as tools to persuade others of a pre-conceived point of view, but also and even more so as tools to explore conceptual space, acting as guides to move us forward towards the truth.
 
-Speaking practically, I would say that the following two rules are the most important rules of debate:
+Speaking practically, I would say that the following two rules are the most important rules of winning debates:
 
 **1. Be right.**
 
