@@ -549,6 +549,8 @@ TODO: Exercises
 
 Earlier we made the claim that essentially any statement can be expressed in first-order logic. Let us now explore this claim. The claim is interesting because if it is true, then we can think of first-order logic as a sort of a theory of statements, an idealized way of thinking about statements as a whole.
 
+First-order logic is not the only formal language of which one may fairly make this claim. There are many formal languages about which one may fairly make this claim.
+
 ## Truth
 
 ## Reasons
