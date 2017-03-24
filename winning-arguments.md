@@ -547,7 +547,7 @@ The reader should understand the foregoing to the extent that they can produce a
 
 TODO: Exercises
 
-TODO: Translating English into first-order logic
+Earlier we made the claim that essentially any statement can be expressed in first-order logic. Let us now explore this claim. The claim is interesting because if it is true, then we can think of first-order logic as a sort of a theory of statements, an idealized way of thinking about statements as a whole.
 
 ## Truth
 
