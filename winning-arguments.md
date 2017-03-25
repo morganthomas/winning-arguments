@@ -594,7 +594,7 @@ Translation: ((Latin is a great language of the ancient world) and (Hebrew is a 
 
 Sentence from: Max Lucado. He Chose the Nails. Thomas Nelson.
 
-The complexity of this translation shows that many different logical propositions are contained in this not-exceptionally-long English sentence.
+The size of this translation shows that many different logical propositions are contained in this not-exceptionally-long English sentence.
 
 ## Truth
 
