@@ -572,9 +572,15 @@ In order to investigate further, we shall abandon contrived examples, look at so
 
 **This cake is well named, as it has a very delicate consistency.**
 
-=> ((this cake is well named) and (this cake is delicate in consistency))
+=> ((this cake is well named) and (this cake is delicate in consistency) and ("this cake is well named" is justified by "this cake is delicate in consistency"))
 
-Source: Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.
+Sentence from: Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.
+
+"This cake is well named as it has a very delicate consistency" seems to mean roughly "this cake is well named because it has a very delicate consistency." That is, the sentence expresses three things:
+
+* The cake is well named.
+* The cake has a delicate consistency.
+* The cake is well named because it has a delicate consistency.
 
 
 
