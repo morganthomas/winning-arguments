@@ -154,7 +154,7 @@ Grice argued that participants in conversations usually follow certain (maxims o
 3. **The maxim of relation**, where one tries to be relevant, and says things that are pertinent to the discussion.
 4. **The maxim of manner**, when one tries to be as clear, as brief, and as orderly as one can in what one says, and where one avoids obscurity and ambiguity.
 
-Obviously these rules are violated by speakers on a regular basis, but other speakers who perceive the violations tend to perceive them as violations. If one agrees with that, then one agrees in this sense that Grice's maxims are rules that conversations follow.
+Obviously these rules are violated by speakers on a regular basis, but other speakers who perceive the violations of these rules tend to perceive them as violations. If one agrees with that, then one agrees in this sense that Grice's maxims are rules that conversations follow.
 
 One of the norms that most conversations can (at least in my experience) be observed to follow is that when talking about a subject, one should not make a statement on a new subject until nobody still has a statement to make on the current subject, unless an interruption from the environment requires a change of subject. In the case of an interruption from the environment, the norm usually followed in the conversations I observe is to return to the same point in the suspended conversation where the interruption occurred, once the interruption has been dealt with.
 
