@@ -645,7 +645,7 @@ In order to ensure their understanding of the foregoing, which is necessary for 
 
 TODO: Exercises
 
-The reader is encouraged to try to find limits to what first-order logic can express. The reader is encouraged not to conclude that first-order logic can't express something just because the reader can't quickly figure out how to express it. [philosophy.stackexchange.com](http://philosophy.stackexchange.com/questions/tagged/logic) is one place to ask questions and find answers to already answered questions about this kind of topic, questions like "how can this statement be translated into first-order logic?" Some statements may lack any wholly satisfactory translation into first-order logic.
+The reader is encouraged to try to find limits to what first-order logic can express. The reader is encouraged not to conclude that first-order logic can't express something just because the reader can't quickly figure out how to express it. [philosophy.stackexchange.com](http://philosophy.stackexchange.com/questions/tagged/logic) is one place to ask questions and find answers to already answered questions about this kind of topic, questions like "how can this statement be translated into first-order logic?" Some statements may lack any wholly satisfactory translation into first-order logic. We will explore this topic in more detail later.
 
 TODO: Exercises
 
