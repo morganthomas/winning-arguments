@@ -637,6 +637,8 @@ This translation omits the difficulty the speaker has in referring to Godot, and
 
 This example illustrates that there can be multiple plausible translations of an English statement into first-order logic. This is a usual feature of translation from any language into any other language.
 
+TODO: Discuss general translation techniques
+
 ## Truth
 
 ## Reasons
