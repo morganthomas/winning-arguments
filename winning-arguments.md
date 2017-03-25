@@ -625,6 +625,10 @@ Translation: (for some *a*, (for some *b*, ((Henry of Ghent wrote *a*) and (John
 
 Sentence from: Richard H. Popkin (ed.). The Columbia History of Western Philosophy. Columbia University Press.
 
+**I myself in your situation, if I had an appointment with a Godin... Godet... Godot... anyhow you see who I mean, I'd wait till it was black night before I gave up.**
+
+Translation: (if (I have an appointment with Godot) then (if (not (I am waiting for Godot)) then (the time is black night)))
+
 ## Truth
 
 ## Reasons
