@@ -692,6 +692,8 @@ What is truth? What does it mean for something to be true? Let's start by using 
 * Truth is something worth pursuing.
 * Truth is the opposite of falsehood.
 
+
+
 ## Reasons
 
 ## Belief
