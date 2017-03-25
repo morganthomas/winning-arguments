@@ -576,7 +576,7 @@ In order to investigate further, we shall abandon contrived examples, look at so
 
 **This cake is well named, as it has a very delicate consistency.**
 
-⇒ ((this cake is well named) and (this cake is delicate in consistency) and (the statement (this cake is well named) is justified by the statement (this cake is very delicate in consistency)))
+=> ((this cake is well named) and (this cake is delicate in consistency) and (the statement (this cake is well named) is justified by the statement (this cake is very delicate in consistency)))
 
 Sentence from: Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.
 
