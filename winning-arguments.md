@@ -635,6 +635,8 @@ This translation omits the difficulty the speaker has in referring to Godot, and
 
 (for all *x*, (if ((*x* is Godin) or (*x* is Godet) or (*x* is Godot)) then ((you know the referent of "*x*") and (if (I have an appointment with *x*) then (if (not (I am waiting for *x*)) then (the time of day is black night))))))
 
+This example illustrates that there can be multiple plausible translations of a statement in first-order logic. This is a usual feature of translation from any language into any other language.
+
 ## Truth
 
 ## Reasons
