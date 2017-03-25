@@ -587,7 +587,7 @@ First-order logic is not the only formal language about which one may fairly mak
 
 The first-order logic statements we have seen, when read aloud, are in essence English sentences (although their use of variable names is not ordinary English). Clearly many English statements are already in essence statements of first-order logic, in the sense that a translation is obvious and closely resembles the original statement. In other cases, varying degrees of rephrasing are required to express an English statement in first-order logic.
 
-In order to investigate further, we shall abandon contrived examples, look at some semi-randomly chosen statements from books that are in my home, and try to translate them into first-order logic. I don't claim that my translations are the only possible translations into first-order logic of these English statements, and I don't claim that they are exact translations capturing every shading of meaning that the statements have for every English speaker. However, I do claim that they are basically good translations that preserve the core meaning of the original statements.
+In order to investigate further, we shall abandon contrived examples, look at some semi-randomly chosen statements from books that are in my home, and try to translate them into first-order logic. I don't claim that my translations are the only possible translations into first-order logic of these English statements, and I don't claim that they are exact translations capturing every shading of meaning that the statements have for every English speaker. I do claim that they are basically good translations that preserve the core meaning of the original statements.
 
 **This cake is well named, as it has a very delicate consistency.**
 
