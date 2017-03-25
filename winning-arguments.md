@@ -604,6 +604,10 @@ The hawk-eyed reader may notice that we have taken some liberties with parenthes
 
 Both of these statements mean the same thing and are true under exactly the same circumstances: namely, when at least one of the three clauses is true. Later we will be able to prove formally that these two statements are true under exactly the same circumstances. 
 
+The other example of us taking liberty with parentheses in this translations is of the same type, but with "and" instead of "or." The statement as a whole has the form:
+
+((Latin is a great language of the ancient world) and (...) and (...) and (...) and (...))
+
 ## Truth
 
 ## Reasons
