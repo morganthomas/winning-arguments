@@ -12,7 +12,7 @@ The text contains exercises, which the author feels will be likely to further th
 
 This text is meant to be read from start to finish without skipping around. It is cumulative; each piece builds upon preceding pieces. In general you shouldn't expect to fully understand a part of the text unless you understand the text up to that point. 
 
-For those who have not read much philosophy before, I apologize for the plodding and abstract nature of the text, which will probably be a challenge for some people new to philosophy. I would like to offer some words of advice on how to read the text.
+For those who have not read much philosophy before, I apologize for the abstract and sometimes exhaustingly minute nature of the text, which will probably be a challenge for some people new to philosophy. I would like to offer some words of advice on how to read the text.
 
 * Start out by reading one sentence at a time. Make sure you understand what each sentence is saying, before moving onto the next sentence. You can relax this rule if you're comfortable that you're following the text.
 * If you understand what's being said but not why it's being said, you can just plow forward and imagine it will eventually become clear. I considered it too complex and distracting to try to explain, before each thing that's said, why it's being said. Therefore I ask for the reader's trust that they are being led on a purposeful path towards my understanding of winning arguments. If we take a shortcut through a strange, dark tunnel where the reader can only see two inches in front of their face, the reader is asked to take courage and keep their attention on those two inches.
