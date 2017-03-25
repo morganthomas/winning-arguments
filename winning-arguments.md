@@ -680,7 +680,7 @@ This simply means that the reader will mostly have to figure out for themselves 
 
 ## Truth
 
-What is truth? What does it mean for something to be true? Let's start by using the words "true" and "truth," and "false" and "falsehood," in a mixture of obviously true statements, and truisms whose truth might be less clear:
+What is truth? What does it mean for something to be true? Let's start by using the words "true" and "truth," and "false" and "falsehood," in a mixture of obviously true statements, and truisms whose truth might be less clear in some cases:
 
 * It is true that smoking causes lung cancer.
 * "Smoking causes lung cancer" is a true statement.
