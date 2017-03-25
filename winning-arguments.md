@@ -631,6 +631,8 @@ Translation: (if (I have an appointment with Godot) then (if (not (I am waiting 
 
 Sentence from: Samuel Beckett. Waiting for Godot. Grove Press.
 
+This translation omits the difficulty the speaker has in referring to Godot, and simply refers to the individual the speaker is referring to.
+
 ## Truth
 
 ## Reasons
