@@ -680,7 +680,10 @@ What is truth? What does it mean for something to be true? Let's start by using 
 
 * It is true that smoking causes lung cancer.
 * "Smoking causes lung cancer" is a true statement.
+* It is false that water is made of methane.
+* "Water is made of methane" is a false statement.
 * Truth is something worth pursuing.
+* Truth is the opposite of falsehood.
 
 ## Reasons
 
