@@ -704,7 +704,7 @@ One can reject this argument in favor of dialetheism in many different ways. The
 
 The indifferent shrug is not necessarily an irrational response to the liar paradox, in my opinion. Life is short and there are many things to do in the world. If somebody feels that they should not devote their time to evaluating an argument with a patently absurd and yet pointless conclusion, I can't necessarily say their decision making is poor.
 
-However, it is undeniable that the indifferent shrug is not a satisfactory response to everybody. I would therefore like to helpfully provide what I think is a better response to the liar paradox for people who don't wish to agree with me that there are true contradictions and also don't find the indifferent shrug to be a satisfactory response. However, I will not do that right now, as we need further background material first.
+However, it is undeniable that the indifferent shrug is not a satisfactory response to everybody. I would therefore like to helpfully provide what I think is a better response to the liar paradox for people who don't wish to agree with me that there are true contradictions and also don't find the indifferent shrug to be a satisfactory response. However, I will not do that right now, as we need further background material first. Therefore let's move on to our next controversial statement about truth.
 
 **Every statement is either true or false.**
 
