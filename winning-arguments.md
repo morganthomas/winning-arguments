@@ -570,6 +570,12 @@ The first-order logic statements we have seen, when read aloud, are in essence E
 
 In order to investigate further, we shall abandon contrived examples, look at some statements from books that are in my house, and try to translate them into first-order logic.
 
+**This cake is well named, as it has a very delicate consistency.**
+
+(Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.)
+
+((this cake is well named) and (this cake is delicate in consistency))
+
 ## Truth
 
 ## Reasons
