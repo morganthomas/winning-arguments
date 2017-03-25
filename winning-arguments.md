@@ -651,6 +651,8 @@ TODO: Discuss general techniques for eliminating English grammar constructs not 
 
 TODO: Discuss philosophy of translation into first-order logic in more depth
 
+Let's step back and consider what we've learned so far. We set out to study the grammar of statements. We studied the grammar of statements in a version of first-order logic. We also developed a practical understanding of how to translate English statements into first-order logic. Thus, we have seen that altough the grammar of English statements is very complex, for many practical purposes we can reduce the study of English statements to the study of statements in a much simpler and more precisely defined language: the language of first-order logic.
+
 ## Truth
 
 ## Reasons
