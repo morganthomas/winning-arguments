@@ -696,7 +696,7 @@ Not everybody agrees with all of these statements. Let's examine the ones that a
 
 **No statement is both true and false.**
 
-This is the least controversial of our controversial statements. Almost everybody agrees that a statement that is both true and false is impossible and would be an absurdity.
+This is the least controversial of our controversial statements. Almost everybody agrees that a statement that is both true and false is an impossibility and would be an absurdity.
 
 Opponents of "no statement is both true and false" include **dialetheists**. Dialetheism is the view that there are true contradictions, i.e. statements that are both true and false (at exactly the same time, in exactly the same sense). Examples of dialetheists include Graham Priest, Jc Beall, and the author. It is not a purpose of this text to argue for dialetheism; though the author is a dialetheist, for the purposes of this text the reader will not be discouraged from regarding dialetheists as a strange group of people with a bizarre view that ought to be rejected.
 
