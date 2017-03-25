@@ -683,7 +683,8 @@ What is truth? What does it mean for something to be true? Let's start by using 
 * It is false that water is made of methane.
 * "Water is made of methane" is a false statement.
 * No statement is both true and false.
-* Every factual statement is either true or false.
+* Every statement about the natural world is either true or false.
+* Every statement about mathematics is either true or false.
 * Truth is something worth pursuing.
 * Truth is the opposite of falsehood.
 
