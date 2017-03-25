@@ -510,7 +510,7 @@ A **lexical unit** (of our presentation of first-order logic) is a word, a paren
 A **statement** (of our presentation of first-order logic) is any sequence of lexical units which can be formed according to the following rules:
 
 1. If **a** is an object term and **P** is a predicate, then (**a** is **P**) is a statement.
-3. If **a** is an object term and **v** is a verb, then (**a** **v**) is a statement.
+3. If **a** is an object term and **v** is an [English copula](https://en.wikipedia.org/wiki/Copula_(linguistics)#English), such as a verb, then (**a** **v**) is a statement.
 4. If **a** and **b** are object terms and **v** is a verb, then (**a** **v** **b**) is a statement.
 5. If **A** is a statement, then (not **A**) is a statement.
 6. If **A** is a statement and **B** is a statement, then:
@@ -552,7 +552,7 @@ The reader should understand the foregoing to the extent that they can produce a
 The reader should also understand what statements in first-order logic. For the most part, this may be fairly self-evident, but it is worth taking a moment to clarify explicitly what each form of statement means:
 
 * (**a** is **P**) means that whatever object **a** denotes in the current context has the property **P**, belongs to the category of objects **P**, or is the object **P**.
-* (**a** **v**) and (**a** **v** **b**), where **v** is a [copula](https://en.wikipedia.org/wiki/Copula_(linguistics)#English) and **a** and **b** are variable names, means that the corresponding English statement is true for whatever values the variable(s) have in the current context.
+* (**a** **v**) and (**a** **v** **b**), where **v** is an [English copula](https://en.wikipedia.org/wiki/Copula_(linguistics)#English), such as a verb, and **a** and **b** are variable names, means that the corresponding English statement is true for whatever values the variable(s) have in the current context.
 * (**A** and **B**) means that **A** and **B** are both true.
 * (**A** or **B**) means that at least one of **A** or **B**, and possibly both, are true. The "or" in first-order logic is therefore an *inclusive or*. This can be distinguished from an *exclusive or*, which differs from an inclusive or in that it an exclusive or is false when both disjuncts are true. That is, an exclusive or requires exactly one of its disjuncts to be true, as opposed to at least one as with inclusive or.
 * (not **A**) means that **A** is not true.
