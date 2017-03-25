@@ -602,7 +602,7 @@ The hawk-eyed reader will notice that we have taken some liberties with parenthe
 
 ((x is Greek) or **(**(x is Latin) or (x is Hebrew)**)**)
 
-Both of these statements mean the same thing and are true under exactly the same circumstances: namely, when at least one of the three clauses is true. Later we will be able to prove formally that these statements are true under exactly the same circumstances. For now the reader can believe me or convince themselves of the fact.
+Both of these statements mean the same thing and are true under exactly the same circumstances: namely, when at least one of the three clauses is true. Later we will be able to prove formally that these statements are true under exactly the same circumstances. For now the reader can believe me or convince themselves of the fact, if they like.
 
 ## Truth
 
