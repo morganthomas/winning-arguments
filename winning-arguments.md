@@ -685,7 +685,7 @@ What is truth? What does it mean for something to be true? Let's start by using 
 * No statement is both true and false.
 * Every statement about the natural world is either true or false.
 * Every statement about mathematics is either true or false.
-* Every statement asserting the actual existence or actual non-existence of something is either true or false.
+* Every statement asserting the actual existence or actual non-existence of a kind of thing is either true or false.
 * Truth is something worth pursuing.
 * Truth is the opposite of falsehood.
 
