@@ -545,6 +545,11 @@ Let us show how these grammar rules can be used to derive the examples we gave a
 
 The reader should understand the foregoing to the extent that they can produce an unlimited number of statements in first-order logic; produce for each of them derivations conforming to the pattern we have demonstrated; and distinguish between valid and invalid syntax for statements of first-order logic.
 
+The reader should also understand what statements in first-order logic. For the most part, this may be fairly self-evident, but it is worth taking a moment to clarify explicitly what each form of statement means:
+
+* (**A** and **B**) means that **A** and **B** are both true.
+* (**A** or **B**) means that at least one of **A** or **B**, and possibly both, are true. The "or" in first-order logic is therefore an *inclusive or*. This can be distinguished from an *exclusive or*, which differs from an inclusive or in that it an exclusive or is false when both disjuncts are true. That is, an exclusive or requires exactly one of its disjuncts to be true, as opposed to at least one as with inclusive or.
+
 TODO: Exercises
 
 Earlier we made the claim that essentially any statement can be expressed in first-order logic. Let us now explore this claim. The claim is interesting because if it is true, then we can think of first-order logic as a sort of a theory of statements, an idealized way of thinking about statements as a whole.
