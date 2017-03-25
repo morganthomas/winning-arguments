@@ -555,6 +555,10 @@ The reader should also understand what statements in first-order logic. For the 
 * (for all **a**, **A**) means that in any variant on the current context created by setting the object denoted by the variable **a** to some object, **A** is true.
 * (for some **a**, **A**) means that in at least one variant on the current context created by setting the object denoted by the variable **a** to some object, **A** is true.
 
+These explanations assume the notion of a *context*. For the purposes of first-order logic, the context simply determines what objects the variables denote. You can think of a context as a mapping from variable names to objects. Contexts are referred to by various names in the study of logic, with "variable assignment" being one term in use. In some presentations of first-order logic, every variable name is required to be given a value by a context, while in other presentations, a context might give values only to some variables. In the latter case, statements containing references to variables not enclosed by corresponding "for all" or "for some" statements will be uninterpretable in a given context if that context does not assign values to those variables.
+
+We will not attempt to further formalize this explanation of the meaning of the statements of first-order logic at this time. At this point it's hoped that the reader understands the meaning of statements of first-order logic in an informal way which enables them to read such statements.
+
 TODO: Exercises
 
 Earlier we made the claim that essentially any statement can be expressed in first-order logic. Let us now explore this claim. The claim is interesting because if it is true, then we can think of first-order logic as a sort of a theory of statements, an idealized way of thinking about statements as a whole.
