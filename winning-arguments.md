@@ -680,6 +680,7 @@ What is truth? What does it mean for something to be true? Let's start by using 
 
 * It is true that smoking causes lung cancer.
 * "Smoking causes lung cancer" is a true statement.
+* What's true is true regardless of people believe or wish to be so.
 
 ## Reasons
 
