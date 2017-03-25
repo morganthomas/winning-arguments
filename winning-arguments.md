@@ -629,6 +629,8 @@ Sentence from: Richard H. Popkin (ed.). The Columbia History of Western Philosop
 
 Translation: (if (I have an appointment with Godot) then (if (not (I am waiting for Godot)) then (the time of day is black night)))
 
+Sentence from: Samuel Beckett. Waiting for Godot. Grove Press.
+
 ## Truth
 
 ## Reasons
