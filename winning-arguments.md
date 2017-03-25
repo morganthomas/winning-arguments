@@ -631,7 +631,9 @@ Translation: (if (I have an appointment with Godot) then (if (not (I am waiting 
 
 Sentence from: Samuel Beckett. Waiting for Godot. Grove Press.
 
-This translation omits the difficulty the speaker has in referring to Godot, and simply refers to the individual the speaker is referring to.
+This translation omits the difficulty the speaker has in referring to Godot, and simply refers to the individual the speaker is referring to. If we wanted to translate the difficulty literally, we could write something like:
+
+(for all *x*, (if ((*x* is Godin) or (*x* is Godet) or (*x* is Godot)) then ((you know the referent of "*x*") and (if (I have an appointment with *x*) then (if (not (I am waiting for *x*)) then (the time of day is black night))))))
 
 ## Truth
 
