@@ -702,7 +702,7 @@ Here is a typical argument in favor of dialetheism. This is an argument called t
 
 One can reject this argument in favor of dialetheism in many different ways. The usual response to the liar paradox is what we can call the "indifferent shrug." This is a mode of response where one disregards the argument and its conclusion without providing any reason to do so.
 
-The indifferent shrug is not necessarily an irrational response to the liar paradox, in my opinion. Life is short and there are many things to do in the world. If somebody feels that they should not devote their time to evaluating an argument with a patently absurd and yet pointless conclusion, I can't necessarily say their decision making is poor.
+The indifferent shrug is not necessarily an irrational response to the liar paradox, in my opinion. Life is short and there are many things to do in the world. If somebody feels that they should not devote their time to evaluating an argument with a patently absurd and yet pointless conclusion, I can't necessarily say their decision making is poor. However, it is undeniable that the indifferent shrug is not a satisfactory response to anybody. I would therefore like to helpfully provide what I think is a better response to people who don't wish to agree with me that there are true contradictions.
 
 **Every statement is either true or false.**
 
