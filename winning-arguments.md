@@ -594,7 +594,7 @@ Sentence from: Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.
 "This cake is well named as it has a very delicate consistency" seems to mean roughly "this cake is well named because it has a very delicate consistency." That is, the sentence expresses three things:
 
 * The cake is well named.
-* The cake has a delicate consistency.
+* The cake has a very delicate consistency.
 * The cake is well named because it has a very delicate consistency.
 
 This third statement is expressing a relationship between the first two statements: namely, that "this cake has a delicate consistency" justifies "this cake is well named." This is reflected in the translation, where the verb "is justified by" relates the two object literals "the statement (this cake is well named)" and "the statement (this cake is delicate in consistency)."
