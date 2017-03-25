@@ -547,9 +547,13 @@ The reader should understand the foregoing to the extent that they can produce a
 
 The reader should also understand what statements in first-order logic. For the most part, this may be fairly self-evident, but it is worth taking a moment to clarify explicitly what each form of statement means:
 
+* (**a** is **P**) means that whatever object **a** denotes in the current context has the property **P**, belongs to the category of objects **P**, or is the object **P**.
+* (**a** **v**) and (**a** **v** **b**), where **v** is a verb and **a** and **b** are variable names, means that the corresponding English statement is true for whatever values the variable(s) have in the current context.
 * (**A** and **B**) means that **A** and **B** are both true.
 * (**A** or **B**) means that at least one of **A** or **B**, and possibly both, are true. The "or" in first-order logic is therefore an *inclusive or*. This can be distinguished from an *exclusive or*, which differs from an inclusive or in that it an exclusive or is false when both disjuncts are true. That is, an exclusive or requires exactly one of its disjuncts to be true, as opposed to at least one as with inclusive or.
 * (not **A**) means that **A** is not true.
+* (for all **a**, **A**) means that in any variant on the current context created by setting the object denoted by the variable **a** to some object, **A** is true.
+* (for some **a**, **A**) means that in at least one variant on the current context created by setting the object denoted by the variable **a** to some object, **A** is true.
 
 TODO: Exercises
 
