@@ -617,7 +617,7 @@ The hawk-eyed reader may notice that we have taken some liberties with parenthes
 
 ((x is Greek) or **(**(x is Latin) or (x is Hebrew)**)**)
 
-Both of these statements mean the same thing and are true under exactly the same circumstances: namely, when at least one of the three clauses is true. Later we will be able to prove formally that these two statements are true under exactly the same circumstances. 
+Both of these statements mean the same thing and are true under exactly the same circumstances: namely, when at least one of the three clauses is true. Later we will be able to prove formally that these two statements are true under exactly the same circumstances. We omit the bolded parentheses and are deliberately ambiguous about which of these two statements we mean, purely as a matter of convenience, in what is an example of an **abuse of notation**.
 
 The other example of us taking liberty with parentheses in this translation is of the same kind, but with "and" instead of "or." The statement as a whole has the form:
 
