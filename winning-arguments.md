@@ -696,7 +696,7 @@ Not everybody agrees with all of these statements.
 
 Opponents of "no statement is both true and false" include **dialetheists**. Dialetheism is the view that there are true contradictions, i.e. statements that are both true and false (at exactly the same time, in exactly the same sense). Examples of dialetheists include Graham Priest, Jc Beall, and the author. It is not a purpose of this text to argue for dialetheism; though the author is a dialetheist, for the purposes of this text the reader will not be discouraged from regarding dialetheists as a strange group of people with a bizarre view that ought to be rejected.
 
-Here is a typical argument in favor of dialetheism. the statement "this statement is false." Call this statement L. In other words, L is the statement "L is false." If L is true, then L is false, because that's what L says. If L is false, then it's false that L is false (because that's what L says), meaning that L is true (since every statement is either true or false). In short, if L is true then L is false, and if L is false then L is true. Since L is either true or false, L is therefore both true and false.
+Here is a typical argument in favor of dialetheism. Consider the statement "this statement is false." Call this statement L. In other words, L is the statement "L is false." If L is true, then L is false, because that's what L says. If L is false, then it's false that L is false (because that's what L says), meaning that L is true (since every statement is either true or false). In short, if L is true then L is false, and if L is false then L is true. Since L is either true or false, L is therefore both true and false.
 
 One can reject this argument in favor of dialetheism in many different ways. 
 
