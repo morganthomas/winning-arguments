@@ -491,29 +491,33 @@ As you can see, these statements look a lot like statements in English, but not 
 There are three kinds of words in (our presentation of) first-order logic: variable names, predicates, verbs, and connective words.
 
 * For **variable names** we will use single italicized lower case letters: *a*, *b*, *c*...
+* For **object literals** we will use English phrases denoting objects, e.g. "the President of the United States" or "this chicken." The latter example illustrates that English phrases denoting objects can be context-sensitive in meaning.
 * For **predicates** we will use upper case letters (P, Q, R, ...) and ordinary English phrases denoting categories of objects, specific objects, or properties (e.g. "a dog," "the President of the United States," "clean").
 * For **verbs** we will use ordinary English verbs, e.g. "loves." 
 * The following are all the **connective words:** **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
+An **object term** (of our presentation of first-order logic) is a variable name or an object literal. In other words it is any piece of syntax that can denote an object.
+
 We will also need notations for variables ranging over different types of words:
 
-* When we need a variable that ranges over object names, i.e. a *meta-variable*, we will use bolded lower case letters: **a**, **b**, **c**, ...
-* When we need a variable that ranges over predicates, i.e. a *predicate variable*, we will use bolded upper case letters: **P**, **Q**, **R**, ...
-* When we need a variable that ranges over statements, i.e. a *statement variable*, we will use bolded upper case letters from the beginning of the alphabet: **A**, **B**, **C**, ...
+* When we need a variable that ranges over object terms, i.e. an *object meta-variable*, we will use bolded lower case letters starting with "a": **a**, **b**, **c**, ...
+* When we need a variable that ranges over object terms, we will use bolded lower case letters starting with "t": **t**, **u**, ...
+* When we need a variable that ranges over predicates, i.e. a *predicate variable*, we will use bolded upper case letters starting with "P": **P**, **Q**, **R**, ...
+* When we need a variable that ranges over statements, i.e. a *statement variable*, we will use bolded upper case letters starting with "A": **A**, **B**, **C**, ...
 
-A "lexical unit" (of our presentation of first-order logic) is a word, a parenthesis, or a comma.
+A **lexical unit** (of our presentation of first-order logic) is a word, a parenthesis, or a comma.
 
 A "statement" (of our presentation of first-order logic) is any sequence of lexical units which can be formed according to the following rules:
 
-1. If **a** is a variable name and **P** is a predicate, then (**a** is **P**) is a statement.
-2. If **a** is a variable name and **v** is a verb, then (**a** **v**) is a statement.
-3. If **a** and **b** are variable names and **v** is a verb, then (**a** **v** **b**) is a statement.
-4. If **A** is a statement, then (not **A**) is a statement.
-5. If **A** is a statement and **B** is a statement, then:
+1. If **a** is an object term and **P** is a predicate, then (**a** is **P**) is a statement.
+3. If **a** is an object term and **v** is a verb, then (**a** **v**) is a statement.
+4. If **a** and **b** are object terms and **v** is a verb, then (**a** **v** **b**) is a statement.
+5. If **A** is a statement, then (not **A**) is a statement.
+6. If **A** is a statement and **B** is a statement, then:
     * (if **A** then **B**) is a statement.
     * (**A** and **B**) is a statement.
     * (**A** or **B**) is a statement.
-6. If **A** is a statement and **a** is a variable name, then:
+7. If **A** is a statement and **a** is a variable name, then:
     * (for all **a**, **A**) is a statement.
     * (for some **a**, **A**) is a statement.
 
@@ -572,7 +576,7 @@ In order to investigate further, we shall abandon contrived examples, look at so
 
 **This cake is well named, as it has a very delicate consistency.**
 
-=> ((this cake is well named) and (this cake is delicate in consistency) and ("this cake is well named" is justified by "this cake is delicate in consistency"))
+=> ((this cake is well named) and (this cake is delicate in consistency) and (the statement (this cake is well named) is justified by the statement (this cake is delicate in consistency)))
 
 Sentence from: Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.
 
@@ -582,7 +586,7 @@ Sentence from: Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.
 * The cake has a delicate consistency.
 * The cake is well named because it has a delicate consistency.
 
-
+This third statement is actually expressing a relationship between the first two statements: namely, that "this cake has a delicate consistency" justifies "this cake is well named." This is reflected in the translation, where the verb "is justified by" relates the two 
 
 ## Truth
 
