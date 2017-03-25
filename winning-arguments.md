@@ -567,7 +567,7 @@ Many connective words/phrases have conventional names:
 * **not** is called **negation**. A statement of the form (not **A**) can be called **a negation**.
 * **if/then** is called **the conditional**. A statement of the form (if **A** then **B**) can be called **a conditional**.
 * **for all** is called the **universal quantifier**, and is one of the two examples of a **quantifier** in first-order logic. A statement of the form (for all **a**, **A**) can be called **a universally quantified statement** or **a universal statement**.
-* **for some** is called the **existential quantifier**, and is one of two examples of a **quantifier** in first-order logic. A statement of the form (for some **a**, **A**) can be called **an existentially quantified statement** or **an existential statement**.
+* **for some** is called the **existential quantifier**, and is one of the two examples of a **quantifier** in first-order logic. A statement of the form (for some **a**, **A**) can be called **an existentially quantified statement** or **an existential statement**.
 
 An occurrence of a variable name in a statement is called a **bound occurrence** if it is enclosed by a quantifier over the same variable; otherwise it is called a **free occurrence**. For example, in the statement (for some *x*, (*x* is a prairie dog)), the occurrence of *x* in (*x* is a prairie dog) is a bound occurrence. In the statement ((*x* is a prairie dog) and (for some *y*, (*x* loves *y*))), both occurrences of *x* are free, whereas the one occurrence of *y* is bound.
 
