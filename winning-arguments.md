@@ -690,9 +690,11 @@ What is truth? What does it mean for something to be true? Let's start by using 
 * Every statement is either true or false.
 * What's true is true and what's false is false, independently of what people believe, say, or wish.
 * Truth is something worth pursuing.
-* Truth is the opposite of falsehood.
+* Truth is the opposite of falsehood
 
-Not everybody agrees with all of these statements.
+Not everybody agrees with all of these statements. Let's examine the ones that are controversial.
+
+**No statement is both true and false.**
 
 Opponents of "no statement is both true and false" include **dialetheists**. Dialetheism is the view that there are true contradictions, i.e. statements that are both true and false (at exactly the same time, in exactly the same sense). Examples of dialetheists include Graham Priest, Jc Beall, and the author. It is not a purpose of this text to argue for dialetheism; though the author is a dialetheist, for the purposes of this text the reader will not be discouraged from regarding dialetheists as a strange group of people with a bizarre view that ought to be rejected.
 
@@ -701,6 +703,12 @@ Here is a typical argument in favor of dialetheism. Consider the statement "this
 One can reject this argument in favor of dialetheism in many different ways. The usual response is what we can call the "indifferent shrug." This is a mode of response where one disregards the argument and its conclusion without providing any reason to do so.
 
 The indifferent shrug is not necessarily an irrational response, in my opinion. Life is short and there are many things to do in the world. If somebody feels that they should not devote their time to evaluating an argument with a patently absurd and yet pointless conclusion, I can't necessarily say their decision making is poor.
+
+**Every statement is either true or false.**
+
+**What's true is true and what's false is false, independently of what people believe, say, or wish.**
+
+**Truth is something worth pursuing.**
 
 ## Reasons
 
