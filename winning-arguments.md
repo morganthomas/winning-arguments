@@ -596,11 +596,11 @@ Sentence from: Max Lucado. He Chose the Nails. Thomas Nelson.
 
 The size of this translation shows that many different logical propositions are contained in this not-exceptionally-long English sentence.
 
-The hawk-eyed reader will notice that we have taken some liberties with parentheses in this translation. For example, we wrote ((x is Greek) or (x is Latin) or (x is Hebrew)), but technically this statement cannot be produced by our syntax rules, because our syntax rules cannot produce three "or" clauses under one shared set of paretheses. To conform technically to our syntax, the statement must be written with two of the "or" clauses parenthesized together, in one of these two ways:
+The hawk-eyed reader will notice that we have taken some liberties with parentheses in this translation. For example, we wrote ((x is Greek) or (x is Latin) or (x is Hebrew)), but technically this statement cannot be produced by our syntax rules, because our syntax rules cannot produce three "or" clauses under one shared set of paretheses. To conform technically to our syntax, the statement must be written with two of the "or" clauses parenthesized together, in one of these two ways (with the added parentheses in bold):
 
-(((x is Greek) or (x is Latin)) or (x is Hebrew)
+(**(**(x is Greek) or (x is Latin)**)** or (x is Hebrew)
 
-((x is Greek) or ((x is Latin) or (x is Hebrew)))
+((x is Greek) or **(**(x is Latin) or (x is Hebrew)**)**)
 
 ## Truth
 
