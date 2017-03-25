@@ -621,7 +621,9 @@ The other example of us taking liberty with parentheses in this translation is o
 
 **Besides the theories on the unity of the concept of being in the writings of Henry of Ghent and John Duns Scotus, there were other late medieval attempts to resolve this basic issue of metaphysics.**
 
-(for some *a*, (for some *b*, ((Henry of Ghent wrote *a*) and (John Duns Scotus wrote *b*) and (*a* is a theory of the unity of the concept of being) and (*b* is a theory of the unity of the concept of being) and (*a* is late Medieval) and (*b* is late Medieval) and (the theory of the unity of the concept of being is a basic issue of metaphysics) and (for some *c*, ((not (*c* is *a*)) and (not (*c* is *b*)) and (*c* is a theory of the unity of the concept of being) and (*c* is late Medieval))))))
+Translation: (for some *a*, (for some *b*, ((Henry of Ghent wrote *a*) and (John Duns Scotus wrote *b*) and (*a* is a theory of the unity of the concept of being) and (*b* is a theory of the unity of the concept of being) and (*a* is late Medieval) and (*b* is late Medieval) and (the theory of the unity of the concept of being is a basic issue of metaphysics) and (for some *c*, ((not (*c* is *a*)) and (not (*c* is *b*)) and (*c* is a theory of the unity of the concept of being) and (*c* is late Medieval))))))
+
+Sentence from: Richard H. Popkin (ed.). The Columbia History of Western Philosophy. Columbia University Press.
 
 ## Truth
 
