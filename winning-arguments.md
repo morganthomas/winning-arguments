@@ -641,7 +641,7 @@ This translation omits the difficulty the speaker has in referring to Godot, and
 
 This example illustrates that there can be multiple plausible translations of an English statement into first-order logic. This is a usual feature of translation from any language into any other language.
 
-In order to ensure their understanding of the foregoing, which is necessary for understanding of what follows, the reader should ensure they are able to translate statements from English into first-order logic. Perhaps it is evident to the reader how to do this from what has been said. The reader is encouraged to find English sentences and translate them into first-order logic, and to try to discover the limits of what first-order logic to express. Especially if this exercise is difficult, the reader can try the provided exercises, which include answers and walk through the process of translation.
+In order to ensure their understanding of the foregoing, which is necessary for understanding of what follows, the reader should ensure they are able to translate statements from English into first-order logic. Perhaps it is evident to the reader how to do this from what has been said. The reader is encouraged to find English sentences and translate them into first-order logic, and to try to discover the limits of what first-order logic to express. Especially if this exercise is difficult, the reader can try the provided exercises, which include answers and walk through the process of arriving at those answers.
 
 TODO: Exercises
 
