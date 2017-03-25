@@ -676,7 +676,7 @@ This simply means that the reader will mostly have to figure out for themselves 
 
 ## Truth
 
-What is truth? What does it mean for something to be true? Let's start by using the words "true" and "truth" in some sentences the reader will probably agree with.
+What is truth? What does it mean for something to be true? Let's start by using the words "true" and "truth" in some sentences the reader will probably agree with. It's OK if the reader disagrees with any of them.
 
 * It is true that smoking causes lung cancer.
 * "Smoking causes lung cancer" is a true statement.
