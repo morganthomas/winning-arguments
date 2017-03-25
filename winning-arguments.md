@@ -496,7 +496,7 @@ There are three kinds of words in (our presentation of) first-order logic: varia
 * For **verbs** we will use ordinary English verbs, e.g. "loves." 
 * The following are all the **connective words:** **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
-An **object term** (of our presentation of first-order logic) is a variable name or an object literal. In other words it is any piece of syntax that can denote an object.
+An **object term** (of our presentation of first-order logic) is a variable name or an object literal. In other words an object term is any piece of syntax that can denote an object.
 
 We will also need notations for variables ranging over different types of words:
 
