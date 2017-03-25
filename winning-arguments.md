@@ -572,9 +572,11 @@ In order to investigate further, we shall abandon contrived examples, look at so
 
 **This cake is well named, as it has a very delicate consistency.**
 
-- Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.
+=> ((this cake is well named) and (this cake is delicate in consistency))
 
-((this cake is well named) and (this cake is delicate in consistency))
+Source: Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.
+
+
 
 ## Truth
 
