@@ -700,7 +700,7 @@ Here is a typical argument in favor of dialetheism. Consider the statement "this
 
 One can reject this argument in favor of dialetheism in many different ways. The usual response is what we can call the "indifferent shrug." This is a mode of response where one disregards the argument and its conclusion without providing any reason to do so.
 
-The indifferent shrug is not necessarily an irrational response, in my opinion. Life is short and there are many things to do in the world. If somebody feels that they should not devote their time to evaluating an argument with a patently absurd and yet pointless conclusion, I can't necessarily say their decision making is poor in that instance.
+The indifferent shrug is not necessarily an irrational response, in my opinion. Life is short and there are many things to do in the world. If somebody feels that they should not devote their time to evaluating an argument with a patently absurd and yet pointless conclusion, I can't necessarily say their decision making is poor.
 
 ## Reasons
 
