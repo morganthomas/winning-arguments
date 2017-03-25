@@ -565,7 +565,7 @@ Many connective words/phrases have conventional names:
 * **and** is called **conjunction**. A statement of the form (**A** and **B**) can be called **a conjunction**.
 * **or** is called **disjunction**. A statement of the form (**A** or **B**) can be called **a disjunction**.
 * **not** is called **negation**. A statement of the form (not **A**) can be called **a negation**.
-* **if/then** is called the **conditional**. A statement of the form (if **A** then **B**) can be called **a conditional**.
+* **if/then** is called **the conditional**. A statement of the form (if **A** then **B**) can be called **a conditional**.
 * **for all** is called the **universal quantifier**, and is one of two examples of a **quantifier**. A statement of the form (for all **a**, **A**) can be called **a universally quantified statement** or **a universal statement**.
 * **for some** is called the **existential quantifier**, and is one of two examples of **quantifier**. A statement of the form (for some **a**, **A**) can be called **an existentially quantified statement** or **an existential statement**.
 
