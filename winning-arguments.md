@@ -592,6 +592,8 @@ This third statement is expressing a relationship between the first two statemen
 
 Translation: ((Latin is a great language of the ancient world) and (Hebrew is a great language of the ancient world) and (Greek is a great language of the ancient world) and (for all x, (if (x is a great language of the ancient world) then ((x is Greek) or (x is Latin) or (x is Hebrew)))) and (for all x, (if ((x is a person) and (x is passing by the sign)) then ((x can read a great language of the ancient world) and (x can read the sign) and (the statement (x can read a great language of the ancient world) justifies the statement (x can read the sign)))))).
 
+Sentence from: Max Lucado. He Chose the Nails. Thomas Nelson.
+
 ## Truth
 
 ## Reasons
