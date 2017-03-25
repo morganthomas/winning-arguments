@@ -566,7 +566,7 @@ Earlier we made the claim that essentially any statement can be expressed in fir
 
 First-order logic is not the only formal language about which one may fairly make this claim. There are many formal languages about which one may fairly make this claim. Most of them bear some resemblance to first-order logic. First-order logic is a good example of the category.
 
-The first-order logic statements we have seen, when read aloud, are in essence English sentences (although their use of variable names is not ordinary English). Clearly many English sentences are already in essence statements of first-order logic; they would be statements of first-order logic if appropriate parentheses were added. In other cases, varying degrees of rephrasing are required to express an English statement in first-order logic.
+The first-order logic statements we have seen, when read aloud, are in essence English sentences (although their use of variable names is not ordinary English). Clearly many English sentences are already in essence statements of first-order logic, in the sense that a translation is obvious and closely resembles the original sentence. In other cases, varying degrees of rephrasing are required to express an English statement in first-order logic.
 
 
 
