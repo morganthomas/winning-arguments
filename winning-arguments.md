@@ -649,7 +649,7 @@ The reader is encouraged to try to find limits to what first-order logic can exp
 
 TODO: Discuss general techniques for eliminating English grammar constructs not present in first-order logic
 
-TODO: Discuss philosophy of translation in more depth
+TODO: Discuss philosophy of translation into first-order logic in more depth
 
 ## Truth
 
