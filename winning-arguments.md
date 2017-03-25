@@ -147,9 +147,18 @@ We have collected some examples and non-examples of games, and we have a substan
 
 TODO: Below is sloppy, make better
 
+Grice argued that participants in conversations usually follow certain (maxims of conversation)[https://www.sas.upenn.edu/~haroldfs/dravling/grice.html]. They are (to quote):
+
+1. **The maxim of quantity**, where one tries to be as informative as one possibly can, and gives as much information as is needed, and no more.
+2. **The maxim of quality**, where one tries to be truthful, and does not give information that is false or that is not supported by evidence.
+3. **The maxim of relation**, where one tries to be relevant, and says things that are pertinent to the discussion.
+4. **The maxim of manner**, when one tries to be as clear, as brief, and as orderly as one can in what one says, and where one avoids obscurity and ambiguity.
+
+Obviously these rules are violated by speakers on a regular basis, but other speakers who perceive the violations tend to perceive them as violations. If one agrees with that, then one agrees in this sense that Grice's maxims are rules that conversations follow.
+
 One of the norms that most conversations can (at least in my experience) be observed to follow is that when talking about a subject, one should not make a statement on a new subject until nobody still has a statement to make on the current subject, unless an interruption from the environment requires a change of subject. In the case of an interruption from the environment, the norm usually followed in the conversations I observe is to return to the same point in the suspended conversation where the interruption occurred, once the interruption has been dealt with.
 
-Besides such conversational norms of speaking priority, which are I'm sure not universal to all conversations, each conversation will invariably follow many rules of grammar and prononunciation particular to the language(s) being used in the conversation. These are further examples of rules that conversations follow. Therefore we can say that conversations have rules. Therefore we can say the game of conversation is not a counterexample to the claim that games always have rules.
+On a more basic level, each conversation will invariably follow many rules of grammar and prononunciation particular to the language(s) being used in the conversation. These are further examples of rules that conversations follow. Therefore we can say that conversations have rules. Therefore we can say the game of conversation is not a counterexample to the claim that games always have rules.
 
 Other counterexamples I'm aware of can be disposed of in similar ways. It looks to me like any appearance of a gamelike activity lacking rules is due to failure to look sufficiently broadly for rules governing the activity. In interpreting this statement, it should be understood that rules need not be inviolable to be rules.
 
