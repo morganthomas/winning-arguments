@@ -676,16 +676,15 @@ This simply means that the reader will mostly have to figure out for themselves 
 
 ## Truth
 
-What is truth? What does it mean for something to be true? Let's start by using the words "true" and "truth" in some sentences the reader will probably agree with. It's OK if the reader disagrees with any of them.
+What is truth? What does it mean for something to be true? Let's start by using the words "true" and "truth" in a mixture of obviously true statements, and truisms whose truth might be less clear:
 
 * It is true that smoking causes lung cancer.
 * "Smoking causes lung cancer" is a true statement.
 * It is false that water is made of methane.
 * "Water is made of methane" is a false statement.
 * No statement is both true and false.
-* Every statement about the natural world is either true or false.
-* Every statement about mathematics is either true or false.
-* Every statement asserting the actual existence or actual non-existence of a kind of thing is either true or false.
+* Every statement is either true or false.
+* What's true is true and what's false is false, independently of what people believe, say, or wish.
 * Truth is something worth pursuing.
 * Truth is the opposite of falsehood.
 
