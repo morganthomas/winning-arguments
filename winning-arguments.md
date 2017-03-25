@@ -507,7 +507,7 @@ We will also need notations for variables ranging over different types of words:
 
 A **lexical unit** (of our presentation of first-order logic) is a word, a parenthesis, or a comma.
 
-A "statement" (of our presentation of first-order logic) is any sequence of lexical units which can be formed according to the following rules:
+A **statement** (of our presentation of first-order logic) is any sequence of lexical units which can be formed according to the following rules:
 
 1. If **a** is an object term and **P** is a predicate, then (**a** is **P**) is a statement.
 3. If **a** is an object term and **v** is a verb, then (**a** **v**) is a statement.
