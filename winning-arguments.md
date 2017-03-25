@@ -698,7 +698,9 @@ Opponents of "no statement is both true and false" include **dialetheists**. Dia
 
 Here is a typical argument in favor of dialetheism. Consider the statement "this statement is false." Call this statement L. In other words, L is the statement "L is false." If L is true, then L is false, because that's what L says. If L is false, then it's false that L is false (because that's what L says), meaning that L is true (since every statement is either true or false). In short, if L is true then L is false, and if L is false then L is true. Since L is either true or false, L is therefore both true and false.
 
-One can reject this argument in favor of dialetheism in many different ways. 
+One can reject this argument in favor of dialetheism in many different ways. The usual response is what we can call the "indifferent shrug." This is a mode of response where one disregards the argument and its conclusion without providing any reason to do so.
+
+The indifferent shrug is not necessarily an irrational response, in my opinion. Life is short and there are many things to do in the world. If somebody feels that they should not devote their time to evaluating an argument with a patently absurd and yet pointless conclusion, I can't necessarily say their decision making is poor in that instance.
 
 ## Reasons
 
