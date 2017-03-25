@@ -145,9 +145,7 @@ We have collected some examples and non-examples of games, and we have a substan
 
 **Do games always have rules?** Can we think of an example of a game that has no rules? Conversation, one might argue, is a game with no rules. In some sense this is true; people are free to say whatever they want. However, conversation does have many unstated norms that are usually not violated.
 
-TODO: Below is sloppy, make better
-
-Grice argued that participants in conversations usually follow certain (maxims of conversation)[https://www.sas.upenn.edu/~haroldfs/dravling/grice.html]. They are (to quote):
+Grice argued that participants in conversations usually follow certain (maxims)[https://www.sas.upenn.edu/~haroldfs/dravling/grice.html]. They are (to quote):
 
 1. **The maxim of quantity**, where one tries to be as informative as one possibly can, and gives as much information as is needed, and no more.
 2. **The maxim of quality**, where one tries to be truthful, and does not give information that is false or that is not supported by evidence.
