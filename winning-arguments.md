@@ -19,7 +19,7 @@ For those who have not read much philosophy before, I apologize for the abstract
 * If there's a sentence or a section that's giving you too much difficulty, you can skip it.
 * If you get totally lost and stop being able to follow what's being said, you can go back to the last point in the text up to which you're comfortable you've understood things, and re-read from there.
 * If you come across a word you don't know, whose meaning you can't infer from context, then you should look up a definition for the word.
-* If you come across a word whose meaning you don't know in the particular context it's used, then look for a standard dictionary definition of the word and see if that fits.
+* If you come across a word whose meaning you don't understand in the particular context it's used, then look for a standard dictionary definition of the word and see if that fits.
 
 To those who are new to philosophy, I recommend patience with the speed of one's understanding if it proves to try one's patience. Philosophical thoughts are usually developed by going over the same problems again and again over the course of years, and understanding philosophical writing often requires reading it multiple times and thinking about it over time.
 
