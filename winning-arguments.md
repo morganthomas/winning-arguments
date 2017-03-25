@@ -549,6 +549,7 @@ The reader should also understand what statements in first-order logic. For the 
 
 * (**A** and **B**) means that **A** and **B** are both true.
 * (**A** or **B**) means that at least one of **A** or **B**, and possibly both, are true. The "or" in first-order logic is therefore an *inclusive or*. This can be distinguished from an *exclusive or*, which differs from an inclusive or in that it an exclusive or is false when both disjuncts are true. That is, an exclusive or requires exactly one of its disjuncts to be true, as opposed to at least one as with inclusive or.
+* (not **A**) means that **A** is not true.
 
 TODO: Exercises
 
