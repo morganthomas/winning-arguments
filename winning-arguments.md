@@ -696,7 +696,7 @@ Not everybody agrees with all of these statements. Let's examine the ones that a
 
 **No statement is both true and false.**
 
-This is the least controversial of our controversial statements. Almost everybody who comments on the topic agrees that a statement that is both true and false is an impossibility and would be an absurdity.
+This truism is sometimes called **the law of non-contradiction**. This is the least controversial of our controversial statements. Almost everybody who comments on the topic agrees that a statement that is both true and false is an impossibility and would be an absurdity.
 
 Opponents of "no statement is both true and false" are sometimes called **dialetheists**. Dialetheism is the view that there are true contradictions, i.e. statements that are both true and false (at exactly the same time, in exactly the same sense). Examples of dialetheists include Graham Priest, Jc Beall, and the author. It is not a purpose of this text to argue for dialetheism; though the author is a dialetheist, for the purposes of this text the reader will not be discouraged from regarding dialetheists as a strange group of people with a bizarre view that ought to be rejected.
 
@@ -711,6 +711,10 @@ The indifferent shrug is not necessarily an irrational response to the liar para
 However, it is undeniable that the indifferent shrug is not a satisfactory response to everybody. I would therefore like to helpfully provide what I think is a better response to the liar paradox for people who don't wish to agree with me that there are true contradictions and also don't find the indifferent shrug to be a satisfactory response. However, I will not do that right now, as we need further background material first. Therefore let's move on to our next controversial statement about truth.
 
 **Every statement is either true or false.**
+
+This truism is sometimes called the **law of the excluded middle**. Aristotle is the earliest writer I'm aware of to have asserted this law, when he wrote "there cannot be an intermediate between contradictories, but of one subject we must either affirm or deny any one predicate." (*Metaphysics*, Book IV, Part 7)
+
+
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
