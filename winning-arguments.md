@@ -716,9 +716,12 @@ This truism is sometimes called the **law of the excluded middle**. It states, i
 
 Aristotle is the earliest writer I'm aware of to have asserted this law, when he wrote "there cannot be an intermediate between contradictories, but of one subject we must either affirm or deny any one predicate." (*Metaphysics*, Book IV, Part 7) 
 
-The law of the excluded middle is a feature of the standard rules for first-order logic, and it is a popular idea among logicians that the law is true. However, it is also a fairly popular idea that the law is false.
+The law of the excluded middle is a feature of the standard rules for first-order logic, and it is a popular idea among logicians that the law is true. However, it is also a fairly popular idea that the law is false. I am not personally an opponent of the law of the excluded middle, but if I were to try to argue against it, I might bring up statements like the following as possible examples of statements that are neither true nor false:
 
-Let's first look at some conditions under which the statement is true.
+* "The [continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) is true." The continuum hypothesis is a statement about sets which can be neither proven nor disproven on the basis of any widely accepted statements about sets. The continuum hypothesis, being a possibly unsolvable question about a type of thing, sets, that may themselves be an imagination of humans, may be neither true nor false.
+* "Christianity is a good religion." Whether Christianity is a good religion depends on what one thinks makes for a good religion. Some would argue there is no such thing as a good religion, and Christianity has been a net bad for the world. Others would argue that Christianity is not only a good religion, but the only good religion. There are many perspectives in between. This multiplicity of seemingly defensible perspectives based on differing value judgments, one may argue, means that "Christianity is a good religion" is neither true nor false.
+
+Let's look at some conditions under which the law of excluded middle is uncontroversially true.
 
 When it comes to clear statements of fact about ordinary medium-sized physical objects, such statements are either true or false, if there is an objective reality which conforms to our ordinary common sense beliefs about physical reality, namely that there is a fully existent physical reality in a single determinate state where every detail that could be investigated exists even when it's not being observed.
 
