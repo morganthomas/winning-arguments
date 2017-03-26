@@ -507,12 +507,12 @@ Here are some examples of statements in our version of first-order logic:
 
 As you can see, these statements look a lot like statements in English, but not quite. Let's go through the rules that define the grammar of this language.
 
-There are three kinds of words in (our presentation of) first-order logic: variable names, predicates, verbs, and connective words.
+There are the following kinds of words in (our presentation of) first-order logic: variable names, object literals, predicates, [copulas](https://en.wikipedia.org/wiki/Copula_(linguistics)#English), such as verbs, and connective words.
 
 * For **variable names** we will use single italicized lower case letters: *a*, *b*, *c*...
 * For **object literals** we will use English phrases denoting objects, e.g. "the President of the United States" or "this chicken." The latter example illustrates that English phrases denoting objects can be context-sensitive in meaning.
 * For **predicates** we will use upper case letters (P, Q, R, ...) and ordinary English phrases denoting categories of objects, specific objects, or properties (e.g. "a dog," "the President of the United States," "clean").
-* For **verbs** we will use ordinary English verbs, e.g. "loves." 
+* For **copulas** we will use ordinary English copulas, e.g. "loves" TODO more examples
 * The following are all the **connective words:** **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
 An **object term** (of our presentation of first-order logic) is a variable name or an object literal. In other words an object term is any piece of syntax that can denote an object.
@@ -522,7 +522,7 @@ We will also need notations for variables ranging over different types of words:
 * When we need a variable that ranges over object terms, i.e. an *object meta-variable*, we will use bolded lower case letters starting with "a": **a**, **b**, **c**, ...
 * When we need a variable that ranges over predicates, i.e. a *predicate variable*, we will use bolded upper case letters starting with "P": **P**, **Q**, **R**, ...
 * When we need a variable that ranges over statements, i.e. a *statement variable*, we will use bolded upper case letters starting with "A": **A**, **B**, **C**, ...
-* When we need a variable that ranges over verbs, we will use a bolded lower case **v**.
+* When we need a variable that ranges over copulas, we will use a bolded lower case **v**.
 
 A **lexical unit** (of our presentation of first-order logic) is a word, a parenthesis, or a comma.
 
@@ -712,9 +712,22 @@ However, it is undeniable that the indifferent shrug is not a satisfactory respo
 
 **Every statement is either true or false.**
 
-This truism is sometimes called the **law of the excluded middle**. Aristotle is the earliest writer I'm aware of to have asserted this law, when he wrote "there cannot be an intermediate between contradictories, but of one subject we must either affirm or deny any one predicate." (*Metaphysics*, Book IV, Part 7) The law is a feature of the standard rules for first-order logic, and it is a popular idea among logicians that the law is true. However, it is also a fairly popular idea that the law is false.
+This truism is sometimes called the **law of the excluded middle**. It states, in other words, that there are no statements which are neither true nor false.
 
+Aristotle is the earliest writer I'm aware of to have asserted this law, when he wrote "there cannot be an intermediate between contradictories, but of one subject we must either affirm or deny any one predicate." (*Metaphysics*, Book IV, Part 7) 
 
+The law of the excluded middle is a feature of the standard rules for first-order logic, and it is a popular idea among logicians that the law is true. However, it is also a fairly popular idea that the law is false.
+
+Let's first look at some conditions under which the statement is true.
+
+When it comes to clear statements of fact about ordinary medium-sized physical objects, such statements are either true or false, if there is an objective reality which conforms to our ordinary common sense beliefs about physical reality, namely that there is a fully existent physical reality in a single determinate state where every detail that could be investigated exists even when it's not being observed.
+
+Most agree that statements about natural numbers are either true or false. We will look now at an argument to that effect. To set up for the argument, we need to make more precise the notion of "statements about natural numbers."
+
+A natural number is a non-negative, non-fractional number. In other words, the natural numbers are 0, 1, 2, 3, 4, and so forth. Statements about natural numbers are statements of first-order logic where:
+
+* The object literals are only natural numbers (0, 1, 2, ...).
+* 
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
