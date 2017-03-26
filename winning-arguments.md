@@ -724,10 +724,7 @@ When it comes to clear statements of fact about ordinary medium-sized physical o
 
 Most agree that statements about natural numbers are either true or false. We will look now at an argument to that effect. To set up for the argument, we need to make more precise the notion of "statements about natural numbers."
 
-A natural number is a non-negative, non-fractional number. In other words, the natural numbers are 0, 1, 2, 3, 4, and so forth. Statements about natural numbers are statements of first-order logic where:
-
-* The object literals are only natural numbers (0, 1, 2, ...).
-* 
+A natural number is a non-negative, non-fractional number. In other words, the natural numbers are 0, 1, 2, 3, 4, and so forth. Statements about natural numbers are statements that can be produced using the following rules of formation. TODO
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
