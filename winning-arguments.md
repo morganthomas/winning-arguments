@@ -726,7 +726,7 @@ The law of the excluded middle is a feature of the standard rules for first-orde
 
 As you can see, there is some reason to be less than confident in asserting that every statement is either true or false. Let's look at some conditions under which the law of excluded middle is uncontroversially true (or at any rate conditions where I'm unaware of any controversy or basis for controversy).
 
-When it comes to clear statements of fact about ordinary medium-sized physical objects, such statements are always either true or false, if there is an objective reality which conforms to our ordinary common sense beliefs about physical reality, namely that there is a fully existent physical reality in a single determinate state where every detail that could be investigated exists in a determinate state even when it's not being observed.
+When it comes to sufficiently precise statements of fact about ordinary medium-sized physical objects, such statements are always either true or false, if there is an objective reality which conforms to our ordinary common sense beliefs about physical reality, namely that there is a fully existent physical reality in a single determinate state where every detail that could be investigated exists in a determinate state even when it's not being observed.
 
 Most agree that statements about natural numbers are either true or false. We will look now at an argument to that effect. To set up for the argument, we need to make more precise the notion of "statements about natural numbers."
 
