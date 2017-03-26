@@ -712,7 +712,7 @@ However, it is undeniable that the indifferent shrug is not a satisfactory respo
 
 **Every statement is either true or false.**
 
-This truism is sometimes called the **law of the excluded middle**. Aristotle is the earliest writer I'm aware of to have asserted this law, when he wrote "there cannot be an intermediate between contradictories, but of one subject we must either affirm or deny any one predicate." (*Metaphysics*, Book IV, Part 7)
+This truism is sometimes called the **law of the excluded middle**. Aristotle is the earliest writer I'm aware of to have asserted this law, when he wrote "there cannot be an intermediate between contradictories, but of one subject we must either affirm or deny any one predicate." (*Metaphysics*, Book IV, Part 7) The law is a feature of the standard rules for first-order logic, and it is a popular idea among logicians that the law is true. However, it is also a fairly popular idea that the law is false.
 
 
 
