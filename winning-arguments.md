@@ -781,6 +781,8 @@ The law of non-contradiction states that no statement is both true and false. Th
 
 The law of the excluded middle states that every statement is either true or false. The law of the excluded middle is controversial, and neither side in the debate has struck a decisive blow, in the author's awareness. The reader is encouraged to form their own opinion.
 
+What's true is true and what's false is false, independently of what people believe, say, or wish, at least when you're talking about sufficiently precise statements of fact about ordinary medium-size physical objects, and relative to a fixed framework of definitions of words.
+
 ## Reasons
 
 ## Belief
