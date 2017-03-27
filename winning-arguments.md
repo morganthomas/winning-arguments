@@ -785,6 +785,8 @@ What's true is true and what's false is false, independently of what people beli
 
 Truth is worth pursuing. A life of pursuing truth (and love), in the author's opinion, is the best life available on this Earth.
 
+**What is truth? What is true?**
+
 ## Reasons
 
 ## Belief
