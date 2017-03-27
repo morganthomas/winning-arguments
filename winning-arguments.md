@@ -750,7 +750,7 @@ This truism is not always accepted. In the author's opinion, looking at our expe
 
  * When we understand the causes of diseases, we are in a position to prevent and cure them with medical science.
  * When we know the truth about the politicians who represent us, we can hold them accountable more easily and increase the likelihood that the politicians in office are good, ethical point. 
- * When we understand how the natural world works, we can make technology that allows us to farm more efficiently and produce far more food with a given amount of human labor, allowing most of the human population to occupy themselves with activities other than food production.
+ * When we understand how the natural world works, we can make technology that allows us to farm more efficiently and produce far more food with a given amount of human labor, allowing most of the human population in developed countries to occupy themselves with activities other than agriculture.
 
 ## Reasons
 
