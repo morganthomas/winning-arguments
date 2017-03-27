@@ -734,6 +734,8 @@ Many classes of statements are **decidable**, meaning it is possible to write a 
 
 An example of a class of decidable statements are "bounded-quantifier arithmetical statements," or **BQA statements** as we will call them. TODO
 
+Let's take stock. Most of the time in the course of life, we are happy to assume that statements are either true or false. Most of the time assuming that a statement is either true or false will not lead us into any kind of error. However, sometimes it is inappropriate to assume that a statement is either true or false, as with the statement "science is reliable." It is generally safe to assume that sufficiently precise statements of fact about ordinary medium-sized physical objects are either true or false. It is generally safe to assume that mathematical statements are either true or false, because experience shows that most mathematical statements can be either proven or disproven.
+
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
 **Truth is something worth pursuing.**
