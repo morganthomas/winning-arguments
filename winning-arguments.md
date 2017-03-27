@@ -787,7 +787,7 @@ Truth is worth pursuing. A life of pursuing truth (and love), in the author's op
 
 **What is truth? What is true?**
 
-Here are a couple definitions of "truth" that I looked up on Google:
+Here are two definitions of "truth" that I looked up on Google:
 
 1. "the quality or state of being true"
 2. "that which is true or in accordance with fact or reality"
