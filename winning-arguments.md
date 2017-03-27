@@ -755,6 +755,8 @@ This truism is not always accepted. In the author's opinion, looking at our expe
  * When we know the truth about what's going on in our personal lives, we can make decisions that will be more likely to strengthen our relationships and avoid future suffering.
  * When we hold values that are based on deep and thorough analysis of the world as it actually is, our values are more likely to bias us towards making decisions that will be helpful in our lives and the lives of others.
 
+In my opinion, the consequences of pursuing and sharing the truth are almost always better than the consequences of attempting to conceal, evade, ignore, denigrate, distort, or escape the truth.
+
 ## Reasons
 
 ## Belief
