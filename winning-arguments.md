@@ -775,6 +775,7 @@ Notice that except for the first rule, these are all rules of statement formatio
  * ((1 + (1 + 1)) = ((1 + 1) + 1))
  * (for all *a*, (for some *b*, ((a+1)=b)))
  * (for all *a*, (for all *b*, (if (a < b) then ((a + 1) < (b + 1)))))
+ * (for some *a*, (for some *b*, (for some *c*, ((a > 0) and (b > 0) and (c > 0) and (((a * (a * a)) + (b * (b * b))) = (c * (c * c)))))))
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
