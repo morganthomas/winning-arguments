@@ -800,7 +800,7 @@ Every theory I've come across that can plausibly claim to do this is based on a 
 
 > "**A**" is true if and only if **A**.
 
-For example: "water is wet" is true if and only if water is wet.
+For example: "water is wet" is true if and only if water is wet, and "snow is warm" is true if and only if snow is warm.
 
 Theories of truth based on the T-schema been worked on by many people, including (for example) Alfred Tarski and Crispin Wright. One popular theory is that the T-schema explains the meaning of the word "true" by stating the fundamental rule governing the usage of the word "true."
 
