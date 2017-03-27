@@ -732,7 +732,7 @@ It's not obviously necessary to accept any of these as genuine counterexamples t
 * "The King of America is short" is not true or false, because the meaning or referent of the term "the King of America" is not clarified by the context of the world as it exists today and has existed in the past.
 * One can certainly maintain that the continuum hypothesis is either true or false. For example, one can be a mathematicial Platonist about sets. I.e., one can maintain that there is an objective reality of sets existing in a Platonic realm outside of space-time, and that one with perfect knowledge of this reality (e.g. God) would be able to know whether or not the continuum hypothesis was true or false by observing the universe of sets.
 
-My aim is not to say that the reader should accept these arguments, but merely to show that the law of the excluded middle is remarkably defensible. The reader is encouraged to form their own opinion on how widely the law of the excluded middle applies.
+My aim is not to say that the reader should accept these arguments as showing that the law of the excluded middle is true, but merely to show that the law of the excluded middle is remarkably defensible. The reader is encouraged to form their own opinion on how widely the law of the excluded middle applies.
 
 One can reject that the law of the excluded middle applies to all statements, while maintaining that there are some limited classes of statements wherein every statement is either true or false.
 
