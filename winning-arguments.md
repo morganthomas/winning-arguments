@@ -752,7 +752,7 @@ It is generally safe to assume that sufficiently precise statements of fact abou
 
 Exactly how broadly we can assume that statements are either true or false is a matter of controversy. Most would agree that statements in decidable classes, like BQA statements, are either true or false. Most think the same about sufficiently precise statements of fact about medium-sized physical objects. I believe that most mathematicians accept the law of the excluded middle as applied to math. Some philosophers think we can assume the law of excluded middle much more broadly.
 
-The reader is encouraged to use their own judgment in applying the law of the excluded middle, and to form their own opinion on the issues we have raised if they are interested. Practically speaking, I think the reader will find the law of the excluded middle is a useful logical tool which they feel comfortable applying to most cases.
+The reader is encouraged to use their own judgment in applying the law of the excluded middle, and to form their own opinion on the issues we have raised if they are interested. Practically speaking, I think the reader will find the law of the excluded middle is a useful logical tool which they feel comfortable applying in essentially any real world case where it's applicable.
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
