@@ -779,7 +779,7 @@ We've completed our discussion of the non-obvious truisms about truth that we li
 
 The law of non-contradiction states that no statement is both true and false. This law is endorsed by everybody who speaks on the subject, except for the dialetheists, who think that some statements are both true and false. One argument in favor of dialetheism is the liar paradox. This argument can be blocked in numerous ways, but we have yet to discuss that. The indifferent shrug, however, seems to be a fair enough response.
 
-The law of the excluded middle states that every statement is either true or false. The law of the excluded middle doesn't necessarily seem to apply to all English statements, given the existence of statements like "Christianity is a good religion" and "
+The law of the excluded middle states that every statement is either true or false. The law of the excluded middle is controversial, and neither side in the debate has struck a decisive blow, in the author's awareness.
 
 ## Reasons
 
