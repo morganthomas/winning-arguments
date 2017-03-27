@@ -792,7 +792,9 @@ Here are a couple definitions of "truth" that I looked up on Google:
 1. "the quality or state of being true"
 2. "that which is true or in accordance with fact or reality"
 
+Both of these definitions reference the word "true." Let's therefore turn to analyzing the meaning of the word "true," and come back to "truth" later.
 
+Some definitions of "true" that I found on Google are "in accordance with fact or reality" and "accurate or exact." These dictionary definitions don't help us get to the bottom of the issue, though; they merely replace one term we don't understand ("true") with related terms that we also don't understand ("fact," "reality," etc.).
 
 ## Reasons
 
