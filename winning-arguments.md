@@ -726,11 +726,32 @@ The law of the excluded middle is a feature of the standard rules for first-orde
 
 As you can see, there is some reason to be less than confident in the idea that every statement is either true or false. Let's now look at some conditions under which the law of excluded middle is uncontroversially true (or at any rate conditions where I'm unaware of any controversy or basis for controversy about this).
 
-When it comes to sufficiently precise statements of fact about ordinary medium-sized physical objects, such statements are always either true or false, if there is an objective reality which conforms to our ordinary common sense beliefs about physical reality, namely that there is a fully existent physical reality in a single determinate state where every detail that could be investigated exists in a determinate state even when it's not being observed.
+First example. When it comes to sufficiently precise statements of fact about ordinary medium-sized physical objects, such statements are always either true or false, if there is an objective reality which conforms to our ordinary common sense beliefs about physical reality, namely that there is a fully existent physical reality in a single determinate state where every detail that could be investigated exists in a determinate state even when it's not being observed.
 
-Most agree that statements about natural numbers are either true or false. We will look now at an argument to that effect. To set up for the argument, we need to make more precise the notion of "statements about natural numbers."
+Second example. Most agree that statements about natural numbers are either true or false. We will look now at an argument to that effect. To set up for the argument, we need to make more precise the notion of "statements about natural numbers."
 
-A natural number is a non-negative, non-fractional number. In other words, the natural numbers are 0, 1, 2, 3, 4, and so forth. Statements about natural numbers are statements that can be produced using the following rules of formation. TODO
+A natural number is a non-negative, non-fractional number. In other words, the natural numbers are 0, 1, 2, 3, 4, and so forth. 
+
+An **expression** is any piece of writing which can be produced by the following rules:
+
+ * Variable names are expressions: *a*, *b*, *c*, ...
+ * 0 and 1 are expressions.
+ * If **a** and **b** are expressions, then:
+   * (**a** + **b**) is an expression.
+   * (**a** * **b**) is an expression.
+
+The following are examples of expressions:
+
+ * *a*
+ * 0
+ * 1
+ * (*a* + 0)
+ * (1 + *b*)
+ * (1 + (1 + *b*))
+ * (1 + (1 + (1 + 0)))
+ * (*a* * 0)
+ * (1 * *a*)
+ * ((1 + (1 + 0)) * (*b* + *c*))
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
