@@ -728,7 +728,19 @@ As you can see, there is some reason to be less than confident in the idea that 
 
 First example. When it comes to sufficiently precise statements of fact about ordinary medium-sized physical objects, such statements are always either true or false, if there is an objective reality which conforms to our ordinary common sense beliefs about physical reality, namely that there is a fully existent physical reality in a single determinate state where every detail that could be investigated exists in a determinate state even when it's not being observed.
 
-Second example. Most agree that statements about natural numbers are either true or false. We will look now at an argument to that effect. To set up for the argument, we need to make more precise the notion of "statements about natural numbers."
+Second example. Suppose you have a statement 
+
+**What's true is true and what's false is false, independently of what people believe, say, or wish.**
+
+**Truth is something worth pursuing.**
+
+## Reasons
+
+## Belief
+
+## Persuasion
+
+## Natural numbers
 
 A natural number is a non-negative, non-fractional number. In other words, the natural numbers are 0, 1, 2, 3, 4, and so forth. 
 
@@ -782,13 +794,3 @@ Now we know what a statement about natural numbers is. We have promised to argue
 The definition of truth is context-sensitive. Recall that a context 
 
  * 
-
-**What's true is true and what's false is false, independently of what people believe, say, or wish.**
-
-**Truth is something worth pursuing.**
-
-## Reasons
-
-## Belief
-
-## Persuasion
