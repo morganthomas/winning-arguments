@@ -767,7 +767,14 @@ A **statement** (about natural numbers) is any piece of writing which can be pro
     * (for all **a**, **A**) is a statement.
     * (for some **a**, **A**) is a statement.
 
-Notice that except for the first rule, these are all rules of statement formation in first-order logic. The first rule essentially says that the object literals of the language are expressions (of natural numbers), and that the available copulas are < and =. Predicates and the "is" connective are not part of our language for talking about natural numbers.
+Notice that except for the first rule, these are all rules of statement formation in first-order logic. The first rule essentially says that the object literals of the language are expressions (of natural numbers), and that the available copulas are < and =. Predicates and the "is" connective are not part of our language for talking about natural numbers. Here are some examples of statements about natural numbers, some true and some false:
+
+ * (0 < 1)
+ * (0 = 0)
+ * (1 = 0)
+ * ((1 + (1 + 1)) = ((1 + 1) + 1))
+ * (for all *a*, (for some *b*, ((a+1)=b)))
+ * (for all *a*, (for all *b*, (if (a < b) then ((a + 1) < (b + 1)))))
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
