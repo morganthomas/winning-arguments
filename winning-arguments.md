@@ -777,6 +777,12 @@ Notice that except for the first rule, these are all rules of statement formatio
  * (for all *a*, (for all *b*, (if (a < b) then ((a + 1) < (b + 1)))))
  * (for some *a*, (for some *b*, (for some *c*, ((a > 0) and (b > 0) and (c > 0) and (((a * (a * a)) + (b * (b * b))) = (c * (c * c)))))))
 
+Now we know what a statement about natural numbers is. We have promised to argue that every statement about natural numbers is either true or false. To argue this, clearly we need to know what it means for a statement about natural numbers to be true (or false). Fortunately, there is a conventional definition of truth for statements about natural numbers, which is simple to give. I believe this style of truth definition is originally due to Tarski.
+
+The definition of truth is context-sensitive. Recall that a context 
+
+ * 
+
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
 **Truth is something worth pursuing.**
