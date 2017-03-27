@@ -724,7 +724,15 @@ The law of the excluded middle is a feature of the standard rules for first-orde
 * "The King of America is short." Of course there is no King of America, so the statement isn't true. However, if it were false, that would mean its negation was true, and the negation of "the King of America is short" is "the King of America is not short," which certainly isn't true either.
 * "The [continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) is true." The continuum hypothesis is a statement about sets which can be neither proven nor disproven on the basis of any widely accepted statements about sets. The continuum hypothesis, being a possibly unsolvable question about a type of thing, sets, that may themselves be an imagination of humans, may be neither true nor false.
 
-As you can see, there is some reason to be less than confident in the idea that every statement is either true or false. It is easier to maintain that there are some limited classes of statements wherein every statement is either true or false.
+It's not obviously necessary to accept any of these as genuine counterexamples to the law of the excluded middle.
+
+* "Christianity is a good religion," you can argue, is either true or false given further definition of "good." Like any statement, it requires context clarifying the meaning of the terms in order to be true or false, but given that, it is either true or false, one can rague.
+* "Science is reliable" can be addressed in the same way. Given context clarifying the meaning of "reliable," the statement is true or false, one can argue.
+* "Liberals are tolerant" can be addressed in the same way.
+* "The King of America is short" is not true or false, because the meaning or referent of the term "the King of America" is not clarified by the context of the world as it exists today and has existed in the past.
+* One can certainly maintain that the continuum hypothesis is either true or false. For example, one can be a mathematicial Platonist about sets. I.e., one can maintain that there is an objective reality of sets existing in a Platonic realm outside of space-time, and that one with perfect knowledge of this reality (e.g. God) would be able to know whether or not the continuum hypothesis was true or false by observing the universe of sets.
+
+One can also reject that the law of the excluded middle applies to all statements, while maintaining that there are some limited classes of statements wherein every statement is either true or false.
 
 When it comes to sufficiently precise statements of fact about ordinary medium-sized physical objects, such statements are always either true or false, if there is an objective reality which conforms to our ordinary common sense beliefs about physical reality, namely that there is a fully existent physical reality whose parts all exist in a single determinate state where every detail that could be investigated exists in a determinate state even when it's not being observed.
 
@@ -756,6 +764,14 @@ This truism is not always accepted. In the author's opinion, looking at our expe
  * When we hold values that are based on deep and thorough analysis of the world as it actually is, our values are more likely to bias us towards making decisions that will be helpful in our lives and the lives of others.
 
 In my opinion, the consequences of pursuing and sharing the truth are almost always preferable to the consequences of attempting to conceal, evade, ignore, denigrate, distort, or escape the truth. A life lived in truth and love, in my experience, is a happy and fulfilling life. Pursuing and sharing the truth brings great joy, and it brings lessons which help one in all aspects of life and living. By pursuing the truth, one can learn the lessons of morality more deeply, and experience the fulfillment of a life well lived. Pursuing the truth in bonds of love and trust with others who share the same goal greatly amplifies the efforts of all and produces a far better outcome when it is possible, in my experience.
+
+**Summary of the truisms discussion*
+
+We've completed our discussion of the non-obvious truisms about truth that we listed. We have certainly learned a bit about truth in the process. Let's take stock.
+
+The law of non-contradiction states that no statement is both true and false. This law is endorsed by everybody who speaks on the subject, except for the dialetheists, who think that some statements are both true and false. One argument in favor of dialetheism is the liar paradox. This argument can be blocked in numerous ways, but we have yet to discuss that. The indifferent shrug, however, seems to be a fair enough response.
+
+The law of the excluded middle states that every statement is either true or false. The law of the excluded middle doesn't necessarily seem to apply to all English statements, given the existence of statements like "Christianity is a good religion" and "
 
 ## Reasons
 
