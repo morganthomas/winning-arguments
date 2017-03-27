@@ -802,16 +802,7 @@ Every theory I've come across that can plausibly claim to do this is based on a 
 
 For example: "water is wet" is true if and only if water is wet.
 
-
-
-
-
-
- 
-has been worked on by many people, including Alfred Tarski and Crispin Wright. The theory, at least in the form I'm presenting it, says two things:
-
-1. 
-2. Rule 1 explains the meaning of the word "true."
+Theories of truth based on the T-schema been worked on by many people, including Alfred Tarski and Crispin Wright. One popular theory is that the T-schema explains the meaning of the word "true" by stating the fundamental rule governing the usage of the word "true."
 
 ## Reasons
 
