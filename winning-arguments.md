@@ -755,10 +755,19 @@ The following are examples of expressions:
 
 A **statement** (about natural numbers) is any piece of writing which can be produced by the following rules.
 
- * If **a** and **b** are expressions, then:
+1. If **a** and **b** are expressions, then:
     * (**a** < **b**) is a statement.
     * (**a** = **b**) is a statement.
- * 
+2. If **A** is a statement, then (not **A**) is a statement.
+3. If **A** is a statement and **B** is a statement, then:
+    * (if **A** then **B**) is a statement.
+    * (**A** and **B**) is a statement.
+    * (**A** or **B**) is a statement.
+4. If **A** is a statement and **a** is a variable name, then:
+    * (for all **a**, **A**) is a statement.
+    * (for some **a**, **A**) is a statement.
+
+Notice that except for the first rule, these are all rules of statement formation in first-order logic. The first rule essentially says that the object literals of the language are expressions (of natural numbers), and that the available copulas are < and =. Predicates and the "is" connective are not part of our language for talking about natural numbers.
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
