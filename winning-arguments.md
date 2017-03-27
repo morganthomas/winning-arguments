@@ -732,7 +732,7 @@ Second example. Most agree that statements about natural numbers are either true
 
 A natural number is a non-negative, non-fractional number. In other words, the natural numbers are 0, 1, 2, 3, 4, and so forth. 
 
-An **expression** is any piece of writing which can be produced by the following rules:
+An **expression** (of natural numbers) is any piece of writing which can be produced by the following rules:
 
  * Variable names are expressions: *a*, *b*, *c*, ...
  * 0 and 1 are expressions.
@@ -752,6 +752,13 @@ The following are examples of expressions:
  * (*a* * 0)
  * (1 * *a*)
  * ((1 + (1 + 0)) * (*b* + *c*))
+
+A **statement** (about natural numbers) is any piece of writing which can be produced by the following rules.
+
+ * If **a** and **b** are expressions, then:
+    * (**a** < **b**) is a statement.
+    * (**a** = **b**) is a statement.
+ * 
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
