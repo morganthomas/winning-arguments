@@ -783,7 +783,7 @@ The law of the excluded middle states that every statement is either true or fal
 
 What's true is true and what's false is false, independently of what people believe, say, or wish, at least when you're talking about sufficiently precise statements of fact about ordinary medium-size physical objects, and relative to a fixed framework of definitions of words.
 
-Truth is worth pursuing. A life of pursuing truth, in the author's opinion, is the best life available on this Earth.
+Truth is worth pursuing. A life of pursuing truth (and love), in the author's opinion, is the best life available on this Earth.
 
 ## Reasons
 
