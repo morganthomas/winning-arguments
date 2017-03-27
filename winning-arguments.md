@@ -740,7 +740,7 @@ The reader is encouraged to use their own judgment in applying the law of the ex
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
-This truism strikes me as basically untrue, in that what's true is dependent on how people talk. For example, "water is not made of methane" is true in part because of the conventional definitions of "water" and "methane." If "methane" was instead defined to mean H2O, then the statement would be false.
+This truism strikes me as basically untrue, in that what's true is dependent on what people say, and more specifically on how people talk. For example, "water is not made of methane" is true in part because of the conventional definitions of "water" and "methane." If "methane" was instead defined to mean H2O, then the statement would be false. So what's true is dependent on what people say. This reasoning works for every statement, since every statement is made up of words which need some previously established meanings for the statement to be intelligible.
 
 **Truth is something worth pursuing.**
 
