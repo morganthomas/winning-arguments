@@ -732,6 +732,8 @@ A person can reject the principle that sufficiently precise statements of fact a
 
 Many classes of statements are **decidable**, meaning it is possible to write a computer program which decides whether statements in that class are true or false. In other words the program takes as input a statement in the class and as output it (correctly) says either that the statement is true or that the statement is false. If a class of statements is decidable, then most would agree that every statement in the class is either true or false. The argument, essentially, is that in principle one could run the program and the program would correctly tell you either that the statement is true or that it's false; but presumably the statement was already true or false, whichever it is, before you ran the program. Therefore it's already true or false even if we don't run the program. I'm not aware of much controversy about this reasoning, but you can reject it if you're willing to say that mathematical statements don't become true or false until people prove or disprove them.
 
+An example of a class of decidable statements are "bounded-quantifier arithmetical statements," or **BQA statements** as we will call them. TODO
+
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
 **Truth is something worth pursuing.**
