@@ -744,7 +744,13 @@ Many classes of statements are **decidable**, meaning it is possible to write a 
 
 An example of a class of decidable statements are "bounded-quantifier arithmetical statements," or **BQA statements** as we will call them. TODO
 
-Let's take stock. Most of the time in the course of life, we are happy to assume that statements are either true or false. Most of the time assuming that a statement is either true or false will not lead us into any kind of error. However, sometimes it is inappropriate to assume that a statement is either true or false, as with the statement "Christianity is good," or "science is reliable." It is generally safe to assume that sufficiently precise statements of fact about ordinary medium-sized physical objects are either true or false. It is generally safe to assume that mathematical statements are either true or false, because experience shows that almost all mathematical statements humans come up with can be either proven or disproven. Exactly how broadly we can assume that statements are either true or false is a matter of controversy. Most would agree that statements in decidable classes, like BQA statements, are either true or false. Most think the same about sufficiently precise statements of fact about medium-sized physical objects. Some think we can assume the law of excluded middle much more broadly.
+Let's take stock.
+
+Most of the time in the course of life, we are happy to assume that statements are either true or false. Most of the time assuming that a statement is either true or false will not lead us into any kind of error. However, sometimes it is inappropriate to assume that a statement is either true or false, as with the statement "Christianity is good," or "science is reliable."
+
+It is generally safe to assume that sufficiently precise statements of fact about ordinary medium-sized physical objects are either true or false. It is generally safe to assume that mathematical statements are either true or false, because experience shows that almost all mathematical statements humans come up with can be either proven or disproven.
+
+Exactly how broadly we can assume that statements are either true or false is a matter of controversy. Most would agree that statements in decidable classes, like BQA statements, are either true or false. Most think the same about sufficiently precise statements of fact about medium-sized physical objects. I believe that most mathematicians accept the law of the excluded middle as applied to math. Some think we can assume the law of excluded middle much more broadly.
 
 The reader is encouraged to use their own judgment in applying the law of the excluded middle, and to form their own opinion on the issues we have raised if they are interested. Practically speaking, I think the reader will find the law of the excluded middle is a useful logical tool which they feel comfortable applying to most cases.
 
