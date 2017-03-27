@@ -773,7 +773,7 @@ This truism is not always accepted. In the author's opinion, looking at our expe
 
 In my opinion, the consequences of pursuing and sharing the truth are almost always preferable to the consequences of attempting to conceal, evade, ignore, denigrate, distort, or escape the truth. A life lived in truth and love, in my experience, is a happy and fulfilling life. Pursuing and sharing the truth brings great joy, and it brings lessons which help one in all aspects of life and living. By pursuing the truth, one can learn the lessons of morality more deeply, and experience the fulfillment of a life well lived. Pursuing the truth in bonds of love and trust with others who share the same goal greatly amplifies the efforts of all and produces a far better outcome when it is possible, in my experience.
 
-**Summary of the truisms discussion*
+**Summary of the truisms discussion**
 
 We've completed our discussion of the non-obvious truisms about truth that we listed. We have certainly learned a bit about truth in the process. Let's take stock.
 
