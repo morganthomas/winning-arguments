@@ -796,9 +796,21 @@ Both of these definitions reference the word "true." Let's therefore turn to ana
 
 Some definitions of "true" that I found on Google are "in accordance with fact or reality" and "accurate or exact." These dictionary definitions don't help us get to the bottom of the issue, though; they merely replace one term we don't understand ("true") with related terms that we also don't understand ("fact," "reality," etc.). What we really need is a *theory* of the meaning of the word "true:" a theory that explains how the term is used, which we can examine to get insight into the meaning.
 
-I've only come across one theory that I can plausibly claim does this. This theory has been worked on by many people, including Alfred Tarski and Crispin Wright. The theory, at least in the form I'm presenting it, says two things:
+Every theory I've come across that can plausibly claim to do this is based on a principle called the **T-schema**. The T-schema is a principle which people have observed about the word "true," which can be stated abstractly as follows.
 
-1. For any statement **A**: "**A**" is true if and only if **A**. E.g.: "water is wet" is true if and only if water is wet.
+> For any statement **A**: "**A**" is true if and only if **A**.
+
+For example: "water is wet" is true if and only if water is wet.
+
+
+
+
+
+
+ 
+has been worked on by many people, including Alfred Tarski and Crispin Wright. The theory, at least in the form I'm presenting it, says two things:
+
+1. 
 2. Rule 1 explains the meaning of the word "true."
 
 ## Reasons
