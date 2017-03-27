@@ -752,7 +752,7 @@ This truism is not always accepted. In the author's opinion, looking at our expe
  * When we know the truth about the politicians who represent us, we can hold them accountable more easily and increase the likelihood that the politicians in office are good, ethical point. 
  * When we understand how the natural world works, we can make technology that allows us to farm more efficiently and produce far more food with a given amount of human labor, allowing most of the human population in developed countries to occupy themselves with activities other than agriculture.
  * When we know the truth about scientific political debates such as the climate change debate, we can make the right decisions that will be best for the future.
- * When we know the truth about what's going on in our personal lives, we can make decisions that will strengthen our relationships and avoid future suffering.
+ * When we know the truth about what's going on in our personal lives, we can make decisions that will be more likely to strengthen our relationships and avoid future suffering.
 
 ## Reasons
 
