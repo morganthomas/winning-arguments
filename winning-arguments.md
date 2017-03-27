@@ -750,7 +750,7 @@ Most of the time in the course of life, we are happy to assume that statements a
 
 It is generally safe to assume that sufficiently precise statements of fact about ordinary medium-sized physical objects are either true or false. It is generally safe to assume that mathematical statements are either true or false, because experience shows that almost all mathematical statements humans come up with can be either proven or disproven.
 
-Exactly how broadly we can assume that statements are either true or false is a matter of controversy. Most would agree that statements in decidable classes, like BQA statements, are either true or false. Most think the same about sufficiently precise statements of fact about medium-sized physical objects. I believe that most mathematicians accept the law of the excluded middle as applied to math. Some think we can assume the law of excluded middle much more broadly.
+Exactly how broadly we can assume that statements are either true or false is a matter of controversy. Most would agree that statements in decidable classes, like BQA statements, are either true or false. Most think the same about sufficiently precise statements of fact about medium-sized physical objects. I believe that most mathematicians accept the law of the excluded middle as applied to math. Some philosophers think we can assume the law of excluded middle much more broadly.
 
 The reader is encouraged to use their own judgment in applying the law of the excluded middle, and to form their own opinion on the issues we have raised if they are interested. Practically speaking, I think the reader will find the law of the excluded middle is a useful logical tool which they feel comfortable applying to most cases.
 
