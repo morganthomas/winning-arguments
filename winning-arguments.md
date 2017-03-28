@@ -830,6 +830,8 @@ Of course, the T-schema defines only one possible way of using the word "true," 
 
 Moreover, clearly the T-schema by itself is not enough to explain how to use the word "true." Essentially, the T-schema references questions about truth to questions about norms of assertion. If you can rightly assert a statement, then you can rightly assert that that statement is true. Instead of asking, when is a statement true, you can ask, when can you rightly assert a statement? The latter is a question that this entire text is aimed at addressing. 
 
+Still, some readers may feel that this misses the point. If we reduce questions about truth to questions about norms about assertion, then perhaps some readers feel we are no longer asking the questions they are interested in, because readers want to know what's true in the sense of what's real, what's actual. We don't want to convey the appearance of sidestepping these meaty questions in favor of surface questions about what we can say.
+
 TODO
 
 ## Reasons
