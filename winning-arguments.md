@@ -826,6 +826,10 @@ The category of axiomatic definitions seems to be narrower even than the categor
 
 Hale and Wright point out some controversy about whether or not implicit definitions are a legitimate form of definition. Such controversy also applies to axiomatic definitions, which are the typical examples of implicit definitions. Personally, I see little reason for fuss. To me it's natural that you can explain the meaning of a word by giving rules that explain how to use it. You can teach somebody how to use the word "and" by teaching them to follow the rules of inference described before. And you can teach somebody how to use the word "true" by teaching them the T-schema.
 
+Of course, the T-schema defines only one possible way of using the word "true," and people might use it in other ways.
+
+Moreover, clearly the T-schema by itself is not enough to explain how to use the word "true." Essentially, the T-schema references questions about truth to questions about norms of assertion. If you can rightly assert a statement, then you can rightly assert that that statement is true. So, when can you rightly assert a statement? That is a question that this entire text is aimed at addressing. 
+
 TODO
 
 ## Reasons
