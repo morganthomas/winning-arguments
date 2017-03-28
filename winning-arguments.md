@@ -806,7 +806,7 @@ Note: "**A** if and only if **B**" means the same as "if **A** then **B** and if
 
 Theories of truth based on the T-schema been worked on by many people, including (for example) Alfred Tarski and Crispin Wright. One popular theory is that the T-schema explains the meaning of the word "true" by stating the fundamental rule governing the usage of the word "true."
 
-If the T-schema is a definition of "true," then it is what we can call an "axiomatic definition." An axiomatic definition of a word defines the meaning of the word by giving some statements involving the word that are true by definition of the word.
+If the T-schema is a definition of "true," then it is what we can call an "axiomatic definition." An axiomatic definition of a word defines the meaning of the word by giving some statements involving the word that are true by the definition of the word.
 
 The T-schema is an infinite set or schema of statements that are (arguably) true by definition of the word "true," that explain how to use the word "true" (in the usage of that word defined (in the sense of axiomatic definition) by the T-schema).
 
@@ -822,7 +822,7 @@ expressions—typically, whole sentences—containing it.
 
 Hale and Wright define implicit definition as the complement of explicit definition. I disagree with their claim (in this paper) that all subtypes of implicit definition have in common the idea that we may fix the meaning of an expression by imposing some form of constraint on the use of longer expressions containing it. As a counterexample, I provide ostensive definitions, which are definitions of words made by (literally or figuratively) pointing at examples: for example, pointing at a dog and saying, "dog." Ostensive definitions are not explicit definitions, so they are implicit definitions, but they don't (in any sense that is apparent to me) fix the meaning of the words they define by imposing some form of constraint on the use of longer expressions containing them. This suggests that the category Hale and Wright defined contains more things than they intended it to.
 
-The category of axiomatic definitions seems to be narrower even than the category of implicit definitions in Hale and Wright's narrower sense, of definitions which fix the meaning of an expression by imposing some form of constraint on the use of longer expressions containing it. Finding an example of a non-axiomatic definition meeting Hale and Wright's condition is left as exercise to the reader. (Recall that an axiomatic definition is one which defines a word by giving rules, or "axioms," which explai
+The category of axiomatic definitions seems to be narrower even than the category of implicit definitions in Hale and Wright's narrower sense, of definitions which fix the meaning of an expression by imposing some form of constraint on the use of longer expressions containing it. Finding an example of a non-axiomatic definition meeting Hale and Wright's condition is left as exercise to the reader. (Recall that an axiomatic definition is one which defines a word by giving some statements involving the word that are true by the definition of the word.)
 
 TODO
 
