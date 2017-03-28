@@ -806,6 +806,12 @@ Note: "**A** if and only if **B**" means the same as "if **A** then **B** and if
 
 Theories of truth based on the T-schema been worked on by many people, including (for example) Alfred Tarski and Crispin Wright. One popular theory is that the T-schema explains the meaning of the word "true" by stating the fundamental rule governing the usage of the word "true."
 
+If the T-schema is a definition of "true," then it is what we can call an "axiomatic definition." An axiomatic definition defines the meaning of a word by giving rules, or "axioms," which explain how to use the word. The T-schema is a rule or axiom that explains how to use the word "true" (in the usage of that word explained by the T-schema).
+
+A further example of an axiomatic definition is the axiomatic definition of the word "and" given by the following two rules. First, from (**A** and **B**) you may infer **A**, and you may infer **B**. Second, from **A** and **B**, you may infer (**A** and **B**).
+
+has been called an [implicit definition](http://www.st-andrews.ac.uk/arche/old/pages/papers/Implicit%20Definition%20and%20the%20A%20Priori.pdf). 
+
 TODO
 
 ## Reasons
