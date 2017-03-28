@@ -799,7 +799,7 @@ Some definitions of "true" that I found on Google:
 
 "Truth" we can summarize, essentially, as the property of being true, and to be true is to be in accordance with fact or reality, or accurate or exact.
 
-These dictionary definitions don't help us get to the bottom of the issue, though; they merely replace one term we don't understand ("true") with related terms that we also don't understand ("fact," "reality," etc.). What we really need is a *theory* of the meaning of the word "true:" a theory that explains how the term is used, which we can examine to get insight into the meaning.
+These dictionary definitions don't help us get to the bottom of the issue, though; they replace one term we don't understand ("true") with related terms that we also don't understand ("fact," "reality," etc.). What we really need is a *theory* of the meaning of the word "true:" a theory that explains how the term is used, which we can examine to get insight into the meaning.
 
 Every theory I've come across that can plausibly claim to do this is based on a principle called the **T-schema**. The T-schema is a principle which people have observed about the word "true," which can be stated abstractly as follows. For any statement **A**:
 
