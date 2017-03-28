@@ -805,7 +805,7 @@ Earlier we wrote:
 
 > What we really need is a *theory* of the meaning of the word "true:" a theory that explains how the term is used, which we can examine to get insight into the meaning.
 
-Every theory I've come across that can plausibly claim to do this is based on a principle called the **T-schema**. The T-schema is a principle which people have observed about the word "true," which can be stated abstractly as follows. For any statement **A**:
+Many theories of the meaning of the word "true" are based on a principle called the **T-schema**. The T-schema is a principle which people have observed about the word "true," which can be stated abstractly as follows. For any statement **A**:
 
 > "**A**" is true if and only if **A**.
 
@@ -842,6 +842,8 @@ Moreover, clearly the T-schema by itself is not enough to explain how to use the
 Still, some readers may feel that this misses the point. If we reduce questions about truth to questions about norms about assertion, then perhaps some readers feel we are no longer asking the questions they are interested in, because readers want to know what's true in the sense of what's real, what's actual. We don't want to convey the appearance of sidestepping these meaty questions in favor of surface questions about what we can say.
 
 It is the author's sincere hope that the reader is able to get closer to what's true in the sense of what's real and what's actual on the basis of what they are learning in this book. I do not claim to know what's real and what's actual, and therefore I cannot claim to show the reader the path to come to know what's real and what's actual. However, it is my opinion that applying the techniques of this text, taken all together and used with art, skill, and fairness, will tend to help one figure out what's real and what's actual in practical terms, in most problem domains that humans can get a grip on. No guarantees can be made that the methods we discuss will lead one to an accurate understanding of reality in any particular situation. I am unaware of any totally sure, provably infallible methods of knowledge gathering. Consistent with that, I am comfortable calling this text a method of seeking the truth. 
+
+What theories of the meanings of the words "truth" and "true" are available besides theories based on the T-schema? TODO
 
 ## Reasons
 
