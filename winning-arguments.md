@@ -828,7 +828,7 @@ Hale and Wright point out some controversy about whether or not implicit definit
 
 Of course, the T-schema defines only one possible way of using the word "true," and people might use it in other ways.
 
-Moreover, clearly the T-schema by itself is not enough to explain how to use the word "true." Essentially, the T-schema references questions about truth to questions about norms of assertion. If you can rightly assert a statement, then you can rightly assert that that statement is true. So, when can you rightly assert a statement? That is a question that this entire text is aimed at addressing. 
+Moreover, clearly the T-schema by itself is not enough to explain how to use the word "true." Essentially, the T-schema references questions about truth to questions about norms of assertion. If you can rightly assert a statement, then you can rightly assert that that statement is true. Instead of asking, when is a statement true, you can ask, when can you rightly assert a statement? The latter is a question that this entire text is aimed at addressing. 
 
 TODO
 
