@@ -792,9 +792,14 @@ Here are two definitions of "truth" that I looked up on Google:
 1. "the quality or state of being true"
 2. "that which is true or in accordance with fact or reality"
 
-Both of these definitions reference the word "true." Let's therefore turn to analyzing the meaning of the word "true," and come back to "truth" later.
+Some definitions of "true" that I found on Google: 
 
-Some definitions of "true" that I found on Google are "in accordance with fact or reality" and "accurate or exact." These dictionary definitions don't help us get to the bottom of the issue, though; they merely replace one term we don't understand ("true") with related terms that we also don't understand ("fact," "reality," etc.). What we really need is a *theory* of the meaning of the word "true:" a theory that explains how the term is used, which we can examine to get insight into the meaning.
+1. "in accordance with fact or reality"
+2. "accurate or exact."
+
+"Truth" we can summarize, essentially, as the property of being true, and to be true is to be in accordance with fact or reality, or accurate or exact.
+
+These dictionary definitions don't help us get to the bottom of the issue, though; they merely replace one term we don't understand ("true") with related terms that we also don't understand ("fact," "reality," etc.). What we really need is a *theory* of the meaning of the word "true:" a theory that explains how the term is used, which we can examine to get insight into the meaning.
 
 Every theory I've come across that can plausibly claim to do this is based on a principle called the **T-schema**. The T-schema is a principle which people have observed about the word "true," which can be stated abstractly as follows. For any statement **A**:
 
@@ -833,8 +838,6 @@ Moreover, clearly the T-schema by itself is not enough to explain how to use the
 Still, some readers may feel that this misses the point. If we reduce questions about truth to questions about norms about assertion, then perhaps some readers feel we are no longer asking the questions they are interested in, because readers want to know what's true in the sense of what's real, what's actual. We don't want to convey the appearance of sidestepping these meaty questions in favor of surface questions about what we can say.
 
 It is the author's sincere hope that the reader is able to get closer to what's true in the sense of what's real and what's actual on the basis of what they are learning in this book. I do not claim to know what's real and what's actual, and therefore I cannot claim to show the reader the path to come to know what's real and what's actual. However, I do think that understanding language and the way that it operates in our minds and in our social lives, and understanding how we can use it to reveal or conceal the truth, can be a valuable and important step on the quest for actuality for people inclined to such investigations.
-
-Let's now return to the word "truth." We gave two definitions from Google: (a) "the quality or state of being true" and (b) "that which is in accordance with fact or reality." We had two definitions of "true" from Google, namely (c) "in accordance with fact or reality" and (d) "accurate or exact." If we substitute definition (c) of "true" into definition (a) of "truth," we basically get definition (b) again. If instead we substitute definition (d), we get that truth is "the quality or state of being accurate or exact." To summarize, then, according to Google's definitions, something with the quality of truth is in accordance with fact or reality, and/or accurate or exact. In common practice, people typically believe (or purport to believe) that statements have these qualities when they call them true.
 
 TODO
 
