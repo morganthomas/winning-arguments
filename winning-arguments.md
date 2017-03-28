@@ -839,8 +839,6 @@ Still, some readers may feel that this misses the point. If we reduce questions 
 
 It is the author's sincere hope that the reader is able to get closer to what's true in the sense of what's real and what's actual on the basis of what they are learning in this book. I do not claim to know what's real and what's actual, and therefore I cannot claim to show the reader the path to come to know what's real and what's actual. However, I do think that understanding language and the way that it operates in our minds and in our social lives, and understanding how we can use it to reveal or conceal the truth, can be a valuable and important step on the quest for actuality for people inclined to such investigations.
 
-TODO
-
 ## Reasons
 
 ## Belief
