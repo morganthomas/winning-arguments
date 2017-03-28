@@ -680,7 +680,21 @@ This simply means that the reader will mostly have to figure out for themselves 
 
 ## Truth
 
-What is truth? What does it mean for something to be true? Let's start by using the words "true" and "truth," and "false" and "falsehood," in a mixture of obviously true statements, and truisms whose truth might be less clear in some cases:
+What is truth? What does it mean for something to be true? Here are two definitions of "truth" that I looked up on Google:
+
+1. "the quality or state of being true"
+2. "that which is true or in accordance with fact or reality"
+
+Some definitions of "true" that I found on Google: 
+
+1. "in accordance with fact or reality"
+2. "accurate or exact."
+
+"Truth" we can summarize, essentially, as the property of being true, and to be true is to be in accordance with fact or reality, or accurate or exact.
+
+These dictionary definitions don't help us get to the bottom of the issue, though; they replace one term we don't understand ("true") with related terms that we also don't understand ("fact," "reality," etc.). What we really need is a *theory* of the meaning of the word "true:" a theory that explains how the term is used, which we can examine to get insight into the meaning.
+
+Before we can develop a theory of truth, we need to gather some observations about truth. Let's start by using the words "true" and "truth," and "false" and "falsehood," in a mixture of obviously true statements, and truisms whose truth might be less clear in some cases:
 
 * It is true that smoking causes lung cancer.
 * "Smoking causes lung cancer" is a true statement.
@@ -787,19 +801,9 @@ Truth is worth pursuing. A life of pursuing truth (and love), in the author's op
 
 **What is truth? What is true?**
 
-Here are two definitions of "truth" that I looked up on Google:
+Earlier we wrote:
 
-1. "the quality or state of being true"
-2. "that which is true or in accordance with fact or reality"
-
-Some definitions of "true" that I found on Google: 
-
-1. "in accordance with fact or reality"
-2. "accurate or exact."
-
-"Truth" we can summarize, essentially, as the property of being true, and to be true is to be in accordance with fact or reality, or accurate or exact.
-
-These dictionary definitions don't help us get to the bottom of the issue, though; they replace one term we don't understand ("true") with related terms that we also don't understand ("fact," "reality," etc.). What we really need is a *theory* of the meaning of the word "true:" a theory that explains how the term is used, which we can examine to get insight into the meaning.
+> What we really need is a *theory* of the meaning of the word "true:" a theory that explains how the term is used, which we can examine to get insight into the meaning.
 
 Every theory I've come across that can plausibly claim to do this is based on a principle called the **T-schema**. The T-schema is a principle which people have observed about the word "true," which can be stated abstractly as follows. For any statement **A**:
 
