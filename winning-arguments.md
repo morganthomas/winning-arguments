@@ -823,7 +823,7 @@ The T-schema is an infinite set or schema of statements that are (arguably) true
 
 A further example of an axiomatic definition is the axiomatic definition of the word "and" given by the following two rules. First, from (**A** and **B**) you may infer **A**, and you may infer **B**. Second, from **A** and **B**, you may infer (**A** and **B**).
 
-In any case, we can now give the precise version of my formulation of Horwichian minimalism:
+Now we can look at the precise version of my formulation of Horwichian minimalism:
 
 **Horwichian minimalism.** The T-schema is an axiomatic definition of "true."
 
