@@ -43,7 +43,7 @@ A great deal of importance has been introduced in the preceding three paragraphs
 
 The first item of importance is the distinction between two senses of the word "argument."
 
-Arguments in the first sense of the word are debates. By "debates," I mean exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree or to be uncertain about.
+Arguments in the first sense of the word are debates. By "debates," I mean exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about or are uncertain about.
 
 Arguments in the second sense of the term are series of statements designed to provide reason to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" in order to retire the first sense of the term "argument."
 
@@ -358,7 +358,7 @@ Thus, we have two concepts stated by the title, both of which we need to analyze
 
 Let's start by digging deeper into the concept of winning debates. The phrase "winning debates" presupposes that debates are a kind of game or gamelike activity. Are they? Well, are debates like games? Let's ask some more questions that shed light on that.
 
-Recall we defined debates to be "exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree or to be uncertain about."
+Recall we defined debates to be "exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about or are uncertain about."
 
 Are debates competitive? Typically so, as participants compete to persuade other participants of their point of view. Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to understand each others' statements and respond with relevant, appropriate statements.
 
