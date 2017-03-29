@@ -853,7 +853,9 @@ It is the author's hope that the reader can get closer to what's true in the sen
 
 We have articulated a theory of truth. How does it compare to other theories? We will compare our theory of truth to (a) a generic postmodern theory of truth, and (b) a generic pluralist theory of truth, a la Michael P. Lynch.
 
-Our generic postmodern theory of truth runs as follows. 
+Our generic postmodern theory of truth runs as follows: "truth is relative." Truth is relative to a context, an observer, a point of view. Thus there are many different truths, none absolute.
+
+Our theory does not go as far as this postmodern theory of truth. It does not positively assert that there is no absolute truth. It is silent on whether there is such a thing as absolute truth. However, our theory agrees with the postmodern theory of truth as far as they both go. It agrees that truth is relative: specifically truth is relative to a conversational context which can establish norms governing assertion.
 
 ## Reasons
 
