@@ -869,6 +869,8 @@ Horwichian minimalism does not go as far as this postmodern theory of truth. It 
 
 Our generic pluralist theory of truth runs as follows: "there are multiple kinds of truth." Horwichian minimalism agrees with this, as different conversational contexts produce different versions of "true" which behave substantially differently. However, some pluralist theories of truth will define meanings of "true" which are different from the minimalist meaning of "true" provided by the T-schema. My view does not discourage the progress of such projects, since my view allows for the consideration of definitions of "true" other than the Horwichian minimalist definition of "true."
 
+Horwichian minimalism is not the most informative theory of truth, and it is only a theory. That's why I'm open to other theories of truth. To me, the value of Horwichian minimalism is that it gives us one viable way of understanding the meaning of "true." It references our questions about truth to questions about norms of assertion, and this proves in practice to be a productive way of thinking about truth. Understanding norms of assertion takes in much of what humans know about seeking the truth, and it's the primary topic of the rest of this text.
+
 ## Reasons
 
 ## Biases
