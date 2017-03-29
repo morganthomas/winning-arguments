@@ -691,10 +691,10 @@ Examples of speech acts include:
 
 * The "I do" of a marriage ceremony by which one agrees to marry somebody.
 * The signature on a legally binding contract.
-* Asserting that the sky is blue. This belings to the category of speech acts called **assertions**.
-* Denying that the sky is blue. Category of **denials**.
+* Asserting that the sky is blue. This belongs to the category of speech acts called **assertions**.
+* Denying that the sky is blue. Belongs to the category of **denials**.
 * Asking somebody to pass the salt. Category of **requests**.
-* Yelling "fuck you" at somebody. This belongs to the category of speech acts called **insults**.
+* Yelling "fuck you" at somebody. Category of **insults**.
 * Ordering the soldiers you command to fire at will. Category of **orders**.
 * Ordering a cup of coffee at a restaurant. Category of **orders** (in a different but related sense).
 
