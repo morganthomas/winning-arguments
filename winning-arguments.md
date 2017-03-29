@@ -875,12 +875,20 @@ Horwichian minimalism is not the most informative theory of truth, and it is onl
 
 ## Logic
 
-## Inductive generalization
+## Fallacies
 
 ## Biases
+
+## Induction
+
+## Probability
+
+## Statistics
 
 ## Beliefs
 
 ## Persuasion
 
 ## Paradoxes
+
+## Foundations of math
