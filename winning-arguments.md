@@ -696,6 +696,7 @@ Examples of speech acts include:
 * Denying that the sky is blue. Category of **denials**.
 * Asking somebody to pass the salt. Category of **requests**.
 * Ordering the soldiers you command to fire at will. Category of **orders**.
+* Ordering a cup of coffee at a restaurant. Category of **orders** (in a different but related sense).
 
 ## Truth
 
