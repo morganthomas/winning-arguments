@@ -831,7 +831,7 @@ I do not claim that my formulation of Horwichian minimalism is either essentiall
 
 I myself believe Horwichian minimalism. It is a very modest view. All it claims is that the T-schema defines a meaning for "true." It doesn't claim this is the only possible meaning for "true."
 
-The notion of axiomatic definition is a small variation on Bob Hale and Crispin Wright's concept of an [implicit definition](http://www.st-andrews.ac.uk/arche/old/pages/papers/Implicit%20Definition%20and%20the%20A%20Priori.pdf). The concept of implicit definitions is explaining in the opening paragraph to the linked paper:
+The notion of axiomatic definition is a small variation on Bob Hale and Crispin Wright's concept of an [implicit definition](http://www.st-andrews.ac.uk/arche/old/pages/papers/Implicit%20Definition%20and%20the%20A%20Priori.pdf). The concept of implicit definitions is explained in the opening paragraph to the linked paper:
 
 >  An explicit definition aims to supply a semantically equivalent expression of the
 same syntactic type as its definiendum. Implicit definition, taken as the complement of
