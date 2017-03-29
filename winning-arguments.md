@@ -827,7 +827,7 @@ Now we can look at the precise version of my formulation of Horwichian minimalis
 
 **Horwichian minimalism.** The T-schema is an axiomatic definition of "true."
 
-I do not claim that my formulation of Horwichian minimalism is the same in spirit as Paul Horwich's view, or the understandings of other philosophers who have endorsed Horwichian minimalism. Nonetheless, I will henceforth use the phrase "Horwichian minimalism" to mean the view that the T-schema is an axiomatic definition of "true."
+I do not claim that my formulation of Horwichian minimalism is either essentially original, or the same in spirit as Paul Horwich's view, or the same as the understandings of other philosophers who have endorsed Horwichian minimalism. Nonetheless, I will henceforth use the phrase "Horwichian minimalism" to mean the view that the T-schema is an axiomatic definition of "true."
 
 I myself believe Horwichian minimalism. It is a very modest view. All it claims is that the T-schema defines a meaning for "true." It doesn't claim this is the only possible meaning for "true."
 
