@@ -861,7 +861,7 @@ It is the author's hope that the reader can get closer to what's true in the sen
 
 **Other theories of truth**
 
-We have so far described one systematic theory of the meaning of "true:" namely, Horwichian minimalism. How does Horwichian minimalism compare to other theories? We will compare our theory of truth to (a) a generic postmodern theory of truth, and (b) a generic pluralist theory of truth, a la Michael P. Lynch.
+We have so far described one systematic theory of the meaning of "true:" namely, Horwichian minimalism. How does Horwichian minimalism compare to other theories of truth? We will compare it to (a) a generic postmodern theory of truth, and (b) a generic pluralist theory of truth, a la Michael P. Lynch.
 
 Our generic postmodern theory of truth runs as follows: "truth is relative." Truth is relative to a context, an observer, a point of view. Thus there are many different truths, none absolute.
 
