@@ -815,7 +815,7 @@ For example: "water is wet" is true if and only if water is wet, and "snow is wa
 
 Note: "**A** if and only if **B**" means the same as "if **A** then **B** and if **B** then **A**."
 
-Theories of truth based on the T-schema been worked on by many people, including (for example) Alfred Tarski and Crispin Wright. One popular theory is that the T-schema explains the meaning of the word "true" by stating the fundamental rule governing the usage of the word "true."
+Theories of truth based on the T-schema been worked on by many people, including (for example) Alfred Tarski and Crispin Wright. One popular theory, [Horwich's minimalism](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth#Horwich.27s_minimalism), is that the T-schema explains the meaning of the word "true" by stating the fundamental rule governing the usage of the word "true."
 
 If the T-schema is a definition of "true," then it is what we can call an "axiomatic definition." An axiomatic definition of a word defines the meaning of the word by giving some statements involving the word that are true by the definition of the word.
 
@@ -859,7 +859,7 @@ Our generic postmodern theory of truth runs as follows: "truth is relative." Tru
 
 Our theory does not go as far as this postmodern theory of truth. It does not positively assert that there is no absolute truth. It is silent on whether there is such a thing as absolute truth. However, our theory agrees with the postmodern theory of truth as far as they both go. It agrees that truth is relative, in a sense: the interpretation of "true" is relative to a conversational context which can establish norms governing assertion and thereby determine what can be called true in that context.
 
-Our generic pluralist theory of truth runs as follows: "there are multiple kinds of truth." Our theory agrees with this, as different conversational contexts produce versions of "true" which behave substantially differently.
+Our generic pluralist theory of truth runs as follows: "there are multiple kinds of truth." Our theory of truth agrees with this, as different conversational contexts produce versions of "true" which behave substantially differently.
 
 ## Reasons
 
