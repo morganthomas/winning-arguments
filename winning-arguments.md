@@ -685,7 +685,7 @@ One important concept in the philosophy of language is the distinction between a
  * An **act of speech** is, in other words, the action of speaking.
  * A **speech act** is an action performed *by* speaking.
 
-Here "speaking" should be taken as inclusive of writing, and linguistic communication in general.
+Here "speaking" and "speech" should be taken as inclusive of writing, and linguistic communication in general.
 
 ## Truth
 
