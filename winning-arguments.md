@@ -358,7 +358,7 @@ Thus, we have two concepts stated by the title, both of which we need to analyze
 
 Let's start by digging deeper into the concept of winning debates. The phrase "winning debates" presupposes that debates are a kind of game or gamelike activity. Are they? Well, are debates like games? Let's ask some more questions that shed light on that.
 
-Recall we defined debates to be "exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about."
+Recall we defined debates to be "exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree or to be uncertain about."
 
 Are debates competitive? Typically so, as participants compete to persuade other participants of their point of view. Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to understand each others' statements and respond with relevant, appropriate statements.
 
