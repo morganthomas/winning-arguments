@@ -839,7 +839,7 @@ Of course, the T-schema defines only one possible way of using the word "true," 
 
 So far we have presented one definition, sense, or meaning for the word "true." This is the meaning axiomatically defined by the T-schema. However, there are certainly other possible meanings.
 
-For example, one might define "true" as "accurate to reality." This definition will be equivalent to the T-schema within the context of any debate where asserting a statement implicitly professes the belief that their statement is accurate to reality.
+For example, one might define "true" as "accurate to reality." This definition will be equivalent to the T-schema within the context of any debate where asserting a statement implies that the statement is accurate to reality.
 
 Moreover, clearly the T-schema by itself is not enough to explain how to use the word "true." Essentially, the T-schema references questions about truth to questions about norms of assertion. If you can rightly assert a statement, then you can rightly assert that that statement is true. Instead of asking, when is a statement true, you can ask, when can you rightly assert a statement? The latter is a question that this entire text is aimed at addressing. 
 
