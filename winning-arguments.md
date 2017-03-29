@@ -857,7 +857,7 @@ We have articulated a theory of truth. How does it compare to other theories? We
 
 Our generic postmodern theory of truth runs as follows: "truth is relative." Truth is relative to a context, an observer, a point of view. Thus there are many different truths, none absolute.
 
-Our theory does not go as far as this postmodern theory of truth. It does not positively assert that there is no absolute truth. It is silent on whether there is such a thing as absolute truth. However, our theory agrees with the postmodern theory of truth as far as they both go. It agrees that truth is relative: specifically truth is relative to a conversational context which can establish norms governing assertion.
+Our theory does not go as far as this postmodern theory of truth. It does not positively assert that there is no absolute truth. It is silent on whether there is such a thing as absolute truth. However, our theory agrees with the postmodern theory of truth as far as they both go. It agrees that truth is relative, in a sense: the interpretation of "true" is relative to a conversational context which can establish norms governing assertion and thereby determine what can be called true in that context.
 
 ## Reasons
 
