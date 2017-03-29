@@ -687,7 +687,12 @@ One important concept in the philosophy of language is the distinction between a
 
 Here "speaking" and "speech" should be taken as inclusive of writing, and linguistic communication in general.
 
-Examples of speech acts include 
+Examples of speech acts include:
+
+* The "I do" of a marriage ceremony by which one agrees to marry somebody.
+* The signature on a legally binding contract.
+* Yelling "fuck you" at somebody. This belongs to the category of speech acts called **insults**.
+* Asserting that the sky is blue. This belings to the category of speech acts called **assertions**.
 
 ## Truth
 
