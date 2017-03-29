@@ -851,7 +851,10 @@ It is the author's sincere hope that the reader is able to get closer to what's 
 
 ## Reasons
 
-## Belief
+## Biases
+
+## Beliefs
 
 ## Persuasion
 
+## Paradoxes
