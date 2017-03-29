@@ -702,7 +702,9 @@ Examples of speech acts include:
 
 We could go on.
 
-In debates, three main types of speech act are employed: assertions, denials, and questions. 
+In debates, three main types of speech act are employed: assertions, denials, and questions. These three types of speech act are the ones that are primarily relevant to us. Mostly we will talk about assertion. Let's take a moment to analyze these three types of speech act in more depth.
+
+TODO
 
 ## Truth
 
