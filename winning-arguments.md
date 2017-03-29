@@ -815,13 +815,17 @@ For example: "water is wet" is true if and only if water is wet, and "snow is wa
 
 Note: "**A** if and only if **B**" means the same as "if **A** then **B** and if **B** then **A**."
 
-Theories of truth based on the T-schema been worked on by many people, including (for example) Alfred Tarski and Crispin Wright. One popular theory, [Horwich's minimalism](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth#Horwich.27s_minimalism), is that the T-schema explains the meaning of the word "true" by stating the fundamental rule governing the usage of the word "true."
+Theories of truth based on the T-schema been worked on by many people, including (for example) Alfred Tarski and Crispin Wright. A simple theory of truth based on the T-schema is [Horwichian minimalism](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth#Horwich.27s_minimalism). Horwichian minimalism, as I will formulate it, states essentially that the T-schema explains the meaning of the word "true" by stating the fundamental rule governing the usage of the word "true."
 
 If the T-schema is a definition of "true," then it is what we can call an "axiomatic definition." An axiomatic definition of a word defines the meaning of the word by giving some statements involving the word that are true by the definition of the word.
 
 The T-schema is an infinite set or schema of statements that are (arguably) true by definition of the word "true," that explain how to use the word "true" (in the usage of that word defined (in the sense of axiomatic definition) by the T-schema).
 
 A further example of an axiomatic definition is the axiomatic definition of the word "and" given by the following two rules. First, from (**A** and **B**) you may infer **A**, and you may infer **B**. Second, from **A** and **B**, you may infer (**A** and **B**).
+
+In any case, we can now give the precise version of my formulation of Horwichian minimalism:
+
+**Horwichian minimalism.** The T-schema is an axiomatic definition of "true."
 
 The notion of axiomatic definition is inspired by Bob Hale and Crispin Wright's concept of an [implicit definition](http://www.st-andrews.ac.uk/arche/old/pages/papers/Implicit%20Definition%20and%20the%20A%20Priori.pdf). The concept of implicit definitions is explaining in the opening paragraph to the linked paper:
 
