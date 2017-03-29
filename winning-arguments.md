@@ -680,6 +680,10 @@ This simply means that the reader will mostly have to figure out for themselves 
 
 ## Speech acts
 
+One important concept in the philosophy of language is the distinction between acts of speech, and speech acts. This distinction seems to have been first introduced in a systematic way by [J.L. Austin, as late as 1962](http://pubman.mpdl.mpg.de/pubman/item/escidoc:2271128:3/component/escidoc:2271430/austin_1962_how-to-do-things-with-words.pdf). 
+
+ * An **act of speech** (as I define it) is 
+
 ## Truth
 
 What is truth? What does it mean for something to be true? Here are two definitions of "truth" that I looked up on Google:
