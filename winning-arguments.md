@@ -680,9 +680,10 @@ This simply means that the reader will mostly have to figure out for themselves 
 
 ## Speech acts
 
-One important concept in the philosophy of language is the distinction between acts of speech, and speech acts. This distinction seems to have been first introduced in a systematic way by [J.L. Austin, as late as 1962](http://pubman.mpdl.mpg.de/pubman/item/escidoc:2271128:3/component/escidoc:2271430/austin_1962_how-to-do-things-with-words.pdf). 
+One important concept in the philosophy of language is the distinction between acts of speech, and speech acts. This distinction seems to have been first introduced in a systematic way by [J.L. Austin (1962)](http://pubman.mpdl.mpg.de/pubman/item/escidoc:2271128:3/component/escidoc:2271430/austin_1962_how-to-do-things-with-words.pdf). 
 
- * An **act of speech** (as I define it) is 
+ * An **act of speech** is, in other words, the action of speaking.
+ * A **speech act** is an action performed *by* speaking.
 
 ## Truth
 
