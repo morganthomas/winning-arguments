@@ -892,3 +892,5 @@ Horwichian minimalism is not the most informative theory of truth, and it is onl
 ## Paradoxes
 
 ## Foundations of math
+
+## Faith
