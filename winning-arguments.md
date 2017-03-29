@@ -847,7 +847,7 @@ Hale and Wright point out some controversy about whether or not implicit definit
 
 Of course, the T-schema defines only one possible way of using the word "true," and people might use it in other ways.
 
-So far we have presented one definition, sense, or meaning for the word "true." This is the meaning axiomatically defined by the T-schema. However, there are certainly other possible meanings.
+So far we have presented one definition, sense, or meaning for the word "true." This is the meaning axiomatically defined by the T-schema (according to Horwichian minimalism). However, there are certainly other possible meanings.
 
 For example, one might define "true" as "accurate to reality." This definition will be equivalent to the T-schema within the context of any conversation where by asserting a statement, one implicitly asserts that the statement is accurate to reality. (In my life, conversations I have at work in my professional capacity are examples of such conversations.)
 
