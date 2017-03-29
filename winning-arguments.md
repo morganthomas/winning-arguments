@@ -685,6 +685,8 @@ One important concept in the philosophy of language is the distinction between a
  * An **act of speech** is, in other words, the action of speaking.
  * A **speech act** is an action performed *by* speaking.
 
+Here "speaking" should be taken as inclusive of writing, and linguistic communication in general.
+
 ## Truth
 
 What is truth? What does it mean for something to be true? Here are two definitions of "truth" that I looked up on Google:
