@@ -849,6 +849,10 @@ Still, some readers may feel that this misses the point. If we reduce questions 
 
 It is the author's hope that the reader can get closer to what's true in the sense of what's real and what's actual on the basis of what they are learning in this book. I do not claim to know what's real and what's actual, and therefore I cannot claim to show the reader the path to come to know what's real and what's actual. However, it is my opinion that applying the techniques of this text, taken all together and used with art, skill, and fairness, will tend to help one figure out what's real and what's actual in practical terms, in most problem domains that humans can get a grip on. No guarantees can be made that the methods we discuss will lead one to an accurate understanding of reality in any particular situation. I am unaware of any totally sure, provably infallible methods of knowledge gathering. Consistent with that, I am comfortable calling this text a method of seeking the truth. 
 
+We have articulated a theory of truth. How does it compare to other theories? We will compare our theory of truth to (a) a generic postmodern theory of truth, and (b) a generic pluralist theory of truth, a la Michael P. Lynch.
+
+Our generic postmodern theory of truth runs as follows. 
+
 ## Reasons
 
 ## Biases
