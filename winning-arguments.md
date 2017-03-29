@@ -695,6 +695,7 @@ Examples of speech acts include:
 * Asserting that the sky is blue. This belings to the category of speech acts called **assertions**.
 * Denying that the sky is blue. Category of **denials**.
 * Asking somebody to pass the salt. Category of **requests**.
+* Ordering the soldiers you command to fire at will. Category of **orders**.
 
 ## Truth
 
