@@ -815,7 +815,7 @@ For example: "water is wet" is true if and only if water is wet, and "snow is wa
 
 Note: "**A** if and only if **B**" means the same as "if **A** then **B** and if **B** then **A**."
 
-Theories of truth based on the T-schema been worked on by many people, including (for example) Alfred Tarski and Crispin Wright. A simple theory of truth based on the T-schema is [Horwichian minimalism](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth#Horwich.27s_minimalism). Horwichian minimalism, as I will formulate it, states essentially that the T-schema explains the meaning of the word "true" by stating the fundamental rule governing the usage of the word "true."
+Theories of truth based on the T-schema been worked on by many people, including (for example) Alfred Tarski and Crispin Wright. A simple theory of truth based on the T-schema is [Horwichian minimalism](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth#Horwich.27s_minimalism), a sort of view based on the writings of Paul Horwich. Horwichian minimalism, as I will formulate it, states essentially that the T-schema explains the meaning of the word "true" by stating the fundamental rule governing the usage of the word "true."
 
 If the T-schema is a definition of "true," then it is what we can call an "axiomatic definition." An axiomatic definition of a word defines the meaning of the word by giving some statements involving the word that are true by the definition of the word.
 
@@ -827,7 +827,11 @@ Now we can look at the precise version of my formulation of Horwichian minimalis
 
 **Horwichian minimalism.** The T-schema is an axiomatic definition of "true."
 
-The notion of axiomatic definition is inspired by Bob Hale and Crispin Wright's concept of an [implicit definition](http://www.st-andrews.ac.uk/arche/old/pages/papers/Implicit%20Definition%20and%20the%20A%20Priori.pdf). The concept of implicit definitions is explaining in the opening paragraph to the linked paper:
+I do not claim that my formulation of Horwichian minimalism is the same in spirit as Paul Horwich's view, or the understandings of other philosophers who have endorsed Horwichian minimalism. Nonetheless, I will henceforth use the phrase "Horwichian minimalism" to mean the view that the T-schema is an axiomatic definition of "true."
+
+I myself believe Horwichian minimalism. It is a very modest view. All it claims is that the T-schema defines a meaning for "true." It doesn't claim this is the only possible meaning for "true."
+
+The notion of axiomatic definition is a small variation on Bob Hale and Crispin Wright's concept of an [implicit definition](http://www.st-andrews.ac.uk/arche/old/pages/papers/Implicit%20Definition%20and%20the%20A%20Priori.pdf). The concept of implicit definitions is explaining in the opening paragraph to the linked paper:
 
 >  An explicit definition aims to supply a semantically equivalent expression of the
 same syntactic type as its definiendum. Implicit definition, taken as the complement of
