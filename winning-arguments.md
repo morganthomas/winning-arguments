@@ -807,7 +807,7 @@ Earlier we wrote:
 
 Many theories of the meaning of the word "true" are based on a principle called the **T-schema**. The T-schema is a principle which people have observed about the word "true," which can be stated abstractly as follows. For any statement **A**:
 
-> "**A**" is true if and only if **A**.
+> The statement "**A**" is true if and only if **A**.
 
 For example: "water is wet" is true if and only if water is wet, and "snow is warm" is true if and only if snow is warm.
 
