@@ -859,6 +859,8 @@ Our generic postmodern theory of truth runs as follows: "truth is relative." Tru
 
 Our theory does not go as far as this postmodern theory of truth. It does not positively assert that there is no absolute truth. It is silent on whether there is such a thing as absolute truth. However, our theory agrees with the postmodern theory of truth as far as they both go. It agrees that truth is relative, in a sense: the interpretation of "true" is relative to a conversational context which can establish norms governing assertion and thereby determine what can be called true in that context.
 
+Our generic pluralist theory of truth runs as follows: "there are multiple kinds of truth." Our theory agrees with this, as different conversational contexts produce versions of "true" which behave substantially differently.
+
 ## Reasons
 
 ## Biases
