@@ -687,6 +687,8 @@ One important concept in the philosophy of language is the distinction between a
 
 Here "speaking" and "speech" should be taken as inclusive of writing, and linguistic communication in general.
 
+Examples of speech acts include 
+
 ## Truth
 
 What is truth? What does it mean for something to be true? Here are two definitions of "truth" that I looked up on Google:
