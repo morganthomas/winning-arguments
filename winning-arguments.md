@@ -678,6 +678,8 @@ However, it would be wrong of us to carry out our study of statements only in fi
 
 This simply means that the reader will mostly have to figure out for themselves how to apply the theory and technique of logic to natural language arguments. The reader should synthesize for themselves a deep, intuitive understanding of the theory and technique of logic, and allow it to sink into their mind until it underpins their thinking even on an unconscious level. This, in my experience, is what enables the reflexive, sophisticated application of logic to natural language. With that in mind, let us continue our study of logic by tackling the important topic of truth.
 
+## Speech acts
+
 ## Truth
 
 What is truth? What does it mean for something to be true? Here are two definitions of "truth" that I looked up on Google:
