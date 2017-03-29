@@ -837,13 +837,15 @@ Hale and Wright point out some controversy about whether or not implicit definit
 
 Of course, the T-schema defines only one possible way of using the word "true," and people might use it in other ways.
 
+So far we have presented one definition, sense, or meaning for the word "true." This is the meaning axiomatically defined by the T-schema. However, there are certainly other possible meanings.
+
+For example, one might define "true" as "accurate to reality." This definition will be equivalent to the T-schema within the context of any debate where asserting a statement implicitly professes the belief that their statement is accurate to reality.
+
 Moreover, clearly the T-schema by itself is not enough to explain how to use the word "true." Essentially, the T-schema references questions about truth to questions about norms of assertion. If you can rightly assert a statement, then you can rightly assert that that statement is true. Instead of asking, when is a statement true, you can ask, when can you rightly assert a statement? The latter is a question that this entire text is aimed at addressing. 
 
 Still, some readers may feel that this misses the point. If we reduce questions about truth to questions about norms about assertion, then perhaps some readers feel we are no longer asking the questions they are interested in, because readers want to know what's true in the sense of what's real, what's actual. We don't want to convey the appearance of sidestepping these meaty questions in favor of surface questions about what we can say.
 
 It is the author's sincere hope that the reader is able to get closer to what's true in the sense of what's real and what's actual on the basis of what they are learning in this book. I do not claim to know what's real and what's actual, and therefore I cannot claim to show the reader the path to come to know what's real and what's actual. However, it is my opinion that applying the techniques of this text, taken all together and used with art, skill, and fairness, will tend to help one figure out what's real and what's actual in practical terms, in most problem domains that humans can get a grip on. No guarantees can be made that the methods we discuss will lead one to an accurate understanding of reality in any particular situation. I am unaware of any totally sure, provably infallible methods of knowledge gathering. Consistent with that, I am comfortable calling this text a method of seeking the truth. 
-
-What theories of the meanings of the words "truth" and "true" are available besides the single theory we have presented so far?
 
 ## Reasons
 
