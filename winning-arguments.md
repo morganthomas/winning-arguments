@@ -779,7 +779,7 @@ What if we assume some fixed framework of definitions? Is what's true true, and 
 This truism is not always accepted. In the author's opinion, looking at our experiences in life and at historical events supports the view that things are better in almost all cases when people have the truth about issues that matter.
 
  * When we understand the causes of diseases, we are in a position to prevent and cure them with medical science.
- * When we know the truth about the politicians who represent us, we can hold them accountable more easily and increase the likelihood that the politicians in office are good, ethical point. 
+ * When we know the truth about the politicians who represent us, we can hold them accountable more easily and increase the likelihood that the politicians in office are good, ethical people. 
  * When we understand how the natural world works, we can make technology that allows us to farm more efficiently and produce far more food with a given amount of human labor, allowing most of the human population in developed countries to occupy themselves with activities other than agriculture.
  * When we know the truth about scientific political debates such as the climate change debate, we can make the right decisions that will be best for the future.
  * When we know the truth about what's going on in our personal lives, we can make decisions that will be more likely to strengthen our relationships and avoid future suffering.
