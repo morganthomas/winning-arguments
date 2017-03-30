@@ -915,6 +915,8 @@ Rationality has to do with two areas of human behavior: communication and decisi
 
 One theoretical perspective worth considering is the perspective that rationality is a form of technology. Rather than being physical, inanimate technology, rationality is mental/cultural technology. It's a complex of memes which we use as tools in solving problems. We will expand on this perspective later.
 
+In practice most rationality-related issues can be studien in the context of the study of debate. Studying the rules of debate is studying the majority of what there is to study about rationality. Conclusions about the rules of debate usually transfer over to other contexts, such as decision making, fairly straightforwardly. However, there are certainly issues of rationality specifically related to non-debate forms of communication, and unrelated to communication.
+
 TODO
 
 ## Reasons
