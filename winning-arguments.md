@@ -313,6 +313,10 @@ All laws bind us and/or the world, in some sense and at least in some cases. The
 
 I can't think of any counterexamples to the generalization that all laws are binding, to something in some sense in some cases. This, then, is one truism about laws which we will accept.
 
+TODO: Generalize to rules?
+
+Let's try to study further the phenomenon of rules and laws binding phenomena. If we look at the phenomenon of binding, it seems to divide into two distinct subtypes: the case where the rules and laws are defined by a centralized authority with de facto power to create binding rules/laws, and the case where there is no such centralized authority but the binding power of the rules/laws is a result of organic, uncontrolled processes.
+
 TODO
 
 ## Winning
