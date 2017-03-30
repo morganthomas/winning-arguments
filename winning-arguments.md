@@ -911,7 +911,7 @@ We say things like:
 
 In sentence 1, "reason" looks like a noun, a kind of special substance contained somehow in Euclid's proof. In sentence 2, "reason" occurs in a verb form, denoting some kind of activity of Euclid. In sentence 3, "reason" occurs again in a verb form, but now apparently denoting some kind of activity or potency of Euclid's proof. In sentence 4, "reason" occurs as a noun, now seeming to denote an area of study or expertise. In sentence 5, "reason" occurs as a plural noun, now referring to motivations, justifications, and/or rationalizations that Euclid presumably had for his choice to pursue math.
 
-"Reason" is a versatile term that can be used in many different ways. There is some common theme flowing through these different usages: some common thread between the rational substance contained in Euclid's proof, and the rational activity of Euclid, and the rational activity or potency of Euclid's proof, and Euclid's mastery of reason, and perhaps even Euclid's reasons for doing math.
+"Reason" is a versatile term that can be used in many different ways. There is some common theme flowing through these different usages: some common thread between the rational substance contained in Euclid's proof, and the rational activity of Euclid, and the rational activity or potency of Euclid's proof, and Euclid's mastery of reason, and perhaps even Euclid's reasons for doing math. If we want to take Euclid's proof as a good example of reasoning, and study it to understand reasoning better, then we can try to examine the proof, and we can do some from various perspectives. We can also try to examine Euclid, and try to discover what qualities in him made him able to produce the proof and motivated him to do so.
 
 ## Logic
 
