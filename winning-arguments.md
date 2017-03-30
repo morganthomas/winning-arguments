@@ -932,7 +932,7 @@ Rationality has to do with two areas of human behavior: communication and decisi
 
 In practice most rationality-related issues can be studied in the context of the study of debate. Studying the rules of debate is studying the majority of what there is to study about rationality. Conclusions about the rules of debate usually transfer over to other contexts, such as decision making, fairly straightforwardly. However, there are certainly issues of rationality specifically related to non-debate forms of communication, and unrelated to communication.
 
-Now let us examine the notion of the "laws of rationality." The laws of rationality are all of the rules of speech and behavior such that if we break them, we can justifiably be called irrational. On my reading, discovering the laws of rationality has been the foremost goal of the study of rationality since that study's inception.
+Now let us examine the notion of the "laws of rationality." The laws of rationality are all of the rules of speech and behavior such that if we break them, we can justly be called irrational. On my reading, discovering the laws of rationality has been the foremost goal of the study of rationality since that study's inception.
 
 In the section on rules and laws, we noted that all laws are binding in some sense. In what sense are the laws of rationality binding? In many different senses, in many different contexts:
 
