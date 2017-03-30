@@ -949,7 +949,11 @@ There is no centralized authority on rationality. Generally speaking, rationalit
 
 Of course, rationality is in competition with other conflicting forces: for example, ignorance. Rationality isn't always dominant, and this qualifier should be stated.
 
-Here's a basic law of rationality, a basic norm of assertion, which we'll call the **law of evidence**: if you assert a statement, you should (ideally) be able to explain your reasons for believing it, and those reasons should (ideally) be good ones. If you assert a statement, and somebody asks you why it's true, and you can't provide any good answer, it's generally an uncomfortable situation where one feels some social pressure to take back the assertion. 
+Here's a basic law of rationality, a basic norm of assertion, which we'll call the **law of evidence**: if you assert a statement, you should (ideally) be able to explain your reasons for believing it, and those reasons should (ideally) be good ones.
+
+If you assert a statement, and somebody asks you why it's true, and you can't provide any good answer, it's generally an uncomfortable situation where one feels some social pressure to take back the assertion. 
+
+The law of evidence is widely accepted because it is a good rule to follow if you want the truth. If you want the truth, it's a good idea to be skeptical of what other people say, to ask for the reasons that people assert things, and to doubt people who can't give good reasons for what they assert. If you want to be regarded as a truth-teller, it's a good idea to be able to give good reasons for the things you assert.
 
 The law of evidence is *the* basic norm of assertion. Most other laws of rationality have to do with legislating what reasons do and do not adequately support an assertion. In that sense they are elaborations on the law of evidence.
 
