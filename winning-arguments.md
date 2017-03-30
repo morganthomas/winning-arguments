@@ -315,7 +315,9 @@ I can't think of any counterexamples to the generalization that all laws are bin
 
 TODO: Generalize to rules?
 
-Let's try to study further the phenomenon of rules and laws binding phenomena. If we look at the phenomenon of binding, it seems to divide into two distinct subtypes: the case where the rules and laws are defined by a centralized authority with de facto power to create binding rules/laws, and the case where there is no such centralized authority but the binding power of the rules/laws is a result of organic, uncontrolled processes.
+Let's try to study further the phenomenon of rules and laws binding phenomena. If we look at the phenomenon of binding, it seems to divide into two distinct subtypes: the case where the rules and laws are defined by a centralized authority with de facto power to create binding rules/laws, and the case where there is no such centralized authority but the binding power of the rules/laws is a result of organic, uncontrolled processes. Let us call these **authoritative binding** and **organic binding**, respectively.
+
+The distinction between authoritative and organic binding is not sharp. In most cases, centralized rulemaking authorities have authority due to some level of consent/agreement to be ruled among the people who follow their rules. In many cases, there are varying levels of force used to enforce the authority of rulemaking authorities. In the case of governments, it seems they are generally able to rule only by a combination of general consent and the ability to use force.
 
 TODO
 
