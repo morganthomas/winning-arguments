@@ -932,9 +932,11 @@ Rationality has to do with two areas of human behavior: communication and decisi
 
 In practice most rationality-related issues can be studied in the context of norms of assertion. Studying norms of assertion is studying the majority of what there is to study about rationality. Of course other topics besides norms of assertion, e.g. beliefs and decision making, are important. Most rationality-related issues apply analogously across all subdomains of rationality (e.g. norms of assertion, beliefs, and decision making). Therefore by studying one of these subdomains, one learns about all of them. However, each should also be studied individually to learn about issues specific to that subdomain.
 
-Norms of assertion are an important subtopic in the more general topic of **laws of rationality**. The laws of rationality are all of the rules of speech and behavior such that if we break them, we can justly be called irrational. On my reading, discovering what the laws of rationality are has been the foremost goal of the study of rationality since that study's inception. As long as we don't know the laws of rationality, we will run the risk of being irrational without having any idea we are being irrational.
+Norms of assertion are an important subtopic in the more general topic of **laws of rationality**. The laws of rationality are all of the rules of speech and behavior such that if we break them, we can justly be called irrational. 
 
 A simple example of a law of rationality is the law that if you agree to the assertion that (**A** and **B**), then you should also be willing to agree to the assertion that **A**. Probably the reader knows or imagines that there are many laws of rationality. Discovering exactly what they are is the problem.
+
+On my reading, discovering what the laws of rationality are has been the foremost goal of the study of rationality since that study's inception. As long as we don't know the laws of rationality, we will run the risk of being irrational without having any idea we are being irrational. That's why I think it's valuable to learn well the knowledge humans have had of the laws of rationality for thousands of years, as well as the knowledge we have recently gained, and to try to push forward our evolving understanding of the laws of rationality.
 
 In the section on rules and laws, we noted that all laws are binding in some sense. In what sense are the laws of rationality binding? In many different senses, in many different contexts:
 
