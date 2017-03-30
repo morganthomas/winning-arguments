@@ -934,6 +934,8 @@ In practice most rationality-related issues can be studied in the context of the
 
 Now let us examine the notion of the **laws of rationality**. The laws of rationality are all of the rules of speech and behavior such that if we break them, we can justly be called irrational. On my reading, discovering what the laws of rationality are has been the foremost goal of the study of rationality since that study's inception. As long as we don't know the laws of rationality, we will run the risk of being irrational without having any idea we are being irrational.
 
+A simple example of a law of rationality is the law that if you agree to the assertion that (**A** and **B**), then you should also be willing to agree to the assertion that **A**.
+
 In the section on rules and laws, we noted that all laws are binding in some sense. In what sense are the laws of rationality binding? In many different senses, in many different contexts:
 
 * In debates, the laws of rationality are binding as a matter of social norms. The laws of rationality are broken on a regular basis in debates, probably in most debates. However, we still agree that in some sense those who break them are not debating correctly.
