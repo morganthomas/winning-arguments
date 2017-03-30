@@ -932,7 +932,7 @@ Rationality has to do with two areas of human behavior: communication and decisi
 
 In practice most rationality-related issues can be studied in the context of the study of debate. Studying the rules of debate is studying the majority of what there is to study about rationality. Conclusions about the rules of debate usually transfer over to other contexts, such as decision making, fairly straightforwardly. However, there are certainly issues of rationality specifically related to non-debate forms of communication, and unrelated to communication.
 
-Now let us examine the notion of the "laws of rationality." On my reading, discovering the laws of rationality has been the foremost goal of the study of rationality since that study's inception.
+Now let us examine the notion of the "laws of rationality." The laws of rationality are all of the rules of speech and behavior such that if we break them, we can justifiably be called irrational. On my reading, discovering the laws of rationality has been the foremost goal of the study of rationality since that study's inception.
 
 In the section on rules and laws, we noted that all laws are binding in some sense. In what sense are the laws of rationality binding? In many different senses, in many different contexts:
 
@@ -940,8 +940,6 @@ In the section on rules and laws, we noted that all laws are binding in some sen
 * In academic contexts, the laws of rationality are binding as a matter of professional standards. In the context of academic publishing the laws of rationality are enforceable by the peer review process.
 In many professional contexts, such as when performing a technical job such as software development or security analysis, the laws of rationality are binding as a matter of professional ethics, especially in mission-critical scenarios.
 * In serious contexts where you need to solve a problem, rationality is usually applicable. In these cases, the laws of rationality are binding in the sense that following them maximizes your likelihood of success. (If following a set of principles of rationality reduced your likelihood of success, then those principles would be a flawed way of thinking about rationality. Observe that this is not a [no true Scotsman fallacy](https://en.wikipedia.org/wiki/No_true_Scotsman), because we are not changing the definition of rationality in an ad hoc way to deal with counterexamples. Rather, the principle that methods that systematically cause you to fail aren't rational is part of our common sense understanding of rationality. See Eliezer Yudkowsy, ["Rationality is Systematized Winning."](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/))
-
-TODO
 
 ## Reasons
 
