@@ -905,6 +905,18 @@ It is not productive to try to answer question "what is rationality?" by coming 
 
 Here is a first pass attempt at explaining rationality in practical terms. Rationality is a set of practices people employ in solving problems. Rationality is involved in the processes we use to organize ourselves into complex societies, develop technologies which improve our standard of living, cure diseases, discover the truth, and solve resource distribution problems (through systems such as regulated capitalist, socialist, and mixed-model economies), among many other things.
 
+Given the immense practical importance of rationality, we don't want to approach the understanding of rationality as a purely theoretical problem. We want to approach it as a practical problem, so that our solution will be as useful as possible to as many people as possible. Our goal is not to develop the most rigorous theory possible, but to develop the most usable, and yet correct theory possible.
+
+We can study rationality from a psychological perspective, by speculating about people's inner states, primarily their processes of belief formation, and by making prescriptive recommendations about how to form beliefs in order to be rational. 
+
+We can also study rationality from a behavioral perspective, by studying human behavior that exhibits rationality and trying to formulate rules that describe and explain what makes rational behavior rational. 
+
+Rationality has to do with two areas of human behavior: communication and decision making. We employ rationality in communicating with each other, as when employing arguments to persuade others of something. We also employ rationality in decision making, as when making a purchasing decision, and in innumerable other situations.
+
+One theoretical perspective worth considering is the perspective that rationality is a form of technology. Rather than being physical, inanimate technology, rationality is mental/cultural technology. It's a complex of memes which we use as tools in solving problems. We will expand on this perspective later.
+
+TODO
+
 ## Reasons
 
 What are reasons? We are specifically interested in the meaning of the word "reason" which is used in the first three paragraphs of the Introduction, which we are still in the process of explaining. This usage is in the definition of "argument." We defined an argument as "a series of statements designed to provide reason to believe some conclusion(s)." We could also have written "reasons" or "reason(s)" in this definition in place of "reason," without really changing the meaning. We are interested in defining "reason" as the term is used in the definition of "argument."
