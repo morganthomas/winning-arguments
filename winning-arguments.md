@@ -897,6 +897,14 @@ Our generic pluralist theory of truth runs as follows: "there are multiple kinds
 
 Horwichian minimalism is not the most informative theory of truth, and it is only a theory. That's why I'm open to other theories of truth. To me, the value of Horwichian minimalism is that it gives us one viable way of understanding the meaning of "true," of treating our confusions around this word. It references questions about truth to questions about norms of assertion. This proves in practice to be a productive way of thinking about truth. Understanding norms of assertion takes in much of what humans know about seeking the truth. It is the primary topic of the rest of this text.
 
+## Rationality
+
+What is rationality? "Rationality," being a nebulous, imprecise term, can mean many different things. However, our goal here is not to explore everything the word could or should mean. Our goal is develop a usable, practical theory of rationality.
+
+It is not productive to try to answer question "what is rationality?" by coming up with a dictionary definition of rationality, a sentence of the form "rationality is..." Rationality is too complex a concept to explain with a dictionary definition.
+
+Here is a first pass attempt at explaining rationality in practical terms. Rationality is a set of practices people employ in solving problems. Rationality is involved in the processes we use to organize ourselves into complex societies, develop technologies which improve our standard of living, cure diseases, discover the truth, and solve resource distribution problems (through systems such as regulated capitalist, socialist, and mixed economies), among many other things.
+
 ## Reasons
 
 What are reasons? We are specifically interested in the meaning of the word "reason" which is used in the first three paragraphs of the Introduction, which we are still in the process of explaining. This usage is in the definition of "argument." We defined an argument as "a series of statements designed to provide reason to believe some conclusion(s)." We could also have written "reasons" or "reason(s)" in this definition in place of "reason," without really changing the meaning. We are interested in defining "reason" as the term is used in the definition of "argument."
