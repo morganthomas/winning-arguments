@@ -903,11 +903,13 @@ What are reasons? We are specifically interested in the meaning of the word "rea
 
 We say things like:
 
-* "Euclid's proof provides reason to believe that there are infinitely many prime numbers."
-* "Euclid reasoned that there are infinitely many prime numbers."
-* "Euclid's proof reasons that there are infinitely many prime numbers."
-* "Euclid had great mastery of reason."
-* "Euclid presumably had his reasons for doing math."
+1. "Euclid's proof provides reason to believe that there are infinitely many prime numbers."
+2. "Euclid reasoned that there are infinitely many prime numbers."
+3. "Euclid's proof reasons that there are infinitely many prime numbers."
+4. "Euclid had great mastery of reason."
+5. "Euclid presumably had his reasons for doing math."
+
+In sentence 1, "reason" looks like a noun, a kind of special substance contained somehow in Euclid's proof. In sentence 2, "reason" occurs in a verb form, denoting some kind of activity of Euclid. In sentence 3, "reason" occurs again in a verb form, but now apparently denoting some kind of activity or potency of Euclid's proof. In sentence 4, "reason" occurs as a noun, now seeming to denote an area of study or expertise. In sentence 5, "reason" occurs as a plural noun, now referring to motivations, justifications, and/or rationalizations that Euclid presumably had for his choice to pursue math.
 
 ## Logic
 
