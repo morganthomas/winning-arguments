@@ -907,6 +907,7 @@ We say things like:
 * "Euclid reasoned that there are infinitely many prime numbers."
 * "Euclid's proof reasons that there are infinitely many prime numbers."
 * "Euclid had great mastery of reason."
+* "Euclid presumably had his reasons for doing math."
 
 ## Logic
 
