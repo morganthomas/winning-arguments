@@ -943,6 +943,8 @@ In the section on rules and laws, we noted that all laws are binding in some sen
 In many professional contexts, such as when performing a technical job such as software development or security analysis, the laws of rationality are binding as a matter of professional ethics, especially in mission-critical scenarios.
 * In serious contexts where you need to solve a problem, rationality is usually applicable. In these cases, the laws of rationality are binding in the sense that following them maximizes your likelihood of success. (If following a set of principles of rationality reduced your likelihood of success, then those principles would be a flawed way of thinking about rationality. Observe that this is not a [no true Scotsman fallacy](https://en.wikipedia.org/wiki/No_true_Scotsman), because we are not changing the definition of rationality in an ad hoc way to deal with counterexamples. Rather, the principle that methods that systematically cause you to fail aren't rational is part of our common sense understanding of rationality. See Eliezer Yudkowsy, ["Rationality is Systematized Winning."](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/))
 
+TODO
+
 ## Reasons
 
 What are reasons? We are specifically interested in the meaning of the word "reason" which is used in the first three paragraphs of the Introduction, which we are still in the process of explaining. This usage is in the definition of "argument." We defined an argument as "a series of statements designed to provide reason to believe some conclusion(s)." We could also have written "reasons" or "reason(s)" in this definition in place of "reason," without really changing the meaning. We are interested in defining "reason" as the term is used in the definition of "argument."
