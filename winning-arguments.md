@@ -432,7 +432,7 @@ Many forms of preparation are required to be an impressive debater on a topic. O
 
 Even if you are well prepared, in a debate your debate partners will likely bring up arguments you didn't think of, and these arguments may create big problems for the view you entered the debate with. Hold great respect for what your debate partner knows that you don't know, because you don't know what they know.
 
-We are usually overconfident in our own beliefs, which translates into overconfidence that we will win a debate, retrospective overconfidence that we did win a debate, etc. When we notice our own overconfidence in our beliefs, we can over-correct and end up with under-confidence in what we know. Training away our overconfidence in our beliefs and finding a balanced degree of confidence in each belief that we hold is the work of a lifetime.
+We are usually overconfident that our current views are correct. When we notice our own overconfidence in our beliefs, we can over-correct and end up with under-confidence in what we know. Training away our overconfidence in our beliefs and finding a balanced degree of confidence in each belief that we hold is the work of a lifetime.
 
 
 
