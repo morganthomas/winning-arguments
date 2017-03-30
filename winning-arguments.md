@@ -916,7 +916,7 @@ Horwichian minimalism is not the most informative theory of truth, and it is onl
 
 ## Rationality
 
-What is rationality? "Rationality," being a nebulous, imprecise term, can mean many different things. However, our goal here is not to explore everything the word could or should mean. Our goal is develop a usable, practical theory of rationality.
+What is rationality? "Rationality," being a nebulous, imprecise term, can mean many different things. However, our goal here is not to explore everything the word could or should mean. Our goal is develop a usable, practical undarstanding of rationality.
 
 It is not productive to try to answer question "what is rationality?" by coming up with a dictionary definition of rationality, a sentence of the form "rationality is..." Rationality is too complex a concept to explain with a dictionary definition.
 
