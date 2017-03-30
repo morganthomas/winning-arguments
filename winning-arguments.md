@@ -302,6 +302,17 @@ Dictionaries are examples of sets of descriptive rules about human behavior. Dic
 
 Dictionaries can also be thought of as sets of prescriptive rules, for example if you're of the opinion that people ought to spell words the way they're found in the dictionary, or if you're of the opinion that people ought to use words that are in the dictionary only in senses defined in the dictionary.
 
+What is it that rules and laws do in the world? Rules and laws have effects. How can we describe their effects?
+
+All laws bind us and/or the world, in some sense and at least in some cases. The sense in which laws are binding varies.
+
+* The laws of physics are binding in the sense that physical theories generally postulate laws that always hold within their domain of applicability, so that any counterexamples would falsify the theory.
+* Sociological laws like Duverger's law and Godwin's law are expected to have some counterexamples, and counterexamples are not necessarily considered to undermine the whole law. They are binding in the sense that they represent strong statistical trends that one tends to observe over time.
+* The laws of governments are binding in the sense (and to the extent) that they can be enforced and offenses are punishable. Many consider the laws of governments to be binding in a moral sense in many cases. It seems to be a consensus among the people I speak to that laws of governments are not always binding in a moral sense, but I imagine this perspective is not shared by the whole world. For example, many Islamists undoubtedly would agree that sharia law is binding in a moral sense. (XXX: source?)
+* International law is binding on states in a moral sense, and it is also binding in the sense (and to the extent) that it is enforceable and offenses are punishable, which varies widely from case to case.
+
+I can't think of any counterexamples to the generalization that all laws are binding, to something in some sense in some cases. This, then, is one truism about laws which we will accept.
+
 TODO
 
 ## Winning
@@ -913,9 +924,16 @@ We can also study rationality from a behavioral perspective, by studying human b
 
 Rationality has to do with two areas of human behavior: communication and decision making. We employ rationality in communicating with each other, as when employing arguments to persuade others of something. We also employ rationality in decision making, as when making a purchasing decision, and in innumerable other situations.
 
-One theoretical perspective worth considering is the perspective that rationality is a form of technology. Rather than being physical, inanimate technology, rationality is mental/cultural technology. It's a complex of memes which we use as tools in solving problems. We will expand on this perspective later.
+In practice most rationality-related issues can be studied in the context of the study of debate. Studying the rules of debate is studying the majority of what there is to study about rationality. Conclusions about the rules of debate usually transfer over to other contexts, such as decision making, fairly straightforwardly. However, there are certainly issues of rationality specifically related to non-debate forms of communication, and unrelated to communication.
 
-In practice most rationality-related issues can be studien in the context of the study of debate. Studying the rules of debate is studying the majority of what there is to study about rationality. Conclusions about the rules of debate usually transfer over to other contexts, such as decision making, fairly straightforwardly. However, there are certainly issues of rationality specifically related to non-debate forms of communication, and unrelated to communication.
+Now let us examine the notion of the "laws of rationality." On my reading, discovering the laws of rationality has been the foremost goal of the study of rationality since that study's inception.
+
+In the section on rules and laws, we noted that all laws are binding in some sense. In what sense are the laws of rationality binding? In many different senses, in many different contexts:
+
+* In debates, the laws of rationality are binding as a matter of social norms. The laws of rationality are broken on a regular basis in debates, probably in most debates. However, we still agree that in some sense those who break them are not debating correctly.
+* In academic contexts, the laws of rationality are binding as a matter of professional standards. In the context of academic publishing the laws of rationality are enforceable by the peer review process.
+In many professional contexts, such as when performing a technical job such as software development or security analysis, the laws of rationality are binding as a matter of professional ethics, especially in mission-critical scenarios.
+* In serious contexts where you need to solve a problem, rationality is usually applicable. In these cases, the laws of rationality are binding in the sense that following them maximizes your likelihood of success. (If following a set of principles of rationality reduced your likelihood of success, then those principles would be a flawed way of thinking about rationality. Observe that this is not a no true Scotsman fallacy, because we are not changing the definition of rationality in an ad hoc way to deal with counterexamples. Rather, the principle that methods that systematically cause you to fail aren't rational is part of our common sense understanding of rationality. See Eliezer Yudkowsy, "Rationality is Systematized Winning.")
 
 TODO
 
