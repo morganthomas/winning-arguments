@@ -901,6 +901,13 @@ Horwichian minimalism is not the most informative theory of truth, and it is onl
 
 What are reasons? We are specifically interested in the meaning of the word "reason" which is used in the first three paragraphs of the Introduction, which we are still in the process of explaining. This usage is in the definition of "argument." We defined an argument as "a series of statements designed to provide reason to believe some conclusion(s)." We could also have written "reasons" or "reason(s)" in this definition in place of "reason," without really changing the meaning. We are interested in defining "reason" as the term is used in the definition of "argument."
 
+We say things like:
+
+* "Euclid's proof provides reason to believe that there are infinitely many prime numbers."
+* "Euclid reasoned that there are infinitely many prime numbers."
+* "Euclid's proof reasons that there are infinitely many prime numbers."
+* "Euclid had great mastery of reason."
+
 ## Logic
 
 ## Fallacies
