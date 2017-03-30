@@ -945,6 +945,8 @@ In the section on rules and laws, we noted that all laws are binding in some sen
 In many professional contexts, such as when performing a technical job such as software development or security analysis, the laws of rationality are binding as a matter of professional ethics, especially in mission-critical scenarios.
 * In serious contexts where you need to solve a problem, rationality is usually applicable. In these cases, the laws of rationality are binding in the sense that following them maximizes your likelihood of success. (If following a set of principles of rationality reduced your likelihood of success, then those principles would be a flawed way of thinking about rationality. Observe that this is not a [no true Scotsman fallacy](https://en.wikipedia.org/wiki/No_true_Scotsman), because we are not changing the definition of rationality in an ad hoc way to deal with counterexamples. Rather, the principle that methods that systematically cause you to fail aren't rational is part of our common sense understanding of rationality. See Eliezer Yudkowsy, ["Rationality is Systematized Winning."](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/))
 
+There is no centralized authority on rationality. Generally speaking, rationality's dominance can be attributed to the fact that it gets shit done, that it wins. No centralized enforcement is necessary to maintain its dominance; it's a natural consequence of the way that rationality relates to human society as a whole, which is a consequence of properties of rationality, human society, humans, and the world.
+
 TODO
 
 ## Reasons
