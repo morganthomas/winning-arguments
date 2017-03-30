@@ -959,7 +959,7 @@ The law of evidence is *the* basic norm of assertion. Most other laws of rationa
 
 ## Reasons
 
-What are reasons? We are specifically interested in the meaning of the word "reason" which is used in the first three paragraphs of the Introduction, which we are still in the process of explaining. This usage is in the definition of "argument." We defined an argument as "a series of statements designed to provide reason to believe some conclusion(s)." We could also have written "reasons" or "reason(s)" in this definition in place of "reason," without really changing the meaning. We are interested in defining "reason" as the term is used in the definition of "argument."
+What are reasons? We are specifically interested in the meaning of the word "reason" which is used in the first three paragraphs of the Introduction, which we are still in the process of explaining. This usage is in the definition of "argument." We defined an argument as "a series of statements designed to provide reason to believe some conclusion(s)." We could also have written "reasons" or "reason(s)" in this definition in place of "reason," without really changing the meaning. We are interested in defining "reason" as the term is used in the definition of "argument." Though that's our primary goal, we'll need to explore the meaning of the word "reason" in a more general way in order to get there.
 
 We say things like:
 
