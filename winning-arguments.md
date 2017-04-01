@@ -975,7 +975,7 @@ In sentence 1, "reason" looks like a noun, a kind of special substance contained
 
 Examining reason from all possible perspectives and giving equal time to each in this text would make our lives confusing and difficult. In practice, I think a more useful approach is to choose one primary perspective from which to examine reason, understand reason well from that perspective, and then use that as a jumping off point for developing a more holistic and integrative understanding of reason.
 
-We have already chosen the sense of "reason" that we primarily want to investigate. This is the sense used in the definition of "argument," which is "a series of statements designed to provide reason to believe some conclusion(s)." In other words, we are interested in the kind of reasons that arguments are designed to provide for their conclusions.
+We have already chosen the sense of "reason" that we primarily want to investigate. This is the sense used in the definition of "argument," which is "a series of statements designed to provide reason to believe some conclusion(s)." In other words, we are interested in the kind of reasons that arguments are supposed to provide for their conclusions.
 
 ## Logic
 
