@@ -975,7 +975,11 @@ In sentence 1, "reason" looks like a noun, a kind of special substance contained
 
 Examining reason from all possible perspectives and giving equal time to each in this text would make our lives confusing and difficult. In practice, I think a more useful approach is to choose one primary perspective from which to examine reason, understand reason well from that perspective, and then use that as a jumping off point for developing a more holistic and integrative understanding of reason.
 
-We have already chosen the sense of "reason" that we primarily want to investigate. This is the sense used in the definition of "argument," which is "a series of statements designed to provide reason to believe some conclusion(s)." In other words, we are interested in the kind of reasons that arguments are supposed to provide for their conclusions.
+We have already chosen the sense of "reason" that we primarily want to investigate. This is the sense used in the definition of "argument," which is "a series of statements designed to provide reason to believe some conclusion(s)." In other words, we are interested in the kind of reasons that arguments are supposed to provide for their conclusions. Let's now investigate the meaning of "reason" in this sense.
+
+Arguments are series of statements, and reasons are something that they intend to provide for their conclusions. Taking this literally, reasons are some sort of supervenient phenomena which emerge from properly formulated arguments. This illustrates the risks that can be involved in taking language too literally when doing philosophy. We can be led to remarkable and confusing conclusions in this way.
+
+We're not going to assume that there is literally a kind of entity in nature called a "reason." Statements that provide reasons exist, but we're not going to assume that we can equate a reason with the statements that provide it, and we're not going to assume that some statements are decorated with some sort of metaphysical entity called a reason. We are not even going to make a serious attemp to address the question of what actual phenomena are being discussed when we talk about reasons.
 
 ## Logic
 
