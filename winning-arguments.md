@@ -981,7 +981,7 @@ Arguments are series of statements, and reasons are something that they intend t
 
 We're not going to assume that there is literally a kind of entity in nature called a "reason." Statements that provide reasons exist, but we're not going to assume that we can equate a reason with the statements that provide it, and we're not going to assume that some statements are decorated with some sort of metaphysical entity called a reason.
 
-If you like, you can think of "provide reason to believe" as a non-decomposable phrase denoting a relation between series of statements (arguments) on the left hand, and statements (conclusions) on the right hand. If this is right, then there are many other English phrases which denote the same or approximately the same relation as "provide reason to believe," e.g. "provide justification to believe," "provide evidence," "argue effectively," etc.
+If you like, you can think of "provide reason to believe" as a non-decomposable phrase denoting a relation between series of statements (arguments) on the left hand, and statements (conclusions) on the right hand. If this is right, then there are many other English phrases which denote the same or approximately the same relation as "provide reason to believe," e.g. "provide justification," "provide evidence," "argue effectively," etc.
 
 ## Logic
 
