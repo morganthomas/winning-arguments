@@ -983,7 +983,7 @@ We're not going to assume that there is literally a kind of entity in nature cal
 
 If you like, you can think of "provide reason to believe" as a non-decomposable phrase denoting a relation between series of statements (arguments) on the left hand, and statements (conclusions) on the right hand. If this is right, then there are many other English phrases which denote the same or approximately the same relation as "provide reason to believe," e.g. "provide justification," "provide evidence," "argue effectively," etc. And there are others which seem to denote different but related relations between arguments and conclusions, e.g. "prove," "demonstrate conclusively," "argue fallaciously," "argue poorly," etc. Taking all of these phrases to be non-decomposable phrases denoting relations having to do with providing reasons has the advantageous consequence of giving us a way to think about reasoning without getting stuck on the idea that there is some such thing as a "reason" which ought to be an object of our investigation.
 
-What we're actually interested in are not a kind of entities called reasons, but a certain relation between arguments and their conclusions, the relation of providing reason to believe.
+What we're actually interested in are not a kind of entities called reasons, but a certain relation between arguments and their conclusions, the relation of providing reasons for.
 
 ## Logic
 
