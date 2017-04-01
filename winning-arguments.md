@@ -979,7 +979,7 @@ We have already chosen the sense of "reason" that we primarily want to investiga
 
 Arguments are series of statements, and reasons are something that they intend to provide for their conclusions. Taking this literally, reasons are some sort of supervenient phenomena which emerge from properly formulated arguments. This illustrates the risks that can be involved in taking language too literally when doing philosophy. We can be led to remarkable and confusing conclusions in this way.
 
-We're not going to assume that there is literally a kind of entity in nature called a "reason." Statements that provide reasons exist, but we're not going to assume that we can equate a reason with the statements that provide it, and we're not going to assume that some statements are decorated with some sort of metaphysical entity called a reason. We are not even going to make a serious attemp to address the question of what actual phenomena are being discussed when we talk about reasons.
+We're not going to assume that there is literally a kind of entity in nature called a "reason." Statements that provide reasons exist, but we're not going to assume that we can equate a reason with the statements that provide it, and we're not going to assume that some statements are decorated with some sort of metaphysical entity called a reason. We are not even going to make a serious attempt to address the question of what actual phenomena are being discussed when we talk about reasons.
 
 ## Logic
 
