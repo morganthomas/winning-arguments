@@ -973,6 +973,10 @@ In sentence 1, "reason" looks like a noun, a kind of special substance contained
 
 "Reason" is a versatile term that can be used in many different ways. There is some common theme flowing through these different usages: some common thread between the rational substance contained in Euclid's proof, and the rational activity of Euclid, and the rational activity or potency of Euclid's proof, and Euclid's mastery of reason, and perhaps even Euclid's reasons for doing math. If we want to take Euclid's proof as a good example of reasoning, and study it to understand reasoning better, then we can try to examine the proof, and we can do so from various perspectives. We can also try to examine Euclid, and try to discover what qualities in him made him able to produce the proof and motivated him to do so.
 
+Examining reason from all possible perspectives and giving equal time to each in this text would make our lives confusing and difficult. In practice, I think a more useful approach is to choose one primary perspective from which to examine reason, understand reason well from that perspective, and then use that as a jumping off point for developing a more holistic and integrative understanding of reason.
+
+We have already chosen the sense of "reason" that we primarily want to investigate. This is the sense used in the definition of "argument," which is "a series of statements designed to provide reason to believe some conclusion(s)." In other words, we are interested in the kind of reasons that arguments are designed to provide for their conclusions.
+
 ## Logic
 
 ## Fallacies
