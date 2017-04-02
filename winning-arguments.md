@@ -1000,6 +1000,8 @@ The way to develop such a method or body of theory is to start by looking at lot
 
 What we are looking to study are the **laws of reasoning**. The laws of reasoning are generalizations which guide us in understanding what arguments are winning. One example of a law of reasoning is that properly formulated *reductio ad absurdum* arguments are winning. This law is basically correct. However, our formulation of it is still imprecise, and we should seek greater precision in describing the law. Furthermore, there is plenty of controversy around the *reductio ad absurdum* principle among logicians, which we should review. 
 
+The approach we will take is to try to develop a modern understanding of reasoning by building from fresh timber and reproducing in the most correct way possible the thinking of the great philosophers, logicians, scientists, and mathematicians who have shaped our modern understanding of reasoning.
+
 ## Logic
 
 The most reasonable starting point for studying 
