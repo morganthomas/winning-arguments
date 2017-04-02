@@ -996,7 +996,7 @@ We can therefore formulate our question as follows: what arguments provide reaso
 
 Another way of formulating our question is as follows: which arguments are winners, and which are losers? Every properly formulated argument states what its conclusion is. If an argument provides good reason to believe its conclusion, then we can say the argument is a winner. If argument provides bad reasons or no reasons to believe its conclusion, then we can say the argument is a loser. Then we can describe what we're interested in as a general method or body of theory for distinguishing between winning and losing arguments.
 
-The way to develop such a method or body of theory is to start by looking at lots of particular arguments, figure out which ones are winners and losers on a case by case basis, and on that basis formulate general rules about what arguments are winners and losers.
+The way to develop such a method or body of theory is to start by looking at lots of particular arguments, figure out which ones are winners and losers on a case by case basis, and on that basis formulate general rules about what arguments are winners and losers. This is very slow, methodical work, and in doing it we are retracing the steps of philosophers who have thought about these issues for thousands of years. In developing this theory, my goal is not to discover anything new, but to formulate what has already been understood by those who looked at this before, in the most correct and useful way possible.
 
 ## Logic
 
