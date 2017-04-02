@@ -573,10 +573,10 @@ Let us show how these grammar rules can be used to derive the examples we gave a
 **((*a* is a dog) and (*a* runs)) is a statement.**
 
 * *a* is a variable name.
-* "runs" is a verb.
+* "runs" is a verb, and therefore a copula.
 * By rule 2, (*a* runs) is a statement.
 * (*a* is a dog) is a statement (see above).
-* By rule 5, ((*a* is a dog) and (*a* runs)) is a statement.
+* By rule 6, ((*a* is a dog) and (*a* runs)) is a statement.
 
 **(for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant))) is a statement.**
 
@@ -585,18 +585,18 @@ Let us show how these grammar rules can be used to derive the examples we gave a
 * By rule 1, (*a* is Santa Claus) is a statement.
 * "a North Pole inhabitant" is a predicate (denoting a property).
 * By rule 1, (*a* is a North Pole inhabitant) is a statement.
-* By rule 5, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant)) is a statement.
-* By rule 6, (for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant))) is a statement.
+* By rule 6, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant)) is a statement.
+* By rule 7, (for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant))) is a statement.
 
 The reader should understand the foregoing to the extent that they can produce an unlimited number of statements in first-order logic; produce for each of them derivations conforming to the pattern we have demonstrated; and distinguish between valid and invalid syntax for statements of first-order logic.
 
 The reader should also understand what statements in first-order logic mean. For the most part, this may be fairly self-evident, but it is worth taking a moment to clarify explicitly what each form of statement means:
 
 * (**a** is **P**) means that whatever object the object term **a** denotes in the current context satisfies the predicate **P**, or in other words has the property **P**, belongs to the category of objects **P**, or is the object **P**.
-* (**a** **v**) and (**a** **v** **b**), where **v** is an [English copula](https://en.wikipedia.org/wiki/Copula_(linguistics)#English), such as a verb, and **a** and **b** are object terms, means that the corresponding English statement is true for whatever object(s) the object term(s) denote in the current context.
+* (**a** **v**) and (**a** **v** **b**), where **v** is an [English copula](https://en.wikipedia.org/wiki/Copula_(linguistics)#English), such as a verb, and **a** and **b** are object terms, means that the corresponding English statement is true for whatever object(s) the object term(s) **a** and **b** denote in the current context.
 * (**A** and **B**) means that **A** and **B** are both true.
-* (**A** or **B**) means that at least one of **A** or **B**, and possibly both, are true. The "or" in first-order logic is therefore an *inclusive or*. This can be distinguished from an *exclusive or*, which differs from an inclusive or in that it an exclusive or is false when both disjuncts are true. That is, an exclusive or requires exactly one of its disjuncts to be true, as opposed to at least one as with inclusive or.
-* (not **A**) means that **A** is not true.
+* (**A** or **B**) means that at least one of **A** or **B**, and possibly both, are true. The "or" in first-order logic is therefore an *inclusive or*. This can be distinguished from an *exclusive or*, which differs from an inclusive or in that an exclusive or is false when both disjuncts are true. That is, an exclusive or requires exactly one of its disjuncts to be true, as opposed to at least one as with inclusive or.
+* (not **A**) means that **A** is not true, or that **A** is false, depending who you ask. Whether "not true" and "false" are different properties also depends who you ask.
 * (if **A** then **B**) means that if **A** is true, then **B** is true.
 * (for all **a**, **A**) means that in any variant on the current context created by setting the object denoted by the variable **a** to some object, **A** is true.
 * (for some **a**, **A**) means that in at least one variant on the current context created by setting the object denoted by the variable **a** to some object, **A** is true.
@@ -612,7 +612,7 @@ Many connective words/phrases have conventional names:
 
 An occurrence of a variable name in a statement is called a **bound occurrence** if it is enclosed by a quantifier over the same variable; otherwise it is called a **free occurrence**. For example, in the statement (for some *x*, (*x* is a prairie dog)), the occurrence of *x* in (*x* is a prairie dog) is a bound occurrence. In the statement ((*x* is a prairie dog) and (for some *y*, (*x* loves *y*))), the two occurrences of *x* are free, whereas the occurrence of *y* in (*x* loves *y*) is bound.
 
-The explanations we gave of the meanings of statements assume the notion of a *context*. For the purposes of first-order logic, the context simply determines what objects the variables, and the object terms with context-sensitive meanings (e.g. "this cat") denote. You can think of a context as a mapping from variable names to objects. Contexts are referred to by various names in the study of logic, with "variable assignment" being one term in use. In some presentations of first-order logic, every variable name is required to be given a value by a context, while in other presentations, a context might give values only to some variables. In the latter approach, statements containing free occurrences of variables will be uninterpretable in a given context if that context does not assign values to those variables.
+The explanations we gave of the meanings of statements in first-order logic assume the notion of a *context*. For the purposes of first-order logic, the context simply determines what objects the variables, and the object terms with context-sensitive meanings (e.g. "it") denote. You can think of a context as a mapping from variable names to objects. Contexts are referred to by various names in the study of logic, with "variable assignment" being one term in use. In some presentations of first-order logic, every variable name is required to be given a value by a context, while in other presentations, a context might give values only to some variables. In the latter approach, statements containing free occurrences of variables will be uninterpretable in a given context if that context does not assign values to those variables.
 
 We will take the latter approach in this text. Specifically, we will consider a context to provide a *partial* mapping from object terms to objects, saying for some subset of the set of all of context-sensitive object terms (i.e. variables and context-sensitive object literals) what objects they denote. In our approach, statements containing free occurrences of variables whose denotations are not defined by a given context, and statements containing context-sensitive object literals whose denotations are not defined by that context, will be uninterpretable in that context.
 
@@ -632,7 +632,7 @@ In order to investigate further, we shall abandon contrived examples and look at
 
 **This cake is well named, as it has a very delicate consistency.**
 
-Translation: ((this cake is well named) and (this cake is delicate in consistency) and (the statement (this cake is well named) is justified by the statement (this cake is very delicate in consistency)))
+Translation: ((this cake is well named) and (this cake is very delicate in consistency) and (the statement (this cake is well named) is justified by the statement (this cake is very delicate in consistency)))
 
 Sentence from: Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.
 
@@ -642,7 +642,9 @@ Sentence from: Irma S. Rombauer. The Joy of Cooking. Simon & Schuster Inc.
 * The cake has a very delicate consistency.
 * The cake is well named because it has a very delicate consistency.
 
-This third statement is expressing a relationship between the first two statements: namely, that "this cake has a delicate consistency" justifies "this cake is well named." This is reflected in the translation, where the copula "is justified by" relates the two object literals "the statement (this cake is well named)" and "the statement (this cake is delicate in consistency)."
+This third statement is expressing a relationship between the first two statements: namely, that "this cake has a very delicate consistency" justifies "this cake is well named." This is reflected in the translation, where the copula "is justified by" relates the two object literals "the statement (this cake is well named)" and "the statement (this cake is delicate in consistency)."
+
+TODO: break down further
 
 **Every passerby could read the sign, for every passerby could read Hebrew, Latin, or Greek --- the three great languages of the ancient world.**
 
@@ -651,6 +653,8 @@ Translation: ((Latin is a great language of the ancient world) and (Hebrew is a 
 Sentence from: Max Lucado. He Chose the Nails. Thomas Nelson.
 
 The size of this translation shows that many different logical propositions are contained in this not-exceptionally-long English sentence.
+
+TODO: break down
 
 The hawk-eyed reader may notice that we have taken some liberties with parentheses in this translation. For example, we wrote ((x is Greek) or (x is Latin) or (x is Hebrew)), but technically this statement cannot be produced by our syntax rules, because our syntax rules cannot produce three "or" clauses under one shared set of paretheses. To conform technically to our syntax, the statement must be written with two of the "or" clauses parenthesized together, in one of these two ways (with the added parentheses in bold):
 
@@ -682,7 +686,7 @@ This translation omits the difficulty the speaker has in referring to Godot, and
 
 This example illustrates that there can be multiple plausible translations of an English statement into first-order logic. This is a usual feature of translation from any language into any other language.
 
-In order to ensure their understanding of the foregoing, which is necessary for understanding of what follows, the reader should ensure they are able to translate statements from English into first-order logic. Perhaps it is evident to the reader how to do this from what has been said. The reader is encouraged to find English sentences and translate them into first-order logic. Especially if this exercise is difficult, the reader can try the provided exercises, which include answers and walk through the process of arriving at those answers.
+In order to ensure their understanding of the foregoing, which is necessary for understanding of what follows, the reader should ensure they are able to translate statements from English into first-order logic. Perhaps it is evident to the reader how to do this from what has been said. The reader is encouraged to find English statements and translate them into first-order logic. Especially if this exercise is difficult, the reader can try the provided exercises, which include answers and walk through the process of arriving at those answers.
 
 TODO: Exercises
 
@@ -690,7 +694,7 @@ The reader is encouraged to try to find limits to what first-order logic can exp
 
 TODO: Discuss general techniques for eliminating English grammar constructs not present in first-order logic
 
-TODO: Discuss philosophy of translation into first-order logic in more depth
+TODO: Discuss philosophy of translation into first-order logic in more depth, including limitations of translation
 
 Let's step back and consider what we've learned so far. We set out to study the grammar of statements. We studied the grammar of statements in a version of first-order logic. We also developed a practical understanding of how to translate English statements into first-order logic. Thus, we have seen that although the grammar of English statements is very complex, for many practical purposes we can reduce the study of English statements to the study of statements in a much simpler and more precisely defined language: the language of first-order logic.
 
@@ -698,7 +702,7 @@ This is because for essentially every English statement, we can find a statement
 
 However, it would be wrong of us to carry out our study of statements only in first-order logic indefinitely. Ultimately everything we learn must be applied to English statements. Arguments are almost always made in natural languages, of which English is the example used in this text. Working in English must not be a handicap for us. As debaters we benefit from wishing to become such masters of the full complexity of the natural language(s) we use that the complexity is something we turn to our advantage rather than something that stymies us. However, practically speaking, mastery of English, insofar as English differs from first-order logic, is more a matter of acquaintance and art than it is of theory and technique. Mastery of first-order logic, on the other hand, is mostly a matter of theory and technique. Acquaintance and art come only from practice, and in this book our focus outside of the exercises is on theory and technique.
 
-This simply means that the reader will mostly have to figure out for themselves how to apply the theory and technique of logic to natural language arguments. The reader should synthesize for themselves a deep, intuitive understanding of the theory and technique of logic, and allow it to sink into their mind until it underpins their thinking even on an unconscious level. This, in my experience, is what enables the reflexive, sophisticated application of logic to natural language. With that in mind, let us continue our study of logic by tackling the important topic of truth.
+This simply means that the reader will mostly have to figure out for themselves how to apply the theory and technique of logic to natural language arguments. The reader should seek to synthesize for themselves a deep, intuitive understanding of the theory and technique of logic, and allow it to sink into their mind until it underpins their thinking even on an unconscious level. This, in my experience, is what enables the reflexive, sophisticated application of logic to natural language. 
 
 ## Speech acts
 
