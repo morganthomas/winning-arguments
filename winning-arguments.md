@@ -190,6 +190,9 @@ What can we say overall about the meaning of the word "game?" On this, let's quo
 
 "67. I can think of no better expression to characterize these similarities than "family resemblances"; for the various resemblances between members of a family: build, features, colour of eyes, gait, temperament, etc. etc. overlap and criss-cross in the same way.—And I shall say: 'games' form a family."
 
+
+
+
 ## Rules and laws
 
 We have previously concluded that games always have rules. However, we have not discussed at any length what rules are. Understanding rules is quite central to understanding games, and to understanding the principles of winning arguments. To understand rules, it is also helpful to compare the meaning of the word "rule" with the meaning of the word "law." Since the terms are close in meaning, comparing and contrasting the meanings of the terms is informative about both. Therefore we will embark on a unified analysis of rules and laws.
@@ -211,7 +214,7 @@ In summary, some but arguably not all laws are defined and established by humans
 
 There is some potential overlap between the categories of rules and laws. For example, the following statement seems fair: the laws of Newtonian physics are rules describing the motion of physical bodies. From that statement it follows that the laws of Newtonian physics are both rules and laws. If we accept that there are many (or in fact any) things which we can reasonably call either rules or laws, then it follows that there are no properties which all rules have and all laws lack, or vice versa.
 
-Is every rule a law? Is every law a rule? "The laws of chess" and "the rules of the universe" are odd sounding phrases, probably, to most native English speakers. "The laws of chess" sounds odd, perhaps, because it suggests that the rules of chess have some quality of inevitability, whereas in fact people regularly play [variants](https://en.wikipedia.org/wiki/Chess960) [of](https://en.wikipedia.org/wiki/Three-dimensional_chess) [chess](https://en.wikipedia.org/wiki/List_of_chess_variants), cheat at chess, misunderstand the rules of chess, etc. "The rules of the universe" sounds odd, perhaps, because there's nothing we ordinarily call a rule that governs something as big and grand as the universe; only things we ordinarily call laws apply at this scale. These phrases, "the laws of chess" and "the rules of the universe," are still probably understandable in context, and they need not have the illogical connations we have described for them, but they can refer simply to the rules of chess and the laws of biology, respectively.
+Is every rule a law? Is every law a rule? "The laws of chess" and "the rules of the universe" are odd sounding phrases, probably, to most native English speakers. "The laws of chess" sounds odd, perhaps, because it suggests that the rules of chess have some quality of inevitability, whereas in fact people regularly play [variants](https://en.wikipedia.org/wiki/Chess960) [of](https://en.wikipedia.org/wiki/Three-dimensional_chess) [chess](https://en.wikipedia.org/wiki/List_of_chess_variants), cheat at chess, misunderstand the rules of chess, etc. "The rules of the universe" sounds odd, perhaps, because there's nothing we ordinarily call a rule that governs something as big and grand as the universe; only things we ordinarily call laws apply at this scale. These phrases, "the laws of chess" and "the rules of the universe," are still probably understandable in context, and they need not have the illogical connotations we have described for them, but they can refer simply to the rules of chess and the laws of biology, respectively.
 
 Our linguistic experiments suggest, firstly, that there is a delicate difference in meaning between "rule" and "law," and secondly, that there is a great deal of similarity in meaning between "rule" and "law."
 
@@ -223,7 +226,7 @@ For the sake of clear nomenclature, we will use the term "natural law" to refer 
 
 The nature and extent of the difference in meaning between "rule" and "law" is, at the end of the day, a question of opinion. The subtleties of the distinction are interesting. What's perhaps more interesting, though, is looking more into the basic meanings of the terms "rule" and "law." 
 
-It would be helpful to establish more relations between "rule" and other terms we have studied. We have generalized that games and gamelike activities follow rules. Can we also generalize that rules occur in the context of games and gamelike activities?
+It would be helpful towards that goal to establish more relations between "rule" and other terms we have studied. We have generalized that games and gamelike activities follow rules. Can we also generalize that rules occur in the context of games and gamelike activities?
 
 Let's look back to the examples of rules we gave. Do all of them occur in the context of games or gamelike activities? Let's examine. The M'Naghten rules are rules for legal proceedings, which are a gamelike activity used to settle legal cases. The right-hand rule is a mini-game for remembering orientation conventions in 3D vector math. The five-second rule is a mini-game (lacking any factual basis) which we play to justify eating food off the floor. The [rule of 72](https://en.wikipedia.org/wiki/Rule_of_72) is a rule of thumb that one can employ in the gamelike activity of investment portfolio construction. One illustration that investment portfolio construction is a gamelike activity is that [a number of games](https://www.google.com/?q=stock+market+simulator) have been closely modeled after the activity of trading the stock market. Trading the stock market has, in turn, drawn comparison to gambling games such as poker.
 
@@ -246,6 +249,8 @@ Statement 2 is a compound of a terminological rule and a statement about the wor
 
 **Statement 2t:** We should use the phrase "the laws of Newtonian physics" to refer to said objective laws of nature, as opposed to using the phrase "the laws of Newtonian physics" to refer to said human-constructed descriptions.
 
+Statement 2w is a statement about the world, whereas statement 2t is a terminological rule.
+
 For statement 2t to make sense, statement 2w must be true. If statement 2w is not true, then there are no objective laws of nature correlating to the laws of Newtonian physics, making "said objective laws of nature" in statement 2t unable to refer to anything.
 
 One can accept statement 2w and reject statement 2t. If one neither accepts nor rejects statement 2w, if one maintains that one does not know whether or not statement 2w is true, one can still reject statement 2t.
@@ -260,11 +265,11 @@ Statement 2w is in doubt on multiple fronts, and probably many are not willing t
 
 Instead, in this text we will use the phrase "the laws of Newtonian physics" to refer to said human-constructed descriptions, or to the ideas those descriptions denote.
 
-The same problem we have encountered with Newtonian physics occurs with other phrases that refer either to laws or nature or to human-constructed descriptions of supposed laws of nature. Examples of phrases presenting this problem include "the laws of general relativity," "the laws of quantum mechanics," "the laws of chemistry," "the laws of biology," etc. In all such cases, in this text we shall interpret the phrases as referring to human constructed descriptions of laws, or to the ideas expressed by those descriptions, and not to objective laws of nature. This is, as with the case of the laws of Newtonian physics, not an attempt to say that there aren't corresponding objective laws of nature (though many of the same difficulties with asserting positively the existence of such laws present themselves in other cases). It's simply a terminological choice driven by the desire not to take a position on what objective laws of nature exist.
+The same problem we have encountered with Newtonian physics occurs with other phrases that refer either to laws or nature or to human-constructed descriptions of supposed laws of nature. Examples of phrases presenting this problem include "the laws of general relativity," "the laws of quantum mechanics," "the laws of chemistry," "the laws of biology," etc. In all such cases, in this text we shall interpret the phrases as referring to human constructed descriptions of laws, or to the ideas expressed by those descriptions, and not to objective laws of nature. This is, as with the case of the laws of Newtonian physics, not an attempt to say that there aren't corresponding objective laws of nature (though many of the same difficulties with asserting positively the existence of such laws present themselves in other cases as well). It's simply a terminological choice driven by the desire not to take a position on what objective laws of nature exist.
 
 This terminological choice collapses a substantive distinction in meaning we've seen between the terms "rule" and "law," namely that "law" can refer to laws of nature whereas "rule" seems to refer to the rules of humans. Under our sharpened terminology, the natural laws we know (the laws of physics, chemistry, etc.) are just a kind of rule. For example, the laws of Newtonian physics are the rules of the game of Newtonian physics. Newtonian physics is a gamelike activity that humans practice in order to build bridges, go to the moon, etc. Similarly for the rest of natural science.
 
-Do any distinctions in meaning remain for us between "rule" and "law?" Let's consider the case of the laws of legal systems of nations, states, municipalities, etc, or "legal laws" as we shall say. Are legal laws rules? It seems natural to say so. By our principles, that means that legal laws are rules that apply in the context of some game or gamelike activity. The contexts that the laws of a legal system apply to are all situations in the jurisdiction of the legal system about which laws have been made in the given legal system.
+Do any distinctions in meaning remain for us between "rule" and "law?" Let's consider the case of the laws of legal systems of nations, states, municipalities, etc., or "legal laws" as we shall say. Are legal laws rules? It seems natural to say so. By our principles, that means that legal laws are rules that apply in the context of some game or gamelike activity. The contexts that the laws of a legal system apply to are all situations in the jurisdiction of the legal system about which laws have been made in the given legal system.
 
 In what ways are situations to which legal laws apply like games, and in what ways are they unlike games? Situations to which legal laws apply are always like games in the respect that in them one is required to follow rules. Since laws can be made about anything, situations about which there are legal laws can be arbitrarily non-gamelike. Let's ask, then, about the gamelike and non-gamelike characteristics of typical situations about which there are legal laws.
 
@@ -282,7 +287,7 @@ It still feels odd to speak of the "laws of chess." At the point we've arrived a
 
 Let's summarize what we've said about rules up to this point. Rules are defined and established by humans. Pretty much anything can follow rules. Games have rules, and rules occur in the context of games and gamelike activities. There is no substantive difference in meaning between "rule" and "law," understanding the unqualified term "law" to exclude laws of nature (but to include human-constructed descriptions thereof). Laws are a kind of rule, but the term "law" isn't applied to all rules, but only to certain rules whose jurisdictions are particularly wide.
 
-So far we have established some relationships between rules and other things: rules are related to the humans who make them, the games they're part of, and the things that follow them. However, we have not yet examined in enough detail what rules are in themselves. What are rules?
+So far we have established some relationships between rules and other things: rules are related to the humans who make them, the games they're part of, and the people and things that follow them. However, we have not yet examined in enough detail what rules are in themselves. What are rules?
 
 It's not useful to answer this question by giving a dictionary definition of "rule." "Rule" is such a central, basic concept in human thought that explaining it in terms of simpler concepts is impossible. Instead, we need to explain what rules are in a much more indirect fashion, by examining the concept of rules, as it's used in practice, from many different angles.
 
@@ -294,7 +299,7 @@ Anybody can state a descriptive rule. Descriptive rules can be correct or incorr
 
 Prescriptive rules work a little differently. Anybody can state prescriptive rules, but typically they need to persuade others to consent to follow them, which others are typically free not to do. Prescriptive rules are also made by various rule making entities with self-proclaimed and recognized authority based on consensus and/or force. Examples of rule making authorities include governments, international organizations like the UN and the EU, standards organizations like ISO and ANSI, and so forth.
 
-Prescriptive rules can only be about human behavior. Descriptive rules can be about people or things, but descriptive rules about people will never hold universally, because people have freedom of choice.
+Prescriptive rules can only be about human behavior. Descriptive rules can be about people or things, but descriptive rules about human behavior will never hold universally, because people have freedom of choice.
 
 Dictionaries are examples of sets of descriptive rules about human behavior. Dictionaries describe the senses of words as most commonly used by English speakers. However, English speakers can and occasionally do use words in senses not described in dictionaries.
 
@@ -306,16 +311,18 @@ All laws bind us and/or the world, in some sense and at least in some cases. The
 
 * The laws of physics are binding in the sense that physical theories generally postulate laws that always hold within their domain of applicability, so that any counterexamples would falsify the theory.
 * Sociological laws like Duverger's law and Godwin's law are expected to have some counterexamples, and counterexamples are not necessarily considered to undermine the whole law. They are binding in the sense that they represent strong statistical trends that one tends to observe over time.
-* The laws of governments are binding in the sense (and to the extent) that they can be enforced and offenses are punishable. Many consider the laws of governments to be binding in a moral sense in many cases. It seems to be a consensus among the people I speak to that laws of governments are not always binding in a moral sense, but I imagine this perspective is not shared by the whole world. For example, many Islamists undoubtedly would agree that sharia law is binding in a moral sense. (XXX: source?)
+* The laws of governments are binding in the sense (and to the extent) that they can be enforced and offenses are punishable. Many consider the laws of governments to be binding in a moral sense in many cases. It seems to be a consensus among the people I speak to that laws of governments are not always binding in a moral sense, but I imagine this perspective is not shared by the whole world. For example, many Islamists undoubtedly would agree that sharia law is binding in a moral sense.
 * International law is binding on states in a moral sense, and it is also binding in the sense (and to the extent) that it is enforceable and offenses are punishable, which varies widely from case to case.
 
-I can't think of any counterexamples to the generalization that all laws are binding, to something in some sense in some cases. This, then, is one truism about laws which we will accept.
+I can't think of any counterexamples to the generalization that all laws are binding, to something in some sense in some cases. This, then, is one truism about laws which we will accept: all laws are binding.
 
 TODO: Generalize to rules?
 
 Let's try to study further the phenomenon of rules and laws binding phenomena. If we look at the phenomenon of binding, it seems to divide into two distinct subtypes: the case where the rules and laws are defined by a centralized authority with de facto power to create binding rules/laws, and the case where there is no such centralized authority but the binding power of the rules/laws is a result of organic, uncontrolled processes. Let us call these **authoritative binding** and **organic binding**, respectively.
 
 The distinction between authoritative and organic binding is not sharp. In most cases, centralized rulemaking authorities have authority due to some level of consent/agreement to be ruled among the people who follow their rules. In many cases, there are varying levels of force used to enforce the authority of rulemaking authorities. In the case of governments, it seems they are generally able to rule only by a combination of general consent and the ability to use force.
+
+The distinction between authoritative and organic binding is not the same as the distinction between descriptive and prescriptive rules. There are prescriptive rules which are authoritatively binding, like laws, and prescriptive rules which are organically binding, like standards of common decency. As far as I'm aware, there are no descriptive rules which are authoritatively binding; I think all descriptive rules are organically binding.
 
 TODO
 
