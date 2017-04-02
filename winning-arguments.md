@@ -1004,9 +1004,11 @@ The approach we will take is to try to develop a modern understanding of reasoni
 
 The aim of the text up to this point has partly been throat-clearing and stage-setting for the goal of articulating laws of reasoning. Laws of reasoning help us to evaluate the quality of arguments by telling us what methods of argumentation do and do not work. Laws of reasoning are the essential theoretical ammunition that one needs to win arguments.
 
+Let's now get into the weeds with our first important category of laws of reasoning: laws of logic.
+
 ## Logic
 
-The most reasonable starting point for studying 
+
 
 ## Fallacies
 
