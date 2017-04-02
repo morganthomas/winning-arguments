@@ -164,7 +164,7 @@ Every conversation will follow rules of grammar and prononunciation particular t
 
 Other possible counterexamples, so far as I'm aware, can be disposed of by thinking along similar lines. It looks to me like any appearance of a gamelike activity lacking rules is due to failure to look sufficiently broadly for rules governing the activity. In interpreting this statement, it should be understood that rules need not be inviolable to be rules.
 
-When speaking English, people usually follow rules of grammar. Sometimes people violate the rules of grammar they normally follow. Different English speakers sometimes follow different rules of grammar. For example, African American vernacular English (AAVE) has different rules of grammar than standard American English. "He be comin" is grammatically valid AAVE, but not grammatically valid standard American English. People sometimes follow different linguistic rules in different contexts, as for example when a black person speaks African American vernacular English (AAVE) with their family and standard American English at work. Following different linguistic rules in different contexts is called "code-switching."
+When speaking English, people usually follow rules of grammar. Sometimes people violate the rules of grammar they normally follow. Different English speakers sometimes follow different rules of grammar. For example, African American vernacular English (AAVE) has different rules of grammar than standard American English. "He be comin" is grammatically valid AAVE, but not grammatically valid standard American English. People sometimes follow different linguistic rules in different contexts, as for example when a black person speaks AAVE with their family and standard American English at work. Following different linguistic rules in different contexts is called "code-switching."
 
 Everybody has their own unique linguistic habits. Everybody pronounces words slightly differently, understands the meanings of words slightly differently, and so forth. Mostly these differences are too tiny to identify, but the fact that everybody differs slightly in how they produce and process language is illustrated for example by the fact that it is possible to identify people's voices and people's handwriting. Therefore one can say there are as many **idiolects** (variants specific to an individual) of a natural language as there are speakers of that language.
 
@@ -172,7 +172,7 @@ The foregoing illustrates that there is a great deal of complexity and inconsist
 
 So far as our discussion has led us to be able to see, the generalization is true that **games and gamelike activities follow rules**. If there are exceptions to this generalization, they seem to be obscure.
 
-The nature of rules is well worth exploring in more depth. However, in order to complete our discussion of games, so that we can move on to discuss our primary topic of winning, we will delay discussing the nature of rules in more depth.
+The nature of rules is well worth exploring in more depth. However, for the moment we will delay discussing the nature of rules in more depth.
 
 **Are games always competitive?** The answer appears to be **no**. For some childrens' games, such as [peekaboo](https://en.wikipedia.org/wiki/Peekaboo) and and [ring around the rosie](https://en.wikipedia.org/wiki/Ring_a_Ring_o'_Roses), it's difficult to see any sense in which they are competitive. However, most games are competitive in some sense. Even solitary games usually involve self-competition, trying to learn and do better.
 
