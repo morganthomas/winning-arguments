@@ -1002,7 +1002,7 @@ What we are looking to study are the **laws of reasoning**. The laws of reasonin
 
 The approach we will take is to try to develop a modern understanding of reasoning by building on clear ground from fresh timber and reproducing as much as possible the most correct thinking of the philosophers, logicians, scientists, and mathematicians who have shaped our modern understanding of reasoning.
 
-The aim of the text up to this point has been throat-clearing and stage-setting for the goal of articulating laws of reasoning. These laws help us to evaluate the quality of arguments by telling us what methods of argumentation do and do not work. Laws of reasoning are the essential theoretical ammunition that one needs to win arguments.
+The aim of the text up to this point has partly been throat-clearing and stage-setting for the goal of articulating laws of reasoning. These laws help us to evaluate the quality of arguments by telling us what methods of argumentation do and do not work. Laws of reasoning are the essential theoretical ammunition that one needs to win arguments.
 
 ## Logic
 
