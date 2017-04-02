@@ -998,7 +998,11 @@ Another way of formulating our question is as follows: which arguments are winne
 
 The way to develop such a method or body of theory is to start by looking at lots of particular arguments, figure out which ones are winners and losers on a case by case basis, and on that basis begin to formulate general rules about what arguments are winners and losers. This is very slow, methodical work, and in doing it we are retracing the steps of philosophers who have thought about these issues for thousands of years. In developing the theory of discriminating between winning and losing arguments presented in the rest of this text, my goal is not to discover anything new, but to formulate what has already been understood by those who looked at this before, in the most correct and useful way possible.
 
+What we are looking to study are the **laws of reasoning**. The laws of reasoning are generalizations which guide us in understanding what arguments are winning. One example of a law of reasoning is that properly formulated *reductio ad absurdum* arguments are winning. This law is basically correct. However, our formulation of it is still imprecise, and we should seek greater precision in describing the law. Furthermore, there is plenty of controversy around the *reductio ad absurdum* principle among logicians, which we should review. 
+
 ## Logic
+
+The most reasonable starting point for studying 
 
 ## Fallacies
 
