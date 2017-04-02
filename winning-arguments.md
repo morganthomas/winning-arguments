@@ -456,7 +456,7 @@ Even if you are well prepared, in a debate your debate partners will likely brin
 
 We are usually overconfident that our current views are correct. When we notice our own overconfidence in our beliefs, we can over-correct and end up with under-confidence in what we know. Training away our overconfidence in our beliefs and finding a balanced degree of confidence in each belief that we hold is the work of a lifetime. Learning to quickly perform balancing of our confidence levels on the basis of a given information set is an important aspect of debate preparation.
 
-TODO
+
 
 
 
