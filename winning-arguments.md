@@ -758,7 +758,7 @@ Before we can develop a theory of truth, we need to gather some observations abo
 * Every statement is either true or false.
 * What's true is true and what's false is false, independently of what people believe, say, or wish.
 * Truth is something worth pursuing.
-* Truth is the opposite of falsehood
+* Truth is the opposite of falsehood.
 
 Not everybody agrees with all of these statements. Let's examine the ones that are controversial.
 
@@ -784,7 +784,7 @@ This truism is sometimes called the **law of the excluded middle**. It states, i
 
 Aristotle is the earliest writer I'm aware of to have asserted this law, when he wrote "there cannot be an intermediate between contradictories, but of one subject we must either affirm or deny any one predicate." (*Metaphysics*, Book IV, Part 7) 
 
-The law of the excluded middle is a feature of the standard rules for first-order logic, and it is a popular idea among logicians that the law is true. However, it is also a fairly popular idea that the law is false. Here are some possible examples of statements that are neither true nor false:
+The law of the excluded middle is a feature of the standard rules for first-order logic, and it is a popular idea among logicians that the law is true. However, it is also a fairly popular idea that the law is not true. Here are some possible examples of statements that are neither true nor false:
 
 * "Christianity is a good religion." Whether Christianity is a good religion depends on what one thinks makes for a good religion. Some would argue there is no such thing as a good religion, and Christianity has been a net bad for the world. Others would argue that Christianity is not only a good religion, but the only good religion. There are many perspectives in between. One may argue that this multiplicity of conflicting perspectives, each with at least a grain of truth to it, means that "Christianity is a good religion" is neither true nor false.
 * "Science is reliable." Reliable in what sense? Science is not reliable in the sense that following the scientific method doesn't guarantee that you will arrive at the truth, and scientists seem to make mistakes and get things wrong frequently. Science is reliable in the sense that we can rely on it to continue to provide us with new knowledge as long as people continue to follow the method. Science is probably reliable and unreliable in other senses too. So "science is reliable" isn't a specific enough statement to be true or false.
@@ -794,7 +794,7 @@ The law of the excluded middle is a feature of the standard rules for first-orde
 
 It's not obviously necessary to accept any of these as genuine counterexamples to the law of the excluded middle.
 
-* "Christianity is a good religion," you can argue, is either true or false given further definition of "good." Like any statement, it requires context clarifying the meaning of the terms in order to be true or false, but given that, it is either true or false, one can rague.
+* "Christianity is a good religion," you can argue, is either true or false given further definition of "good." Like any statement, it requires context clarifying the meaning of the terms in order to be true or false, but given that, it is either true or false, one can argue.
 * "Science is reliable" can be addressed in the same way. Given context clarifying the meaning of "reliable," the statement is true or false, one can argue.
 * "Liberals are tolerant" can be addressed in the same way.
 * "The King of America is short" is not true or false, because the meaning or referent of the term "the King of America" is not clarified by the context of the world as it exists today and has existed in the past.
@@ -816,11 +816,13 @@ Let's take stock.
 
 Most of the time in the course of life, we are happy to assume that statements are either true or false. Most of the time assuming that a statement is either true or false will not lead us into any kind of error. However, sometimes it is inappropriate to assume that a statement is either true or false, as with the statement "Christianity is good," or "science is reliable."
 
-It is generally safe to assume that sufficiently precise statements of fact about ordinary medium-sized physical objects are either true or false. It is generally safe to assume that mathematical statements are either true or false, because mathematicians regularly do so in the course of proofs; it is a generally accepted rule of mathematics that mathematical statements are either true or false. Some schools of thought on math, such as most [constructivist](https://en.wikipedia.org/wiki/Constructivism_(mathematics)) schools, reject the idea that every mathematical statement is either true or false.
+It is generally safe to assume that sufficiently precise statements of fact about ordinary medium-sized physical objects are either true or false. It is generally safe to assume that mathematical statements are either true or false, because mathematicians regularly do so in the course of proofs; it is a generally accepted rule of mathematics that mathematical statements are either true or false.
+
+However, some schools of schools of thought on math, such as most [constructivist](https://en.wikipedia.org/wiki/Constructivism_(mathematics)) schools, reject the idea that every mathematical statement is either true or false.
 
 For example, consider some universally quantified mathematical statement, i.e. a mathematical statement of the form (for all **x**, **A**). Let's call this statement P. Let's suppose P cannot be proven constructively, and that no counterexamples to P can be constructed, i.e. P cannot be disproven constructively. Then a constructivist might say that P is neither true nor false.
 
-Exactly how broadly we can assume that statements are either true or false is a matter of controversy. Most would agree that statements in decidable classes, like BQA statements, are either true or false. Most think the same about sufficiently precise statements of fact about medium-sized physical objects. I believe that most mathematicians accept the law of the excluded middle as applied to math. Some philosophers think we can assume the law of excluded middle much more broadly.
+Exactly how broadly we can assume that statements are either true or false is a matter of controversy. Most would agree that statements in decidable classes, like BQA statements, are all either true or false. Most think the same about sufficiently precise statements of fact about medium-sized physical objects. I believe that most mathematicians accept the law of the excluded middle as applied to math. Some philosophers think we can assume the law of excluded middle much more broadly.
 
 The reader is encouraged to use their own judgment in applying the law of the excluded middle, and to form their own opinion on the issues we have raised if they are interested. Practically speaking, I think the reader will find the law of the excluded middle is a useful logical tool which they feel comfortable applying in essentially any real world case where it's applicable.
 
@@ -887,7 +889,7 @@ I myself believe (this formulation of) Horwichian minimalism. It is a very modes
 
 The notion of axiomatic definition is a small variation on Bob Hale and Crispin Wright's concept of an [implicit definition](http://www.st-andrews.ac.uk/arche/old/pages/papers/Implicit%20Definition%20and%20the%20A%20Priori.pdf). The concept of implicit definitions is explained in the opening paragraph to the linked paper:
 
->  An explicit definition aims to supply a semantically equivalent expression of the
+> An explicit definition aims to supply a semantically equivalent expression of the
 same syntactic type as its definiendum. Implicit definition, taken as the complement of
 explicit, embraces a variety of subtypes. What all have in common is the idea that we may fix
 the meaning of an expression by imposing some form of constraint on the use of longer
