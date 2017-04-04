@@ -69,7 +69,7 @@ Why is it true (as we said at the second to last sentence of the argument) that 
 
 Infinitude of Primes is another example of a winning argument. Mathematical theorems, like the theorem that there are infinitely many prime numbers, are extraordinarily uncontroversial. This can be explained at least in part by the statement that math is a game that has simple and essentially agreed upon rules. By describing math as a game, I do not mean to imply that math is not an activity of seeking truth. I don't mean to take any position in this text on whether or not math is an activity of seeking the truth.
 
-Nonetheless, correct mathematical proofs are some of the best examples we have of winning arguments, due to their reliable persuasive power.
+Nonetheless, correct mathematical proofs are some of the best examples we have of winning arguments, due to their seemingly very reliable persuasive power.
 
 We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reason to believe some conclusion(s). Let's now return to the distinction we made between debates and arguments.
 
