@@ -330,7 +330,7 @@ A prescriptive rule can be organically binding in a given social game if there i
 
 One simple case of an approximate Nash equilibrium around following a rule is the case where each player is individually better off following the rule, regardless of what others do. "Don't eat mushrooms you are unable to identify" is an example of a rule like this.
 
-In more complex cases, whether people are better off following the rule depends on whether or not others follow the rule. For example, if others are working hard to get US dollars in your area, then you're probably better off if you work hard to get US dollars, so that you can buy things from all the people working for dollars in your area.
+In other cases, whether people are better off following the rule depends on whether or not others follow the rule. For example, if others are working hard to get US dollars in your area, then you're probably better off if you work hard to get US dollars, so that you can buy things from all the people working for dollars in your area.
 
 TODO
 
