@@ -328,6 +328,8 @@ Prescriptive rules can be made authoritatively binding on people if one is able 
 
 Prescriptive rules can be organically binding in a given social game if there is an approximation of a [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) around following the rules. What this means is, for essentially every player in the game, the best strategies available to them involve following the rules, as long as everybody else keeps playing the way they're currently playing. In such a situation, people may violate the rules, but they generally experience consequences from doing so; others observe and anticipate those consequences; and as a result people generally follow the rules.
 
+In general, prescriptive rules are organically binding in a social game if people's motivations typically incentivize them to follow said rules.
+
 TODO
 
 ## Winning
