@@ -328,9 +328,9 @@ Prescriptive rules can be made authoritatively binding on people if one is able 
 
 A prescriptive rule can be organically binding in a given social game if there is an approximation of a [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) around following the rule. What I mean by this is, for essentially every player in the game, their incentives mean that they are better off following the rule, as long as those around them continue to follow the rule. In such a situation, people may violate the rule, but they generally experience consequences from doing so; others observe and anticipate those consequences; and as a result people generally follow the rule.
 
-I hypothesize that every instance of a rule being organically binding is an approximation of a Nash equilibrium in the sense just described.
+One simple case of a Nash equilibrium around following a rule is the case where each player is individually better off following the rule, regardless of what others do. "Don't eat mushrooms you are unable to identify" is an example of a rule like this.
 
-
+In more complex cases, whether people are better off following the rule depends on whether or not others follow the rule. For example, if others are working hard to get US dollars in your area, then you're probably better off if you work hard to get US dollars, so that you can buy things from all the people working for dollars in your area.
 
 TODO
 
