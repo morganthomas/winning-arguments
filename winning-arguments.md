@@ -326,7 +326,7 @@ The distinction between authoritative and organic binding is not the same as the
 
 Prescriptive rules can be made authoritatively binding on people if one is able to use authority to instill sufficient fear in people of the consequences of breaking the rules that they follow the rules.
 
-Prescriptive rules can be organically binding in a given social game if there is an approximation of a [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) around following the rule. What this means is, for essentially every player in the game, the best strategies available to them involve following the rule, as long as everybody else keeps playing the way they are right now. In such a situation, people may violate the rule, but they generally experience consequences from doing so; others observe and anticipate those consequences; and as a result people generally follow the rule.
+Prescriptive rules can be organically binding in a given social game if there is an approximation of a [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) around following the rules. What this means is, for essentially every player in the game, the best strategies available to them involve following the rules, as long as everybody else keeps playing the way they're currently playing. In such a situation, people may violate the rules, but they generally experience consequences from doing so; others observe and anticipate those consequences; and as a result people generally follow the rules.
 
 TODO
 
