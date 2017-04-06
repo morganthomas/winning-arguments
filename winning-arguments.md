@@ -318,17 +318,19 @@ I can't think of any counterexamples to the generalization that all laws are bin
 
 TODO: Generalize to rules?
 
-Let's try to study further the phenomenon of rules and laws binding phenomena. If we look at the phenomenon of binding, it seems to divide into two distinct subtypes: the case where the rules and laws are defined by a centralized authority with de facto power to create binding rules/laws, and the case where there is no such centralized authority but the binding power of the rules/laws is a result of organic, uncontrolled processes. Let us call these **authoritative binding** and **organic binding**, respectively.
+Let's try to study further the phenomenon of rules and laws binding phenomena. If we look at the phenomenon of binding, it seems to divide into two distinct subtypes: the case where the rules and laws are defined by a centralized authority with the ability to enforce rules/laws, and the case where there is no such centralized authority. Let us call these **authoritative binding** and **organic binding**, respectively.
 
 The distinction between authoritative and organic binding is not sharp. In most cases, centralized rulemaking authorities have authority due to some level of consent/agreement to be ruled among the people who follow their rules. In many cases, there are varying levels of force used to enforce the authority of rulemaking authorities. In the case of governments, it seems they are generally able to rule only by a combination of general consent and the ability to use force.
 
 The distinction between authoritative and organic binding is not the same as the distinction between descriptive and prescriptive rules. There are prescriptive rules which are authoritatively binding, like laws, and prescriptive rules which are organically binding, like standards of common decency. As far as I'm aware, there are no descriptive rules which are authoritatively binding; I think all descriptive rules are organically binding.
 
-Prescriptive rules can be made authoritatively binding on people if one is able to use authority to instill sufficient fear in people of the consequences of breaking the rules that they follow the rules.
+Prescriptive rules can be made authoritatively binding on people if one is able to use authority to instill sufficient fear in people of the consequences of breaking the rules that they follow the rules. Organic binding of prescriptive rules can also be based on fear, if people fear the consequences of breaking the rules, but not because they fear retribution by an authority. An example is the organically binding prescriptive rule "don't eat mushrooms you are unable to identify."
 
-Prescriptive rules can be organically binding in a given social game if there is an approximation of a [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) around following the rules. What this means is, for essentially every player in the game, the best strategies available to them involve following the rules, as long as everybody else keeps playing the way they're currently playing. In such a situation, people may violate the rules, but they generally experience consequences from doing so; others observe and anticipate those consequences; and as a result people generally follow the rules.
+A prescriptive rule can be organically binding in a given social game if there is an approximation of a [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium) around following the rules. What this means is, for essentially every player in the game, their incentives mean that they are better off following the rule, as long as those around them continue to follow the rule. In such a situation, people may violate the rule, but they generally experience consequences from doing so; others observe and anticipate those consequences; and as a result people generally follow the rule.
 
-In general, prescriptive rules are organically binding in a social game if people's motivations typically incentivize them to follow said rules.
+I hypothesize that every instance of a rule being organically binding is an approximation of a Nash equilibrium in the sense just described.
+
+
 
 TODO
 
