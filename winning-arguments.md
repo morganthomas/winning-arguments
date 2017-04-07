@@ -4,6 +4,28 @@
 
 * [Acknowledgements](#acknowledgements)
 * [How to use this text](#how-to-use-this-text)
+* [Introduction](#introduction)
+* [Games](#games)
+* [Rules and laws](#rules-and-laws)
+* [Winning](#winning)
+* [Winning arguments and winning debates](#winning-arguments-and-winning-debates)
+* [Statements](#statements)
+* [Speech acts](#speech-acts)
+* [Truth](#truth)
+* [Meaning](#meaning)
+* [Rationality](#rationality)
+* [Reasons](#reasons)
+* [Logic](#logic)
+* [Fallacies](#fallacies)
+* [Biases](#biases)
+* [Induction](#induction)
+* [Probability](#probability)
+* [Statistics](#statistics)
+* [Beliefs](#beliefs)
+* [Persuasion](#persuasion)
+* [Paradoxes](#paradoxes)
+* [Foundations of math](#foundations-of-math)
+* [Faith](#faith)
 
 ## Acknowledgements
 
