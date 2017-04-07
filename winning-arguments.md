@@ -459,7 +459,7 @@ Another structure, which contrasts in interesting ways with the two-fixed-oppose
 * Participants may change their positions at any time and as many times as they choose.
 * Participants may refrain from holding a position.
 
-There are, of course, going to be debates which fit neither of these descriptions. However, these two forms of debates seem to be some of the most common and workable debate structures.
+There are, of course, going to be debates which fit neither of these descriptions. TODO: discuss them
 
 These two structures have substantially different conditions for winning, because they have substantially different purposes. In the two-fixed-opposed-sides debate, generally the participants share the assumption that exactly one of the two positions is correct, and the condition for winning, as understood by the debate participants, is typically more or less to establish to the satisfaction of the observers of the debate that one's own side has the more persuasive arguments in its favor. The purpose of a two-fixed-opposed-sides debate is usually to establish dominance of one of the two positions over the other.
 
