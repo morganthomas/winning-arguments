@@ -1088,7 +1088,7 @@ Of course, the moral virtues associated with rationality are merely one aspect o
 
 In addition to looking at rationality from psychological, moral, and spiritual perspectives, we can also study rationality from a behavioral perspective, by studying human behavior that exhibits rationality and trying to formulate rules that describe and explain what makes rational behavior rational. 
 
-Rationality has to do with two areas of human behavior: communication and decision making. We employ rationality in communicating with each other, as when employing arguments to persuade others of something. We also employ rationality in decision making, as when making a purchasing decision, and in innumerable other situations.
+Rationality has to do with two primary areas of human behavior: communication and decision making. We employ rationality in communicating with each other, as when employing arguments to persuade others of something. We also employ rationality in decision making, as when making a purchasing decision, and in innumerable other situations.
 
 In practice most rationality-related issues can be studied in the context of norms of assertion. Studying norms of assertion is studying the majority of what there is to study about rationality, at least in my awareness. Of course other topics besides norms of assertion, e.g. beliefs and decision making, are important. Most rationality-related issues apply analogously across all subdomains of rationality (e.g. norms of assertion, beliefs, and decision making). Therefore by studying one of these subdomains, one learns about all of them. However, each should also be studied individually to learn about issues specific to that subdomain.
 
