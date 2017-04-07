@@ -505,6 +505,10 @@ We are usually overconfident that our current views are correct. When we notice 
 
 TODO
 
+## Language
+
+TODO
+
 ## Statements
 
 The first three paragraphs of the Introduction explained the meaning of the title, and the entirety of the text since then has been an attempt to explain the meaning of the first three paragraphs of the Introduction. Back in the Introduction, I gave a series of words from the first three paragraphs that needed explanation:
