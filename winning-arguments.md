@@ -1004,7 +1004,7 @@ I think it's very informative to think about rationality by thinking about the k
 * Honesty
 * Thirst for truth
 
-TODO
+Of course, the moral virtues of rational people are merely one aspect of rationality.
 
 We can also study rationality from a behavioral perspective, by studying human behavior that exhibits rationality and trying to formulate rules that describe and explain what makes rational behavior rational. 
 
