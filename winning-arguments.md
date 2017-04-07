@@ -1037,6 +1037,9 @@ Our rules for reasoning are essentially encoded in our languages. Our languages 
 
 The most important wisdom about reasoning is contained in the rules governing our everyday languages. Good argumentation is mostly a matter of using everyday language in a way which adheres rigorously to common sense best practices of clarity and thoroughness. In other words, deeply understanding common sense about how to use language when attempting to discern the truth is the most important aspect of the development of rationality.
 
+Each of us is much more hidden than we are visible to ourselves and each other, as most of our functioning goes on unobserved inside our bodies and our unconscious minds. Our rationality is a still pond which runs deep. On the surface it is receptive to outside impressions and it reflects the world back at the world. Its depths are dark and mysterious.
+
+A person who wishes to become more rational must seek to manifest their inner rationality in a greater proportion of their conscious experience. They must seek to hone the skill of being that still pond which reflects the world back at the world.
 
     The supreme good is like water,
     which nourishes all things without trying to.
