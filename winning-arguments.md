@@ -312,7 +312,7 @@ All laws bind us and/or the world, in some sense and at least in some cases. The
 * The laws of physics are binding in the sense that physical theories generally postulate laws that always hold within their domain of applicability, so that any counterexamples would falsify the theory.
 * Sociological laws like Duverger's law and Godwin's law are expected to have some counterexamples, and counterexamples are not necessarily considered to undermine the whole law. They are binding in the sense that they represent strong statistical trends that one tends to observe over time.
 * The laws of governments are binding in the sense (and to the extent) that they can be enforced and offenses are punishable. Many consider the laws of governments to be binding in a moral sense in many cases. It seems to be a consensus among the people I speak to that laws of governments are not always binding in a moral sense, but I imagine this perspective is not shared by the whole world. For example, many Islamists undoubtedly would agree that sharia law is binding in a moral sense.
-* International law is binding on states in a moral sense, and it is also binding in the sense (and to the extent) that it is enforceable and offenses are punishable, which varies widely from case to case.
+* Many believe in many cases that international law is binding on states in a moral sense. International law is binding in another sense (and to the extent) that it is enforceable and offenses are punishable, which varies widely from case to case.
 
 I can't think of any counterexamples to the generalization that all laws are binding, to something in some sense in some cases. This, then, is one truism about laws which we will accept: all laws are binding.
 
