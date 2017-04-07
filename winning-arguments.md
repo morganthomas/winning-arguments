@@ -1001,6 +1001,8 @@ I think it's very informative to think about rationality by thinking about the k
 * Passion for learning
 * Skill at listening
 * Skill at articulating
+* Honesty
+* Thirst for truth
 
 TODO
 
