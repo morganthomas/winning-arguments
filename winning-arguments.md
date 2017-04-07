@@ -998,7 +998,7 @@ I think it's very informative to think about rationality by thinking about the k
 * Skepticism
 * Skepticism of authority
 * Self-confidence
-* Passion for learning
+* Love for learning
 * Skill at listening
 * Skill at articulating
 * Honesty
