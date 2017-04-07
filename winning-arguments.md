@@ -1039,7 +1039,7 @@ The most important wisdom about reasoning is contained in the rules governing ou
 
 Each of us is much more hidden than we are visible to ourselves and each other, as most of our functioning goes on unobserved inside our bodies and our unconscious minds. Our rationality is a still pond which runs deep. On the surface it is receptive to outside impressions and it reflects the world back at the world. Its depths are dark and mysterious.
 
-A person who wishes to become more rational must seek to manifest their inner rationality in a greater proportion of their conscious experience. They must seek to hone the skill of being that still pond which reflects the world back at the world.
+A person who wishes to become more rational must seek to manifest their inner rationality in a greater proportion of their conscious experience. They must seek to hone the skill of being that still pond which reflects the world back at the world. In my opinion, this is ultimately a spiritual quest, where one is led to seek to heal old emotional wounds, to face one's fears, and to nurture one's confidence and humility alike, in order to have fewer mental weights holding down one's rationality.
 
     The supreme good is like water,
     which nourishes all things without trying to.
