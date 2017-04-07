@@ -1004,7 +1004,31 @@ I think it's very informative to think about rationality by thinking about the k
 * Honesty
 * Thirst for truth
 
-Of course, the moral virtues associated with rationality are merely one aspect of rationality, but in my opinion they are a critical one which should be discussed explicitly in treatises on rationality. In my opinion, anybody who seeks to become more rational should seek to cultivate the above virtues in themselves; to seek the company of people who have these virtues; and to learn from sources which have these virtues.
+Rationality is not a natural state of the human mind. It's a state which is achieved through hard and determined effort towards the right kinds of goals. It's a state which is never perfectly achieved. One is never finished in the development of one's rationality. It's a life-long learning experience, a path not a destination.
+
+The heart of rationality I also call the Tao of rationality. The Tao of rationality is a mystery, a placeholder for our lack of comprehensive understanding of our own ability to reason, consequent of our minds' present inability to comprehend themselves in any great depth.
+
+The Tao Te Ching purports to contain ancient wisdom applicable to every kind of problem. In this case we're mining it for wisdom about the practice of rationality. I'll give you a passage, and then I'll tell you what it brings to mind for me.
+
+    The tao that can be told
+    is not the eternal Tao
+    The name that can be named
+    is not the eternal Name.
+
+    The unnamable is the eternally real.
+    Naming is the origin
+    of all particular things.
+
+    Free from desire, you realize the mystery.
+    Caught in desire, you see only the manifestations.
+
+    Yet mystery and manifestations
+    arise from the same source.
+    This source is called darkness.
+
+[From Chapter 1 of [Stephen Mitchell's translation of the Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html).]
+
+Of course, the moral virtues associated with rationality are merely one aspect of rationality. In my opinion they are a critical one which should be discussed explicitly in treatises on rationality. In my opinion, anybody who seeks to become more rational should seek to cultivate the above virtues in themselves; to seek the company of people who have these virtues; and to learn from sources which have these virtues.
 
 We can also study rationality from a behavioral perspective, by studying human behavior that exhibits rationality and trying to formulate rules that describe and explain what makes rational behavior rational. 
 
