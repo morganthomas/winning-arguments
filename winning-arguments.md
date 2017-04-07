@@ -1084,7 +1084,7 @@ The heart of rationality is a groundedness in reality and a willingness to be sw
 
     [ch. 11]
 
-Of course, the moral virtues associated with rationality are merely one aspect of rationality. In my opinion they are a critical one which should be discussed explicitly in treatises on rationality. In my opinion, anybody who seeks to become more rational should seek to cultivate in themselves the virtues we listed above (fairness, even-handedness, etc.); to seek the company of people who have such virtues; and to learn from sources which have such virtues.
+Of course, the moral virtues associated with rationality are merely one aspect of rationality. In my opinion they are a critical one which should be discussed explicitly in treatises on rationality. In my opinion, anybody who seeks to become more rational should seek to cultivate in themselves the virtues we listed above (fairness, even-handedness, etc.); to seek the company of people who have such virtues; and to learn from sources which have such virtues. I would further encourage the reader to reflect on the deeper nature of rationality in an introspective fashion: to study their own mind and its process of perceiving reality.
 
 We can also study rationality from a behavioral perspective, by studying human behavior that exhibits rationality and trying to formulate rules that describe and explain what makes rational behavior rational. 
 
