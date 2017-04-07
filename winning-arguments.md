@@ -937,6 +937,10 @@ Our generic pluralist theory of truth runs as follows: "there are multiple kinds
 
 Horwichian minimalism is not the most informative theory of truth, and it is only a theory. That's why I'm open to other theories of truth. To me, the value of Horwichian minimalism is that it gives us one viable way of understanding the meaning of "true," of treating our confusions around this word. It references questions about truth to questions about norms of assertion. This proves in practice to be a productive way of thinking about truth. Understanding norms of assertion takes in much of what humans know about seeking the truth. It is the primary topic of the rest of this text.
 
+## Meaning
+
+TODO
+
 ## Rationality
 
 What is rationality? "Rationality," being a nebulous, imprecise term, can mean many different things. However, our goal here is not to explore everything the word could or should mean. Our goal is develop a usable, practical undarstanding of rationality.
