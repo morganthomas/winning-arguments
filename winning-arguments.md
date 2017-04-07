@@ -4,7 +4,7 @@
 
 * [Acknowledgements](#acknowledgements)
 * [How to use this text](#how-to-use-this-text)
-* [Introduction](#introduction)
+* [Arguments and debates](#arguments-and-debates)
 * [Games](#games)
 * [Rules and laws](#rules-and-laws)
 * [Winning](#winning)
@@ -58,7 +58,7 @@ In this text we will engage in an activity we call "conceptual analysis." Concep
 
 Descriptive conceptual analysis is useful for uncovering the many layers of meaning that are often present in everyday terms. Prescriptive conceptual analysis, used judiciously, is useful for establishing clear communication and laying linguistic foundations that can be built on. A gentle and careful blending of descriptive and prescriptive conceptual analysis provides, in my experience, a powerful and versatile ingredient for philosophical argumentation. This text is or aims to be, among other things, a study in the method of conceptual analysis, and a large proportion of the text is conceptual analysis.
 
-## Introduction
+## Arguments and debates
 
 Winning arguments is what we aim to show how to do in this text. We will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
 
