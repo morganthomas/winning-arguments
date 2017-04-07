@@ -991,7 +991,9 @@ In practice most rationality-related issues can be studied in the context of nor
 
 I find it more effective, as a way of teaching, to focus primarily on one of the many angles from which we can study rationality. This is because we can go deeper into that one angle by spending more time on it, and doing so sheds light on all the other angles. The primary angle I choose is norms of assertion primarily for the reasons that it's the one I understand best, and it's the one I best understand how to talk about.
 
-One thing about norms of assertion that makes them easy to talk about is that unlike beliefs, which are mental phenomena and therefore only privately observable, assertions are objective, publicly observable occurrences. Our language is primarily for talking about publicly observable things, and it's easier overall to have shared understanding of publicly observable things. Both of these factors lead me to favor focusing my philosophy on publicly observable things.
+One thing about norms of assertion that makes them easy to talk about is that unlike beliefs, which are mental phenomena and therefore only privately observable, assertions are objective, publicly observable occurrences.
+
+Our language is primarily for talking about publicly observable things, and it's easier overall to have shared understanding of publicly observable things. Both of these factors lead me to favor focusing my philosophy on publicly observable things.
 
 If I can explain the same thing either in terms of publicly observable things or in terms of privately observable things, I am more likely to choose to explain it in terms of publicly observable things, because I am more likely to think that route will lead to a clearer explanation.
 
