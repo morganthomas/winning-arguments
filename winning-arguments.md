@@ -988,7 +988,21 @@ Given the immense practical importance of rationality, we don't want to approach
 
 We can study rationality from a psychological perspective, by speculating about people's inner states, primarily their processes of belief formation, and by making prescriptive recommendations about how to form beliefs in order to be rational. 
 
-TODO: do that
+I think it's very informative to think about rationality by thinking about the kind of moral virtues that a person should seek to have in order to be rational. Here some moral virtues that I think of as contributing to or to some extent being basic preconditions for rationality:
+
+* Fairness
+* Even-handedness
+* Patience
+* Attention to detail
+* Open-mindedness
+* Skepticism
+* Skepticism of authority
+* Self-confidence
+* Passion for learning
+* Skill at listening
+* Skill at articulating
+
+TODO
 
 We can also study rationality from a behavioral perspective, by studying human behavior that exhibits rationality and trying to formulate rules that describe and explain what makes rational behavior rational. 
 
