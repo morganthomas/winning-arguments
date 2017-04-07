@@ -10,6 +10,7 @@
 * [Winning](#winning)
 * [Winning debates](#winning-debates)
 * [Winning arguments](#winning-arguments)
+* [Language](#language)
 * [Statements](#statements)
 * [Speech acts](#speech-acts)
 * [Truth](#truth)
