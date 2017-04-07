@@ -399,7 +399,9 @@ We have analyzed the concept of winning at life at some length. Let's now turn b
 
 My theory of winning is as follows: **to win is to achieve a purpose one has in a game or gamelike activity**.
 
-Typically, when one is explicitly declared the winner of a game, this means that one has won according to the rules of the game, or in other words that one has achieved the explicit purpose stated in the rules of the game. We'll call this **explicit winning**.
+Typically, when one is explicitly declared the winner of a game, this means that one has won according to the rules of the game, or in other words that one has achieved the explicit purpose stated in the rules of the game. When one achieves an explicit purpose one has in playing a game, we'll call this **explicit winning**.
+
+An example of explicit winning at life is the case where somebody publicly, explicitly declares their purpose(s) in life, and goes on to achieve those purpose(s).
 
 When one achieves an implicit purpose one has in playing a game, this typically carries the feeling of victory, but if the purpose is implicit then the celebration will typically also be implicit, meaning in this case internal. We'll call achieving an implicit purpose in a game **implicit winning**.
 
