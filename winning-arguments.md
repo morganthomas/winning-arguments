@@ -977,7 +977,7 @@ What is rationality? "Rationality," being a nebulous, imprecise term, can mean m
 
 It is not productive to try to answer question "what is rationality?" by coming up with a dictionary definition of rationality, a sentence of the form "rationality is..." Rationality is too complex a concept to explain with a dictionary definition.
 
-Here is a first pass attempt at explaining rationality in practical terms. Rationality is a set of practices people employ in solving problems. Rationality is involved in the processes we use to organize ourselves into complex societies, develop technologies which improve our standard of living, cure diseases, discover the truth, and solve resource distribution problems (through systems such as regulated capitalist, socialist, and mixed-model economies), among many other things.
+Here is a first pass attempt at explaining rationality in practical terms. Rationality is in part a set of practices people employ in solving problems. Rationality is involved in the processes we use to organize ourselves into complex societies, develop technologies which improve our standard of living, cure diseases, discover the truth, and solve resource distribution problems (through systems such as regulated capitalist, socialist, and mixed-model economies), among many other things.
 
 Given the immense practical importance of rationality, we don't want to approach the understanding of rationality as a purely theoretical problem. We want to approach it as a practical problem, so that our solution will be as useful as possible to as many people as possible. Our goal is not to develop the most rigorous theory possible, but to develop the most usable, and yet correct theory possible.
 
