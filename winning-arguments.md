@@ -995,7 +995,7 @@ I find it more effective, as a way of teaching, to focus primarily on one of the
 
 One thing about norms of assertion that makes them easy to talk about is that unlike beliefs, which are mental phenomena and therefore only privately observable, assertions are objective, publicly observable occurrences.
 
-Our language is primarily for talking about publicly observable things, and it's easier overall to have shared understanding of publicly observable things. Both of these factors lead me to favor focusing my philosophy on publicly observable things.
+Our language is primarily for talking about publicly observable things, and it's easier overall to have shared understanding of publicly observable things. Both of these factors lead me to favor focusing my philosophical writing on publicly observable things.
 
 If I can explain the same thing either in terms of publicly observable things or in terms of privately observable things, I am more likely to choose to explain it in terms of publicly observable things, because I am more likely to think that route will lead to a clearer explanation.
 
