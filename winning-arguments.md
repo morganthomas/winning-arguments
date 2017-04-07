@@ -8,7 +8,8 @@
 * [Games](#games)
 * [Rules and laws](#rules-and-laws)
 * [Winning](#winning)
-* [Winning arguments and winning debates](#winning-arguments-and-winning-debates)
+* [Winning debates](#winning-debates)
+* [Winning arguments](#winning-arguments)
 * [Statements](#statements)
 * [Speech acts](#speech-acts)
 * [Truth](#truth)
@@ -407,7 +408,7 @@ We can think of many examples of implicit winning. One is playing chess with a p
 
 Now let's pick at our theory and see how it does and what it says in various circumstances. TODO
 
-## Winning arguments and winning debates
+## Winning debates
 
 Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates. We are back where we were at the start of the Introduction, at our attempt to explain the meaning of the title, Winning Arguments.
 
@@ -500,7 +501,9 @@ We are usually overconfident that our current views are correct. When we notice 
 
 
 
+## Winning arguments
 
+TODO
 
 ## Statements
 
