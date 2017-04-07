@@ -1112,7 +1112,7 @@ In the section on rules and laws, we noted that all laws are binding in some sen
 * In academic contexts, the laws of rationality are binding as a matter of professional standards. In the context of academic publishing, the laws of rationality are enforceable (and sometimes corruptible) by the peer review process.
 * In many professional contexts, such as when performing a technical job such as software development or security analysis, the laws of rationality are binding as a matter of professional ethics, especially in mission-critical scenarios.
 * In serious contexts where you need to solve a problem, rationality is usually applicable. In these cases, the laws of rationality are binding in the sense that following them usually maximizes your likelihood of success.
-* There is an approximation of a Nash equilibrium in the global game of society around making decisions as rationally as one is able.
+* There is a loose approximation of a Nash equilibrium in the global game of society around making decisions as rationally as one is able.
 
 If following a set of principles of rationality reduced your likelihood of success, then those principles would be a flawed way of thinking about rationality. Observe that this is not a [no true Scotsman fallacy](https://en.wikipedia.org/wiki/No_true_Scotsman), because we are not changing the definition of rationality in an ad hoc way to deal with counterexamples. Rather, the principle that methods that systematically cause you to fail aren't rational is part of our common sense understanding of rationality. See Eliezer Yudkowsy, ["Rationality is Systematized Winning."](http://lesswrong.com/lw/7i/rationality_is_systematized_winning/)
 
