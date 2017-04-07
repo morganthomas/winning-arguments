@@ -989,6 +989,8 @@ Rationality has to do with two areas of human behavior: communication and decisi
 
 In practice most rationality-related issues can be studied in the context of norms of assertion. Studying norms of assertion is studying the majority of what there is to study about rationality, at least in my awareness. Of course other topics besides norms of assertion, e.g. beliefs and decision making, are important. Most rationality-related issues apply analogously across all subdomains of rationality (e.g. norms of assertion, beliefs, and decision making). Therefore by studying one of these subdomains, one learns about all of them. However, each should also be studied individually to learn about issues specific to that subdomain.
 
+I find it more effective, as a way of teaching, to focus primarily on one of the many angles from which we can study rationality. This is because we can go deeper into that one angle by spending more time on it, and doing so sheds light on all the other angles. The primary angle I choose is norms of assertion primarily for the reason that it's the one I understand best.
+
 Norms of assertion are an important subtopic in the more general topic of **laws of rationality**. The laws of rationality are all of the rules of speech and behavior such that if we break them, we can justly be called irrational. 
 
 A simple example of a law of rationality is the law that if you agree to the assertion that (**A** and **B**), then you should also be willing to agree to the assertion that **A**. Probably the reader knows or imagines that there are many laws of rationality. Discovering exactly what they are is the problem.
