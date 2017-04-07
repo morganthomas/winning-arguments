@@ -1023,7 +1023,7 @@ If you assert a statement, and somebody asks you why it's true, and you can't pr
 
 The law of evidence is widely accepted because it is a good rule to follow if you want the truth. If you want the truth, it's a good idea to be skeptical of what other people say, to ask for the reasons that people assert things, and to doubt people who can't give good reasons for what they assert. If you want to be regarded as a truth-teller, it's a good idea to be able to give good reasons for the things you assert.
 
-The law of evidence is *the* basic norm of assertion. Most other laws of rationality have to do with legislating what reasons do and do not adequately support an assertion. In that sense they are elaborations on the law of evidence. Legislating the quality of various reasons for assertions is our main task in the rest of this text. Before starting on that, though, we need to clarify what we are talking about when we talk about reasons.
+The law of evidence is the basic norm of assertion, in a sense. Most other laws of rationality have to do with legislating what reasons do and do not adequately support an assertion. In that sense they are elaborations on the law of evidence. Legislating the quality of various reasons for assertions is our main task in the rest of this text. Before starting on that, though, we need to clarify what we are talking about when we talk about reasons.
 
 ## Reasons
 
