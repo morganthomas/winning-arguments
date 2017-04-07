@@ -1028,6 +1028,59 @@ The Tao Te Ching purports to contain ancient wisdom applicable to every kind of 
 
 [From Chapter 1 of [Stephen Mitchell's translation of the Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html).]
 
+
+Human ability to reason outruns our ability to understand our processes of reasoning on a second-order level. Reasoning is a capability of our minds. Our minds are very complex and our understanding of them is very rudimentary.
+
+Our processes of reasoning are the outcome of a process of biological and social evolution, consisting of the Darwinian evolution of our brains and the transmission and evolution of intellectual DNA forward through history.
+
+Our rules for reasoning are essentially encoded in our languages. Our languages are complex organs with many subdivisions such as mathematical language and technical jargon of various fields, which are outposts dotted around a complex, generalized "everyday" language.
+
+The most important wisdom about reasoning is contained in the rules governing our everyday languages. Good argumentation is mostly a matter of using everyday language in a way which adheres rigorously to common sense best practices of clarity and thoroughness. In other words, deeply understanding common sense about how to use language when attempting to discern the truth is the most important aspect of the development of rationality.
+
+
+    The supreme good is like water,
+    which nourishes all things without trying to.
+    It is content with the low places that people disdain.
+    Thus it is like the Tao.
+
+    In dwelling, live close to the ground.
+    In thinking, keep to the simple.
+    In conflict, be fair and generous.
+
+    [ch. 8]
+
+Good reasoning is full of uniform and repeatable patterns. Some of these repeatable patterns can be systematized: for example, deductive logic, mathematics, and science all have a corpus of repeatable reasoning techniques of various degrees of formality. Understanding these patterns is important to the development of rationality.
+
+However, knowing all the techniques of rationality does not give one the practical, procedural knowledge of being rational.
+
+    When you have names and forms,
+    know that they are provisional.
+    When you have institutions,
+    know where their functions should end.
+    Knowing when to stop,
+    you can avoid any danger.
+    
+    [ch. 32]
+
+The heart of rationality is a groundedness in reality and a willingness to be swayed by reality created by a kind of emptiness and lack of preconception.
+
+    We join spokes together in a wheel,
+    but it is the center hole
+    that makes the wagon move.
+
+    We shape clay into a pot,
+    but it is the emptiness inside
+    that holds whatever we want.
+
+    We hammer wood for a house,
+    but it is the inner space
+    that makes it livable.
+
+    We work with being,
+    but non-being is what we use.
+
+    [ch. 11]
+
 Of course, the moral virtues associated with rationality are merely one aspect of rationality. In my opinion they are a critical one which should be discussed explicitly in treatises on rationality. In my opinion, anybody who seeks to become more rational should seek to cultivate the above virtues in themselves; to seek the company of people who have these virtues; and to learn from sources which have these virtues.
 
 We can also study rationality from a behavioral perspective, by studying human behavior that exhibits rationality and trying to formulate rules that describe and explain what makes rational behavior rational. 
