@@ -9,7 +9,7 @@
 * [Rules and laws](#rules-and-laws)
 * [Winning](#winning)
 * [Winning debates](#winning-debates)
-* [Winning arguments](#winning-arguments)
+* [Winning arguments](#winning-arguments-1)
 * [Language](#language)
 * [Statements](#statements)
 * [Speech acts](#speech-acts)
