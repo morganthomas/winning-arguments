@@ -389,9 +389,7 @@ Life is like a game in some ways. In life one must follow rules. In life there i
 
 "Life is a game" can be thought of as a terminological rule. It says, we should be willing to call life a game. I don't wish to assert or deny this prescriptive rule. I leave it up to the reader whether or not to call life a game.
 
-TODO
-
-Of course, the most practical case is the case where one adopts a certain frame of evaluation as a frame of evaluation one routinely and habitually applies to one's own life -- this we can call a value system -- and then one proceeds to attempt to win at life according to the standards of that frame of evaluation. Almost everybody does this to some extent.
+Let's now dig further into the concept of frames of evaluation. The most practical application of frames of evaluation is the case where one adopts a certain frame of evaluation as a frame of evaluation one routinely and habitually applies to one's own life -- this we can call a value system -- and then one proceeds to attempt to win at life according to the standards of that frame of evaluation. Almost everybody does this to some extent.
 
 People apply many different frames of evaluation to many different parts of their lives as their lives go on. These frames of evaluation generally evolve over time. Conflicts often exist, where different frames of evaluation applied simultaneously or at different times yield conflicting conclusions. This can lead to regret about past decisions, a sense of turmoil and inner conflict in one's present, etc.
 
