@@ -504,7 +504,7 @@ We are usually overconfident that our current views are correct. When we notice 
 
 ## Winning arguments
 
-TODO
+What are winning arguments? Recall we defined an "argument" to be "a series of statements designed to provide reason to believe some conclusion(s)." 
 
 ## Language
 
