@@ -512,7 +512,15 @@ TODO
 
 ## Statements
 
-The first three paragraphs of the Introduction explained the meaning of the title, and the entirety of the text since then has been an attempt to explain the meaning of the first three paragraphs of the Introduction. Back in the Introduction, I gave a series of words from the first three paragraphs that needed explanation:
+The first three paragraphs of the Introduction explained the meaning of the title, and the entirety of the text since then has been an attempt to explain the meaning of the first three paragraphs of the Introduction:
+
+> Winning arguments is what we aim to show how to do in this text. We will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
+>
+> First, "winning arguments" can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
+>
+> Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense of "a series of statements designed to provide reason to believe some conclusion(s)." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
+
+Back in the Introduction, I gave a series of words from the first three paragraphs that needed explanation:
 
 > Let's return to our original task of clarifying the meaning of the first three paragraphs of this Introduction. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement." Let's analyze the meanings of these words, starting with "winning."
 
