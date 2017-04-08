@@ -383,7 +383,11 @@ For any life you can describe, you can imagine multiple frames of evaluation whi
 
 Winning at life, in this respect, is unlike winning at most games, in that fair observers will frequently disagree about whether somebody is winning at life, whereas for most games, fair observers will almost always agree about who the winner of the game is and whether there is a winner. This disanalogy is an interesting conceptual disconnect that seems worth working out, to see what can be learned.
 
-The disanalogy reminds us of a question we asked a ways back and still haven't answered: is (human) life a game? TODO
+The disanalogy reminds us of a question we asked a ways back and still haven't answered: is (human) life a game? 
+
+Life is like a game in many ways. In life one must follow rules. In life there is winning and losing. Life is unlike typical games in that there is no privileged, official frame of evaluation for judging winning and losing at life.
+
+TODO
 
 Of course, the most practical case is the case where one adopts a certain frame of evaluation as a frame of evaluation one routinely and habitually applies to one's own life -- this we can call a value system -- and then one proceeds to attempt to win at life according to the standards of that frame of evaluation. Almost everybody does this to some extent.
 
