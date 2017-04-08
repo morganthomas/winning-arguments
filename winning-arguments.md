@@ -506,7 +506,9 @@ We are usually overconfident that our current views are correct. When we notice 
 
 What are winning arguments? Recall we defined an "argument" to be "a series of statements designed to provide reason to believe some conclusion(s)." We presumed that a winning argument is something like a persuasive argument.
 
-Based on our prior conceptual analysis of "winning," we can state that a winning argument is, in general, an argument which wins in some sense and in some context, with the context being some form of game. Typically, the game is debate.
+Based on our prior conceptual analysis of "winning," we can state that a winning argument is, in general, an argument which wins in some sense and in some context, with the context being some form of game. Typically, the game is debate. Typically, a winning argument is one that wins in debates.
+
+That tells us the "why" of winning arguments. The more interesting and more difficult question is "how." How do we construct winning arguments? The first step, and also the hardest step, is discovering rules which allow us to discern between winning and non-winning arguments. These are the laws of rationality, as applied to arguments.
 
 ## Language
 
