@@ -387,6 +387,8 @@ The disanalogy reminds us of a question we asked a ways back and still haven't a
 
 Life is like a game in many ways. In life one must follow rules. In life there is winning and losing. Life is unlike typical games in that there is no privileged, official frame of evaluation for judging winning and losing at life.
 
+"Life is a game" can be thought of as a terminological rule. It says, we should be willing to call life a game. I don't wish to assert or deny this prescriptive rule. I leave it up to the reader whether or not to call life a game.
+
 TODO
 
 Of course, the most practical case is the case where one adopts a certain frame of evaluation as a frame of evaluation one routinely and habitually applies to one's own life -- this we can call a value system -- and then one proceeds to attempt to win at life according to the standards of that frame of evaluation. Almost everybody does this to some extent.
