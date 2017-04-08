@@ -385,7 +385,7 @@ Winning at life, in this respect, is unlike winning at most games, in that fair 
 
 The disanalogy reminds us of a question we asked a ways back and still haven't answered: is (human) life a game? 
 
-Life is like a game in many ways. In life one must follow rules. In life there is winning and losing. Life is unlike typical games in that there is no privileged, official frame of evaluation for judging winning and losing at life.
+Life is like a game in some ways. In life one must follow rules. In life there is winning and losing. Life is unlike typical games in that there is no privileged, official frame of evaluation for judging winning and losing at life.
 
 "Life is a game" can be thought of as a terminological rule. It says, we should be willing to call life a game. I don't wish to assert or deny this prescriptive rule. I leave it up to the reader whether or not to call life a game.
 
