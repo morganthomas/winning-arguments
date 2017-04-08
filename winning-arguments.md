@@ -504,7 +504,9 @@ We are usually overconfident that our current views are correct. When we notice 
 
 ## Winning arguments
 
-What are winning arguments? Recall we defined an "argument" to be "a series of statements designed to provide reason to believe some conclusion(s)." 
+What are winning arguments? Recall we defined an "argument" to be "a series of statements designed to provide reason to believe some conclusion(s)." We presumed that a winning argument is something like a persuasive argument.
+
+Based on our prior conceptual analysis of "winning," we can state that a winning argument is, in general, an argument which wins in some sense and in some context, with the context being some form of game. Typically, the game is debate.
 
 ## Language
 
