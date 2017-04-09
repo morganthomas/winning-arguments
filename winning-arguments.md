@@ -519,7 +519,7 @@ In the coming sections we will concern ourselves with laying groundwork for the 
 
 What is language? Language involves many different things and can be analyzed from many different perspectives.
 
-Just before writing this sentence, I said the sentence "the dog runs." I said it out loud in my apartment. I heard myself, and as far as I know, nobody else heard me. As far as I know, my voice wasn't recorded in any medium. Anybody listening to my reading of this text will be reading statements that were referring to the written text and not to the recording they're hearing, until they got to this sentence. Anybody who read the preceding sentence in the written text will be reading a written sentence making a claim about a spoken sentence that hadn't been said as of the time of its writing.
+Just before writing this sentence, I said the sentence "the dog runs." I said it out loud in my apartment. I heard myself, and as far as I know, nobody else heard me. As far as I know, my voice wasn't recorded in any medium. Anybody listening to my reading of this text will be reading statements that were referring to the written text and not to the recording they're hearing, until they got to this sentence. Anybody who read the preceding sentence in the written text will be reading a written sentence that talks about a spoken sentence that hadn't been said as of the time of its writing.
 
 TODO
 
