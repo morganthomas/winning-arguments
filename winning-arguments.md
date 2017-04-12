@@ -542,7 +542,7 @@ The transitive property of the identity copula is the property that if *a* is *b
 
 The transitive property of the identity copula is perfectly analogous to the [transitive property of equality](http://www.mathwords.com/t/transitive_property.htm) in math. If you think that the = sign in math is simply a way of writing the identity copula, then these two properties are the same property.
 
-Returning to premises 1-4, we have seen that they imply *x* is *y*, at least if we interpret the "is" in premises 2 and 4 as being the identity copula. But *x* is a written sentence and *y* is a spoken sentence. This contradicts the fact that no written sentence is a spoken sentence.
+Returning to premises 1-4, we have seen that they imply *x* is *y*, at least if we interpret the "is" in premises 2 and 4 as being the identity copula. But *x* is a written sentence and *y* is a spoken sentence. This contradicts the fact that no written sentence is a spoken sentence. This is the logical difficulty I wished to point to.
 
 ## Statements
 
