@@ -544,6 +544,8 @@ The transitive property of the identity copula is perfectly analogous to the [tr
 
 Returning to premises 1-4, we have seen that they imply *x* is *y*, at least if we interpret the "is" in premises 2 and 4 as being the identity copula. But *x* is a written sentence and *y* is a spoken sentence. This contradicts the fact that no written sentence is a spoken sentence. This is the logical difficulty I wished to point to.
 
+What this argument implies is that we cannot accept all of premises 1-4, interpreting "is" as the identity copula and assuming that the transitive property of the identity copula is true.
+
 ## Statements
 
 The first three paragraphs of the Introduction explained the meaning of the title, and the entirety of the text since then has been an attempt to explain the meaning of the first three paragraphs of the Introduction:
