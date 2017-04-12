@@ -527,7 +527,7 @@ When I say that language is multi-medial, what I mean is that language can exist
 
 One thing that's interesting is that all of the things mentioned in the preceding paragraph can be called "the sentence 'the dog runs.'" E.g., "I wrote the sentence 'the dog runs' on a piece of paper," or "anybody listening to a digital audio recording of this paragraph will hear the sentence 'the dog runs.'"
 
-There is a possible logical problem with saying that all of these different things literally are the sentence "the dog runs." Suppose for example that we accept the following premises:
+There is a logical difficulty with saying that all of these different things literally are the sentence "the dog runs." Suppose for example that we accept the following premises:
 
 1. *x* is a spoken sentence.
 2. *x* is the sentence "the dog runs."
