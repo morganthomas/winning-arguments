@@ -536,7 +536,7 @@ There is a logical difficulty with saying that all of these different things lit
 
 From premises 2 and 4 we can infer that *x* is *y*, by the transitive property of the identity copula.
 
-By the identity copula, I mean the word "is," used in the sense of "is one and the same thing as," as in the sentence "2+2 is 4."
+By the identity copula, I mean the word "is," used in the sense of "is one and the same thing as," as in the sentence "Earth is the third planet from the Sun."
 
 The transitive property of the identity copula is the property that if *a* is *b* and *b* is *c*, then *a* is *c*. In this case, let *a* be *x*, *c* be *y*, and *b* be "the sentence 'the dog runs.'"
 
@@ -544,7 +544,7 @@ The transitive property of the identity copula is perfectly analogous to the [tr
 
 Returning to premises 1-4, we have seen that they imply *x* is *y*, at least if we interpret the "is" in premises 2 and 4 as being the identity copula. But *x* is a written sentence and *y* is a spoken sentence. This contradicts the fact that no written sentence is a spoken sentence. This is the logical difficulty I wished to point to.
 
-What this argument implies is that we cannot accept all of premises 1-4, interpreting "is" as the identity copula and assuming that the transitive property of the identity copula is true.
+What this argument implies is that we cannot accept all of premises 1-4, interpreting "is" as the identity copula and assuming that the transitive property of the identity copula is a true principle about the identity copula.
 
 ## Statements
 
