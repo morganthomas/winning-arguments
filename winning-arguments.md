@@ -525,6 +525,8 @@ The preceding paragraph illustrates some interesting features of (natural) langu
 
 When I say that language is multi-medial, what I mean is that language can exist in more than one medium. An English sentence like "the dog runs" can occur in spoken form, as vibrations in the atmosphere; in written form, as graphite or ink markings on a piece of paper; in written form, as bits stored on a computer hard drive; in written form, as light emanating from a computer monitor; in spoken form, as analog electrical signals traveling through an audio cable; in spoken form, as bits representing a digital audio signal traveling through a fiber optic network cable; and so on and so forth. I can think the sentence "the dog runs," and I can do so in different ways. For example, I can mentally recite the sentence to myself, and I can do so in different voices; or I can visualize the written sentence in my mind, and I can do so in different font styles. 
 
+One thing that's interesting is that all of the things mentioned in the preceding paragraph can be called "the sentence 'the dog runs.'" E.g., "I wrote the sentence 'the dog runs' on a piece of paper," or "anybody listening to a digital audio recording of this paragraph will hear the sentence 'the dog runs.'"
+
 ## Statements
 
 The first three paragraphs of the Introduction explained the meaning of the title, and the entirety of the text since then has been an attempt to explain the meaning of the first three paragraphs of the Introduction:
