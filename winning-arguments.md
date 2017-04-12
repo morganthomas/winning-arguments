@@ -527,6 +527,21 @@ When I say that language is multi-medial, what I mean is that language can exist
 
 One thing that's interesting is that all of the things mentioned in the preceding paragraph can be called "the sentence 'the dog runs.'" E.g., "I wrote the sentence 'the dog runs' on a piece of paper," or "anybody listening to a digital audio recording of this paragraph will hear the sentence 'the dog runs.'"
 
+There is a possible logical problem with saying that all of these different things literally are the sentence "the dog runs." Suppose for example that we accept the following premises:
+
+1. *x* is a spoken sentence.
+2. *x* is the sentence "the dog runs."
+3. *y* is a written sentence.
+4. *y* is the sentence "the dog runs."
+
+From premises 2 and 4 we can infer that *x* is *y*, by the transitive property of the identity copula.
+
+By the identity copula, I mean the word "is," used in the sense of "is one and the same thing as," as in the sentence "2+2 is 4."
+
+The transitive property of the identity copula is the property that if *a* is *b* and *b* is *c*, then *a* is *c*. In this case, let *a* be *x*, *c* be *y*, and *b* be "the sentence 'the dog runs.'"
+
+The transitive property of the identity copula is perfectly analogous to the [transitive property of equality](http://www.mathwords.com/t/transitive_property.htm) in math. If you think that the = sign in math is simply a way of writing the identity copula, then these two properties are the same property.
+
 ## Statements
 
 The first three paragraphs of the Introduction explained the meaning of the title, and the entirety of the text since then has been an attempt to explain the meaning of the first three paragraphs of the Introduction:
