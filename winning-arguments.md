@@ -521,7 +521,9 @@ What is language? Language involves many different things and can be analyzed fr
 
 Just before writing this sentence, I said the sentence "the dog runs." I said it out loud in my apartment. I heard myself, and as far as I know, nobody else heard me. As far as I know, my voice wasn't recorded in any medium. Anybody listening to my reading of this text will be reading statements that were referring to the written text and not to the recording they're hearing, until they got to this sentence. Anybody who read the preceding sentence in the written text will be reading a written sentence that talks about a corresponding spoken sentence that hadn't been said as of the time of its writing.
 
-TODO
+The preceding paragraph illustrates some interesting features of (natural) language: specifically, that it is **multi-medial** and that it is **self-referential**.
+
+When I say that language is multi-medial, what I mean is that language can exist in more than one medium. An English sentence like "the dog runs" can occur in spoken form, as vibrations in the atmosphere; in written form, as graphite or ink markings on a piece of paper; in written form, as bits stored on a computer hard drive; in written form, as light emanating from a computer monitor; in spoken form, as analog electrical signals traveling through an audio cable; in spoken form, as bits representing a digital audio signal traveling through a fiber optic network cable; and so on and so forth. I can think the sentence "the dog runs," and I can do so in different ways. For example, I can mentally recite the sentence to myself, and I can do so in different voices; or I can visualize the written sentence in my mind, and I can do so in different font styles. 
 
 ## Statements
 
