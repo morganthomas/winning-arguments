@@ -536,7 +536,7 @@ There is a logical difficulty with saying that all of these different things lit
 
 From premises 2 and 4 we can infer that *x* is *y*, by the transitive property of the identity copula.
 
-By the identity copula, I mean the word "is," used in the sense of "is one and the same thing as," as in the sentence "Earth is the third planet from the Sun."
+By the identity copula, I mean the word "is," used in the sense of "is one and the same thing as," as in the sentence "Earth is the third planet from the Sun," and the sentence "2+2 is 4."
 
 The transitive property of the identity copula is the property that if *a* is *b* and *b* is *c*, then *a* is *c*. In this case, let *a* be *x*, *c* be *y*, and *b* be "the sentence 'the dog runs.'"
 
