@@ -540,7 +540,7 @@ By the identity copula, I mean the word "is," used in the sense of "is one and t
 
 The transitive property of the identity copula is the property that if *a* is *b* and *b* is *c*, then *a* is *c*. In this case, let *a* be *x*, *c* be *y*, and *b* be "the sentence 'the dog runs.'"
 
-The transitive property of the identity copula is perfectly analogous to the [transitive property of equality](http://www.mathwords.com/t/transitive_property.htm) in math. If you think that the = sign in math is simply a way of writing the identity copula (which is certainly at least approximately true), then these two properties are the same property.
+The transitive property of the identity copula is perfectly analogous to the [transitive property of equality](http://www.mathwords.com/t/transitive_property.htm) in math. If you think that the = sign in math is simply a way of writing the identity copula, then these two properties are the same property.
 
 ## Statements
 
