@@ -570,7 +570,7 @@ The most interesting action happens when my speech irritates another human's ear
 
 Spoken language that is intelligible to a listener is a very special kind of complex of sound vibrations. Only very specifically shaped sounds constitute language that is intelligible to a given listener. Intelligible language is like a psychoactive drug, in the following way. Psychoactive drugs affect the mental experiences of a person by being shaped in very specific ways which allow them to attach to neural receptors. Intelligible linguistic utterances affect the mental experience of a person by being shaped in very specific ways which allow them to attach to that person's inner mechanisms for synthesizing meaning.
 
-The synthesis of meaning by processing language is a reaction between two things: a piece of language, and a person's mind or psychology.
+The synthesis of meaning by processing language is a reaction between two things: a piece of language, and a person's psychology.
 
 
 
