@@ -570,7 +570,11 @@ The most interesting action happens when my speech irritates another human's ear
 
 Spoken language that is intelligible to a listener is a very special kind of complex of sound vibrations. Only very specifically shaped sounds constitute language that is intelligible to a given listener. Intelligible language is like a psychoactive drug, in the following way. Psychoactive drugs affect the mental experiences of a person by being shaped in very specific ways which allow them to attach to neural receptors. Intelligible linguistic utterances affect the mental experience of a person by being shaped in very specific ways which allow them to attach to that person's inner mechanisms for synthesizing meaning.
 
-The synthesis of meaning by processing language is a reaction between two things: a piece of language, and a person's psychology. The piece of language is a comparatively small, simple thing, whereas any person's psychology is extremely complex.
+The synthesis of meaning by processing language is a reaction between two things: a piece of language, and a person's psychology. A piece of language is a comparatively small, simple thing, whereas a person's psychology is an extremely complex thing. In addition, language is a highly observable and analyzable phenomenon, whereas human psychology seems to be mostly inscrutable (with all due respect to psychologists who would disagree with this).
+
+My statement that psychology is mostly inscrutable means that unlike in many other domains, humans have been unable to produce a body of psychological theory which provides a rigorous (e.g. mathematical) framework for modeling the psychological state of a person which are typically salient in problem-solving contexts, and allows for accurate forecasting of their likely behaviors. This statement does not assume that humans' behaviors can be deterministically predicted; this may be practically or conceptually impossible, as far as I know. That's why I use the term "forecast," suggesting a method that would provide a probability distribution of behaviors that a person is likely to exhibit in the near future given their current psychological state.
+
+
 
 
 
