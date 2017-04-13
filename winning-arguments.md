@@ -544,7 +544,11 @@ The transitive property of the identity copula is perfectly analogous to the [tr
 
 Returning to premises 1-4, we have seen that they imply *x* is *y*, at least if we interpret the "is" in premises 2 and 4 as being the identity copula. But *x* is a written sentence and *y* is a spoken sentence. This contradicts the fact that no written sentence is a spoken sentence. This is the logical difficulty I wished to point to.
 
-What this argument implies is that we cannot accept all of premises 1-4, interpreting "is" as the identity copula and assuming that the transitive property of the identity copula is a true principle about the identity copula.
+What this argument implies is that we cannot accept all of premises 1-4, interpreting "is" as the identity copula in premises 2 and 4 and assuming that the transitive property of the identity copula is a true principle about the identity copula.
+
+Premises 1-4 are plainly true according to common sense and common ways of speaking for some *x* and some *y*. As such, rejecting the idea that premises 1-4 are true for some *x* and some *y* is not an appealing option. Rejecting the transitive property of the identity copula also seems to be an unappealing option, because it as well seems obviously true. What's obviously false in this situation is that two distinct things, both of which we can call "the sentence 'the dog runs,'" are one and the same thing. Common sense suggests that we should not interpret premises 1-4 in a way which leads immediately to a false conclusion. The remaining and most appealing way to do that is to interpret "is" in premises 2 and 4 as something other than the identity copula.
+
+For example, "is" in premises 2 and 4 could be short for "is an instantiation of," so that premises 2 and 4 literally mean "*x* is an instantiation of the sentence 'the dog runs'" and "*y* is an instantiation of the sentence 'the dog runs.'"
 
 ## Statements
 
