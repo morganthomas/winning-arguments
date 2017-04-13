@@ -558,6 +558,8 @@ Another possible way of answering the puzzle is to deny that there is any object
 
 This puzzle is one of a variety of logical puzzles that have to do with language's self-referential capabilities. One we have already seen is the liar paradox: the puzzle of the sentence "this sentence is false," which if true is false and if false is true. The paradoxes of self-referencing language are hard. We will talk about them at greater length in the section titled Paradoxes.
 
+For now, let us return to the second paragraph of this section, which is a focal point of our analysis in this section, and say more of what we can say about it.
+
 
 
 
