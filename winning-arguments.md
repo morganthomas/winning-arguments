@@ -568,7 +568,7 @@ These mechanical events in my body cause vibrations in the atmosphere, like wave
 
 The most interesting action happens when my speech irritates another human's ears in a way which causes nerve signals to fire in their brain, causing them to have an experience of meaning whose content is partially controlled by precise variations in the patterns of sound vibrations I produce.
 
-Spoken language that is intelligible to a listener is a very special kind of complex of sound vibrations. Only very specifically shaped sounds constitute language that is intelligible to a given listener. A sentence that a given listener understands is like a psychoactive drug. Psychoactive drugs affect the mental experiences of a person by being shaped in very specific ways which allow them to attach to neural receptors. Intelligible linguistic utterances affect the mental experience of a person by being shaped in very specific ways which allow them to attach to that person's inner mechanisms for synthesizing meaning.
+Spoken language that is intelligible to a listener is a very special kind of complex of sound vibrations. Only very specifically shaped sounds constitute language that is intelligible to a given listener. A sentence that a given listener understands is like a psychoactive drug, in the following way. Psychoactive drugs affect the mental experiences of a person by being shaped in very specific ways which allow them to attach to neural receptors. Intelligible linguistic utterances affect the mental experience of a person by being shaped in very specific ways which allow them to attach to that person's inner mechanisms for synthesizing meaning.
 
 
 
