@@ -566,6 +566,8 @@ My tongue is raised to touch my teeth, creating a barrier between the area above
 
 These mechanical events in my body cause vibrations in the atmosphere, like waves in a pool of water, which propagate according to the rules of [fluid dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics). Any objects in the nearby area of contiguous atmosphere are likely to be disturbed by my speech, but only very slightly. Generally the effects will be entirely negligible, except on objects which are specially sensitive to sound vibrations, such as human ears and microphones.
 
+The most interesting action happens when my speech irritates another human's ear in a way which causes nerve signals to fire in their brain, causing them to have an experience of meaning whose content is partially controlled by precise variations in the patterns of sound vibrations I produce.
+
 
 
 
