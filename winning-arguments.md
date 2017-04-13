@@ -517,17 +517,19 @@ In the coming sections we will concern ourselves with laying groundwork for the 
 
 ## Language
 
-What is language? Language involves many different things and can be analyzed from many different perspectives.
+What is language? Language involves many different things and can be analyzed from many different perspectives. The next paragraph is an example that we'll use as a point of focus for introducing language.
 
 Just before writing this sentence, I said the sentence "the dog runs." I said it out loud in my apartment. I heard myself, and as far as I know, nobody else heard me. As far as I know, my voice wasn't recorded in any medium. Anybody listening to my reading of this text will be reading statements that were referring to the written text and not to the recording they're hearing, until they got to this sentence. Anybody who read the preceding sentence in the written text will be reading a written sentence that talks about a corresponding spoken sentence that hadn't been said as of the time of its writing.
 
 The preceding paragraph illustrates some interesting features of (natural) language: specifically, that it is **multi-medial** and that it is **self-referential**.
 
+When I say that language is self-referential, what I mean is that language can reference and discuss language. For example, this sentence talks about itself. Any sentence containing the phrase "this sentence" has this property.
+
 When I say that language is multi-medial, what I mean is that language can exist in more than one medium. An English sentence like "the dog runs" can occur in spoken form, as vibrations in the atmosphere; in written form, as graphite or ink markings on a piece of paper; in written form, as bits stored on a computer hard drive; in written form, as light emanating from a computer monitor; in spoken form, as analog electrical signals traveling through an audio cable; in spoken form, as bits representing a digital audio signal traveling through a fiber optic network cable; and so on and so forth. I can think the sentence "the dog runs," and I can do so in different ways. For example, I can mentally recite the sentence to myself, and I can do so in different voices; or I can visualize the written sentence in my mind, and I can do so in different font styles. 
 
-One thing that's interesting is that all of the things mentioned in the preceding paragraph can be called "the sentence 'the dog runs.'" E.g., "I wrote the sentence 'the dog runs' on a piece of paper," or "anybody listening to a digital audio recording of this paragraph will hear the sentence 'the dog runs.'"
+One interesting observation is that all of the items mentioned in the preceding paragraph can be called "the sentence 'the dog runs.'" E.g., "I wrote the sentence 'the dog runs' on a piece of paper," or "anybody listening to a digital audio recording of this paragraph will hear the sentence 'the dog runs.'"
 
-There is a logical difficulty with saying that all of these different things literally are the sentence "the dog runs." Suppose for example that we accept the following premises:
+There is a logical difficulty with saying that all of these different items literally are the sentence "the dog runs." Suppose for example that we accept the following premises:
 
 1. *x* is a spoken sentence.
 2. *x* is the sentence "the dog runs."
@@ -546,9 +548,20 @@ Returning to premises 1-4, we have seen that they imply *x* is *y*, at least if 
 
 What this argument implies is that we cannot accept all of premises 1-4, interpreting "is" as the identity copula in premises 2 and 4 and assuming that the transitive property of the identity copula is a true principle about the identity copula.
 
-Premises 1-4 are plainly true according to common sense and common ways of speaking for some *x* and some *y*. As such, rejecting the idea that premises 1-4 are true for some *x* and some *y* is not an appealing option. Rejecting the transitive property of the identity copula also seems to be an unappealing option, because it as well seems obviously true. What's obviously false in this situation is that two distinct things, both of which we can call "the sentence 'the dog runs,'" are one and the same thing. Common sense suggests that we should not interpret premises 1-4 in a way which leads immediately to a false conclusion. The remaining and most appealing way to do that is to interpret "is" in premises 2 and 4 as something other than the identity copula.
+Premises 1-4 are plainly true according to common sense and common ways of speaking for some *x* and some *y*. As such, rejecting the idea that premises 1-4 are true for some *x* and some *y* is not an appealing option. Rejecting the transitive property of the identity copula also seems to be an unappealing option, because it as well seems obviously true. What's obviously false in this situation is that two different and distinct things, both of which we can call "the sentence 'the dog runs,'" are one and the same thing. Common sense suggests that we should not interpret premises 1-4 in a way which leads immediately to a false conclusion. The remaining and most appealing way to do that is to interpret "is" in premises 2 and 4 as something other than the identity copula.
 
 For example, "is" in premises 2 and 4 could be short for "is an instantiation of," so that premises 2 and 4 literally mean "*x* is an instantiation of the sentence 'the dog runs'" and "*y* is an instantiation of the sentence 'the dog runs.'" This gets rid of the logical contradiction.
+
+This solution to the puzzle leaves us with a new puzzle: what is the sentence 'the dog runs?' Clearly we can point to many instantiations of the sentence 'the dog runs,' but our solution to the puzzle above prevents us from saying that any instantiation of the sentence 'the dog runs' is itself the sentence 'the dog runs,' since that would bring us back into our logical contradiction. If none of the instantiations of the sentence 'the dog runs' are the sentence 'the dog runs,' then what is the sentence 'the dog runs?' Is it some sort of metaphysical entity, like a [Platonic form](https://en.wikipedia.org/wiki/Platonic_form), existing outside of space and time?
+
+Another possible way of answering the puzzle is to deny that there is any object which we can literally call "the sentence 'the dog runs.'" The structure of English grammar certainly suggests that there is an object we can call "the sentence 'the dog runs,'" since "the sentence 'the dog runs'" is a noun phrase which can be used to construct infinitely many meaningful statements about this sentence. As such, this way of answering leaves me rather confused about the meaning of phrases like "the sentence 'the dog runs;'" however, that doesn't make this way of answering wrong, and I'm not saying this way of answering is wrong.
+
+This puzzle is one of a variety of logical puzzles that have to do with language's self-referential capabilities. 
+
+
+
+
+
 
 ## Statements
 
