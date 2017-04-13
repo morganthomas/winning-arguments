@@ -558,9 +558,13 @@ Another possible way of answering the puzzle is to deny that there is any object
 
 This puzzle is one of a variety of logical puzzles that have to do with language's self-referential capabilities. One we have already seen is the liar paradox: the puzzle of the sentence "this sentence is false," which if true is false and if false is true. The paradoxes of self-referencing language are hard. We will talk about them at greater length in the section titled Paradoxes.
 
-For now, let us return to the second paragraph of this section, which is a focal point of our analysis in this section, and say more of what we can say about it.
+Let us therefore turn back to unpacking the notion of language. Consider again the sentence "the dog runs."
 
+Let's consider the sequence of events that occurs when I say "the dog runs." First, I form a mental intention to say the sentence. Then, my brain sends signals which cause a sequence of events to occur in my body.
 
+My tongue is raised to touch my teeth, creating a barrier between the area above my tongue and my respiratory system, and the empty space inside my mouth which is contiguous with the outside atmosphere. My respiratory system pushes air out into my mouth, creating a pressure differential between these areas. Because of its precise placement near my teeth, the tip of my tongue starts to vibrate against my teeth, creating a "th" sound. I then open up a gap between my tongue and my teeth, releasing the pressure differential and completing the word "the." A similar sequence of physical occurrences completes the words "dog runs." All of this bodily motion is achieved in humans through a powerful and precise muscular system controlled by a sophisticated and fine-tuned nervous system.
+
+These mechanical events in my body cause vibrations in the atmosphere, like waves in a pool of water, which propagate according to the rules of [fluid dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics).
 
 
 
