@@ -540,7 +540,7 @@ From premises 2 and 4 we can infer that *x* is *y*, by the transitive property o
 
 By the identity copula, I mean the word "is," used in the sense of "is one and the same thing as," as in the sentence "Earth is the third planet from the Sun," and the sentence "2+2 is 4."
 
-The transitive property of the identity copula is the property that if *a* is *b* and *b* is *c*, then *a* is *c*. In this case, let *a* be *x*, *c* be *y*, and *b* be "the sentence 'the dog runs.'"
+The transitive property of the identity copula is the property that if *a* is *b* and *b* is *c*, then *a* is *c*. In this case, let *a* be *x*, *c* be *y*, and *b* be "the sentence 'the dog runs.'" In this case, the property states that if *x* is the sentence "the dog runs" and *y* is the sentence "the dog runs," then *x* is *y*. Of course 'is' is used in the preceding sentence in the sense of the identity copula, i.e. meaning "one and the same as."
 
 The transitive property of the identity copula is perfectly analogous to the [transitive property of equality](http://www.mathwords.com/t/transitive_property.htm) in math. If you think that the = sign in math is simply a way of writing the identity copula, then these two properties are the same property.
 
