@@ -519,9 +519,9 @@ In the coming sections we will concern ourselves with laying groundwork for the 
 
 What is language? Language involves many different things and can be analyzed from many different perspectives. The next paragraph is an example that we'll use as a point of focus for introducing language.
 
-Just before writing this sentence, I said the sentence "the dog runs." I said it out loud in my apartment. I heard myself, and as far as I know, nobody else heard me. As far as I know, my voice wasn't recorded in any medium. Anybody listening to my reading of this text will be reading statements that were referring to the written text and not to the recording they're hearing, until they got to this sentence. Anybody who read the preceding sentence in the written text will be reading a written sentence that talks about a corresponding spoken sentence that hadn't been said as of the time of its writing.
+Just before writing this sentence, I said the sentence "the dog runs." I said it out loud in my apartment. I heard myself, and as far as I know, nobody else heard me. As far as I know, my voice wasn't recorded in any medium. Anybody listening to my reading of this text will have been reading statements that were referring to the written text and not to the recording they're hearing, until they got to this sentence. Anybody who read the preceding sentence in the written text will be reading a written sentence that talks about a corresponding spoken sentence that hadn't been said as of the time of its writing.
 
-The preceding paragraph illustrates some interesting features of (natural) language: specifically, that it is **multi-medial** and that it is **self-referential**.
+The preceding paragraph illustrates some interesting features of (natural) language, including that **(natural) language is multi-medial** and that **(natural) language is self-referential**.
 
 When I say that language is self-referential, what I mean is that language can reference and discuss language. For example, this sentence talks about itself. Any sentence containing the phrase "this sentence" has this property.
 
@@ -578,7 +578,7 @@ Let's unpack that a bit more. Call a domain of inquiry "scrutable" if humans are
 
 This statement does not assume that humans' behaviors can be deterministically predicted; this may be practically or conceptually impossible, as far as I know. That's why I use the term "forecast," suggesting a method that would provide a probability distribution (or something of like that) of behaviors that a person is likely to exhibit looking forward in time, given their current psychological state and surrounding circumstances.
 
-In any case, I have given a thesis about the limitations of present day knowledge of psychology. My thesis is not that it's impossible for individual humans to achieve an understanding of human psychology which allows them to model salient features of a person's psychological state sufficiently to predict their likely behaviors, and to do this with just about anybody in just about any situation given sufficient information. My thesis describes a limitation on the psychological knowledge that in my judgment a person can straightforwardly gather from the available corpus of psychological research and pedagogy. 
+In any case, I have given a thesis about the limitations of present day knowledge of psychology. My thesis is not that it's impossible for individual humans to achieve an understanding of human psychology which allows them to model salient features of a person's psychological state sufficiently to predict their likely behaviors, and to do this with many people in many situations given sufficient information. My thesis describes a limitation on the psychological knowledge that in my judgment a person can straightforwardly gather from the available corpus of psychological research and pedagogy.
 
 
 
