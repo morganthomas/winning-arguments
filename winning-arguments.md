@@ -1010,7 +1010,7 @@ In my opinion, the consequences of pursuing and sharing the truth are almost alw
 
 We've completed our discussion of the non-obvious truisms about truth that we listed. We have certainly learned a bit about truth in the process. Let's take stock.
 
-The law of non-contradiction states that no statement is both true and false. This law is endorsed by everybody who speaks on the subject, except for the dialetheists, who think that some statements are both true and false. One argument in favor of dialetheism is the liar paradox. This argument can be blocked in numerous ways, but we have yet to discuss that. The indifferent shrug, however, seems to be a fair enough response.
+The law of non-contradiction states that no statement is both true and false. This law is endorsed by almost everybody who speaks on the subject, except for some mavericks, such as dialetheists, who think that some statements are both true and false. One argument in favor of dialetheism is the liar paradox. This argument can be blocked in numerous ways, but we have yet to discuss that. The indifferent shrug, however, seems to be a fair enough response.
 
 The law of the excluded middle states that every statement is either true or false. The law of the excluded middle is controversial, and neither side in the debate has struck a decisive blow, in the author's awareness. The reader is encouraged to form their own opinion.
 
