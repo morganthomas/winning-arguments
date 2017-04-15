@@ -1144,6 +1144,8 @@ My lack of clarity around how to define or use the word "knowledge" is one diffi
 
 TODO
 
+Though I don't claim literally to possess knowledge and to know that I possess it and so forth, I will in practical contexts sometimes say that I know something. Generally I do so when I am confident that I can defend the claim. If pressed specifically on my use of the word "know," then I would substitute a weaker term, but my word choice is rarely the key issue in non-philosophical conversations.
+
 ## Meaning
 
 TODO
