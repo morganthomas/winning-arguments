@@ -1122,7 +1122,7 @@ Differences between different sincere people can have to do, among many other th
 
 When two people say "I value truth," they don't necessarily both mean the same thing. There are many reasons that people value truth, and many values undergirding people's valuing of truth. People value truth for practical reasons, because it helps them accomplish other purposes they have. People also value truth for itself. What valuing truth for itself seems to mean, for most people, is something like having a concern for reality, for the actual, for facts, for evidence, and for knowledge, and for having access to these things as an end in itself, a sort of existential end in life. I count myself in the camp of people who value truth for itself in this sense.
 
-That brings us to epistemology. "Epistemology" is a long word for the theoretical study of truth and the process of seeking truth. Epistemology asks, essentially, what is truth, and how can we best seek it? Epistemology is most often studied by people who value truth as an end in itself.
+That brings us to epistemology. "Epistemology" is a long word for the theoretical study of truth and the process of seeking truth. Epistemology asks, essentially, what is truth, and how can we best seek it? Epistemology is most often studied by people who value truth as an end in itself, and undoubtedly the field is biased by that fact.
 
 The approximately 2,000 year history of the field is colored throughout by a dichotomy between long-standing pessimism about the possibility of humans acquiring knowledge on the one hand, and on the other hand the over-optimistic intellectual arrogance manifested in philosophical project after philosophical project which purported to finally deliver us into knowledge.
 
