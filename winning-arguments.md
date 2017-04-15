@@ -1120,7 +1120,7 @@ Sincere people can exhibit a wide variety of different beliefs, behavior, and st
 
 Differences between different sincere people can have to do, among many other things, with differences in the values that give them the sense of valuing truth. For example, if a Catholic sincerely asserts that they value truth and that truth comes from the Catholic church, then they are actually stating a political thesis, and this political thesis is inextricable from their personal conception of truth. The same is true of a Protestant who sincerely asserts that truth comes from our individual faculties of perceiving truth, and that truth doesn't come from appeal to authority. The Protestant is also stating a political thesis, though of a more negative nature: namely that truth doesn't come from appeal to authority. Again, this political thesis is inextricable from this Protestant's personal conception of truth.
 
-When two people say "I value truth," they don't necessarily both mean the same thing.
+When two people say "I value truth," they don't necessarily both mean the same thing. There are many reasons that people value truth, and many values undergirding people's valuing of truth. People value truth for practical reasons, because it helps them accomplish other purposes they have. People also value truth for itself. What valuing truth for itself seems to mean, for most people, is something like having a concern for reality and for the actual.
 
 TODO
 
