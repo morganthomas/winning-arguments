@@ -608,7 +608,7 @@ Speaking very broadly, there are three big things to study about language: synta
 
 **Pragmatics**, as I shall define it, is the study of language in the context of its usage by people.
 
-These three fields are probably not entirely disjoint, and I'm sure they don't cover everything there is to discuss about language. However, this is a good rough way of subdividing the space of questions there are to ask about language.
+These three fields are probably not entirely disjoint, and they don't cover everything there is to discuss about language. (There is the history of language, and the biology of language, for example.) However, they are a good way of subdividing the space that we are going to cover, and all mature philosophical approaches to studying language that I'm aware of are subsumed under these categories.
 
 The preceding paragraphs serve as an extremely high-level introduction to some of the central issues in the philosophy of language and to the study of language as a whole. In the rest of this text we will focus our study of language into specific topics which directly pertain to winning arguments. The reader is encouraged to learn every important lesson they can about language. If one learns to use language well, there is a great deal one can do with that.
 
