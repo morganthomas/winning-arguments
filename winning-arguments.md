@@ -1168,7 +1168,11 @@ Let's close out our discussion of knowledge with the enjoyable and yet perhaps a
 
 In this text, we're abandoning the topic of knowledge henceforth. However, in my view this does not call for an abandonment of epistemology; instead, in my view it calls for a different formulation of the purposes of epistemology. We will therefore repurpose the term "epistemology," using it to refer to the study of seeking the truth. This is a general umbrella of topics which includes truth, true belief, justified true belief, knowledge, and similar "epistemic" concepts.
 
-With this slightly different conception of epistemology in hand, let us now return to the starting point of our investigation.
+With this slightly different conception of epistemology in hand, let us now return to the starting point of our investigation of epistemology.
+
+In essence, we are interested in studying and evaluating all potential methods of seeking the truth. We want tools and techonology that enable us to get to the truth. We want tools and technology that work, that actually achieve this purpose. Therefore we want to evaluate various methods of getting to the truth, and to be able to discriminate between effective and ineffective ones.
+
+However, in order to progress in our investigation, we need to step back and observe that we have yet to clarify what our purpose really is.
 
 TODO
 
