@@ -1094,9 +1094,15 @@ So far we have discussed to some extent the "what" of truth. We have yet to disc
 
 This is an extremely hairy topic. To get ourselves started, let's pick up some threads that we left hanging in the previous section and notice some puzzles we haven't yet discussed.
 
-In discussing the truism that truth is something worth pursuing, I argued that truth is valuable and indeed worth pursuing. In discussing the word "true," the only explanation of its meaning that I offered was the T-schema. Recall that the T-schema is the infinite set of statements of the form "the statement **A** is true if and only if **A**," for all statements **A** (in some language, e.g. English). Thus, we have two related and yet very different conceptions: the conception of *truth* as a value, and of *true* as an axiomatically defined, context-sensitive, meta-linguistic word.
+In discussing the truism that truth is something worth pursuing, I argued that truth is valuable and indeed worth pursuing. In discussing the word "true," the only explanation of its meaning that I offered was Horwichian minimalism the T-schema.
 
-Intuitively, the meanings of *truth* and *true* should have a lot to do with each other, but it's difficult to see how the conceptions of *truth* and *true* we have provided are related to each other.
+Recall that the T-schema is the infinite set of statements of the form "the statement **A** is true if and only if **A**," for all statements **A** (in some language, e.g. English). Recall that Horwichian minimalism is the view that the T-schema is an axiomatic definition of "true." Recall that an axiomatic definition of a term defines the meaning of the term by giving some statements involving the term that are true by the definition of the term.
+
+Thus, we have two related and yet very different conceptions: the conception of *truth* as a value, and of *true* as an axiomatically defined, context-sensitive, meta-linguistic word.
+
+Intuitively, the meanings of *truth* and *true* should have a lot to do with each other, but it's difficult to see right away how the conceptions of *truth* and *true* we have provided are at all related.
+
+As it happens, we don't need to look terribly deep to see the connection. Horwichian 
 
 TODO
 
