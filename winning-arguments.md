@@ -1138,6 +1138,8 @@ I don't claim to have the ability to obtain knowledge. I don't claim that nobody
 
 At this point some readers may be confused about why I am so hesitant to claim the capability of knowledge. It's worth clarifying the factors that I see as blocking me from making such a claim.
 
+First and most important is that I don't know what knowledge is. I can't know that something is knowledge if I don't know what knowledge is.
+
 TODO
 
 ## Meaning
