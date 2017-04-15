@@ -598,6 +598,10 @@ Defenders of a single true notion of sentence meaning for English will probably 
 
 Probably most readers are skeptical of the idea that there is a single true notion of English sentence meaning. We are left with the possibility of multiple definitions or concepts of English sentence meaning. In addition, we are left with the concepts of speaker meaning (what speakers mean) and listener meaning (what listeners think speakers mean).
 
+However, there is still a conventional notion of the conventional meanings of sentences that are sufficiently literal that they are not open to much variety of reasonable interpretation. Let us call this notion the **conventional notion of literal sentence meaning**.
+
+"The conventional notion of literal sentence meaning" does not refer to one exactly defined notion of sentence meaning. Rather, the phrase is open to interpretation, and its meaning will vary according to context and according to the views of the participants in a conversation where the phrase is used. The concept can be used in conversations where it serves a useful purpose in advancing the conversation. The concept can be used in a conversation if participants in the conversation are sufficiently comfortable with accepting the concept and they are comfortable that a shared understanding of the concept exists which is sufficiently well-coordinated to solve the conversational problems at hand.
+
 We will discuss meaning more extensively in the section titled Meaning. 
 
 Speaking very broadly, there are three big things to study about language: syntax, semantics, and pragmatics.
