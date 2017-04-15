@@ -1146,7 +1146,7 @@ My lack of clarity around how to define or use the word "knowledge" is one diffi
 
 TODO
 
-We are left in an apparently awkward position. We have committed ourselves to a positive project of learning how to win arguments and seek the truth about any topic. However, we have just denied any ambition to achieve knowledge. How can we reconcile these apparently contradictory positions?
+We are left in an apparently awkward position. We have committed ourselves to a positive project of learning how to win arguments and seek the truth about any topic. However, we have just denied any ambition to achieve knowledge as a result of arguments in this text. How can we reconcile these apparently contradictory positions?
 
 TODO
 
