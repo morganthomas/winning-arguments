@@ -1124,7 +1124,7 @@ When two people say "I value truth," they don't necessarily both mean the same t
 
 That brings us to epistemology. "Epistemology" is a long word for the theoretical study of truth and the process of seeking truth. Epistemology asks, essentially, what is truth, and how can we best seek it? Epistemology is most often studied by people who value truth as an end in itself, and undoubtedly the field is biased by that fact.
 
-The approximately 2,000 year history of the field is colored throughout by a dichotomy between long-standing pessimism about the possibility of humans acquiring knowledge on the one hand, and on the other hand the over-optimistic intellectual arrogance manifested in philosophical project after philosophical project which purported to finally deliver us into knowledge.
+The approximately 2,000 year history of the field of epistemology is colored throughout by a dichotomy between long-standing pessimism about the possibility of humans acquiring knowledge on the one hand, and on the other hand the over-optimistic intellectual arrogance manifested in philosophical project after philosophical project which purported to finally deliver us into knowledge.
 
 TODO
 
