@@ -608,7 +608,7 @@ Speaking very broadly, there are three big things to study about language: synta
 
 **Pragmatics**, as I shall define it, is the study of language in the context of its usage by people.
 
-These three fields are not entirely disjoint, and I'm sure they don't cover everything there is to discuss about language. However, this is a good rough way of subdividing the space of questions there are to ask about language.
+These three fields are probably not entirely disjoint, and I'm sure they don't cover everything there is to discuss about language. However, this is a good rough way of subdividing the space of questions there are to ask about language.
 
 ## Statements
 
