@@ -1148,7 +1148,11 @@ TODO
 
 We are left in an apparently awkward position. We have committed ourselves to a positive project of learning how to win arguments and seek the truth about any topic. However, we have just denied any ambition to acquire knowledge from arguments in this text. How can we reconcile these seemingly contradictory positions?
 
-The answer to this lies in the distinction between "seeking knowledge" and "seek the truth." To seek knowledge is to seek to know things. To seek the truth is to seek to have true beliefs, or perhaps even just true thoughts that one doesn't necessarily believe.
+The answer to this lies in the distinction between *seeking knowledge* and *seeking the truth*. To seek knowledge is to seek to know things. To seek the truth is to seek to have true beliefs, or perhaps even just true thoughts that one doesn't necessarily believe.
+
+It's widely agreed that knowledge is some condition stronger than justified true belief. If I know *X*, most analytic philosophers would agree that I therefore have a justified true belief that *X*. Thanks to Gettier, few would agree that the conditional goes the other way. All knowledge is justified true belief, but some justified true beliefs are not knowledge.
+
+A condition that's even weaker than justified true belief is plain true belief. As somebody who doesn't know how to get knowledge, I aim to believe things that are true, essentially by hook or by crook, doing whatever I think will work to get me beliefs that are true.
 
 TODO
 
