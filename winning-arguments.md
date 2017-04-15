@@ -600,6 +600,16 @@ Probably most readers are skeptical of the idea that there is a single true noti
 
 We will discuss meaning more extensively in the section titled Meaning. 
 
+Speaking very broadly, there are three big things to study about language: syntax, semantics, and pragmatics.
+
+**Syntax**, as I shall define it, is the study of language in itself, i.e. the study of the physical artifacts and phenomena which we call language. Syntax doesn't study the people who use language; it just studies and forms theories of the structure of linguistic utterances themselves.
+
+**Semantics**, as I shall define it, is the study of the meaning of language. As we have seen in our discussion so far, and as we will see some more in the section titled Meaning, linguistic meaning is a highly difficult and opaque topic, presenting deep intellectual challenges.
+
+**Pragmatics**, as I shall define it, is the study of language in the context of its usage by people.
+
+These three fields are not entirely disjoint, and I'm sure they don't cover everything there is to discuss about language. However, this is a good rough way of subdividing the space of questions there are to ask about language.
+
 ## Statements
 
 The first three paragraphs of the Introduction explained the meaning of the title, and the entirety of the text since then has been an attempt to explain the meaning of the first three paragraphs of the Introduction:
