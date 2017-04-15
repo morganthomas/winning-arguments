@@ -1106,7 +1106,7 @@ As it happens, we don't need to look terribly deep to see the connection. Horwic
 
 We can venture that often the values underlying an individual's sense of the value of truth are the same values that ultimately undergird the norms of assertion that they consider to be correct. It would make sense for this to be true of a Horwichian minimalist who agrees that truth is worth pursuing and thinks that the words "true" and "truth" are somehow closely connected.
 
-What would it look like for these two things to come apart in somebody? That is, what would it look like if somebody professed to value truth, but did not base the norms of assertion they consider to be correct on the same values behind their profession to value to truth?
+What would it look like for these two things to come apart in somebody? That is, what would it look like if somebody professed to value truth, but did not base the norms of assertion they consider to be correct on the same values behind their profession to value the truth?
 
 TODO
 
