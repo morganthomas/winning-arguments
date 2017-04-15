@@ -1170,7 +1170,7 @@ In this text, we're abandoning the topic of knowledge henceforth. However, in my
 
 With this slightly different conception of epistemology in hand, let us now return to the starting point of our investigation of epistemology.
 
-In essence, we are interested in studying and evaluating all potential methods of seeking the truth. We want tools and techonology that enable us to get to the truth. We want tools and technology that work, that actually achieve this purpose. Therefore we want to evaluate various methods of getting to the truth, and to be able to discriminate between effective and ineffective ones.
+In essence, we are interested in studying and evaluating potential methods of seeking the truth. We want tools and techonology that enable us to get to the truth. We want tools and technology that work, that actually achieve this purpose. Therefore we want to evaluate various methods of getting to the truth, and to be able to discriminate between effective and ineffective ones.
 
 However, in order to grab the problem by the roots, we need to step back and observe that we have yet to clarify what our purpose really is.
 
