@@ -596,7 +596,7 @@ Whether there is such a thing as sentence meaning for natural languages such as 
 
 Defenders of a single true notion of sentence meaning for English will probably have to say that the one true notion of sentence meaning is out there in the sky somewhere, never to be seen in full by us humans, and that people who pursue the concept of English sentence meaning must content themselves with doing their best to use reason to find the truth about English sentence meaning. It's unclear to me whether a descriptivist about English (by which I mean somebody who agrees that English has no centralized authority regarding rules of usage and at the end of the day people can use English however they want) can coherently maintain the position that there is a single true notion of English sentence meaning out there in the sky.
 
-Probably most readers are skeptical of the idea that there is a single true notion of English sentence meaning. We are left with the possibility of multiple definitions or concepts of English sentence meaning. In addition, we are left with the concepts of speaker meaning (what speakers mean) and listener meaning (what listeners think they mean).
+Probably most readers are skeptical of the idea that there is a single true notion of English sentence meaning. We are left with the possibility of multiple definitions or concepts of English sentence meaning. In addition, we are left with the concepts of speaker meaning (what speakers mean) and listener meaning (what listeners think speakers mean).
 
 We will discuss meaning more extensively in the section titled Meaning. 
 
