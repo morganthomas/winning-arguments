@@ -1168,6 +1168,10 @@ Let's close out our discussion of knowledge with the enjoyable and yet perhaps a
 
 In this text, we're abandoning the topic of knowledge henceforth. However, in my view this does not call for an abandonment of epistemology; instead, in my view it calls for a different formulation of the purposes of epistemology. We will therefore repurpose the term "epistemology," using it to refer to the study of seeking the truth. This is a general umbrella of topics which includes truth, true belief, justified true belief, knowledge, and similar "epistemic" concepts.
 
+With this slightly different conception of epistemology in hand, let us now return to the starting point of our investigation.
+
+TODO
+
 ## Meaning
 
 TODO
