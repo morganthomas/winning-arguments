@@ -602,7 +602,7 @@ We will discuss meaning more extensively in the section titled Meaning.
 
 Speaking very broadly, there are three big things to study about language: syntax, semantics, and pragmatics.
 
-**Syntax**, as I shall define it, is the study of language in itself, i.e. the study of the physical artifacts and phenomena which we call language: the spoken word, the written word, and so forth. Syntax doesn't study the people who use language; it just studies and forms theories of the structure of linguistic utterances themselves.
+**Syntax**, as I shall define it, is the study of language in itself, i.e. the study of the physical artifacts and phenomena which we call language: the spoken word, the written word, and so forth. The field of syntax doesn't study the people who use language; it just studies and forms theories of the structure of linguistic utterances themselves.
 
 **Semantics**, as I shall define it, is the study of the meaning of language. As we have seen in our discussion so far, and as we will see some more in the section titled Meaning, linguistic meaning is a highly difficult and opaque topic, presenting deep intellectual challenges.
 
