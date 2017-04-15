@@ -1166,8 +1166,6 @@ I'll leave you with the enjoyable and yet perhaps also uncomfortable opening par
 
 > Once upon a time, in some out of the way corner of that universe which is dispersed into numberless twinkling solar systems, there was a star upon which clever beasts invented knowing. That was the most arrogant and mendacious minute of ”world history,” but nevertheless, it was only a minute. After nature had drawn a few breaths, the star cooled and congealed, and the clever beasts had to die. One might invent such a fable, and yet he still would not have adequately illustrated how miserable, how shadowy and transient, how aimless and arbitrary the human intellect looks within nature. There were eternities during which it did not exist. And when it is all over with the human intellect, nothing will have happened. For this intellect has no additional mission which would lead it beyond human life. Rather, it is human, and only its possessor and begetter takes it so solemnly-as though the world’s axis turned within it. But if we could communicate with the gnat, we would learn that he likewise flies through the air with the same solemnity, that he feels the flying center of the universe within himself. There is nothing so reprehensible and unimportant in nature that it would not immediately swell up like a balloon at the slightest puff of this power of knowing. And just as every porter wants to have an admirer, so even the proudest of men, the philosopher, supposes that he sees on all sides the eyes of the universe telescopically focused upon his action and thought.
 
-TODO
-
 ## Meaning
 
 TODO
