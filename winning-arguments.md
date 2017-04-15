@@ -1114,7 +1114,7 @@ I think most people base their norms of assertion on values apart from and in ad
 
 Is it true, then, as we ventured, that often the values undergirding a person's value of truth, and the values undergirding the norms of assertion they consider correct, coincide? We've concluded that typically they come apart to at least a small degree; any individuals who are exceptions to that rule are unusual.
 
-What of people in whom the correspondence is close and yet not exact? We can perhaps place people on a spectrum, with people on one end who base their norms of assertion little or not at all on their value of truth, and people on the other end who base their norms of assertion entirely or almost so on their value of truth. We can call the people on the former end "insincere," and the people on the latter end "sincere." Sincere people believe what they assert is true, at the time they assert it; insincere people don't.
+What of people in whom the coincidence is close and yet not exact? We can perhaps place people on a spectrum, with people on one end who base their norms of assertion little or not at all on their value of truth, and people on the other end who base their norms of assertion entirely or almost so on their value of truth. We can call the people on the former end "insincere," and the people on the latter end "sincere." Sincere people believe what they assert is true, at the time they assert it; insincere people don't.
 
 TODO
 
