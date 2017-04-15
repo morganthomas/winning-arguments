@@ -1172,7 +1172,7 @@ With this slightly different conception of epistemology in hand, let us now retu
 
 In essence, we are interested in studying and evaluating all potential methods of seeking the truth. We want tools and techonology that enable us to get to the truth. We want tools and technology that work, that actually achieve this purpose. Therefore we want to evaluate various methods of getting to the truth, and to be able to discriminate between effective and ineffective ones.
 
-However, in order to progress in our investigation, we need to step back and observe that we have yet to clarify what our purpose really is.
+However, in order to do this the right way, we need to step back and observe that we have yet to clarify what our purpose really is.
 
 TODO
 
