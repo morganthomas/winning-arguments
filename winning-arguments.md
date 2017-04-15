@@ -1116,6 +1116,8 @@ Is it true, then, as we ventured, that often the values undergirding a person's 
 
 What of people in whom the coincidence is close and yet not exact? We can perhaps place people on a spectrum, with people on one end who base their norms of assertion little or not at all on their value of truth, and people on the other end who base their norms of assertion entirely or almost so on their value of truth. We can call the people on the former end "insincere," and the people on the latter end "sincere." Sincere people believe what they assert is true, at the time they assert it; insincere people don't necessarily. Sincere people believe what they deny is false, at the time they assert it; insincere people don't necessarily.
 
+Sincere people can exhibit a wide variety of different beliefs, behavior, and styles of conversation and debate. I think radical fanatics, for example, are usually sincere. Sincerity is certainly not a sufficient condition for goodness.
+
 TODO
 
 ## Meaning
