@@ -1152,7 +1152,9 @@ The answer to this lies in the distinction between *seeking knowledge* and *seek
 
 It's widely agreed that knowledge is some condition stronger than justified true belief. If I know *X*, most analytic philosophers would agree that I therefore have a justified true belief that *X*. Thanks to Gettier, few would agree that the conditional goes the other way. All knowledge is justified true belief, but some justified true beliefs are not knowledge.
 
-A condition that's even weaker than justified true belief is plain true belief. As somebody who doesn't know how to get knowledge, I aim to believe things that are true, essentially by hook or by crook, doing whatever I think will work to get me true beliefs.
+A condition that's even weaker than justified true belief is plain true belief. As somebody who doesn't know how to get knowledge, I aim to believe things that are true, essentially by hook or by crook, doing whatever I think is most likely to work to get me true beliefs.
+
+A condition that's even weaker than true belief is plain truth. I think there's value to thinking of the truth, even if one doesn't end up believing it or knowing it.
 
 TODO
 
