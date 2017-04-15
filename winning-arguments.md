@@ -610,6 +610,8 @@ Speaking very broadly, there are three big things to study about language: synta
 
 These three fields are probably not entirely disjoint, and I'm sure they don't cover everything there is to discuss about language. However, this is a good rough way of subdividing the space of questions there are to ask about language.
 
+The preceding paragraphs serve as an extremely high-level introduction to some of the central issues in the philosophy of language and to the study of language as a whole. In the rest of this text we will focus our study of language into specific topics which directly pertain to winning arguments.
+
 ## Statements
 
 The first three paragraphs of the Introduction explained the meaning of the title, and the entirety of the text since then has been an attempt to explain the meaning of the first three paragraphs of the Introduction:
