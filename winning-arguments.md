@@ -1102,7 +1102,7 @@ Thus, we have two related and yet very different conceptions: the conception of 
 
 Intuitively, the meanings of *truth* and *true* should have a lot to do with each other, but perhaps it's difficult (it was for me) to see right away how the conceptions of *truth* and *true* we have provided are at all related.
 
-As it happens, we don't need to look terribly deep to see the connection. Horwichian minimalism, as we have observed, references questions about truth to questions about norms of assertion. Therefore, it follows from Horwichian minimalism that questions about truth are in a strong sense normative questions about how we should behave (namely what speech acts, specifically what assertions and denials, we should perform).
+As it happens, we don't need to look terribly deep to see the connection. Horwichian minimalism, as we have observed, references questions about truth to questions about norms of assertion. Therefore, it follows from Horwichian minimalism that questions about truth are in a strong sense normative questions about how we should behave (namely what speech acts, specifically what assertions and denials, it is warranted for us to perform).
 
 TODO
 
