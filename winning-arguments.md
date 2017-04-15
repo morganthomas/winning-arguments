@@ -1172,7 +1172,7 @@ With this slightly different conception of epistemology in hand, let us now retu
 
 In essence, we are interested in studying and evaluating potential methods of seeking the truth. We want tools and techonology that enable us to get to the truth. We want tools and technology that work, that actually achieve this purpose. Therefore we want to evaluate various methods of getting to the truth, and to be able to discriminate between effective and ineffective ones.
 
-However, in order to grab the problem by the roots, we need to step back and observe that we have yet to clarify what our purpose really is.
+However, in order to grab the problem by the roots, we need to step back and observe that we have yet to clarify what our purpose really is. We noted that there are certain values underlying a truth-seeking attitude or an attitude of sincerity. We also noted that exactly what values are involved will vary between individuals. One way of putting it is to say that truth-seeking attitudes or attitudes of sincerity are like people themselves, in that no two are the same, yet they share uncountable and indescribable differences and similarities with each other.
 
 TODO
 
