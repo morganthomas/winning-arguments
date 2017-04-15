@@ -1154,7 +1154,9 @@ It's widely agreed that knowledge is some condition stronger than justified true
 
 A condition that's even weaker than justified true belief is plain true belief. As somebody who doesn't know how to get knowledge, I aim to believe things that are true, essentially by hook or by crook, doing whatever I think is most likely to work to get me true beliefs. I also aim to have my beliefs be justified whenever possible and desirable, which is basically all of the time. My belief is that good processes for arriving at beliefs will tend to also produce good justifications for those beliefs. However, I don't think this is always true, and I admit the possibility of good methods of arriving at true beliefs which do not result in persuasive justification.
 
-A condition that's even weaker than true belief is plain truth. I think there's value to thinking of the truth, even if one doesn't end up believing it or knowing it.
+A condition that's even weaker than true belief is plain truth. I think there's value to thinking of the truth, even if one doesn't end up believing it or knowing it. One of the great lessons of philosophy, in my opinion, is the value of speculation. Speculation increases one's likelihood of setting one's eyes on the truth, which is certainly a step that needs to come before believing the truth or being able to justify said belief.
+
+Whenever there's an event, any news coverage that comes out is subject to various degrees of uncertainty, and it's possible to imagine multiple possibilities regarding the truth of the matter. 
 
 TODO
 
