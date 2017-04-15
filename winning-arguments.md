@@ -1156,7 +1156,7 @@ A condition that's even weaker than justified true belief is plain true belief. 
 
 A condition that's even weaker than true belief is plain truth. I think there's value to thinking of the truth, even if one doesn't end up believing it or knowing it. One of the great lessons of philosophy, in my opinion, is the value of speculation. Speculation increases one's likelihood of setting one's eyes on the truth, which is certainly a step that needs to come before believing the truth or being able to justify said belief.
 
-Whenever there's an event, any news coverage that comes out is subject to various degrees of uncertainty, and it's possible to imagine multiple possibilities regarding the truth of the matter. 
+Whenever there's an event, any news coverage that comes out is subject to various degrees of uncertainty, and it's possible to imagine multiple possibilities regarding the truth of the matter. In any news report, it's possible the journalist simply made something up. If a number of different news organizations are reporting the same thing, then either it really happened, or they are in a coordinated conspiracy to make something up, or some of them are making something up and others are listening to the ones making it up. When news coverage is sincere, it can still be inaccurate. When news coverage is accurate, it can still be biased towards a particular political or other type of perspective.
 
 TODO
 
