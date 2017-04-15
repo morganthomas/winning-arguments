@@ -1110,7 +1110,7 @@ What would it look like for these two things to come apart in somebody? That is,
 
 For example, consider Socrates, who seems to have valued critical, unblinking inquiry into the truth about essentially all matters, but is also on record as fully and uncritically endorsing the state religion of Athens, which residents of Athens were not legally allowed to criticize. It's possible that Socrates genuinely believed in the state religion of Athens. Let's suppose, though, for the sake of argument, that Socrates did not believe in the state religion of Athens. In this case, Socrates was self-censoring, misrepresenting his own views, in order to avoid being put to death (something which he was ultimately unsuccessful in avoiding). In this case, Socrates was basing his norms of assertion on something other than the same values behind his valuing of truth. In this case, Socrates was additionally basing his norms of assertion on the laws of Athens and his desire not to break them.
 
-I think most people base their norms of assertion on values apart from and in addition to their value of truth. 
+I think most people base their norms of assertion on values apart from and in addition to their value of truth. Probably most people today live in circumstances where the consequences of saying certain true things in certain contexts in their lives are unacceptable to them. I do think there are people who don't believe anything they're unwilling to say, and don't say anything they don't believe, but I think they're in the minority, and I don't count myself among them.
 
 TODO
 
