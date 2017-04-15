@@ -1136,6 +1136,8 @@ My understanding of the current state of the debate on what knowledge is is that
 
 I don't claim to have the ability to obtain knowledge. I don't claim that nobody can obtain knowledge, but I also don't know how anybody would. This text isn't meant to break the stalemate in the debate on the fundamental questions of epistemology. I make no pretense to be able to resolve the debate, and I make no pretense to know what knowledge is, to have knowledge, or to offer the possibility of knowledge.
 
+At this point some readers may be confused about why I am so hesitant to claim the capability of knowledge. It's worth clarifying the factors that I see as blocking me from making such a claim.
+
 TODO
 
 ## Meaning
