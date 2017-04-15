@@ -1138,7 +1138,9 @@ I don't claim to have the ability to obtain knowledge. I don't claim that nobody
 
 At this point some readers may be confused about why I am so hesitant to claim the capability of knowledge. It's worth clarifying the factors that I see as blocking me from making such a claim.
 
-First and most important is that I don't know what knowledge is. I can't know that something is knowledge if I don't know what knowledge is. Yet most of the time we assume that if you know something, then you know that you know it, you know that you know that you know it, and so forth. I may know stuff, but if so I don't know that I know it, or if that's wrong then at least I don't know that I know that I know it, or at least...
+First and most important is that I don't know what knowledge is. I probably can't know that something is knowledge if I don't know what knowledge is. Yet most of the time we assume that if you know something, then you know that you know it, you know that you know that you know it, and so forth. I may know stuff, but if so I don't know that I know it, or if that's wrong then at least I don't know that I know that I know it, or at least...
+
+My lack of clarity around how to define or use the word "knowledge" is one difficulty I have around claiming possession of knowledge. However, it's not my only difficulty.
 
 TODO
 
