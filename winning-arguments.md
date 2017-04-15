@@ -1092,6 +1092,10 @@ Horwichian minimalism is not the most informative theory of truth, and it is onl
 
 So far we have discussed to some extent the "what" of truth. We have yet to discuss the "how." How does one get to the truth? For some readers, I imagine that understanding how to seek the truth is their primary aim in reading this text. We promised in [the how-to section](#how-to-use-this-text) that you can use this text "as a practical guide to winning arguments, to reasoning about any subject, to seeking the truth about any subject, and to misleading people about any subject." We have therefore promised to discuss seeking the truth.
 
+This is an extremely hairy topic. To get ourselves started, let's pick up some threads that we left hanging in the previous section and notice some puzzles we haven't yet discussed.
+
+In discussing the truism that truth is something worth pursuing, I argued that truth is valuable and indeed worth pursuing. In discussing the word "true," the only explanation of its meaning that I offered was the T-schema. Recall that the T-schema is the infinite set of statements of the form "the statement **A** is true if and only if **A**," for all statements **A** (in some language, e.g. English). Thus, we have two related and yet very different conceptions: the conception of *truth* as a value, and of *true* as an axiomatically defined, context-sensitive, meta-linguistic word.
+
 TODO
 
 ## Meaning
