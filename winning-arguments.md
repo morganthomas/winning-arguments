@@ -1106,7 +1106,11 @@ As it happens, we don't need to look terribly deep to see the connection. Horwic
 
 We can venture that often the values underlying an individual's sense of the value of truth are the same values that ultimately undergird the norms of assertion that they consider to be correct. It would make sense for this to be true of a Horwichian minimalist who agrees that truth is worth pursuing and thinks that the words "true" and "truth" are somehow closely connected.
 
-What would it look like for these two things to come apart in somebody? That is, what would it look like if somebody professed to value truth, but did not base the norms of assertion they consider to be correct on the same values behind their profession to value the truth?
+What would it look like for these two things to come apart in somebody? That is, what would it look like if somebody professed to value truth, but did not base the norms of assertion they consider to be correct on the same values behind their profession to value the truth? One way a person could meet this condition is by self-censorship.
+
+For example, consider Socrates, who seems to have valued critical, unblinking inquiry into the truth about essentially all matters, but is also on record as fully and uncritically endorsing the state religion of Athens, which residents of Athens were not legally allowed to criticize. It's possible that Socrates genuinely believed in the state religion of Athens. Let's suppose, though, for the sake of argument, that Socrates did not believe in the state religion of Athens. In this case, Socrates was self-censoring, misrepresenting his own views, in order to avoid being put to death (something which he was ultimately unsuccessful in avoiding). In this case, Socrates was basing his norms of assertion on something other than the same values behind his valuing of truth. In this case, Socrates was additionally basing his norms of assertion on the laws of Athens and his desire not to break them.
+
+I think most people base their norms of assertion on values apart from and in addition to their value of truth. 
 
 TODO
 
