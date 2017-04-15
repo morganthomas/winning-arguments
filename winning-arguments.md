@@ -1148,6 +1148,8 @@ TODO
 
 We are left in an apparently awkward position. We have committed ourselves to a positive project of learning how to win arguments and seek the truth about any topic. However, we have just denied any ambition to acquire knowledge from arguments in this text. How can we reconcile these seemingly contradictory positions?
 
+The answer to this lies in the distinction between "seeking knowledge" and "seek the truth." To seek knowledge is to seek to know things. To seek the truth is to seek to have true beliefs, or perhaps even just true thoughts that one doesn't necessarily believe.
+
 TODO
 
 ## Meaning
