@@ -1144,7 +1144,7 @@ Though I don't claim literally to possess knowledge and to know that I possess i
 
 My lack of clarity around how to define or use the word "knowledge" is one difficulty I have around claiming possession of knowledge. However, it's not my only difficulty.
 
-TODO
+TODO: skeptical arguments
 
 We are left in an apparently awkward position. We have committed ourselves to a positive project of learning how to win arguments and seek the truth about any topic. However, we have just denied any ambition to acquire knowledge from arguments in this text. How can we reconcile these seemingly contradictory positions?
 
