@@ -1211,7 +1211,7 @@ It's conceptually plausible, in my opinion, that such a consciousness, without s
 
 If a totally isolated consciousness had the possibility of imagination, then it could create realities within itself. These realities, though imaginary, would be just as real as any other part of the universe that the totally isolated consciousness was. The consciousness, however, would presumably always be aware that these creations were its own and could be gotten rid of or replaced whenever it wanted. This consciousness would therefore have near-total epistemic freedom, but it might lack the freedom to have the experience of a reality outside itself that it was unable to control.
 
-The only way I can think of that a totally isolated consciousness could gain this freedom would be if it were able to trick parts of itself into losing awareness of its membership in the rest of itself, so that those parts of itself could interact with the rest of itself, taking the rest of itself to be some kind of external reality. Let us call such a part a **separated sub-consciousness**.
+The only way I can think of that a totally isolated consciousness could gain this freedom would be if it were able to trick parts of itself into losing awareness of its membership in the rest of itself, so that those parts of itself could interact with the rest of itself, mistaking the rest of itself for some kind of external reality. Let us call such a part a **separated sub-consciousness**.
 
 Our experience as humans is quite different from the experience of a totally isolated consciousness, but analogous to the experience that a separated sub-consciousness of a totally isolated consciousness might have.
 
