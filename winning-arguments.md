@@ -1174,6 +1174,12 @@ In essence, we are interested in studying and evaluating potential methods of se
 
 However, in order to grab the problem by the roots, we need to step back and observe that we have yet to clarify what our purpose really is. We noted that there are certain values underlying a truth-seeking attitude or an attitude of sincerity. We also noted that exactly what values are involved will vary between individuals. One way of putting it is to say that truth-seeking attitudes or attitudes of sincerity are like people themselves, in that no two are the same, yet they share uncountable and sometimes indescribable differences and similarities with each other.
 
+As the author, my objective is to help the reader to water their own truth-seeking and their own sincerity, to let it grow in whatever shape is appropriate to it. My objective is not to replicate my own self in others. As such, I can't tell the reader what should be involved in their own attitudes of truth-seeking or sincerity. I also can't choose for the reader whether or not to grow their attitudes of truth-seeking and sincerity at all.
+
+At core, the attitude of truth-seeking is a striving for reality, for what's actual, as we have noted a few times. We can't say this goal necessarily makes sense on the basis of what we've said. In seeking after reality, one can argue that if we knew what we were looking for or how to get there, then we wouldn't need to be seeking.
+
+The experience of philosophy can be compared to groping in a dark system of passageways looking for a way out. Occasionally by some good luck or cleverness, one finds one's way out in a lit clearing where one can see many more darkened passageways. One can continue spelunking indefinitely in this way, finding ever larger clearings with ever more passageways leading out of them. One can rightly wonder whether one will eventually be able to map and explore the entire system of passageways and clearings. One can also rightly wonder whether it's possible to get out of the system of passageways and clearings entirely, and if so what lies beyond it. Many have thought they had left the system of passageways and clearings entirely only to discover that they were merely in a very large clearing.
+
 TODO
 
 ## Meaning
