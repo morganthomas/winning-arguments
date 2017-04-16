@@ -1209,7 +1209,13 @@ Imagine that your individual conscious mind was in total control of its own expe
 
 It's conceptually plausible, in my opinion, that such a consciousness, without spontaneous experience based on external forces, might not ever form any ideas, feelings, or other experiences apart from the experience of self-awareness of a self which is nothing but bare awareness of (self-)awareness. On the other hand, we can also imagine a totally isolated consciousness with the possibility of imagination.
 
-In any case, our experience as humans is quite different from any way the experience of a totally isolated consciousness might be. We have the experience of forces outside ourselves that make our own subjective experience not entirely subject to control by our individual conscious minds. We have the experience of an enormous variety of different things and the ability to actualize an uncountable number of distinct possible futures, but not the ability to decide completely the contents of our experiences.
+If a totally isolated consciousness had the possibility of imagination, then it could create realities within itself. These realities, though imaginary, would be just as real as any other part of the universe that the totally isolated consciousness was. The consciousness, however, would presumably always be aware that these creations were its own and could be gotten rid of or replaced whenever it wanted. This consciousness would therefore have near-total epistemic freedom, but it might lack the freedom to have the experience of a reality outside itself that it was unable to control.
+
+The only way I can think of that a totally isolated consciousness could gain this freedom would be if it were able to trick parts of itself into losing awareness of its membership in the rest of itself, so that those parts of itself could interact with the rest of itself, taking the rest of itself to be some kind of external reality. Let us call such a part a **separated sub-consciousness**.
+
+Our experience as humans is quite different from the experience of a totally isolated consciousness, but analogous to the experience that a separated sub-consciousness of a totally isolated consciousness might have.
+
+As humans, we have the experience of forces outside ourselves that make our own subjective experiences not entirely subject to control by our individual conscious minds. We have the experience of an enormous variety of different things and the ability to actualize an uncountable number of distinct possible futures, but not the ability to decide completely the contents of our experiences.
 
 ## Meaning
 
