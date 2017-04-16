@@ -1198,6 +1198,7 @@ First, though, let's take stock of the degrees of freedom we have gathered into 
 
 * It is not agreed what knowledge is.
 * It is not agreed whether humans have knowledge.
+* We might know stuff without knowing that we know it, knowing that we know that we know it, etc.
 * Instead of knowledge, for various purposes we might settle for justified true belief, or mere true belief, or merely setting eyes on the truth.
 
 TODO
