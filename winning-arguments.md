@@ -1217,6 +1217,10 @@ Our experience as humans is quite different from the experience of a totally iso
 
 As humans, we have the experience of forces outside ourselves that make our own subjective experiences not entirely subject to control by our individual conscious minds. We have the experience of an enormous variety of different things and the ability to actualize an uncountable number of distinct possible futures, but not the ability to decide completely the contents of our experiences.
 
+This, in my opinion, is basically where constraints in epistemology come from. A totally isolated consciousness would, I think, be essentially epistemically unconstrained, assuming it had the abilities of imagination and of forming separated sub-conciousnesses. A totally isolated consciousness without imagination might be nothing but a bare consciousness of consciousness. A totally isolated consciousness with imagination but without the ability to form separated sub-consciousnesses would have the epistemic constraint that it would be unable to believe in a reality outside its control.
+
+We're not like totally isolated consciousnesses. We have epistemic constraints, and they come from the fact that we don't completely control our own experiences.
+
 ## Meaning
 
 TODO
