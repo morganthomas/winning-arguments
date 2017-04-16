@@ -1196,6 +1196,10 @@ The general weakness of what we have said so far is that it is overly wiggly and
 
 First, though, let's take stock of the degrees of freedom we have gathered into our epistemology so far. 
 
+* It is not agreed what knowledge is.
+* It is not agreed whether humans have knowledge.
+* Instead of knowledge, we might settle for justified true belief, or mere true belief, or merely setting eyes on the truth.
+
 TODO
 
 ## Meaning
