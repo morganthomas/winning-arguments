@@ -1186,9 +1186,7 @@ Is it illusions all the way up? Perhaps. It doesn't really matter, from the pers
 
 The pursuit of philosophy, done boldly and with integrity, shatters many illusions. Behind them, I am happy to say, we find other illusions: but brighter, bigger, more open illusions.
 
-Can humans exist without illusion? Perhaps not. If we can't have knowledge, nonetheless there needs to be a fabric to our psychological lives. What else but illusion, or what we can more charitably call opinion? Perhaps humans can't avoid constructing illusions any more than spiders can avoid spinning webs; perhaps as Nietzsche suggested in On Truth and Lies in a Non-Moral Sense, "we produce these representations in and from ourselves with the same necessity with which the spider spins." (This quote was paraphrased in [this podcast](https://www.youtube.com/watch?v=WA2-s8TJrPc&t=31s), which is how I learned about it.)
-
-Perhaps, as Nietzsche suggested in On Truth and Lies in a Non-Moral Sense, humans can't avoid constructing illusions any more than spiders can avoid spinning webs: 
+Can humans exist without illusion? Perhaps not. If we can't have knowledge, nonetheless there needs to be a fabric to our psychological lives. What else but illusion, or what we can more charitably call opinion? Perhaps humans can't avoid constructing illusions any more than spiders can avoid spinning webs; perhaps, as Nietzsche suggested in On Truth and Lies in a Non-Moral Sense, "we produce these representations in and from ourselves with the same necessity with which the spider spins." (This quote was paraphrased in [this podcast](https://www.youtube.com/watch?v=WA2-s8TJrPc&t=31s), which is how I learned about it.)
 
 ## Meaning
 
