@@ -1200,6 +1200,10 @@ First, though, let's take stock of the degrees of freedom we have gathered into 
 * It is not agreed whether humans have knowledge.
 * We might know stuff without knowing that we know it, and knowing that we know that we know it, etc.
 * Instead of knowledge, for various purposes we might settle for justified true belief, or mere true belief, or merely setting eyes on the truth.
+* There are many ways one can understand the meaning and value of "truth" and "true." The interpretation of these words is relative to the context.
+* Questions about truth can be understood as normative questions by referencing them to norms of assertion.
+
+Those are some of the degrees of freedom we have seen to exist in epistemology. Now let's try to identify some of the constraints that exist in epistemology.
 
 TODO
 
