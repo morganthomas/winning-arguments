@@ -1219,7 +1219,7 @@ As humans, we have the experience of forces outside ourselves that make our own 
 
 This, in my opinion, is basically where constraints in epistemology come from. A totally isolated consciousness would, I think, be essentially epistemically unconstrained, assuming it had the abilities of imagination and of forming separated sub-conciousnesses. A totally isolated consciousness without imagination might be nothing but a bare consciousness of consciousness. A totally isolated consciousness with imagination but without the ability to form separated sub-consciousnesses would have the epistemic constraint that it would be unable to believe in a reality outside its control.
 
-We're not like totally isolated consciousnesses. We have epistemic constraints, and they come from the fact that we don't completely control our own experiences. We explain the uncontrolled part of our experiences by the theory that there is an external physical world populated by people much like ourselves, who also have consciousnesses and internal experiences.
+We're not like totally isolated consciousnesses. We have epistemic constraints, and they come from the fact that we don't completely control our own experiences. We explain the uncontrolled part of our experiences by the theory that there is an external physical world populated by people much like ourselves, who also have consciousnesses and internal experiences. I don't think we know this, but it is nonetheless the fundamental theory underlying almost everything we do, and I don't propose to stop using the theory to navigate the world and to accomplish tasks I consider important.
 
 ## Meaning
 
