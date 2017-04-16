@@ -1226,7 +1226,9 @@ Humans are not like totally isolated consciousnesses. We have epistemic constrai
 
 More generally, let **X** be some simple statement about the ordinary world of common sense which I have clear evidence for: e.g., "there is a pen on the desk I'm typing at." I operate under the assumption that **X**, believe that **X**, and consider it warranted for me to assert that **X** is true, but I don't claim to know **X**.
 
-What is the word "warrant" that I have used a couple of times now, most recently in the previous paragraph? 
+What is the word "warrant" that I have used a couple of times now, most recently in the previous paragraph? As I'm using it in this text, "warrant" is a placeholder for whatever standard of assertibility is appropriate to a given context. Relative to a given conversational context, "it is warranted to assert **X**" means that asserting **X** is a good move in the game which is the given conversational context.
+
+The concept of warrant, understood in this way, takes in more than justification, evidence, or proof. It also takes in general concerns of appropriateness, such as relevance and politeness. It takes in every positive and negative force within the ambient social game which weighs on the decision to make the assertion.
 
 TODO
 
