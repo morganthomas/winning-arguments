@@ -14,7 +14,8 @@
 * [Statements](#statements)
 * [Speech acts](#speech-acts)
 * [Truth](#truth)
-* [Epistemology](#epistemology)
+* [Epistemology: freedom](#epistemology-freedom)
+* [Epistemology: constraints](#epistemology-constraints)
 * [Meaning](#meaning)
 * [Rationality](#rationality)
 * [Reasons](#reasons)
@@ -1088,7 +1089,7 @@ Our generic pluralist theory of truth runs as follows: "there are multiple kinds
 
 Horwichian minimalism is not the most informative theory of truth, and it is only a theory. That's why I'm open to other theories of truth. To me, the value of Horwichian minimalism is that it gives us one viable way of understanding the meaning of "true," of treating our confusions around this word. It references questions about truth to questions about norms of assertion. This proves in practice to be a productive way of thinking about truth. Understanding norms of assertion takes in much of what humans know about seeking the truth. It is the primary topic of the rest of this text.
 
-## Epistemology
+## Epistemology: freedom
 
 So far we have discussed to some extent the "what" of truth. We have yet to discuss the "how." How does one get to the truth? For some readers, I imagine that understanding how to seek the truth is their primary aim in reading this text. We promised in [the how-to section](#how-to-use-this-text) that you can use this text "as a practical guide to winning arguments, to reasoning about any subject, to seeking the truth about any subject, and to misleading people about any subject." We have therefore promised to discuss seeking the truth.
 
@@ -1205,7 +1206,7 @@ First, though, let's take stock of the degrees of freedom we have gathered into 
 
 Those are some of the degrees of freedom that seem to exist in epistemology based on what we've said. Now let's try to identify some of the constraints that exist in epistemology.
 
-TODO
+## Epistemology: constraints
 
 ## Meaning
 
