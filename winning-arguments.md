@@ -1228,7 +1228,7 @@ More generally, let **X** be some simple statement about the ordinary world of c
 
 What is the word "warrant" that I have used a couple of times now, most recently in the previous paragraph? As I'm using it in this text, "warrant" is a placeholder for whatever standard of assertibility is appropriate to a given context. Relative to a given conversational context, "it is warranted to assert **X**" means that asserting **X** is a good move in the game which is the given conversational context.
 
-The concept of warrant, understood in this way, takes in more than justification, evidence, or proof. It also takes in general concerns of appropriateness, such as relevance and politeness. It takes in every positive and negative force within the ambient social game which weighs on the decision to make or not make the assertion.
+The concept of warranted assertibility, understood in this way, takes in more than justification, evidence, or proof. It also takes in general concerns of appropriateness, such as relevance and politeness. It takes in every positive and negative force within the ambient social game which weighs on the decision to make or not make the assertion.
 
 TODO
 
