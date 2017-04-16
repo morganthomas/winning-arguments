@@ -1207,7 +1207,7 @@ Those are some of the degrees of freedom that seem to exist in epistemology base
 
 Imagine that your individual conscious mind was in total control of its own experience. This would be the case for an individual consciousness that was the entirety of the universe it was in, that therefore experienced nothing other than itself and its own self-created imaginations and illusions. If such a consciousness was like our own, we can imagine that it would readily discover itself to be in total control of its reality, and that it would experience whatever it pleased forever.
 
-It's possible that such a consciousness, without spontaneous experience based on external forces, might not ever form any ideas, feelings, or other experiences apart from the experience of self-awareness of a self which is nothing but bare awareness of awareness.
+It's conceptually plausible that such a consciousness, without spontaneous experience based on external forces, might not ever form any ideas, feelings, or other experiences apart from the experience of self-awareness of a self which is nothing but bare awareness of awareness.
 
 ## Meaning
 
