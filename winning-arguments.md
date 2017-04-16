@@ -1192,7 +1192,11 @@ To phrase the point more charitably, humans need to form opinions about the worl
 
 This point is really common sense. I have presented it in the most extreme formulation possible in order to make as clear as possible where we should look for interesting implications of what's being said and for potential objections to the theory.
 
-The general weakness of what we have said so far is that it is overly wiggly and relativistic, and overly abstract, lacking in practical applicability. Our epistemology has many appropriate degrees of freedom. But, it is like a helpless infant, not yet useful for anything.
+The general weakness of what we have said so far is that it is overly wiggly and relativistic, and overly abstract, lacking in practical applicability. Our epistemology has many appropriate degrees of freedom. But, it is like a helpless infant, not yet useful for anything. This is because it lacks constraints. We need to figure out constraints get into the picture.
+
+First, though, let's take stock of the degrees of freedom our epistemology has accumulated.
+
+TODO
 
 ## Meaning
 
