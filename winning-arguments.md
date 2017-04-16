@@ -1209,6 +1209,8 @@ Imagine that your individual conscious mind was in total control of its own expe
 
 It's conceptually plausible, in my opinion, that such a consciousness, without spontaneous experience based on external forces, might not ever form any ideas, feelings, or other experiences apart from the experience of self-awareness of a self which is nothing but bare awareness of awareness.
 
+In any case, our experience is quite different from this. We have the experience of forces outside ourselves that make our own subjective experience not entirely subject to control by our individual conscious minds.
+
 ## Meaning
 
 TODO
