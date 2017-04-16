@@ -1198,18 +1198,18 @@ First, though, let's take stock of the degrees of freedom we have gathered into 
 
 * It is not agreed what knowledge is.
 * It is not agreed whether humans have knowledge.
-* We might know stuff without knowing that we know it, and knowing that we know that we know it, etc.
+* Arguably, we might know stuff without knowing that we know it, and knowing that we know that we know it, etc.
 * Instead of knowledge, for various purposes we might settle for justified true belief, or mere true belief, or merely setting eyes on the truth.
 * There are many ways one can understand the meaning and value of "truth" and "true." The interpretation of these words is relative to the context.
 * Questions about truth can be understood as normative questions by referencing them to norms of assertion.
 
 Those are some of the degrees of freedom that seem to exist in epistemology based on what we've said. Now let's try to identify some of the constraints that exist in epistemology.
 
-Imagine that your individual conscious mind was in total control of its own experience. This would be the case for an individual consciousness that was the entirety of the universe it was in, that therefore experienced nothing other than itself and its own self-created imaginations and illusions. If such a consciousness was like our own, we can imagine that it would readily discover itself to be in total control of its reality, and that it would experience whatever it pleased forever.
+Imagine that your individual conscious mind was in total control of its own experience. This would be the case for an individual consciousness that was the entirety of the universe it was in, that therefore experienced nothing other than itself and its own self-created imaginations and illusions. If such a consciousness was like our own, we can imagine that it would readily discover itself to be in total control of its reality, and that it would experience whatever it pleased forever. Let us call such a consciousness a **totally isolated consciousness**.
 
-It's conceptually plausible, in my opinion, that such a consciousness, without spontaneous experience based on external forces, might not ever form any ideas, feelings, or other experiences apart from the experience of self-awareness of a self which is nothing but bare awareness of (self-)awareness.
+It's conceptually plausible, in my opinion, that such a consciousness, without spontaneous experience based on external forces, might not ever form any ideas, feelings, or other experiences apart from the experience of self-awareness of a self which is nothing but bare awareness of (self-)awareness. On the other hand, we can also imagine a totally isolated consciousness with the possibility of imagination.
 
-In any case, our experience as humans is quite different from this. We have the experience of forces outside ourselves that make our own subjective experience not entirely subject to control by our individual conscious minds. We have the experience of an enormous variety of different things and the ability to actualize an uncountable number of distinct possible futures.
+In any case, our experience as humans is quite different from any way the experience of a totally isolated consciousness might be. We have the experience of forces outside ourselves that make our own subjective experience not entirely subject to control by our individual conscious minds. We have the experience of an enormous variety of different things and the ability to actualize an uncountable number of distinct possible futures, but not the ability to decide completely the contents of our experiences.
 
 ## Meaning
 
