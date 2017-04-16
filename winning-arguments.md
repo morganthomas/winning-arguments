@@ -1221,7 +1221,7 @@ This, in my opinion, is basically where constraints in epistemology come from. A
 
 Humans are not like totally isolated consciousnesses. We have epistemic constraints, and they come from the fact that we don't completely control our own experiences. We explain the uncontrolled part of our experiences by the theory that there is an external physical world populated by people much like ourselves, who also have consciousnesses and internal experiences. I don't think we know this, but it is nonetheless the fundamental theory underlying almost everything we do, and I don't propose to stop using the theory to navigate the world and to accomplish tasks I consider important. I don't know there is an external world populated by people much like myself who also have consciousnesses and internal experiences. I do, however, operate under these assumptions, believe said assumptions, and assert that said assumptions are true.
 
-More generally, let **X** be some simple statement about the ordinary world of common sense which I have clear evidence for: e.g., "there is a pen on the desk I'm typing at." I operate under the assumption that **X**, believe that **X**, and am willing to assert that **X** is true, but I don't claim to know **X**.
+More generally, let **X** be some simple statement about the ordinary world of common sense which I have clear evidence for: e.g., "there is a pen on the desk I'm typing at." I operate under the assumption that **X**, believe that **X**, and consider myself warranted if I want to assert that **X** is true, but I don't claim to know **X**.
 
 TODO
 
