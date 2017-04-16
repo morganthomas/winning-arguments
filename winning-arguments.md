@@ -14,8 +14,7 @@
 * [Statements](#statements)
 * [Speech acts](#speech-acts)
 * [Truth](#truth)
-* [Epistemology: freedom](#epistemology-freedom)
-* [Epistemology: constraints](#epistemology-constraints)
+* [Epistemology](#epistemology)
 * [Meaning](#meaning)
 * [Rationality](#rationality)
 * [Reasons](#reasons)
@@ -1191,7 +1190,7 @@ Can humans exist without illusion? Perhaps not. If we can't have knowledge, none
 
 To phrase the point more charitably, humans need to form opinions about the world; we make them on the basis of flawed information; and they are therefore subject to revision and update.
 
-This point is really common sense. I initially presented it in the most extreme formulation I could in order to make as clear as possible where we should look for interesting implications of what's being said and for potential objections to the theory.
+This point is a truism when said this more charitable way. I first presented it in the most extreme formulation I could in order to make as clear as possible where we should look for interesting implications of what's being said and for potential objections to the theory.
 
 The general weakness of what we have said so far is that it is overly wiggly and relativistic, and overly abstract, lacking in practical applicability. Our epistemology so far has many appropriate degrees of freedom. But, it is like a helpless infant, not yet useful for anything. This is because it lacks constraints. We need to figure out how constraints get into the picture.
 
@@ -1206,7 +1205,9 @@ First, though, let's take stock of the degrees of freedom we have gathered into 
 
 Those are some of the degrees of freedom that seem to exist in epistemology based on what we've said. Now let's try to identify some of the constraints that exist in epistemology.
 
-## Epistemology: constraints
+Imagine that your individual conscious mind was in total control of its own experience. This would be the case for an individual consciousness that was the entirety of the universe it was in, that therefore experienced nothing other than itself and its own self-created imaginations and illusions. If such a consciousness was like our own, we can imagine that it would readily discover itself to be in total control of its reality, and that it would experience whatever it pleased forever.
+
+It's possible that such a consciousness, without spontaneous experience based on external forces, might not ever form any ideas, feelings, or other experiences apart from the experience of self-awareness of a self which is nothing but bare awareness of awareness.
 
 ## Meaning
 
