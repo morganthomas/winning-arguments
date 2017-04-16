@@ -1203,7 +1203,7 @@ First, though, let's take stock of the degrees of freedom we have gathered into 
 * There are many ways one can understand the meaning and value of "truth" and "true." The interpretation of these words is relative to the context.
 * Questions about truth can be understood as normative questions by referencing them to norms of assertion.
 
-Those are some of the degrees of freedom we have seen to exist in epistemology. Now let's try to identify some of the constraints that exist in epistemology.
+Those are some of the degrees of freedom that seem to exist in epistemology based on what we've said. Now let's try to identify some of the constraints that exist in epistemology.
 
 TODO
 
