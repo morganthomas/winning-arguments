@@ -1140,7 +1140,7 @@ At this point some readers may be confused about why I am so hesitant to claim t
 
 First and most important is that I don't know what knowledge is. I probably can't know that something is knowledge if I don't know what knowledge is. Yet most of the time we assume that if you know something, then you know that you know it, you know that you know that you know it, and so forth. Since I don't know what knowledge is, I may know stuff, but if so I don't know that I know it.
 
-Though I don't claim literally to possess knowledge and to know that I possess it and so forth, I will in practical contexts assert that I know something. Generally I do so when I am confident that I can defend the claim. If pressed specifically on my use of the word "know," then I would substitute a weaker term, but my word choice is rarely the key issue in non-philosophical conversations.
+Though I don't claim literally to possess knowledge and to know that I possess it and so forth, I will in practical contexts assert that I know something. Generally I do so when I am confident that I can defend the claim. If pressed specifically on my use of the word "know," then I would substitute a weaker term (though my word choice is rarely the key issue in non-philosophical conversations).
 
 My lack of clarity around how to define or use the word "knowledge" is one difficulty I have around claiming possession of knowledge. However, it's not my only difficulty.
 
