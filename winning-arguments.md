@@ -1186,7 +1186,7 @@ Is it illusions all the way up? Perhaps. It doesn't really matter, from the pers
 
 The pursuit of philosophy, done boldly and with integrity, shatters many illusions. Behind them, I am happy to say, we find other illusions: but brighter, bigger, more open illusions.
 
-Can humans exist without illusion? Perhaps not. If we can't have knowledge, nonetheless there needs to be a fabric to our psychological lives.
+Can humans exist without illusion? Perhaps not. If we can't have knowledge, nonetheless there needs to be a fabric to our psychological lives. What else but illusion, or what we can more charitably call opinion? As somebody said in [this podcast](https://www.youtube.com/watch?v=WA2-s8TJrPc&t=31s) (iirc), perhaps humans can't avoid constructing illusions any more than spiders can avoid spinning webs.
 
 ## Meaning
 
