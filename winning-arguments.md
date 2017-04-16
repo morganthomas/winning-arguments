@@ -1190,6 +1190,8 @@ Can humans exist without illusion? Perhaps not. If we can't have knowledge, none
 
 To phrase the point more charitably, humans need to form opinions about the world; we make them on the basis of flawed information; and they are therefore subject to revision and update. This point is really common sense. I have presented it in the most extreme formulation possible in order to make as clear as possible where we should look for interesting implications of what's being said and for potential objections to the theory.
 
+
+
 ## Meaning
 
 TODO
