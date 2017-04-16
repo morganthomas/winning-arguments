@@ -1180,7 +1180,11 @@ At core, the attitude of truth-seeking is a striving for reality, for what's act
 
 The experience of philosophy can be compared to groping in a dark system of passageways looking for a way out. Occasionally, by some good fortune or cleverness, one finds one's way out into a lit clearing where one can see many more dark, unexplored passageways terminating. One can continue spelunking indefinitely in this way, finding ever larger clearings with ever more passageways leading out of them. One can rightly wonder whether one will eventually be able to map and explore the entire system of passageways and clearings. One can also rightly wonder whether it's possible to get out of the system of passageways and clearings entirely, and if so what lies beyond it. Many philosophers have thought they had left the system of passageways and clearings entirely, only to discover that they were merely in a very large clearing.
 
-TODO
+This metaphor is an elaboration of Plato's [allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_Cave). In Plato's allegory, people who were trapped in a dark cave are one day let out into the outside world where they get to taste the light of truth. The passageways and clearings metaphor points out the great joke of philosophy, which is that what we find in philosophy is that the bright daylight of truth you emerge out into from Plato's cave is later seen to be just a clearing. 
+
+Is it illusions all the way up? Perhaps. It doesn't really matter, from the perspective of this lifetime. Even if there is truly a way out of the system of passageways and clearings into the daylight of truth, I have no great expectation of reaching it in this lifetime.
+
+The pursuit of philosophy, done boldly and with integrity, shatters many illusions. Behind them, I am happy to say, we find other illusions: but brighter, bigger, more open illusions.
 
 ## Meaning
 
