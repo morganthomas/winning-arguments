@@ -1188,6 +1188,8 @@ The pursuit of philosophy, done boldly and with integrity, shatters many illusio
 
 Can humans exist without illusion? Perhaps not. If we can't have knowledge, nonetheless there needs to be a fabric to our psychological lives. What else but illusion, or what we can more charitably call opinion? Perhaps humans can't avoid constructing illusions any more than spiders can avoid spinning webs; perhaps, as Nietzsche suggested in On Truth and Lies in a Non-Moral Sense, "we produce these representations in and from ourselves with the same necessity with which the spider spins." (This quote was paraphrased in [this podcast](https://www.youtube.com/watch?v=WA2-s8TJrPc&t=31s), which is how I learned about this metaphor.)
 
+To phrase the point more charitably, humans need to form opinions about the world on the basis of flawed information. This point is really common sense. I have presented it in the most extreme formulation possible in order to make as clear as possible where we should look for the implications of what's being said and for potential objections to the theory.
+
 ## Meaning
 
 TODO
