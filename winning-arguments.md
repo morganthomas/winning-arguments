@@ -14,8 +14,7 @@
 * [Statements](#statements)
 * [Speech acts](#speech-acts)
 * [Truth](#truth)
-* [Epistemology: pt. 1, freedom](#epistemology-pt-1-freedom)
-* [Epistemology: pt. 2, constraints](#epistemology-pt-2-constraints)
+* [Epistemology](#epistemology)
 * [Meaning](#meaning)
 * [Rationality](#rationality)
 * [Reasons](#reasons)
@@ -1089,7 +1088,7 @@ Our generic pluralist theory of truth runs as follows: "there are multiple kinds
 
 Horwichian minimalism is not the most informative theory of truth, and it is only a theory. That's why I'm open to other theories of truth. To me, the value of Horwichian minimalism is that it gives us one viable way of understanding the meaning of "true," of treating our confusions around this word. It references questions about truth to questions about norms of assertion. This proves in practice to be a productive way of thinking about truth. Understanding norms of assertion takes in much of what humans know about seeking the truth. It is the primary topic of the rest of this text.
 
-## Epistemology: pt. 1, freedom
+## Epistemology
 
 So far we have discussed to some extent the "what" of truth. We have yet to discuss the "how." How does one get to the truth? For some readers, I imagine that understanding how to seek the truth is their primary aim in reading this text. We promised in [the how-to section](#how-to-use-this-text) that you can use this text "as a practical guide to winning arguments, to reasoning about any subject, to seeking the truth about any subject, and to misleading people about any subject." We have therefore promised to discuss seeking the truth.
 
@@ -1145,7 +1144,15 @@ Though I don't claim literally to possess knowledge and to know that I possess i
 
 My lack of clarity around how to define or use the word "knowledge" is one difficulty I have around claiming possession of knowledge. However, it's not my only difficulty.
 
-TODO: skeptical arguments
+The other difficulty is that my experiences are consistent with a lot of different things being true. For example, I could be a [brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat) experiencing a simulated reality created by attaching my brain to computers that fire appropriate signals at my brain to make it seem like it's in a human body on the planet Earth. My experiences are entirely consistent with this possibility.
+
+My experiences are consistent with the possibility that the whole world has only existed for five minutes, and all of my older memories were implanted in me by whatever mischevious God created this universe. 
+
+My experiences are consistent with the possibility that I am the only conscious person in the world. I believe that others are conscious, but I don't see how I would know. I believe that if there is a God, then God could create elaborate holograms that are just like the world I experience, but in which I'm actually the only conscious person.
+
+Similarly, my experiences are consistent with the possibility that parts of the physical world only exist while I'm looking at them.
+
+I don't imagine that everybody will find these skeptical arguments compelling. If the reader is still convinced after what I've said that they know things, then that's OK. My purpose is to explain how to win arguments and seek the truth, not to convince the reader that they don't know anything.
 
 We are left in an apparently awkward position. We have committed ourselves to a positive project of learning how to win arguments and seek the truth about any topic. However, we have just denied any ambition to acquire knowledge from arguments in this text. How can we reconcile these seemingly contradictory positions?
 
@@ -1194,8 +1201,6 @@ To phrase the point more charitably, humans need to form opinions about the worl
 This point is a truism when said this more charitable way. I first presented it in the most extreme formulation I could in order to make as clear as possible where we should look for interesting implications of what's being said and for potential objections to the theory.
 
 The general weakness of what we have said so far is that it is overly wiggly and relativistic, and overly abstract, lacking in practical applicability. Our epistemology so far has many appropriate degrees of freedom. But, it is like a helpless infant, not yet useful for anything. This is because it lacks constraints. We need to figure out how constraints get into the picture.
-
-## Epistemology: pt. 2, constraints
 
 Let's take stock of the degrees of freedom we gathered into our epistemology in the preceding section.
 
