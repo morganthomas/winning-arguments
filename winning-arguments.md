@@ -1230,6 +1230,10 @@ What is the word "warrant" that I have used a couple of times now, most recently
 
 The concept of warranted assertion, understood in this way, takes in more than justification, evidence, or proof. It also takes in general concerns of appropriateness, such as relevance and politeness. It takes in every positive and negative force within the ambient social game which weighs on the decision to make or not make the assertion. Warranted assertion, understood in this way, is a highly situation-specific concept. In this conception, there is no general standard of warranted assertion; there are only different standards appropriate to different situations (and in different people's opinions).
 
+Though there is no general standard of warranted assertion, there are things that should generally be in a standard of warranted assertion. There are techniques of reasoning that have been observed to work generally, across all or many problem domains. There is a simple argument for accepting the use of these techniques of reasoning to govern norms of assertion when they are applicable: namely, that it works. 
+
+In the rest of this text we are going to spend a lot of time thinking about what should generally go into our concepts of warranted assertion. What rules of logical inference should go in? What rules of probabilistic and inductive reasoning should go in? What else should go in? In each case, the questions are, how widely does it work, and where does it fail? Our goal is to build a toolkit of tools of reasoning, tools for governing norms of assertion, tools for advancing debates, which work across all or many problem domains.
+
 TODO
 
 ## Meaning
