@@ -1234,7 +1234,7 @@ Though there is no general standard of warranted assertion, there are things tha
 
 In the rest of this text we are going to spend a lot of time thinking about what should generally go into our concepts of warranted assertion. What rules of logical inference should go in? What rules of probabilistic and inductive reasoning should go in? What else should go in? In each case, the questions are, how widely does it work, and where does it fail? Our goal is to build a toolkit of tools of reasoning, tools for governing norms of assertion, tools for advancing debates, which work across all or many problem domains.
 
-The case for adopting these tools is, essentially, they work. The case that they work is going to be discussed on a case by case basis. However, the goal is not to persuade the reader that they must adopt the principles of reasoning we discuss. The goal isn't persuasive at all. The goal is simply to provide information to the reader which may help them.
+The case for adopting these tools is, essentially, they work. The case that they work is going to be discussed on a case by case basis. However, the goal is not to persuade the reader that they must adopt the principles of reasoning we discuss. The goal isn't persuasive at all. The goal is simply to provide information to the reader which may help them if they choose to use it.
 
 ## Meaning
 
