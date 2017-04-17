@@ -1152,7 +1152,7 @@ My experiences are consistent with the possibility that I am the only conscious 
 
 Similarly, my experiences are consistent with the possibility that parts of the physical world only exist while I'm looking at them.
 
-I don't imagine that everybody will find these skeptical arguments compelling. If the reader is still convinced after what I've said that they know things, then that's OK. My purpose is to teach how to win arguments and seek the truth, not to convince the reader that they don't know anything.
+I don't imagine that everybody will find these skeptical arguments compelling. If the reader is still convinced after what I've said that they know things, then that's OK. My purpose is to teach how to win arguments and seek the truth, not to persuade the reader that they don't know anything.
 
 We are left in an apparently awkward position. We have committed ourselves to a positive project of learning how to win arguments and seek the truth about any topic. However, we have just denied any ambition to acquire knowledge from arguments in this text. How can we reconcile these seemingly contradictory positions?
 
