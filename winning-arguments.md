@@ -1190,7 +1190,7 @@ Is it illusions all the way up? Perhaps. It doesn't really matter, from the pers
 
 The pursuit of philosophy, done boldly and with integrity, shatters many illusions. Behind them, I am happy to say, we find other illusions: but brighter, bigger, more open illusions.
 
-Can humans exist without illusion? Perhaps not. If we can't have knowledge, nonetheless there needs to be a fabric to our psychological lives. What else but illusion, or what we can more charitably call opinion? Perhaps humans can't avoid constructing illusions any more than spiders can avoid spinning webs; perhaps, as Nietzsche suggested in On Truth and Lies in a Non-Moral Sense, "we produce these representations in and from ourselves with the same necessity with which the spider spins." (This quote was paraphrased in [this podcast](https://www.youtube.com/watch?v=WA2-s8TJrPc&t=31s), which is how I learned about this metaphor.)
+Can humans exist without illusion? Perhaps not. If we can't have knowledge, nonetheless there needs to be a fabric to our psychological lives. What else but illusion, or what we can more charitably call opinion? Plausibly, as Nietzsche suggested in On Truth and Lies in a Non-Moral Sense, "we produce these representations in and from ourselves with the same necessity with which the spider spins." (This quote was paraphrased in [this Partially Examined Life podcast](https://www.youtube.com/watch?v=WA2-s8TJrPc&t=31s), which is how I learned about it.)
 
 To phrase the point more charitably, humans need to form opinions about the world; we make them on the basis of flawed information; and they are therefore subject to revision and update.
 
@@ -1234,8 +1234,6 @@ The concept of warranted assertion, understood in this way, takes in more than j
 Though there is no general standard of warranted assertion, there are things that should generally be in a standard of warranted assertion. There are techniques of reasoning that have been observed to work generally, across all or many problem domains. There is a simple argument for accepting the use of these techniques of reasoning to govern norms of assertion when they are applicable: namely, that it works. 
 
 In the rest of this text we are going to spend a lot of time thinking about what should generally go into our concepts of warranted assertion. What rules of logical inference should go in? What rules of probabilistic and inductive reasoning should go in? What else should go in? In each case, the questions are, how widely does it work, and where does it fail? Our goal is to build a toolkit of tools of reasoning, tools for governing norms of assertion, tools for advancing debates, which work across all or many problem domains.
-
-The case for adopting these tools is, essentially, they work. The case that they work is going to be discussed on a case by case basis. However, the goal is not to persuade the reader that they must adopt the principles of reasoning we discuss. The goal isn't persuasive at all. The goal is simply to provide information to the reader which may help them if they choose to use it.
 
 ## Meaning
 
