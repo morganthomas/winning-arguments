@@ -1146,7 +1146,7 @@ The other difficulty is that my experiences are consistent with a lot of differe
 
 My experiences are consistent with the possibility that the whole world has only existed for five minutes, and all of my older memories were implanted in me by whatever mischevious God created this universe. 
 
-My experiences are consistent with the possibility that I am the only conscious person in the world. I believe that others are conscious, but I don't see how I would know. I believe that if there is a God, then God could create elaborate holograms that are exactly like the world I experience in every way, full of totally realistic people, but in which I'm actually the only conscious person.
+My experiences are consistent with the possibility that I am the only conscious person in the world. I believe that others are conscious, but I don't see how I would know. I believe that if there is a God, then God could create elaborate holograms that are exactly like the world I experience in every way, full of totally realistic people, but in which I'm actually the only conscious person. I don't believe I know that this is not the case.
 
 Similarly, my experiences are consistent with the possibility that parts of the physical world only exist while I'm looking at them.
 
