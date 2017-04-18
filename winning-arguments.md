@@ -1132,7 +1132,7 @@ This theory of knowledge is widely believed to have been debunked by [Gettier (1
 
 My understanding of the current state of [the academic debate on what knowledge is](https://philpapers.org/browse/knowledge) is that many proposals are out there, and many proposed counterexamples to proposals are out there, but no consensus has formed around an alternative conception of how we should define knowledge. The debate is huge, extremely intricate, and, again, totally unresolved. This, in turn, makes it hard to make progress on the debate on whether humans can obtain knowledge.
 
-I don't claim to have the ability to obtain knowledge. I don't claim that nobody can obtain knowledge, but I also don't know how anybody would. This text isn't meant to break the stalemate in the debate on the fundamental questions of epistemology. I make no pretense to be able to resolve the debate, and I make no pretense to know what knowledge is, to have knowledge, or to offer the possibility of knowledge.
+I don't claim to have the ability to obtain knowledge. I don't claim that nobody can obtain knowledge, but I also don't know how anybody would. This text isn't meant to break the stalemate in the debate on whether we have knowledge. I make no pretense to be able to resolve the debate, and I make no pretense to know what knowledge is, to have knowledge, or to offer the possibility of knowledge.
 
 At this point some readers may be confused about why I am so hesitant to claim the capability of knowledge. It's worth clarifying the factors that I see as blocking me from making such a claim.
 
