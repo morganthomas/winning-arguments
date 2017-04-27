@@ -507,11 +507,11 @@ What are winning arguments? Recall we defined an "argument" to be "a series of s
 
 Based on our prior conceptual analysis of "winning," we can state that a winning argument is, in general, an argument which wins in some sense and in some context, with the context being some form of game. Typically, the game is debate. Typically, a winning argument is one that wins in debates.
 
-That tells us the "why" of winning arguments. The more interesting and more difficult question is "how." How do we construct winning arguments? The first step, and also in my opinion the hardest step, is learning how to discern between winning and non-winning arguments.
+That tells us the "why" of winning arguments. The more interesting and more difficult question is "how." How do we construct winning arguments? The first step, and also in my opinion the hardest step, is learning how to discern between winning and non-winning arguments. In other words, the meat of the problem is to answer the "what" question. That is, what are winning arguments?
 
-The "how" of constructing winning arguments is exactly what we aim to get at in this text. The text itself is concerned with theory, as opposed to the exercises, which are concerned with practice.
+The "how" of constructing winning arguments is exactly what we aim to get at in this text. The text itself is concerned with theory, as opposed to the exercises, which are concerned with practice. The text is primarily concerned with the "what" question: what are winning arguments?
 
-In the coming sections we will concern ourselves with laying groundwork for the theory of rhetoric. We will start by turning our attention to language, the very stuff of which arguments are made. To understand how to construct winning arguments, we must first understand our building material very well.
+In the coming sections we will explore the "what" question in great depth. This is us laying groundwork for the theory of rhetoric. We will start by turning our attention to language, the very stuff of which arguments are made. To understand how to construct winning arguments, we must first understand our building material very well.
 
 ## Language
 
