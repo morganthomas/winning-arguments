@@ -470,10 +470,6 @@ In a truth-seeking debate, the purpose and therefore the conditions for winning 
 
 The foregoing comments give us some idea of what it means to win debates. There are many different kinds of debates where different kinds of winning are possible, but we have at least a basic grip on that diversity at this point. Now we have fulfilled one of our first objectives in the introduction, which was to explain the phrase "winning debates."
 
-Let's now turn to the companion phrase "winning arguments." Recall we defined "argument" as "a series of statements designed to provide reason to believe some conclusion(s)." We concluded on cursory inspection that the phrase "winning arguments" means something like "persuasive arguments." Can we dig into the meaning of this phrase more deeply?
-
-A winning argument is an argument which wins. What does that mean? Basically it has to mean, the argument wins in some debates. Arguments are not useful for much besides debating. So a winning argument is an argument which a person can use to win debates. To win in a debate is to accomplish a purpose one has in a debate. Therefore, what is a winning argument for you will depend on what your purposes are. To teach ourselves to produce winning arguments, therefore, means within our nomenclature to teach ourselves to produce arguments to accomplish whatever purposes we may have in debates.
-
 Accomplishing the purpose(s) one has in a debate generally entails persuading others of a point of view, and/or exchanging ideas in a way which appears to move oneself and/or others closer to the truth. Arguments, certainly, are great not only as tools to persuade others of a pre-conceived point of view, but also and even more so as tools to explore conceptual space, acting as guides to move us forward towards the truth.
 
 Speaking practically, I would say that the following two rules are the most important rules of winning debates:
@@ -486,7 +482,7 @@ The most important rule for winning debates is to **avoid getting into debates t
 
 If you are just learning to win debates, that is basically the opposite of what you should do. If you are just learning to win debates, you would do well to be willing to get into any debate, defend any position, and not worry too much about being wrong. When you're learning to debate, just take advantage of opportunities to practice.
 
-Skilled debaters still need to practice to stay skilled. However, skilled debaters probably have a highly developed skill of playing out debates in their head, and the amount of practice they need debating with others is likely to be reduced by their ability to practice in their head. (Most people probably have debates in their head. However, inexperienced debaters probably won't be able to anticipate the arguments that would be leveled against their positions in a real debate.)
+Skilled debaters still need to practice to stay skilled. However, skilled debaters probably have a highly developed skill of playing out debates in their head, and the amount of practice they need debating with others is likely to be reduced by their ability to practice and extrapolate hypothetical debate lines in their head. (Most people probably have debates in their head. However, inexperienced debaters probably won't be able to anticipate the arguments that would be leveled against their positions in a real debate.)
 
 If you're going to debate people in a fixed-opposed-sides format, then you should make sure that your side is the one that is correct, and then you've taken the first step towards winning. If you're going to engage in a truth-seeking debate, just make sure that's also the purpose of your debate partners, and you don't need to worry about losing.
 
