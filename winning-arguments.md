@@ -517,7 +517,7 @@ In the coming sections we will explore the "what" question in great depth. This 
 
 What is language? Language involves many different things and can be analyzed from many different perspectives. The next paragraph is an example that we'll use as a point of focus for introducing language.
 
-Just before writing this sentence, I said the sentence "the dog runs." I said it out loud in my apartment. I heard myself, and as far as I know, nobody else heard me. As far as I know, my voice wasn't recorded in any medium. Anybody listening to my reading of this text will have been reading statements that were referring to the written text and not to the recording they're hearing, until they got to this sentence. Anybody who read the preceding sentence in the written text will be reading a written sentence that talks about a corresponding spoken sentence that hadn't been said as of the time of its writing.
+Just before writing this sentence, I said the sentence "the dog runs." I said it out loud in my apartment. I heard myself, and as far as I know, nobody else heard me. As far as I know, my voice wasn't recorded in any medium. Anybody listening to my reading of this text will have been hearing statements that were referring to the written text and not to the recording they're hearing, until they got to this sentence. Anybody who read the preceding sentence in the written text will be reading a written sentence that talks about a corresponding spoken sentence that hadn't been said as of the time of its writing.
 
 The preceding paragraph illustrates some interesting features of (natural) language, including that **(natural) language is multi-medial** and that **(natural) language is self-referential**.
 
