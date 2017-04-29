@@ -1520,7 +1520,7 @@ Rules of logic are about as close as we can get to universal rules for debate. F
 
 Rules of logical inference can also be called **argument forms**. The term "argument form" is somewhat more neutral in that "rule of inference" may carry the connotation "correct rule of inference" to many listeners, whereas the term "argument form" more explicitly encompasses incorrect rules of inference as well as correct ones. Again, though, both terms literally mean the same thing, as I am using them.
 
-A **case** of an argument is a set of expressions to fill in the spaces held by meta-variables in the argument form. For example, in the argument form "(**A** and **B**) entails **A**," the spaces held by meta-variables are the places marked with underscores (_) here: "(_ and _) entails _." Here are some cases of this argument form:
+A **case** of an argument form is a set of expressions to fill in the spaces held by meta-variables in the argument form. For example, in the argument form "(**A** and **B**) entails **A**," the spaces held by meta-variables are the places marked with underscores (_) here: "(_ and _) entails _." Here are some cases of this argument form:
 
 * (Spot is a dog and Spot runs) entails Spot is a dog.
 * (Barack Obama is POTUS and POTUS is male) entails Barack Obama is POTUS.
@@ -1530,7 +1530,7 @@ Here are some non-examples of cases of this argument form:
 * (Spot is a dog and Spot runs) entails Spot runs.
 * (Barack Obama is POTUS and POTUS is male) entails the sky is blue.
 
-I will call an argument form **valid** for a given person if and only if there are no **counterexamples** to the rule for that person. A counterexample to an argument form for a given person is a case where they consider the premises warranted assertible and don't consider the conclusion warranted assertible. I will only consider a counterexample to an argument form to be genuine if even after participating in thorough discussion and evidencing a good understanding of the relevant issues, the person with the counterexample still finds the premises warranted assertible and the conclusion not warranted assertible.
+I will call an argument form **valid** for a given person if and only if there are no **counterexamples** to the rule for that person. A counterexample to an argument form for a given person is a (hypothetical or real) context and a case of the argument form where they consider the premises warranted assertible and don't consider the conclusion warranted assertible. I will only consider a counterexample to an argument form to be genuine if even after participating in thorough discussion and evidencing a good understanding of the relevant issues, the person with the counterexample still finds the premises warranted assertible and the conclusion not warranted assertible.
 
 Is the rule "(**A** and **B**) entails **A**" universally valid, i.e. valid for everybody in every case? I don't think so. 
 
