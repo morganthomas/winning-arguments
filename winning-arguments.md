@@ -1293,7 +1293,7 @@ Explicit meaning and sentence meaning are not the same concept. As you can see b
 
 For the same reason, conventional literal meaning and sentence meaning are not the same concept.
 
-Are explicit meaning and conventional literal meaning the same concept? 
+Are explicit meaning and conventional literal meaning the same concept? I think so. As of yet I see no distinction.
 
 TODO
 
