@@ -1518,6 +1518,9 @@ We are basically interested in the following questions. In general, what rules o
 
 Rules of logic are about as close as we can get to universal rules for debate. For all that philosophers disagree about almost everything, there is virtually no disagreement that in any or just about any context where a statement of the form (**A** and **B**) is warranted assertible, the statement **A** is also warranted assertible. This is a very simple and self-evident rule, which might not appear to be good for much. In itself, it isn't good for much. The beauty of logic is that by chaining together long sequences of applications of simple, self-evident rules like this one, one can bring one's listeners along on a journey to a final conclusion that may be very surprising to them, that probably they would not have accepted if they hadn't been presented with such a compelling sequence of logical inferences. Logic ends up being one of the great sources of common ground in debates.
 
+Rules of logical inference can also be called **argument forms**. The term "argument form" is somewhat more neutral in that "rule of inference" may carry the connotation "correct rule of inference" to many listeners, whereas the term "argument form" more explicitly encompasses incorrect rules of inference. Again, though, both terms literally mean the same thing, as I am using them.
+
+
 
 
 
@@ -1525,6 +1528,8 @@ Rules of logic are about as close as we can get to universal rules for debate. F
 
 
 I will define that a rule of logical inference is **valid** for a given person if and only if there are no **counterexamples** to the rule for that person. A counterexample to a rule of logical inference for a given person is a case where they consider the premises warranted assertible and don't consider the conclusion warranted assertible. (This is my definition.) I will only consider a counterexample to be genuine if even after participating in thorough discussion and evidencing a good understanding of the relevant issues, the person with the counterexample still finds the premises warranted assertible and the conclusion not warranted assertible.
+
+Is the rule "(**A** and **B**) entails **A**" universally valid, i.e. valid for everybody in every case? I don't think so. 
 
 TODO
 
