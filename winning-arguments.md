@@ -957,6 +957,7 @@ It's not obviously necessary to accept any of these as genuine counterexamples t
 * "Science is reliable" can be addressed in the same way. Given context clarifying the meaning of "reliable," the statement is true or false, one can argue.
 * "Liberals are tolerant" can be addressed in the same way.
 * "The King of America is short" is not true or false, because the meaning or referent of the term "the King of America" is not clarified by the context of the world as it exists today and has existed in the past.
+* We can generalize on all the foregoing examples by saying that any statement which is sufficiently precisely interpretable in a given context is thereby either true or false in that context.
 * One can certainly maintain that the continuum hypothesis is either true or false. For example, one can be a mathematicial Platonist about sets. I.e., one can maintain that there is an objective reality of sets existing in a Platonic realm outside of space-time, and that one with perfect knowledge of this reality (e.g. God) would be able to know whether or not the continuum hypothesis was true or false by observing the universe of sets.
 
 My aim is not to say that the reader should accept these arguments as showing that the law of the excluded middle is true, but merely to show that the law of the excluded middle is remarkably defensible and can be defended against all the counterexamples I can give. The reader is encouraged to form their own opinion on whether the law of the excluded middle is true.
