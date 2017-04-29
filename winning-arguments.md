@@ -1276,8 +1276,10 @@ A model of communication that I like is the [Shannon-Weaver model of communcatio
  * The **receiver**: a person' let's say.
  * The **channel**: the medium of communication. E.g., the atmosphere.
  * The **encoder**: the technology used to create a transmission through the channel. E.g., the human vocal system.
- * The **receiver**: the technology used to receive a transmission through the channel. E.g., the human ear.
+ * The **decoder**: the technology used to receive a transmission through the channel. E.g., the human ear.
  * The **noise**: entropy which degrades transmissions through the medium. E.g., ambient background noise in the atmosphere.
+
+According to the Shannon-Weaver model, communication always involves two-way **feedback**. Feedback is a process by which the sender+encoder and receiver+decoder coordinate messages in a way that allows them to verify to their satisfaction that shared understanding is occurring.
 
 TODO
 
