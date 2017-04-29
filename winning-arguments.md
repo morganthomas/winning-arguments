@@ -1283,6 +1283,12 @@ According to the Shannon-Weaver model, communication always involves two-way **f
 
 Solving difficult communication problems often requires using new kinds of efforts to achieve communicative feedback. One simple way of achieving communicative feedback is to repeat back what somebody said to you in your own words, to verify you understand. Requests for clarification are another simple form of feedback. Body language and facial expressions also provide feedback: e.g., teachers often rely on students' facial expressions for feedback on whether they are understanding the material. One of the most complex forms of communicative feedback is the process of philosophical debate. This is a form of two-way feedback which one must sometimes employ in order to coordinate communication on deep or difficult-to-articulate problems.
 
+Here's a way we haven't yet sliced the set of meanings. Some meanings are explicit, and some are implicit. For example, suppose my boss asks me, "could you schedule a meeting to discuss X?" Explicitly, he is asking me whether I am capable of doing something. Implicitly, he is requesting that I do something. This sentence therefore has an **explicit meaning** (querying a capability) and an **implicit meaning** (requesting an action).
+
+An implicit speaker meaning we can also call an **implied meaning**. An implicit listener meaning we can also call an **inferred meaning**.
+
+What is behind this distinction between implicit and explicit meanings? What is an explicit meaning? What is an implicit meaning?
+
 TODO
 
 ## Rationality
