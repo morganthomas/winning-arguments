@@ -1287,7 +1287,7 @@ Here's a way we haven't yet sliced the set of meanings. Some meanings are explic
 
 An implicit speaker meaning we can also call an **implied meaning**. An implicit listener meaning we can also call an **inferred meaning**.
 
-What is behind this distinction between implicit and explicit meanings? What is an explicit meaning? What is an implicit meaning? And how is the concept of explicit meaning related to the concept of conventional literal meaning? Are explicit meaning and conventional literal meaning the same concept, or different concepts?
+What is behind this distinction between implicit and explicit meanings? What is an explicit meaning? What is an implicit meaning? And how is the concept of explicit meaning related to the concept of sentence meaning, or conventional literal meaning? Are explicit meaning, sentence meaning, and conventional literal meaning the same concept, or different concepts?
 
 TODO
 
