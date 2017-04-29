@@ -1530,7 +1530,7 @@ Here are some non-examples of cases of this argument form:
 * (Spot is a dog and Spot runs) entails Spot runs.
 * (Barack Obama is POTUS and POTUS is male) entails the sky is blue.
 
-I will call an argument form **valid** for a given person if and only if there are no **counterexamples** to the rule for that person. A counterexample to an argument form for a given person is a (hypothetical or real) context and a case of the argument form where they consider the premises warranted assertible and don't consider the conclusion warranted assertible. I will only consider a counterexample to an argument form to be genuine if even after participating in thorough discussion and evidencing a good understanding of the relevant issues, the person with the counterexample still finds the premises warranted assertible and the conclusion not warranted assertible.
+I will call an argument form **valid** for a given person if and only if there are no **counterexamples** to the rule for that person. A counterexample to an argument form for a given person is a (hypothetical or real) debate context and a case of the argument form where they consider the premises warranted assertible and don't consider the conclusion warranted assertible. I will only consider a counterexample to an argument form to be genuine if even after participating in thorough discussion and evidencing a good understanding of the relevant issues, the person with the counterexample still finds the premises warranted assertible and the conclusion not warranted assertible.
 
 Is the rule "(**A** and **B**) entails **A**" universally valid, i.e. valid for everybody in every case? I don't think so. 
 
