@@ -1499,7 +1499,7 @@ Let's now get into the weeds with our first important category of laws of reason
 
 A **rule of logical inference**, or **rule of inference**, is a rule which states that in any conversational context where a set of statements with given forms (**premises**) are warranted assertible, another statement (the **conclusion**) is warranted assertible. This is my definition.
 
-Let's give some examples of rules of inference for first-order logic.
+Let's give some examples of rules of inference for statements in the language of first-order logic.
 
  * (**A** and **B**) entails **A**.
  * (**A** and **B**) entails **B**.
@@ -1513,6 +1513,9 @@ The statements of each of these rules consists of: a sequence of statement forms
 Rules of logical inference can be thought of as descriptive rules, by taking them to describe regularities in people's standards of warranted assertibility. For example, in just about any conversational context, for just about any statements **A** and **B**, just about any speaker who considers (**A** and **B**) warranted assertible in that context will also consider **A** warranted assertible in that context. This is one way of interpreting the meaning of the rule of inference "(**A** and **B**) entails **A**."
 
 Rules of logical inference can also be thought of as prescriptive rules, by taking them as defining norms of assertion. For example, the rule of inference "(**A** and **B**) entails **A**" can be taken to be the normative rule that in any context, for any statements **A** and **B** which are interpretable in that context, if a speaker considers (**A** and **B**) to be warranted assertible in that context, then they should also consider **A** to be warranted assertible in that context.
+
+
+
 
 
 
