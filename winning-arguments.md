@@ -1129,7 +1129,7 @@ That brings us to epistemology. "Epistemology," in mainstream philosophical usag
 
 The approximately 2,500 year history of the field of epistemology (as known to us through the historical record) is colored throughout by a dichotomy between long-standing pessimism about the possibility of humans acquiring knowledge on the one hand, and on the other hand the over-optimistic intellectual arrogance manifested in philosophical project after philosophical project by generation after generation, who purported again and again to finally deliver the human species into knowledge.
 
-What is knowledge? One long-standing, once-popular theory goes back to Socrates in the *Theaetetus*. This theory states that knowledge is justified true belief. In other words, for all statements **A**, I know **A** if and only if **A** is true, I believe **A**, and my belief in **A** is justified.
+What is knowledge? One long-standing, once-popular theory goes back to Plato's Socrates, in the *Theaetetus*. This theory states that knowledge is justified true belief. In other words, for all statements **A**, I know **A** if and only if **A** is true, I believe **A**, and my belief in **A** is justified.
 
 This theory of knowledge is widely believed to have been debunked by [Gettier (1963)](https://academic.oup.com/analysis/article-abstract/23/6/121/109949/Is-Justified-True-Belief-Knowledge?redirectedFrom=fulltext). Quoting [Wikipedia](https://en.wikipedia.org/wiki/Epistemology#Gettier_problem):
 
