@@ -1495,7 +1495,11 @@ Let's now get into the weeds with our first important category of laws of reason
 
 ## Logic
 
+**Logic** is a field of study where the primary topic is valid rules of logical inference. Let's unpack that.
 
+A **rule of logical inference**, or **rule of inference**, is a rule which states that in any conversational context where a set of statements with given forms are warranted assertible, another statement is warranted assertible. This is my definition.
+
+TODO
 
 ## Fallacies
 
