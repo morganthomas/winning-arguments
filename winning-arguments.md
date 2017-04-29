@@ -1110,6 +1110,13 @@ I think most people base their norms of assertion on values apart from and in ad
 
 Is it true, then, as we ventured, that often the values undergirding a person's value of truth, and the values undergirding the norms of assertion they consider correct, coincide? We've concluded that typically they come apart to at least a small degree; any individuals who are exceptions to that rule are unusual.
 
+From a Horwichian minimalist perspective, there is some difficulty in seeing how these two can come apart, since Horwichian minimalism does not allow for much space between truth and assertibility. Horwichian minimalism certainly does not say that there can't be true things we can't say in a given context. It merely entails that in any context where you could appropriately assert a statement **A**, you could also appropriately assert the statement "**A** is true," and vice versa.
+
+What does it mean, though, for a statement to be true and not appropriately assertible in a given context, under Horwichian minimalism? I would explain this as follows. Suppose that I consider the statement **A** to be true, but I don't consider it appropriate to assert **A** in any context in my life. In the context of my internal dialogue, the conversation I am continually having with myself in my head, the statement **A** is appropriate to "assert." In all interpersonal conversational contexts that I happen to encounter, though, **A** is not appropriate to assert.
+
+
+
+
 We can perhaps place people on a spectrum, with people on one end who base their norms of assertion little or not at all on their value of truth, and people on the other end who base their norms of assertion entirely or almost so on their value of truth. We can call the people on the former end "insincere," and the people on the latter end "sincere." Sincere people believe what they assert is true, at the time they assert it; insincere people don't necessarily. Sincere people believe what they deny is false, at the time they assert it; insincere people don't necessarily.
 
 Sincere people can exhibit a wide variety of different beliefs, behavior, and styles of conversation and debate. I think radical fanatics, for example, are usually sincere. Sincerity is certainly not a sufficient condition for goodness.
