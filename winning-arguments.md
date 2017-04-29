@@ -1508,7 +1508,7 @@ Let's give some examples of rules of inference for statements in the language of
  * **B** entails (**A** or **B**).
  * (if **A** then **B**), **A** entails **B**.
 
-The statements of each of these rules consists of: a sequence of statement forms, the word "entails," and a single statement form at the end. By a "statement form," I mean a first-order logic statement with meta-variables (**A** and **B** in these examples) holding the place of some parts of the statement.
+The statement of each of these rules consists of: a sequence of statement forms, the word "entails," and a single statement form at the end. By a "statement form," I mean a first-order logic statement with meta-variables (**A** and **B** in these examples) holding the place of some parts of the statement.
 
 Rules of logical inference can be thought of as descriptive rules, by taking them to describe regularities in people's standards of warranted assertibility. For example, in just about any conversational context, for just about any statements **A** and **B**, just about any speaker who considers (**A** and **B**) warranted assertible in that context will also consider **A** warranted assertible in that context. This is one way of interpreting the meaning of the rule of inference "(**A** and **B**) entails **A**."
 
