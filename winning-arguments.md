@@ -1289,6 +1289,12 @@ An implicit speaker meaning we can also call an **implied meaning**. An implicit
 
 What is behind this distinction between implicit and explicit meanings? What is an explicit meaning? What is an implicit meaning? And how is the concept of explicit meaning related to the concept of sentence meaning, or conventional literal meaning? Are explicit meaning, sentence meaning, and conventional literal meaning all the same concept by different names, or are they different concepts?
 
+Explicit meaning and sentence meaning are not the same concept. As you can see by inspecting the name, sentence meaning is a concept that applies only to the meanings of sentences. On the other hand, any piece of language can have an explicit meaning (including paragraphs, words, etc.). 
+
+Explicit meaning and conventional literal meaning are not the same concept. Explicit meanings need not be conventional. For example, an explicit meaning conveyed using jargon terms is not a conventional literal meaning.
+
+Sentence meaning and conventional literal meaning are not the same concept, because sentence meaning applies only to sentences and conventional literal meaning applies to any piece of language.
+
 TODO
 
 ## Rationality
