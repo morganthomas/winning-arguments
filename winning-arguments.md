@@ -1295,7 +1295,7 @@ For the same reason, conventional literal meaning and sentence meaning are not t
 
 Are explicit meaning and conventional literal meaning the same concept? I think so. As of yet I see no distinction. The concept of explicit/conventional literal meaning is, to recall, a fuzzy concept which apparently won't ever practically be fully detailed or fully well defined.
 
-That ends our textual exploration of meaning in this text. In the phenomenological theory of meaning which I endorse, the primary way of studying meaning is introspectively, studying the range of experiences that are possible to one's mind and understanding how experiences correlate to language in oneself and others. This is mostly a solitary pursuit, in my view, because of the impossibility of finding experiences of meaning outside one's own consciousness, and the difficulty of talking about the fine shadings and qualities of experience. I will always talk about this stuff as much as I can figure out how.
+That brings our textual exploration of meaning in this text to a close. In the phenomenological theory of meaning which I endorse, the primary way of studying meaning is introspectively, studying the range of experiences that are possible to one's mind and understanding how experiences correlate to language in oneself and others. This is mostly a solitary pursuit, in my view, because of the impossibility of finding experiences of meaning outside one's own consciousness, and the difficulty of talking about the fine shadings and qualities of experience. I will always talk about this stuff as much as I can figure out how.
 
 ## Rationality
 
