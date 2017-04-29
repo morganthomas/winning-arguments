@@ -777,7 +777,7 @@ We will take the latter approach in this text. Specifically, we will consider a 
 
 The approach of requiring contexts to define the denotations of all object terms is mathematically convenient because it entails that every statement is interpretable in every context. However, the assumption that every term is defined in every context is unrealistic. In reality, statements are uninterpretable when they contain context-sensitive object terms whose denotations are not clarified by the context.
 
-We will not attempt to further formalize this explanation of the meaning of the statements of first-order logic at this time. At this point it's hoped that the reader understands the meaning of statements of first-order logic in an informal way which enables them to read such statements. There are many intricacies to explore regarding the meanings of statements of first-order logic, but we will defer this discussion for the sections on Truth and Reasons.
+We will not attempt to further formalize this explanation of the meaning of the statements of first-order logic at this time. At this point it's hoped that the reader understands the meaning of statements of first-order logic in an informal way which enables them to read such statements. There are many intricacies to explore regarding the meanings of statements of first-order logic, but we will defer this discussion for later seciotns.
 
 TODO: Exercises
 
