@@ -63,7 +63,7 @@ Descriptive conceptual analysis is useful for uncovering the many layers of mean
 
 ## Introduction: arguments and debates
 
-Winning arguments is what we aim to show how to do in this text. We will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
+Winning arguments is what I aim to show how to do in this text. I will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
 
 First, "winning arguments" can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
 
@@ -75,13 +75,13 @@ The first item of importance is the distinction between two senses of the word "
 
 Arguments in the first sense of the word are debates. By "debates," I mean exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about or are uncertain about.
 
-Arguments in the second sense of the term are series of statements designed to provide reason to believe some conclusion(s). Henceforth, in this text we will consistently use the term "argument" to refer to arguments in this second sense, and we will use the term "debate" in order to retire the first sense of the term "argument."
+Arguments in the second sense of the term are series of statements designed to provide reason to believe some conclusion(s). Henceforth, in this text I will consistently use the term "argument" to refer to arguments in this second sense, and I will use the term "debate" in order to retire the first sense of the term "argument."
 
 Here is an example of an argument:
 
 **(Question Science)** You shouldn't uncritically accept the conclusions of all scientific studies you come across. [Ioannidis (2005)](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) is a scientific study which claims that most published research findings are false. If you should uncritically accept the conclusions of all scientific studies you come across, then you should accept Ioannidis (2005). But if you uncritically accept Ioannidis (2005), then you accept that most scientific studies draw false conclusions. That means you shouldn't uncritically accept the conclusions of all scientific studies you come across, because if you do, you can expect to be adopting a lot of false beliefs.
 
-Let's analyze this argument, which we will refer to as Question Science. Question Science seeks to prove that you should not uncritically accept the conclusions of all scientific studies you come across. It proceeds by assuming for the sake of argument the opposite of what it seeks to prove, and deriving an absurd result. It assumes for the sake of argument that we should uncritically accept the conclusions of all scientific studies we come across, and ends by deriving the absurd conclusion that you should do something which will lead to you adopting a lot of false beliefs.
+Let's analyze this argument, which I will refer to as Question Science. Question Science seeks to prove that you should not uncritically accept the conclusions of all scientific studies you come across. It proceeds by assuming for the sake of argument the opposite of what it seeks to prove, and deriving an absurd result. It assumes for the sake of argument that we should uncritically accept the conclusions of all scientific studies we come across, and ends by deriving the absurd conclusion that you should do something which will lead to you adopting a lot of false beliefs.
 
 Let's step through the argument. We begin with the assumption for the sake of argument that you should uncritically accept all scientific studies you come across. The next move is based on the observation that if somebody thinks that way, you can make them believe anything that's said in a published scientific paper. The next move is to point out a paper, Ioannidis (2005), which will make us believe, under our sake-of-argument assumption, that most scientific studies conclude things that are false. This tells us that the thing we assumed we should do will lead us to hold many false beliefs. With the further assumption that we should not uncritically accept information that's likely to be false, we can refute the statement that we started out by assuming. In other words we can conclude that we should not uncritically accept the conclusions of all scientific studies we come across.
 
@@ -143,7 +143,7 @@ What is a game? Let's try to make a start on this question by identifying some t
 
 Popular and typical examples of games include soccer, chess, poker, dice, solitaire, World of Warcraft, and slot machines. Childrens' games include [peekaboo](https://en.wikipedia.org/wiki/Peekaboo), [tag](https://en.wikipedia.org/wiki/Tag_(game)), [ring around the rosie](https://en.wikipedia.org/wiki/Ring_a_Ring_o'_Roses), and two people sitting on the ground and rolling a ball back and forth between each other. Unusual examples of games include [war games](https://en.wikipedia.org/wiki/Military_exercise), the [Olympic Games](https://en.wikipedia.org/wiki/Olympic_Games), [Roman gladiatorial combat](https://en.wikipedia.org/wiki/Gladiator), TV game or reality shows such as [The Celebrity Apprentice](https://en.wikipedia.org/wiki/The_Celebrity_Apprentice), [Chopped](https://en.wikipedia.org/wiki/Chopped_(TV_series)#Format), and [Lost](https://en.wikipedia.org/wiki/Lost_(game_show)), and abstract theoretical games like the [prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma) which are studied in [game theory](https://en.wikipedia.org/wiki/Game_theory). There's a whole category of more analogical usages of "game," such as the game of life, the game of capitalism, the game of courtship and romantic love, and the game of war.
 
-From this list we can immediately state some generalizations that are not true about all games. Not all games are frivolous in purpose; some, such as war games, are serious in purpose. Even games that are superficially frivolous in purpose can be games where you're competing for your own life, as shown by the example of Roman gladiatorial combat. Non-lethal games can involve considerable stakes of money and glory, as exemplified in professional poker and in the Olympic Games.
+By inspecting this list we can immediately state some generalizations that are not true about all games. Not all games are frivolous in purpose; some, such as war games, are serious in purpose. Even games that are superficially frivolous in purpose can be games where you're competing for your own life, as shown by the example of Roman gladiatorial combat. Non-lethal games can involve considerable stakes of money and glory, as exemplified in professional poker and in the Olympic Games.
 
 Roman gladiatorial combat was a game played to entertain people. In that sense it was frivolous in purpose. But, it was gruesome, violent, lethal, and expensive, so presumably there was some significant reason people went to the trouble and difficulty of putting on the games.
 
@@ -163,7 +163,7 @@ This is not a psychology text, and we won't try to answer the question of in wha
 
 Given our limited access to our own minds, and our near lack of access to others' minds, it's clear why probably in most cases it's unclear to all or almost all observers of a game what all of the implicit purposes of the game are.
 
-Let's now switch gears and poke at one of the more dubious examples we gave of a game, to see what we can learn about games in the process.
+Let's now switch gears and poke at one of the more dubious examples I gave of a game, to see what we can learn about games in the process.
 
 TODO: Explain prisoner's dilemma and address whether it's a game
 
@@ -200,7 +200,7 @@ The foregoing illustrates that there is a great deal of complexity and inconsist
 
 So far as our discussion has led us to be able to see, the generalization is true that **games and gamelike activities follow rules**. If there are exceptions to this generalization, they seem to be obscure.
 
-The nature of rules is well worth exploring in more depth. However, for the moment we will delay that discussion. Let us now explore other possible generalizations about games.
+The nature of rules is well worth exploring in more depth. However, for the moment I will delay that discussion. Let us now explore other possible generalizations about games.
 
 **Are games always competitive?** The answer appears to be **no**. For some childrens' games, such as [peekaboo](https://en.wikipedia.org/wiki/Peekaboo) and [ring around the rosie](https://en.wikipedia.org/wiki/Ring_a_Ring_o'_Roses), it's difficult to see any sense in which they are competitive. However, most games are competitive in some sense. Even solitary games usually involve self-competition, trying to learn and do better.
 
@@ -225,7 +225,7 @@ What can we say overall about the meaning of the word "game?" On this, let's quo
 
 ## Rules and laws
 
-We have previously concluded that games always have rules. However, we have not discussed at any length what rules are. Understanding rules is quite central to understanding games, and to understanding the principles of winning arguments. To understand rules, it is also helpful to compare the meaning of the word "rule" with the meaning of the word "law." Since the terms are close in meaning, comparing and contrasting the meanings of the terms is informative about both. Therefore we will embark on a unified analysis of rules and laws.
+I have previously concluded that games always have rules. However, we have not discussed at any length what rules are. Understanding rules is quite central to understanding games, and to understanding the principles of winning arguments. To understand rules, it is also helpful to compare the meaning of the word "rule" with the meaning of the word "law." Since the terms are close in meaning, comparing and contrasting the meanings of the terms is informative about both. Therefore we will embark on a unified analysis of rules and laws.
 
 There are many different laws and sets of laws of varying kinds, degrees, and scopes of importance and validity. Examples of laws (or at any rate things that people call laws) include: the [laws and regulations](https://en.wikipedia.org/wiki/Primary_and_secondary_legislation) of each [state](https://en.wikipedia.org/wiki/State_(polity)), [region](https://en.wikipedia.org/wiki/Administrative_division), [municipality](https://en.wikipedia.org/wiki/Municipality), and so forth; religious systems of law such as [sharia law](https://en.wikipedia.org/wiki/Sharia), the [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments) and [Talmudic law](https://en.wikipedia.org/wiki/Orthodox_Judaism); the laws of [physics](https://en.wikipedia.org/wiki/Physics), [chemistry](https://en.wikipedia.org/wiki/Chemistry), [biology](https://en.wikipedia.org/wiki/Biology), [statistics](https://en.wikipedia.org/wiki/Statistics), [logic](https://en.wikipedia.org/wiki/Logic), and [mathematics](https://en.wikipedia.org/wiki/Mathematics), and other fields of study which have produced laws; satirical laws like [Murphy's law](https://en.wikipedia.org/wiki/Murphy's_law) and [Godwin's law](https://en.wikipedia.org/wiki/Godwin's_law); sociological laws like [Duverger's law](https://en.wikipedia.org/wiki/Duverger's_law); mystical laws like the [law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)) and the [Law of One](http://www.lawofone.info/synopsis.php); and so forth. 
 
@@ -252,7 +252,7 @@ The similarity in meaning between "rule" and "law" is so great that one hypothes
 
 One objection to the view that "rule" and "law" are essentially the same concept is as follows. All things we habitually call rules seem to be made by humans. A qualifier to this is that rules can also be made by the creations of humans, as when computer programs generate rules for other programs to follow. Rules govern humans and the operations of the creations of humans. Laws, on the other hand, according to the objection, are not always created by humans, and sometimes they govern nature rather than humans or the creations of humans. If one accepts the foregoing, then one will acknowledge a substantive distinction between rules and laws.
 
-For the sake of clear nomenclature, we will use the term "natural law" to refer to laws which are not created by humans. By definition, then, natural laws include any laws created by God, if God exists. I am not assuming that any natural laws exist, but we have a word for any that do exist (as well as any that don't exist).
+For the sake of clear nomenclature, I will use the term "natural law" to refer to laws which are not created by humans. By definition, then, natural laws include any laws created by God, if God exists. I am not assuming that any natural laws exist, but we have a word for any that do exist (as well as any that don't exist).
 
 The nature and extent of the difference in meaning between "rule" and "law" is, at the end of the day, a question of opinion. The subtleties of the distinction are interesting. What's perhaps more interesting, though, is looking more into the basic meanings of the terms "rule" and "law." 
 
@@ -293,13 +293,13 @@ Here is an additional reason to doubt statement 2w. As Kant has argued in the *C
 
 Statement 2w is in doubt on multiple fronts, and probably many are not willing to assume it's true. Hence, we should not assume statement 2t makes sense. Hence, we should not follow it as a terminological rule. In other words, we should not understand the phrase "the laws of Newtonian physics" to refer to objective laws of nature correlating to the laws of Newtonian physics as described by humans.
 
-Instead, in this text we will use the phrase "the laws of Newtonian physics" to refer to said human-constructed descriptions, or to the ideas those descriptions denote.
+Instead, in this text I will use the phrase "the laws of Newtonian physics" to refer to said human-constructed descriptions, or to the ideas those descriptions denote.
 
 The same problem we have encountered with Newtonian physics occurs with other phrases that refer either to laws or nature or to human-constructed descriptions of supposed laws of nature. Examples of phrases presenting this problem include "the laws of general relativity," "the laws of quantum mechanics," "the laws of chemistry," "the laws of biology," etc. In all such cases, in this text we shall interpret the phrases as referring to human constructed descriptions of laws, or to the ideas expressed by those descriptions, and not to objective laws of nature. This is, as with the case of the laws of Newtonian physics, not an attempt to say that there aren't corresponding objective laws of nature (though many of the same difficulties with asserting positively the existence of such laws present themselves in other cases as well). It's simply a terminological choice driven by the desire not to take a position on what objective laws of nature exist.
 
 This terminological choice collapses a substantive distinction in meaning we've seen between the terms "rule" and "law," namely that "law" can refer to laws of nature whereas "rule" seems to refer to the rules of humans. Under our sharpened terminology, the natural laws we know (the laws of physics, chemistry, etc.) are just a kind of rule. For example, the laws of Newtonian physics are the rules of the game of Newtonian physics. Newtonian physics is a gamelike activity that humans practice in order to build bridges, go to the moon, etc. Similarly for the rest of natural science.
 
-Do any distinctions in meaning remain for us between "rule" and "law?" Let's consider the case of the laws of legal systems of nations, states, municipalities, etc., or "legal laws" as we shall say. Are legal laws rules? It seems natural to say so. By our principles, that means that legal laws are rules that apply in the context of some game or gamelike activity. The contexts that the laws of a legal system apply to are all situations in the jurisdiction of the legal system about which laws have been made in the given legal system.
+Do any distinctions in meaning remain for us between "rule" and "law?" Let's consider the case of the laws of legal systems of nations, states, municipalities, etc., or "legal laws" as I shall say. Are legal laws rules? It seems natural to say so. By our principles, that means that legal laws are rules that apply in the context of some game or gamelike activity. The contexts that the laws of a legal system apply to are all situations in the jurisdiction of the legal system about which laws have been made in the given legal system.
 
 In what ways are situations to which legal laws apply like games, and in what ways are they unlike games? Situations to which legal laws apply are always like games in the respect that in them one is required to follow rules. Since laws can be made about anything, situations about which there are legal laws can be arbitrarily non-gamelike. Let's ask, then, about the gamelike and non-gamelike characteristics of typical situations about which there are legal laws.
 
@@ -311,9 +311,9 @@ The following suggests itself: non-violence is part of the rules we follow in th
 
 We can immediately generalize this answer as follows. Legal laws are among the rules of the social game that the members of a society play in order to constitute that society.
 
-Thus far we have gotten rid of two distinctions between laws and rules. We have terminologically separated objective laws of nature out of usages of the term "law" in its unqualified usage. We have also categorized legal laws as rules (of the social games that members of a society play in order to constitute that society). Aside from the qualifier that objective laws of nature are obviously laws in some sense, can we draw any distinction between laws and rules within the terminological framework we have set up? It seems not; within our terminological framework, laws (in the unqualified sense) seem to be a type of rules in every case.
+Thus far I have gotten rid of two distinctions between laws and rules. I have terminologically separated objective laws of nature out of usages of the term "law" in its unqualified usage. I have also categorized legal laws as rules (of the social games that members of a society play in order to constitute that society). Aside from the qualifier that objective laws of nature are obviously laws in some sense, can we draw any distinction between laws and rules within the terminological framework I have set up? It seems not; within this terminological framework, laws (in the unqualified sense) seem to be a type of rules in every case.
 
-It still feels odd to speak of the "laws of chess." At the point we've arrived at, we have no substantive distinction between rules and laws, but there is still a distinction of habitual application of the two terms to different things. The laws of Newtonian physics are rules we are happy to call laws. The rules of chess, not so much. In general, we seem to apply the term "law" to rules that cover a larger jurisdiction than other rules.
+It still feels odd to speak of the "laws of chess." In the terminological framework we've arrived at, we have no substantive distinction between rules and laws, but there is still a distinction of habitual application of the two terms to different things. The laws of Newtonian physics are rules we are generally happy to call laws. The rules of chess, not so much. In general, we seem to apply the term "law" to rules that cover a larger jurisdiction than other rules.
 
 Let's summarize what we've said about rules up to this point. Rules are defined and established by humans. Pretty much anything can follow rules. Games have rules, and rules occur in the context of games and gamelike activities. There is no substantive difference in meaning between "rule" and "law," understanding the unqualified term "law" to exclude laws of nature (but to include human-constructed descriptions thereof). Laws are a kind of rule, but the term "law" isn't applied to all rules, but only to certain rules whose jurisdictions are particularly wide.
 
@@ -344,7 +344,7 @@ All laws bind us and/or the world, in some sense and at least in some cases. The
 * The laws of governments are binding in the sense (and to the extent) that they can be enforced and offenses are punishable. Many consider the laws of governments to be binding in a moral sense in many cases. It seems to be a consensus among the people I speak to that laws of governments are not always binding in a moral sense, but I imagine this perspective is not shared by the whole world. For example, many Islamists undoubtedly would agree that sharia law is binding in a moral sense.
 * Many believe in many cases that international law is binding on states in a moral sense. International law is binding in another sense (and to the extent) that it is enforceable and offenses are punishable, which varies widely from case to case.
 
-I can't think of any counterexamples to the generalization that all laws are binding, to something in some sense in some cases. This, then, is one truism about laws which we will accept: all laws are binding.
+I can't think of any counterexamples to the generalization that all laws are binding, to something in some sense in some cases. This, then, is one truism about laws which I will accept: all laws are binding.
 
 TODO: Generalize to rules?
 
@@ -368,7 +368,7 @@ TODO
 
 ## Winning
 
-Let's return to a question we asked a ways back. What is winning? Earlier we asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
+Let's return to a question I asked a ways back. What is winning? Earlier I asked whether winning always happens to people in the context of some game. If true, this would be an interesting generalization that would let us apply the philosophy of games to understanding winning.
 
 What seems to be the case is that **winning always occurs in the context of some game or gamelike activity**. "Game or gamelike activity" is, as we have seen, a very broad category, taking in things as disparate as soccer, capitalism, and life. For that reason, it's not a very strong claim to say that winning always occurs in the context of some game or gamelike activity. We'll assume this generalization going forward.
 
@@ -376,15 +376,15 @@ What is winning? Winning is some kind of condition which a player of a game, or 
 
 Consider, again, winning at life. Whether somebody is winning at life can only be said relative to some frame of evaluation.
 
-For example, consider a person who amassed great wealth through ethically dubious yet legal means. From a straightforwardly capitalist point of view, we might say they were winning at life, because they are amassing wealth in the free market. From a Christian point of view, we might say they were not winning at life. This Christian judgment can be based on the belief that life is a game where the object is to seek the way of Christ, which the wealthy person in our example is not doing. These two frames of evaluation, capitalism and Christianity, provide two very different perspectives on whether the person of the example is winning at life.
+For example, consider a person who amassed great wealth through ethically dubious yet legal means. From a straightforwardly capitalist point of view, one might say they were winning at life, because they are amassing wealth in the free market. From a Christian point of view, one might say they were not winning at life. This Christian judgment can be based on the belief that life is a game where the object is to seek the way of Christ, which the wealthy person in our example is not doing. These two frames of evaluation, capitalism and Christianity, provide two very different perspectives on whether the person of the example is winning at life.
 
 Consider, as a further example, somebody who lived an impoverised life in a rural region of the world where they farmed, gained religious education, gained training as a warrior, and died young in combat. From some frames of evaluation, one could say this person had an underprivileged and ultimately oppressed life where their future as an individual was subjugated to the nonsensical needs of a national war machine. From some other frames of evaluation, one could say that this person led a virtuous and spiritual life which culminated in the honor of dying in a fight for that which is sacred. Again, each of these narratives provides very different conclusions as to whether this person is winning at life.
 
-For any life you can describe, you can imagine multiple frames of evaluation which provide different conclusions about whether the liver of that life was winning. This is to say that facts alone are not sufficient to determine a judgment of winning at life or not winning at life. One also needs some additional ingredient, what we are generically calling a "frame of evaluation."
+For any life you can describe, you can imagine multiple frames of evaluation which provide different conclusions about whether the liver of that life was winning. This is to say that facts alone are not sufficient to determine a judgment of winning at life or not winning at life. One also needs some additional ingredient, what I am generically calling a "frame of evaluation."
 
 Winning at life, in this respect, is unlike winning at most games, in that fair observers will frequently disagree about whether somebody is winning at life, whereas for most games, fair observers will almost always agree about who the winner of the game is and whether there is a winner. This disanalogy is an interesting conceptual disconnect that seems worth working out, to see what can be learned.
 
-The disanalogy reminds us of a question we asked a ways back and still haven't answered: is (human) life a game? 
+The disanalogy reminds us of a question I asked a ways back and still haven't answered: is (human) life a game? 
 
 Life is like a game in some ways. In life one must follow rules. In life there is winning and losing. Life is unlike typical games in that there is no privileged, official frame of evaluation for judging winning and losing at life.
 
@@ -414,7 +414,7 @@ We can think of many examples of implicit winning. One is playing chess with a p
 
 ## Winning debates
 
-Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates. We are back where we were at the start of the Introduction, at our attempt to explain the meaning of the title, Winning Arguments.
+Having analyzed the concept of winning, we can now shed more light on the concepts of winning arguments and winning debates. We are back where we were at the start of the Introduction, at my attempt to explain the meaning of the title, Winning Arguments.
 
 In the first three paragraphs of the Introduction, we distinguished between two senses of "winning arguments," corresponding to two senses of "argument," i.e. "argument" in the sense of "debate," and "argument" in the sense of "a series of statements designed to provide reason to believe some conclusion(s)." We refer to the former as debates and the latter as arguments.
 
@@ -422,15 +422,15 @@ Thus, we have two concepts stated by the title, both of which we need to analyze
 
 Let's start by digging deeper into the concept of winning debates. The phrase "winning debates" presupposes that debates are a kind of game or gamelike activity. Are they? Well, are debates like games? Let's ask some more questions that shed light on that.
 
-Recall we defined debates to be "exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about or are uncertain about."
+Recall I defined debates to be "exchanges of communication where participants discuss with each other the merits and demerits of some claims that they are mutually interested in and believe themselves to disagree about or are uncertain about."
 
 Are debates competitive? Typically so, as participants compete to persuade other participants of their point of view. Are debates cooperative? Yes, in the sense that to engage in a coherent debate, participants need to understand each others' statements and respond with relevant, appropriate statements.
 
-Do debates follow rules? As we have noted before, participants in a debate are usually free to say whatever they want. As such there are no descriptive rules (about the speech of participants) that all debates can be observed to follow. Similarly, there is no rulemaking authority with the power to enforce prescriptive rules applying to all debates. In short, there are no rules that all debates follow. Nor do we have any reason to expect in the future that there will be such rules.
+Do debates follow rules? As I have noted before, participants in a debate are usually free to say whatever they want. As such there are no descriptive rules (about the speech of participants) that all debates can be observed to follow. Similarly, there is no rulemaking authority with the power to enforce prescriptive rules applying to all debates. In short, there are no rules that all debates follow. Nor do I have any reason to expect in the future that there will be such rules.
 
-Debates can, however, be observed to follow rules. For example, the speech within debates generally follows rules of grammar and so forth. Other rules of interest applying to debates include rules of logic, rules of politeness and common decency, and other norms governing linguistic communication, such as [Grice's conversational maxims](https://www.sas.upenn.edu/~haroldfs/dravling/grice.html). As we have already observed, none of these rules are always followed in debates. However, they are often followed. Perhaps more interestingly, following these rules, along with various other widely accepted rules of language use and debate, tends to help one win debates. Why this is the case, and what it means to win debates, are questions that we haven't fully addressed, either in this text or as a species. 
+Debates can, however, be observed to follow rules. For example, the speech within debates generally follows rules of grammar and so forth. Other rules of interest applying to debates include rules of logic, rules of politeness and common decency, and other norms governing linguistic communication, such as [Grice's conversational maxims](https://www.sas.upenn.edu/~haroldfs/dravling/grice.html). As I have already observed, none of these rules are always followed in debates. However, they are often followed. Perhaps more interestingly, following these rules, along with various other widely accepted rules of language use and debate, tends to help one win debates. Why this is the case, and what it means to win debates, are questions that we haven't fully addressed, either in this text or as a species. 
 
-Debates are evidently fairly gamelike. This renders palatable the usage of the phrase "winning debates." What is it to win a debate? We have said that to win is to achieve a purpose one has in a game or gamelike activity. Therefore, one can be said to win a debate if one achieves a purpose one has in it.
+Debates are evidently fairly gamelike. This renders palatable the usage of the phrase "winning debates." What is it to win a debate? I have said that to win is to achieve a purpose one has in a game or gamelike activity. Therefore, one can be said to win a debate if one achieves a purpose one has in it.
 
 People can have many different purposes in a debate. Here are some examples of purposes that people can have in speaking in debates:
 
@@ -468,7 +468,7 @@ These two structures have substantially different conditions for winning, becaus
 
 In a truth-seeking debate, the purpose and therefore the conditions for winning are quite different. The purpose is not to establish dominance of one position over another. Usually, the purpose is to arrive at a consensus that a certain position represents the truth on the topic of interest. If every participant's principal purpose was to reach such consensus, then when consensus is achieved, we can say that everybody has won, because everybody has achieved their principal purpose. On the other hand, if consensus is not reached, then we would probably say nobody has won, because nobody has achieved their principal purpose. In short, the goal of a truth-seeking debate is consensus rather than dominance, and in a truth-seeking debate everybody wins or doesn't win together, rather than one side winning and another losing.
 
-The foregoing comments give us some idea of what it means to win debates. There are many different kinds of debates where different kinds of winning are possible, but we have at least a basic grip on that diversity at this point. Now we have fulfilled one of our first objectives in the introduction, which was to explain the phrase "winning debates."
+The foregoing comments give us some idea of what it means to win debates. There are many different kinds of debates where different kinds of winning are possible, but we have at least a basic grip on that diversity at this point. Now we have fulfilled one of the first objectives I set in the introduction, which was to explain the phrase "winning debates."
 
 Accomplishing the purpose(s) one has in a debate generally entails persuading others of a point of view, and/or exchanging ideas in a way which appears to move oneself and/or others closer to the truth. Arguments, certainly, are great not only as tools to persuade others of a pre-conceived point of view, but also and even more so as tools to explore conceptual space, acting as guides to move us forward towards the truth.
 
@@ -503,7 +503,7 @@ We are usually overconfident that our current views are correct. When we notice 
 
 ## Winning arguments
 
-What are winning arguments? Recall we defined an "argument" to be "a series of statements designed to provide reason to believe some conclusion(s)." We presumed that a winning argument is something like a persuasive argument.
+What are winning arguments? Recall I defined an "argument" to be "a series of statements designed to provide reason to believe some conclusion(s)." I presumed that a winning argument is something like a persuasive argument.
 
 Based on our prior conceptual analysis of "winning," we can state that a winning argument is, in general, an argument which wins in some sense and in some context, with the context being some form of game. Typically, the game is debate. Typically, a winning argument is one that wins in debates.
 
@@ -556,7 +556,7 @@ This solution to the puzzle leaves us with a new puzzle: what is the sentence 't
 
 Another possible way of answering the puzzle is to deny that there is any object which we can literally call "the sentence 'the dog runs.'" The structure of English grammar certainly suggests that there is an object we can call "the sentence 'the dog runs,'" since "the sentence 'the dog runs'" is a noun phrase which can be used to construct infinitely many meaningful statements about this sentence. As such, this way of answering leaves me (and philosophers galore) rather confused about the meaning of phrases like "the sentence 'the dog runs;'" however, that doesn't make this way of answering wrong, and I'm not saying this way of answering is wrong.
 
-This puzzle is one of a variety of logical puzzles that have to do with language's self-referential capabilities. One we will discuss at more length later is the liar paradox. This is the puzzle concerning the sentence "this sentence is false." Is the sentence true or false? You can reason that if it's true, then it's false, and if it's false, then it's true. The paradoxes of self-referencing language are hard. We will talk about them at greater length in the section titled Paradoxes.
+This puzzle is one of a variety of logical puzzles that have to do with language's self-referential capabilities. One we will discuss at more length later is the liar paradox. This is the puzzle concerning the sentence "this sentence is false." Is the sentence true or false? You can reason that if it's true, then it's false, and if it's false, then it's true. The paradoxes of self-referencing language are hard. I will talk about them at greater length in the section titled Paradoxes.
 
 Let us therefore turn back to unpacking the notion of language. Consider again the sentence "the dog runs."
 
@@ -586,7 +586,7 @@ The (arguable) inscrutability of psychology infects all attempts to study lingui
 
 One prominent philosopher who advanced a non-psychological theory of linguistic meaning early in his career was Ludwig Wittgenstein. In his book the *Tractatus Logico-Philosophicus*, he gives a theory of meaning according to which language can be thought of as making pictures of the world, which could be expressed in a mathematically perfect logical language that is in some sense [isomorphic](https://en.wikipedia.org/wiki/Isomorphism) to the world. Apologies to the late Wittgenstein if I have misrepresented his view. The *Tractatus* gives a theory of linguistic meaning which entirely removes the subjects, the speakers and the listeners, from the issue, making meaning a relationship between language and the world, rather than a relationship between language and a subject. Later in his career, Wittgenstein repudiated this style of philosophy of language. His later studies of language, as represented in his *Philosophical Investigations*, evidence an appreciation for the importance of people, speakers and listeners, in the study of language and meaning. Later Wittgenstein, however, still largely shuns psychology, at least in my exposure to him. As far as I know, later Wittgenstein's primary focus in studying the language user is on behavior, and not on psychology.
 
-A distinction that sheds light on some of the issues we have raised is the distinction between three types of linguistic meaning: sentence meaning, speaker meaning, and listener meaning. According to proponents of the concept of sentence meaning, every sentence has a **sentence meaning**, which is what that sentence means in itself according to the conventions of the language. In addition, every meaningful linguistic utterance has a **speaker meaning**, which is what the speaker meant by the utterance. Finally, whenever a listener listens to an utterance, there is a **listener meaning** specific to that listener, which is what it meant to them or what they thought it meant.
+A distinction that sheds light on some of the issues I have raised is the distinction between three types of linguistic meaning: sentence meaning, speaker meaning, and listener meaning. According to proponents of the concept of sentence meaning, every sentence has a **sentence meaning**, which is what that sentence means in itself according to the conventions of the language. In addition, every meaningful linguistic utterance has a **speaker meaning**, which is what the speaker meant by the utterance. Finally, whenever a listener listens to an utterance, there is a **listener meaning** specific to that listener, which is what it meant to them or what they thought it meant.
 
 Proponents of the sentence meaning/speaker meaning distinction often think that the sentence meaning of a sentence can be determined by applying some sort of [recursive algorithm](https://en.wikipedia.org/wiki/Recursive_algorithm) over the grammar of the sentence, finding the meanings of the smallest meaningful fragments of the sentence (e.g. the words), and iteratively building up the meanings of larger sentence fragments until one has the whole sentence. Such analysis of meaning can be done with some variety of success on artificial formal languages, such as computer programming languages. The field of [formal semantics](https://en.wikipedia.org/wiki/Formal_semantics) is the modern successor of early efforts, such as Wittgenstein's, to develop concepts of sentence meaning along these lines.
 
@@ -600,7 +600,7 @@ However, there is still a conventional notion of the conventional meanings of se
 
 "The conventional notion of literal sentence meaning" does not refer to one exactly defined notion of sentence meaning. Rather, the phrase is open to interpretation, and its meaning will vary according to context and according to the views of the participants in a conversation where the phrase is used. The phrase can be used in conversations where it serves a useful purpose in advancing the conversation. The phrase can be used in a conversation if participants in the conversation are sufficiently comfortable with using the phrase and they are comfortable that a shared understanding of the phrase exists which is sufficiently robust to solve the conversational problems at hand.
 
-We will discuss meaning more extensively in the section titled Meaning. 
+I will discuss meaning more extensively in the section titled Meaning. 
 
 Speaking very broadly, there are three big things to study about language: syntax, semantics, and pragmatics.
 
@@ -618,7 +618,7 @@ The preceding paragraphs serve as an extremely high-level introduction to some o
 
 The first three paragraphs of the Introduction explained the meaning of the title, and the entirety of the text since then has been an attempt to explain the meaning of the first three paragraphs of the Introduction:
 
-> Winning arguments is what we aim to show how to do in this text. We will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
+> Winning arguments is what I aim to show how to do in this text. I will show how this can be done by constructing winning arguments. As just illustrated, the phrase "winning arguments" has at least two important senses.
 >
 > First, "winning arguments" can be interpreted to refer to an activity, the activity of winning arguments, where "argument" here is used in the sense of "debate."
 >
@@ -636,11 +636,11 @@ What is a statement? A statement is a kind of sentence. Here are some dictionary
 * an official account of facts, views, or plans, especially one for release to the media.
 * a formal account of events given by a witness, defendant, or other party to the police or in a court of law.
 
-In this section we are interested in statements in the sense (somewhat crudely expressed by this definition, in my opinion) of "a definite or clear expression of something in speech or writing."
+In this section I am interested in statements in the sense (somewhat crudely expressed by this definition, in my opinion) of "a definite or clear expression of something in speech or writing."
 
 The study of winning arguments is mostly a study of statements and the relationships between statements. Therefore, we should take care to develop a good understanding of statements.
 
-Logicians frequently provide various definitions of the word "statement." In this text, we shall use the following definition of the word "statement." **A statement is a sentence which can be believed or disbelieved.** This definition picks out a certain wide class of sentences, spanning across all natural languages and many formal languages. This class probably agrees in essential intent, if not in actual [extension](https://en.wikipedia.org/wiki/Extension_(semantics)), with most modern logicians' definitions of "statement."
+Logicians frequently provide various definitions of the word "statement." In this text, I shall use the following definition of the word "statement." **A statement is a sentence which can be believed or disbelieved.** This definition picks out a certain wide class of sentences, spanning across all natural languages and many formal languages. This class probably agrees in essential intent, if not in actual [extension](https://en.wikipedia.org/wiki/Extension_(semantics)), with most modern logicians' definitions of "statement."
 
 Here are some examples of statements:
 
@@ -675,9 +675,9 @@ There are many approaches to the study of grammar. Indeed, there are a number of
 
 There is a lot of interesting stuff to unpack here. Let's start by learning a simple formal language of statements. We're going to explain how to write statements in a toy language whose only sentences are statements. This language is called **(the language of) first-order logic**. First-order logic is notable in that it has an extremely simple grammar, and essentially any statement can be expressed in first-order logic.
 
-Our presentation of first-order logic is notationally different from most other presentations of first-order logic, in that we opt to use English words in place of logical symbols, making the notation more naturally readable for English speakers, but less compact.
+Our presentation of first-order logic is notationally different from most other presentations of first-order logic, in that I opted to use English words in place of logical symbols, making the notation more naturally readable for English speakers, but less compact.
 
-In essence the version of first-order logic we present should be equivalent to all other presentations of first-order logic, despite many superficial differences. The reader can, as an exercise, find another presentation of first-order logic and find for themselves the reasons why that system is for all intents and purposes interchangeable with ours, despite their differences. Our presentation differs in tricky ways (as well as simple ways) from most presentations of first-order logic, so that this can be an interesting exercise for a student of mathematical logic.
+In essence the version of first-order logic I present should be equivalent to all other presentations of first-order logic, despite interesting differences. The reader can, as an exercise, find another presentation of first-order logic and find for themselves the reasons why that system is for all intents and purposes interchangeable with ours, despite their differences. Our presentation differs in tricky ways (as well as simple ways) from most presentations of first-order logic, so that this can be an interesting exercise for a student of mathematical logic.
 
 Here are some examples of statements in our version of first-order logic:
 
@@ -690,20 +690,20 @@ As you can see, these statements look a lot like statements in English, but not 
 
 There are the following kinds of words in (our presentation of) first-order logic: variable names, object literals, predicates, [copulas](https://en.wikipedia.org/wiki/Copula_(linguistics)#English), such as verbs, and connective words.
 
-* For **variable names** we will use single italicized lower case letters: *a*, *b*, *c*...
-* For **object literals** we will use English phrases denoting objects, e.g. "the President of the United States" or "this chicken." The latter example illustrates that English phrases denoting objects can be context-sensitive in meaning.
-* For **predicates** we will use upper case letters (P, Q, R, ...) and ordinary English phrases denoting categories of objects, specific objects, or properties (e.g. "a dog," "the President of the United States," "clean").
-* For **copulas** we will use ordinary English copulas, e.g. "loves" TODO more examples
+* For **variable names** I will use single italicized lower case letters: *a*, *b*, *c*...
+* For **object literals** I will use English phrases denoting objects, e.g. "the President of the United States" or "this chicken." The latter example illustrates that English phrases denoting objects can be context-sensitive in meaning.
+* For **predicates** I will use upper case letters (P, Q, R, ...) and ordinary English phrases denoting categories of objects, specific objects, or properties (e.g. "a dog," "the President of the United States," "clean").
+* For **copulas** I will use ordinary English copulas, e.g. "loves" TODO more examples
 * The following are all the **connective words:** **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
 An **object term** (of our presentation of first-order logic) is a variable name or an object literal. In other words an object term is any piece of syntax that can denote an object.
 
 We will also need notations for variables ranging over different types of words:
 
-* When we need a variable that ranges over object terms, i.e. an *object meta-variable*, we will use bolded lower case letters starting with "a": **a**, **b**, **c**, ...
-* When we need a variable that ranges over predicates, i.e. a *predicate variable*, we will use bolded upper case letters starting with "P": **P**, **Q**, **R**, ...
-* When we need a variable that ranges over statements, i.e. a *statement variable*, we will use bolded upper case letters starting with "A": **A**, **B**, **C**, ...
-* When we need a variable that ranges over copulas, we will use a bolded lower case **v**.
+* When we need a variable that ranges over object terms, i.e. an *object meta-variable*, I will use bolded lower case letters starting with "a": **a**, **b**, **c**, ...
+* When we need a variable that ranges over predicates, i.e. a *predicate variable*, I will use bolded upper case letters starting with "P": **P**, **Q**, **R**, ...
+* When we need a variable that ranges over statements, i.e. a *statement variable*, I will use bolded upper case letters starting with "A": **A**, **B**, **C**, ...
+* When we need a variable that ranges over copulas, I will use a bolded lower case **v**.
 
 A **lexical unit** (of our presentation of first-order logic) is a word, a parenthesis, or a comma.
 
@@ -721,7 +721,7 @@ A **statement** (of our presentation of first-order logic) is any sequence of le
     * (for all **a**, **A**) is a statement.
     * (for some **a**, **A**) is a statement.
 
-Let us show how these grammar rules can be used to derive the examples we gave above of statements:
+Let us show how these grammar rules can be used to derive the examples I gave above of statements:
 
 **(*a* is a dog) is a statement.**
 
@@ -747,7 +747,7 @@ Let us show how these grammar rules can be used to derive the examples we gave a
 * By rule 6, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant)) is a statement.
 * By rule 7, (for all *a*, (if (*a* is Santa Claus) then (*a* is a North Pole inhabitant))) is a statement.
 
-The reader should understand the foregoing to the extent that they can produce an unlimited number of statements in first-order logic; produce for each of them derivations conforming to the pattern we have demonstrated; and distinguish between valid and invalid syntax for statements of first-order logic.
+The reader should understand the foregoing to the extent that they can produce an unlimited number of statements in first-order logic; produce for each of them derivations conforming to the pattern I have demonstrated; and distinguish between valid and invalid syntax for statements of first-order logic.
 
 The reader should also understand what statements in first-order logic mean. For the most part, this may be fairly self-evident, but it is worth taking a moment to clarify explicitly what each form of statement means:
 
@@ -771,17 +771,17 @@ Many connective words/phrases have conventional names:
 
 An occurrence of a variable name in a statement is called a **bound occurrence** if it is enclosed by a quantifier over the same variable; otherwise it is called a **free occurrence**. For example, in the statement (for some *x*, (*x* is a prairie dog)), the occurrence of *x* in (*x* is a prairie dog) is a bound occurrence. In the statement ((*x* is a prairie dog) and (for some *y*, (*x* loves *y*))), the two occurrences of *x* are free, whereas the occurrence of *y* in (*x* loves *y*) is bound.
 
-The explanations we gave of the meanings of statements in first-order logic assume the notion of a *context*. For the purposes of first-order logic, the context simply determines what objects the variables, and the object terms with context-sensitive meanings (e.g. "it") denote. You can think of a context as a mapping from variable names to objects, from predicates to sets of objects, and from copulas to sets of objects and pairs of objects (TODO: unpack this shit). Contexts are referred to by various names in the study of logic, with "interpretation" being one term in use. In some presentations of first-order logic, every variable name is required to be given a value by a context, while in other presentations, a context might give values only to some variables. In the latter approach, statements containing free occurrences of variables will be uninterpretable in a given context if that context does not assign values to those variables.
+The explanations I gave of the meanings of statements in first-order logic assume the notion of a *context*. For the purposes of first-order logic, the context simply determines what objects the variables, and the object terms with context-sensitive meanings (e.g. "it") denote. You can think of a context as a mapping from variable names to objects, from predicates to sets of objects, and from copulas to sets of objects and pairs of objects (TODO: unpack this shit). Contexts are referred to by various names in the study of logic, with "interpretation" being one term in use. In some presentations of first-order logic, every variable name is required to be given a value by a context, while in other presentations, a context might give values only to some variables. In the latter approach, statements containing free occurrences of variables will be uninterpretable in a given context if that context does not assign values to those variables.
 
 We will take the latter approach in this text. Specifically, we will consider a context to provide a *partial* mapping from object terms to objects, saying for some subset of the set of all of context-sensitive object terms (i.e. variables and context-sensitive object literals) what objects they denote. In our approach, statements containing free occurrences of variables whose denotations are not defined by a given context, and statements containing context-sensitive object literals whose denotations are not defined by that context, will be uninterpretable in that context.
 
 The approach of requiring contexts to define the denotations of all object terms is mathematically convenient because it entails that every statement is interpretable in every context. However, the assumption that every term is defined in every context is unrealistic. In reality, statements are uninterpretable when they contain context-sensitive object terms whose denotations are not clarified by the context.
 
-We will not attempt to further formalize this explanation of the meaning of the statements of first-order logic at this time. At this point it's hoped that the reader understands the meaning of statements of first-order logic in an informal way which enables them to read such statements. There are many intricacies to explore regarding the meanings of statements of first-order logic, but we will defer this discussion for later seciotns.
+I will not attempt to further formalize this explanation of the meaning of the statements of first-order logic at this time. At this point it's hoped that the reader understands the meaning of statements of first-order logic in an informal way which enables them to read such statements. There are many intricacies to explore regarding the meanings of statements of first-order logic, but we will defer this discussion for later seciotns.
 
 TODO: Exercises
 
-Earlier we made the claim that essentially any statement can be expressed in first-order logic. Let us now explore this claim. The claim is interesting because if it is true, then we can think of first-order logic as a sort of a theory of statements, an idealized way of thinking about statements as a whole.
+Earlier I made the claim that essentially any statement can be expressed in first-order logic. Let us now explore this claim. The claim is interesting because if it is true, then we can think of first-order logic as a sort of a theory of statements, an idealized way of thinking about statements as a whole.
 
 First-order logic is not the only formal language about which one may fairly make this claim. There are many formal languages about which one may fairly make this claim. Most of them bear some resemblance to first-order logic. First-order logic is a good example of the category.
 
@@ -815,13 +815,13 @@ The size of this translation shows that many different logical propositions are 
 
 TODO: break down
 
-The hawk-eyed reader may notice that we have taken some liberties with parentheses in this translation. For example, we wrote ((x is Greek) or (x is Latin) or (x is Hebrew)), but technically this statement cannot be produced by our syntax rules, because our syntax rules cannot produce three "or" clauses under one shared set of paretheses. To conform technically to our syntax, the statement must be written with two of the "or" clauses parenthesized together, in one of these two ways (with the added parentheses in bold):
+The hawk-eyed reader may notice that I have taken some liberties with parentheses in this translation. For example, I wrote ((x is Greek) or (x is Latin) or (x is Hebrew)), but technically this statement cannot be produced by our syntax rules, because our syntax rules cannot produce three "or" clauses under one shared set of paretheses. To conform technically to our syntax, the statement must be written with two of the "or" clauses parenthesized together, in one of these two ways (with the added parentheses in bold):
 
 (**(**(x is Greek) or (x is Latin)**)** or (x is Hebrew)
 
 ((x is Greek) or **(**(x is Latin) or (x is Hebrew)**)**)
 
-Both of these statements mean the same thing and are true under exactly the same circumstances: namely, when at least one of the three clauses is true. Later we will be able to prove formally that these two statements are true under exactly the same circumstances. We omit the bolded parentheses and are deliberately ambiguous about which of these two statements we mean, purely as a matter of convenience, in an example of what is called an **abuse of notation**.
+Both of these statements mean the same thing and are true under exactly the same circumstances: namely, when at least one of the three clauses is true. Later we will be able to prove formally that these two statements are true under exactly the same circumstances. We omit the bolded parentheses are am deliberately ambiguous about which of these two statements we mean, purely as a matter of convenience, in an example of what is called an **abuse of notation**.
 
 The other example of us taking liberty with parentheses in this translation is of the same kind, but with "and" instead of "or." The statement as a whole has the form:
 
@@ -969,7 +969,7 @@ A person can reject the principle that sufficiently precise statements of fact a
 
 Many classes of statements are **decidable**, meaning it is possible to write a computer program which decides whether statements in that class are true or false. In other words the program takes as input a statement in the class and as output it (correctly) says either that the statement is true or that the statement is false. If a class of statements is decidable, then most would agree that every statement in the class is either true or false. The argument, essentially, is that in principle one could run the program and the program would correctly tell you either that the statement is true or that it's false; but presumably the statement was already true or false, whichever it is, before you ran the program. Therefore it's already true or false even if we don't run the program. I'm not aware of much controversy about this reasoning, but you can reject it if you're willing to say that mathematical statements don't become true or false until people prove or disprove them.
 
-An example of a class of decidable statements are "bounded-quantifier arithmetical statements," or **BQA statements** as we will call them. TODO
+An example of a class of decidable statements are "bounded-quantifier arithmetical statements," or **BQA statements** as I will call them. TODO
 
 Let's take stock.
 
@@ -983,7 +983,7 @@ For example, consider some universally quantified mathematical statement, i.e. a
 
 Exactly how broadly we can assume that statements are either true or false is a matter of controversy. Most would agree that statements in decidable classes, like BQA statements, are all either true or false. Most think the same about sufficiently precise statements of fact about medium-sized physical objects. I believe that most mathematicians accept the law of the excluded middle as applied to math. Some philosophers think we can assume the law of excluded middle much more broadly.
 
-The reader is encouraged to use their own judgment in applying the law of the excluded middle, and to form their own opinion on the issues we have raised if they are interested. Practically speaking, I think the reader will find the law of the excluded middle is a useful logical tool which they feel comfortable applying in essentially any real world case where it's applicable.
+The reader is encouraged to use their own judgment in applying the law of the excluded middle, and to form their own opinion on the issues I have raised if they are interested. Practically speaking, I think the reader will find the law of the excluded middle is a useful logical tool which they feel comfortable applying in essentially any real world case where it's applicable.
 
 **What's true is true and what's false is false, independently of what people believe, say, or wish.**
 
@@ -1006,7 +1006,7 @@ In my opinion, the consequences of pursuing and sharing the truth are almost alw
 
 **Summary of the truisms discussion**
 
-We've completed our discussion of the non-obvious truisms about truth that we listed. We have certainly learned a bit about truth in the process. Let's take stock.
+We've completed our discussion of the non-obvious truisms about truth that I listed. We have certainly unearthed a bit about truth in the process. Let's take stock.
 
 The law of non-contradiction states that no statement is both true and false. This law is endorsed by almost everybody who speaks on the subject, except for some mavericks, such as dialetheists, who think that some statements are both true and false. One argument in favor of dialetheism is the liar paradox. This argument can be blocked in numerous ways, but we have yet to discuss that. The indifferent shrug, however, seems to be a fair enough response.
 
@@ -1018,7 +1018,7 @@ Truth is worth pursuing. A life of pursuing truth (and love), in the author's op
 
 **What is truth? What is true?**
 
-Earlier we wrote:
+Earlier I wrote:
 
 > What we really need is a *theory* of the meaning of the word "true:" a theory that explains how the term is used, which we can examine to get insight into the meaning.
 
@@ -1062,7 +1062,7 @@ Hale and Wright point out some controversy about whether or not implicit definit
 
 Of course, the T-schema defines only one possible way of using the word "true," and people might use it in other ways.
 
-So far we have presented one definition, sense, or meaning for the word "true." This is the meaning axiomatically defined by the T-schema (according to Horwichian minimalism). However, there are certainly other possible meanings.
+So far I have presented one definition, sense, or meaning for the word "true." This is the meaning axiomatically defined by the T-schema (according to Horwichian minimalism). However, there are certainly other possible meanings.
 
 For example, one might define "true" as "accurate to reality." This definition will be equivalent to the T-schema within the context of any conversation where by asserting a statement, one implicitly asserts that the statement is accurate to reality. (In my life, conversations I have at work in my professional capacity are examples of such conversations.)
 
@@ -1070,13 +1070,13 @@ As far as I am aware, any definition of "true" which tells a person how to use t
 
 The T-schema by itself is not enough to explain how to use the word "true." Essentially, the T-schema references questions about truth to questions about norms of assertion. If you can rightly assert a statement, then you can rightly assert that that statement is true. Instead of asking, when is a statement true, you can ask, when can you rightly assert a statement? The latter is a question that this entire text is aimed at addressing. 
 
-Still, some readers may feel that this misses the point. If we reduce questions about truth to questions about norms about assertion, then perhaps some readers feel we are no longer asking the questions they are interested in, because readers want to know what's true in the sense of what's real, what's actual. We don't want to convey the appearance of sidestepping these meaty questions in favor of surface questions about what we can say.
+Still, some readers may feel that this misses the point. If we reduce questions about truth to questions about norms about assertion, then perhaps some readers feel we are no longer asking the questions they are interested in, because readers want to know what's true in the sense of what's real, what's actual. I don't want to convey the appearance of sidestepping these meaty questions in favor of surface questions about what we can say.
 
 It is the author's hope that the reader can get closer to what's true in the sense of what's real and what's actual on the basis of what they are learning in this book. I do not claim to know what's real and what's actual, and therefore I cannot claim to show the reader the path to come to know what's real and what's actual. However, it is my opinion that applying the techniques of this text, taken all together and used with art, skill, and fairness, will tend to help one figure out what's real and what's actual in practical terms, in most problem domains that humans can get a grip on. No guarantees can be made that the methods we discuss will lead one to an accurate understanding of reality in any particular situation. I am unaware of any totally sure, provably infallible methods of knowledge gathering. Consistent with that, I am comfortable calling this text a method of seeking the truth. 
 
 **Other theories of truth**
 
-We have so far described one systematic theory of the meaning of "true:" namely, Horwichian minimalism. How does Horwichian minimalism compare to other theories of truth? We will compare it to (a) a generic postmodern theory of truth, and (b) a generic pluralist theory of truth, a la Michael P. Lynch.
+I have so far described one systematic theory of the meaning of "true:" namely, Horwichian minimalism. How does Horwichian minimalism compare to other theories of truth? I will compare it to (a) a generic postmodern theory of truth, and (b) a generic pluralist theory of truth, a la Michael P. Lynch.
 
 Our generic postmodern theory of truth runs as follows: "truth is relative." Truth is relative to a context, an observer, a point of view. Thus there are many different truths, none absolute.
 
@@ -1088,9 +1088,9 @@ Horwichian minimalism is not the most informative theory of truth, and it is onl
 
 ## Epistemology
 
-So far we have discussed to some extent the "what" of truth. We have yet to discuss the "how." How does one get to the truth? For some readers, I imagine that understanding how to seek the truth is their primary aim in reading this text. We promised in [the "how to read this text" section](#how-to-use-this-text) that you can use this text "as a practical guide to winning arguments, to reasoning about any subject, to seeking the truth about any subject, and to misleading people about any subject." We have therefore promised to discuss seeking the truth.
+So far we have discussed to some extent the "what" of truth. We have yet to discuss the "how." How does one get to the truth? For some readers, I imagine that understanding how to seek the truth is their primary aim in reading this text. I promised in [the "how to read this text" section](#how-to-use-this-text) that you can use this text "as a practical guide to winning arguments, to reasoning about any subject, to seeking the truth about any subject, and to misleading people about any subject." I have therefore promised to discuss seeking the truth.
 
-This is an extremely hairy topic. To get ourselves started, let's pick up some threads that we left hanging in the previous section and notice some puzzles we haven't yet discussed.
+This is an extremely hairy topic. To get ourselves started, let's pick up some threads that were left hanging in the previous section and notice some puzzles we haven't yet discussed.
 
 In discussing the truism that truth is something worth pursuing, I argued that truth is valuable and indeed worth pursuing. On the other hand, in discussing the word "true," the only explanation of its meaning that I offered was the T-schema and the theory of Horwichian minimalism.
 
@@ -1098,7 +1098,7 @@ Recall that the T-schema is the infinite set of statements of the form "the stat
 
 Thus, we have two related and yet very different conceptions: the conception of *truth* as a value, and of *true* as an axiomatically defined, context-sensitive, meta-linguistic term that is used to describe statements.
 
-Intuitively, the meanings of *truth* and *true* should have a lot to do with each other, but perhaps it's difficult (it was for me) to see right away how the conceptions of *truth* and *true* we have provided are at all related.
+Intuitively, the meanings of *truth* and *true* should have a lot to do with each other, but perhaps it's difficult (it was for me) to see right away how the conceptions of *truth* and *true* I have provided are at all related.
 
 As it happens, we don't need to look terribly deep to see the connection. Horwichian minimalism, as we have observed, lets us reference questions about truth to questions about norms of assertion. Therefore, it follows from Horwichian minimalism that questions about truth can be construed as normative questions about how we should behave (namely what speech acts, specifically what assertions and denials, it is warranted for us to perform).
 
@@ -1108,7 +1108,7 @@ There are values besides truth that undergird our norms of assertion. For exampl
 
 I think most people base their norms of assertion on values apart from and in addition to their value of truth. Probably most people today live in circumstances where the consequences of saying certain true things in certain contexts in their lives are unacceptable to them. I do think there are people who don't believe anything they're unwilling to say, and don't say anything they don't believe, but I think they're in the minority, and I don't count myself among them.
 
-Is it true, then, as we ventured, that often the values undergirding a person's value of truth, and the values undergirding the norms of assertion they consider correct, coincide? We've concluded that typically they come apart to at least a small degree; any individuals who are exceptions to that rule are unusual.
+Is it true, then, as I ventured, that often the values undergirding a person's value of truth, and the values undergirding the norms of assertion they consider correct, coincide? We've concluded that typically they come apart to at least a small degree; any individuals who are exceptions to that rule are unusual.
 
 From a Horwichian minimalist perspective, there is some difficulty in seeing how these two can come apart, since Horwichian minimalism does not allow for much space between truth and assertibility. Horwichian minimalism certainly does not say that there can't be true things we can't say in a given context. It merely entails that in any context where you could appropriately assert a statement **A**, you could also appropriately assert the statement "**A** is true," and vice versa.
 
@@ -1157,7 +1157,7 @@ Similarly, my experiences are consistent with the possibility that parts of the 
 
 I don't imagine that everybody will find these skeptical arguments compelling. If the reader is still convinced after what I've said that they know things, then that's OK. My purpose is to teach how to win arguments and seek the truth, not to persuade the reader that they don't know anything.
 
-We are left in an apparently awkward position. We have committed ourselves to a positive project of learning how to win arguments and seek the truth about any topic. However, we have just denied any ambition in this text of developing knowledge. How can we reconcile these seemingly contradictory positions?
+We are left in an apparently awkward position. We have committed ourselves to a positive project of learning how to win arguments and seek the truth about any topic. However, I have just denied any ambition in this text of developing knowledge. How can we reconcile these seemingly contradictory positions?
 
 The answer to this lies in the distinction between *seeking knowledge* and *seeking the truth*. To seek knowledge is to seek to know things. To seek the truth is to seek to have true beliefs, or perhaps even just true thoughts that one doesn't necessarily believe.
 
@@ -1175,17 +1175,17 @@ Let's close out our discussion of knowledge with the enjoyable and yet perhaps a
 
 > Once upon a time, in some out of the way corner of that universe which is dispersed into numberless twinkling solar systems, there was a star upon which clever beasts invented knowing. That was the most arrogant and mendacious minute of ”world history,” but nevertheless, it was only a minute. After nature had drawn a few breaths, the star cooled and congealed, and the clever beasts had to die. One might invent such a fable, and yet he still would not have adequately illustrated how miserable, how shadowy and transient, how aimless and arbitrary the human intellect looks within nature. There were eternities during which it did not exist. And when it is all over with the human intellect, nothing will have happened. For this intellect has no additional mission which would lead it beyond human life. Rather, it is human, and only its possessor and begetter takes it so solemnly-as though the world’s axis turned within it. But if we could communicate with the gnat, we would learn that he likewise flies through the air with the same solemnity, that he feels the flying center of the universe within himself. There is nothing so reprehensible and unimportant in nature that it would not immediately swell up like a balloon at the slightest puff of this power of knowing. And just as every porter wants to have an admirer, so even the proudest of men, the philosopher, supposes that he sees on all sides the eyes of the universe telescopically focused upon his action and thought.
 
-In this text, we're abandoning the topic of knowledge henceforth. However, in my view this does not call for an abandonment of epistemology; instead, in my view it calls for a different formulation of the purposes of epistemology. We will therefore repurpose the term "epistemology," using it to refer to the study of seeking the truth. This is a general umbrella of topics which for us includes truth, true belief, justified true belief, and similar "epistemic" concepts.
+In this text, we're abandoning the topic of knowledge henceforth. However, in my view this does not call for an abandonment of epistemology; instead, in my view it calls for a different formulation of the purposes of epistemology. I will therefore repurpose the term "epistemology," using it to refer to the study of seeking the truth. This is a general umbrella of topics which for us includes truth, true belief, justified true belief, and similar "epistemic" concepts.
 
 With this slightly different conception of epistemology in hand, let us now return to the starting point of our investigation of epistemology.
 
 In essence, we are interested in studying and evaluating potential methods of seeking the truth. We want tools and techonology that enable us to get to the truth. We want tools and technology that work, that actually achieve this purpose. Therefore we want to evaluate various methods of getting to the truth, and to be able to discriminate between effective and ineffective ones.
 
-However, in order to grab the problem by the roots, we need to step back a bit. We noted that there are certain values underlying a truth-seeking attitude or an attitude of sincerity. We also noted that exactly what values are involved will vary between individuals. One way of putting it is to say that truth-seeking attitudes or attitudes of sincerity are like people themselves, in that no two are the same, yet they share uncountable and sometimes indescribable differences and similarities with each other.
+However, in order to grab the problem by the roots, we need to step back a bit. I noted that there are certain values underlying a truth-seeking attitude or an attitude of sincerity. I also noted that exactly what values are involved will vary between individuals. One way of putting it is to say that truth-seeking attitudes or attitudes of sincerity are like people themselves, in that no two are the same, yet they share uncountable and sometimes indescribable differences and similarities with each other.
 
 As the author, my objective is to help the reader to water their own truth-seeking and their own sincerity, to let it grow in whatever shape is appropriate to it. My objective is not to replicate my own self in others. As such, I can't tell the reader what should be involved in their own attitudes of truth-seeking or sincerity. I also can't choose for the reader whether or not to grow their attitudes of truth-seeking and sincerity at all.
 
-At core, the attitude of truth-seeking is a striving for reality, for what's actual, as we have noted a few times. We can't say this goal necessarily makes sense on the basis of what we've said. In seeking after reality, one can argue that if we knew what we were looking for or how to get there, then we wouldn't need to be seeking.
+At core, the attitude of truth-seeking is a striving for reality, for what's actual, as I have noted a few times. We can't say this goal necessarily makes sense on the basis of what I've said. In seeking after reality, one can argue that if we knew what we were looking for or how to get there, then we wouldn't need to be seeking.
 
 The experience of philosophy can be compared to groping in a dark system of passageways looking for a way out. Occasionally, by some good fortune or cleverness, one finds one's way out into a brightly lit clearing where one can see many more dark, unexplored passageways terminating. One can continue spelunking indefinitely in this way, finding ever larger clearings with ever more passageways leading out of them. One can rightly wonder whether one will eventually be able to map and explore the entire system of passageways and clearings. One can also rightly wonder whether it's possible to get out of the system of passageways and clearings entirely, and if so what lies beyond it. Many philosophers have thought they had left the system of passageways and clearings entirely, only to discover that they were merely in a very large clearing.
 
@@ -1358,7 +1358,7 @@ The heart of rationality is a groundedness in reality and a willingness to be sw
 
     [ch. 11]
 
-Of course, the moral virtues associated with rationality are merely one aspect of rationality. In my opinion they are a critical one which should be discussed explicitly in treatises on rationality. In my opinion, anybody who seeks to become more rational should seek to cultivate in themselves the virtues we listed above (fairness, even-handedness, etc.); to seek the company of people who have such virtues; and to learn from sources which have such virtues. I would further encourage the reader to reflect on the deeper nature of rationality in an introspective fashion: to study their own mind, how it works, how it processes reality, and to form judgments on which processes are rational and which are irrational.
+Of course, the moral virtues associated with rationality are merely one aspect of rationality. In my opinion they are a critical one which should be discussed explicitly in treatises on rationality. In my opinion, anybody who seeks to become more rational should seek to cultivate in themselves the virtues I listed above (fairness, even-handedness, etc.); to seek the company of people who have such virtues; and to learn from sources which have such virtues. I would further encourage the reader to reflect on the deeper nature of rationality in an introspective fashion: to study their own mind, how it works, how it processes reality, and to form judgments on which processes are rational and which are irrational.
 
 In addition to looking at rationality from psychological, moral, and spiritual perspectives, we can also study rationality from a behavioral perspective, by studying human behavior that exhibits rationality and trying to formulate rules that describe and explain what makes rational behavior rational. 
 
@@ -1404,7 +1404,7 @@ The law of evidence is the basic rational norm of assertion, in a sense. Most ot
 
 ## Reasons
 
-What are reasons? We are specifically interested in the meaning of the word "reason" which is used in the first three paragraphs of the Introduction, which we are still in the process of explaining. This usage is in the definition of "argument." We defined an argument as "a series of statements designed to provide reason to believe some conclusion(s)." We could also have written "reasons" or "reason(s)" in this definition in place of "reason," without really changing the meaning. We are interested in defining "reason" as the term is used in the definition of "argument." Though that's our primary goal, we'll need to explore the meaning of the word "reason" in a more general way in order to get there.
+What are reasons? I am specifically trying to probe the meaning of the word "reason" which is used in the first three paragraphs of the Introduction, which we are still in the process of unpacking. This usage is in the definition of "argument." I defined an argument as "a series of statements designed to provide reason to believe some conclusion(s)." I could also have written "reasons" or "reason(s)" in this definition in place of "reason," without really changing the meaning. We are interested in defining "reason" as the term is used in the definition of "argument." Though that's our primary goal, we'll need to explore the meaning of the word "reason" in a more general way in order to get there.
 
 We say things like:
 
@@ -1420,7 +1420,7 @@ In sentence 1, "reason" looks like a noun, a kind of special substance contained
 
 Examining reason from all possible perspectives and giving equal time to each in this text would make our lives confusing and difficult. In practice, I think a more useful approach is to choose one primary perspective from which to examine reason, understand reason well from that perspective, and then use that as a jumping off point for developing a more holistic and integrative understanding of reason.
 
-We have already chosen the sense of "reason" that we primarily want to investigate. This is the sense used in the definition of "argument," which is "a series of statements designed to provide reason to believe some conclusion(s)." In other words, we are interested in the kind of reasons that arguments are supposed to provide for their conclusions. Let's now investigate the meaning of "reason" in this sense.
+I have already chosen the sense of "reason" that we are primarily going to investigate. This is the sense used in the definition of "argument," which is "a series of statements designed to provide reason to believe some conclusion(s)." In other words, I am interested in the kind of reasons that arguments are supposed to provide for their conclusions. Let's now investigate the meaning of "reason" in this sense.
 
 Arguments are series of statements, and reasons are something that they intend to provide for their conclusions. Taking this literally, reasons are some sort of supervenient phenomena which emerge from properly formulated arguments. This illustrates the risks that can be involved in taking language too literally when doing philosophy. We can be led to remarkable and confusing conclusions in this way.
 
