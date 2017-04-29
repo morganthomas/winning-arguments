@@ -1252,11 +1252,15 @@ I pointed out a competition between two general approaches to understanding ling
 
 The problem with psychological approaches that I pointed out in the section on Language is that (arguably) psychology is mostly inscrutable. I think this is the biggest reason for the attractiveness of non-psychological approaches to understanding meaning.
 
+In my opinion, the non-psychological approaches to the philosophy of linguistic meaning are off track in that they have failed to ask the right question. For me, linguistic meaning is by definition a kind of phenomenon that occurs inside human minds. I would compare a meaningful linguistic utterance to a key that opens some door in an appropriate listener's mind. A lot of non-psychological approaches to understanding linguistic meaning, in my opinion, can be compared to attempting to figure out what's behind a door by inspecting the shape of the key that opens it.
 
+In summary, I take a psychological approach to the philosophy of linguistic meaning, because linguistic meaning is a phenomenon in the human mind.
 
+More specifically, I take a phenomenological approach to the philosophy of linguistic meaning. This means that the basic objects of study in my theory are experiences of meaning caused by language. Since my own experiences are the only experiences I can directly observe, those are the basic objects of study that I have access to.
 
+According to my theory, **a linguistic meaning** is any experience caused by or causing a linguistic utterance in a particular instance. The **speaker meaning** of an utterance is the meaning which the speaker of the utterance intended to convey. For each person who hears a given utterance in a particular instance, there may be zero or more **listener meanings**. A listener meaning of an utterance is any meaning which the listener takes from the utterance.
 
-Psychological approaches to linguistic meaning understand it taking as the basic data points, human experiences of meaning caused by language.
+There are different kinds of listener meanings. In the most typical case of successful literal communication, there is one listener meaning, and it is the same (or nearly enough) as the speaker meaning. A listener may form no listener meanings, e.g. if they aren't paying attention or don't understand. A listener may form multiple conflicting ideas of what the speaker might have meant (a situation in which a follow-up question is usually recommended). A listener meaning may be a misunderstanding, where the listener forms a meaning and falsely assumes that it is the speaker meaning. A listener may also form a misunderstanding which they recognize to be an obvious misunderstanding, but which comes to mind nonetheless, e.g. perhaps because it is humorous.
 
 TODO
 
