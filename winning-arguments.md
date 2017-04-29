@@ -1242,6 +1242,12 @@ In the rest of this text we are going to spend a lot of time thinking about what
 
 ## Meaning
 
+What is meaning? We discussed this question briefly in the section titled Language. Let's recall in summary what I said back there.
+
+We drew a distinction between three types of meaning: speaker meaning, listener meaning, and sentence meaning. Speaker meaning is what a speaker intends to mean by a sentence in a particular instance. Listener meaning is what a listener takes a sentence to mean in a particular instance. Sentence meaning is what a sentence means in itself according to the conventions of a language. 
+
+In the field of formal semantics, people give mathematical definitions of sentence meaning for formal languages. The same kind of analysis can be done informally but not exactly or comprehensively with natural languages. I pointed out that it is not feasible to give a definition of English sentence meaning that works across the board, because of the complexity and variability of English language use. 
+
 TODO
 
 ## Rationality
