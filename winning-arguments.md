@@ -1497,7 +1497,23 @@ Let's now get into the weeds with our first important category of laws of reason
 
 **Logic** is a field of study where the primary topic is valid rules of logical inference. Let's unpack that.
 
-A **rule of logical inference**, or **rule of inference**, is a rule which states that in any conversational context where a set of statements with given forms are warranted assertible, another statement is warranted assertible. This is my definition.
+A **rule of logical inference**, or **rule of inference**, is a rule which states that in any conversational context where a set of statements with given forms (**premises**) are warranted assertible, another statement (the **conclusion**) is warranted assertible. This is my definition.
+
+Let's give some examples of rules of inference for first-order logic.
+
+ * (**A** and **B**) entails **A**.
+ * (**A** and **B**) entails **B**.
+ * **A**, **B** entails (**A** and **B**).
+ * **A** entails (**A** or **B**).
+ * **B** entails (**A** or **B**).
+ * (if **A** then **B**), **A** entails **B**.
+
+
+
+
+
+
+A rule of logical inference is **valid** for a given person if there are no **counterexamples** to the rule for that person. A counterexample to a rule of logical inference for a given person is a case where there are statements of the form 
 
 TODO
 
