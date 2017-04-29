@@ -1291,7 +1291,7 @@ What is behind this distinction between implicit and explicit meanings? What is 
 
 Explicit meaning and sentence meaning are not the same concept. As you can see by inspecting the name, sentence meaning is a concept that applies only to the meanings of sentences. On the other hand, any piece of language can have an explicit meaning (including paragraphs, words, etc.). 
 
-Explicit meaning and conventional literal meaning are not the same concept. Explicit meanings need not be conventional. For example, an explicit meaning conveyed using jargon terms is not a conventional literal meaning.
+Explicit meaning and conventional literal meaning are not the same concept. Explicit meanings need not be conventional. For example, an explicit meaning conveyed using jargon terms is not a conventional literal meaning, because jargon terms are not conventional.
 
 Sentence meaning and conventional literal meaning are not the same concept, because sentence meaning applies only to sentences and conventional literal meaning applies to any piece of language.
 
