@@ -1514,7 +1514,7 @@ Rules of logical inference can be thought of as descriptive rules, by taking the
 
 Rules of logical inference can also be thought of as prescriptive rules, by taking them as defining norms of assertion. For example, the rule of inference "(**A** and **B**) entails **A**" can be taken to be the normative rule that in any context, for any statements **A** and **B** which are interpretable in that context, if a speaker considers (**A** and **B**) to be warranted assertible in that context, then they should also consider **A** to be warranted assertible in that context.
 
-We are basically interested in the following questions. In general, what rules of logical inference are correct as descriptive rules? And, what rules of logical inference should we accept as prescriptive rules? These two questions are closely related. Rules of logic are about as we can get to universal rules for debate. For all that philosophers disagree about almost everything, there is virtually no disagreement that in just about any context where a statement of the form (**A** and **B**) is warranted assertible, the statement **A** is also warranted assertible.
+We are basically interested in the following questions. In general, what rules of logical inference are correct as descriptive rules? And, what rules of logical inference should we accept as prescriptive rules? These two questions are closely related. Rules of logic are about as we can get to universal rules for debate. For all that philosophers disagree about almost everything, there is virtually no disagreement that in any or just about any context where a statement of the form (**A** and **B**) is warranted assertible, the statement **A** is also warranted assertible.
 
 
 
