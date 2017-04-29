@@ -1248,7 +1248,7 @@ I drew a distinction between three types of meaning: speaker meaning, listener m
 
 In the field of formal semantics, people give mathematical definitions of sentence meaning for formal languages. The same kind of analysis can be done informally but not exactly or comprehensively with natural languages. I pointed out that it is not feasible to give a definition of English sentence meaning that works across the board, because of the complexity and variability of English language use. We can still usefully talk informally about "the conventional notion of English sentence meaning," even though the concept breaks down after a certain point.
 
-We pointed out a competition between two general approaches to understanding linguistic meaning: psychological approaches, and non-psychological approaches. 
+I pointed out a competition between two general approaches to understanding linguistic meaning: psychological approaches, and non-psychological approaches. 
 
 TODO
 
