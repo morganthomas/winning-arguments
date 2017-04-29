@@ -556,7 +556,7 @@ This solution to the puzzle leaves us with a new puzzle: what is the sentence 't
 
 Another possible way of answering the puzzle is to deny that there is any object which we can literally call "the sentence 'the dog runs.'" The structure of English grammar certainly suggests that there is an object we can call "the sentence 'the dog runs,'" since "the sentence 'the dog runs'" is a noun phrase which can be used to construct infinitely many meaningful statements about this sentence. As such, this way of answering leaves me (and philosophers galore) rather confused about the meaning of phrases like "the sentence 'the dog runs;'" however, that doesn't make this way of answering wrong, and I'm not saying this way of answering is wrong.
 
-This puzzle is one of a variety of logical puzzles that have to do with language's self-referential capabilities. One we have already seen is the liar paradox: the puzzle of the sentence "this sentence is false," which if true is false and if false is true. The paradoxes of self-referencing language are hard. We will talk about them at greater length in the section titled Paradoxes.
+This puzzle is one of a variety of logical puzzles that have to do with language's self-referential capabilities. One we will discuss at more length later is the liar paradox. This is the puzzle concerning the sentence "this sentence is false." Is the sentence true or false? You can reason that if it's true, then it's false, and if it's false, then it's true. The paradoxes of self-referencing language are hard. We will talk about them at greater length in the section titled Paradoxes.
 
 Let us therefore turn back to unpacking the notion of language. Consider again the sentence "the dog runs."
 
