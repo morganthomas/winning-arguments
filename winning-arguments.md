@@ -1258,9 +1258,26 @@ In summary, I take a psychological approach to the philosophy of linguistic mean
 
 More specifically, I take a phenomenological approach to the philosophy of linguistic meaning. This means that the basic objects of study in my theory are experiences of meaning caused by language. Since my own experiences are the only experiences I can directly observe, those are the basic objects of study that I have access to.
 
-According to my theory, **a linguistic meaning** is any experience caused by or causing a linguistic utterance in a particular instance. The **speaker meaning** of an utterance is the meaning which the speaker of the utterance intended to convey. For each person who hears a given utterance in a particular instance, there may be zero or more **listener meanings**. A listener meaning of an utterance is any meaning which the listener takes from the utterance.
+According to my theory, **a linguistic meaning** is an experience causing production of or caused by consumption of a linguistic utterance in a particular instance. The **speaker meaning** of an utterance is the meaning which the speaker of the utterance intended to convey. For each person who hears a given utterance in a particular instance, there may be zero or more **listener meanings**. A listener meaning of an utterance is any meaning which the listener takes from the utterance.
 
-There are different kinds of listener meanings. In the most typical case of successful literal communication, there is one listener meaning, and it is the same (or nearly enough) as the speaker meaning. A listener may form no listener meanings, e.g. if they aren't paying attention or don't understand. A listener may form multiple conflicting ideas of what the speaker might have meant (a situation in which a follow-up question is usually recommended). A listener meaning may be a misunderstanding, where the listener forms a meaning and falsely assumes that it is the speaker meaning. A listener may also form a misunderstanding which they recognize to be an obvious misunderstanding, but which comes to mind nonetheless, e.g. perhaps because it is humorous. 
+There are different kinds of listener meanings. In the most typical case of successful literal communication, there is one listener meaning, and it is the same (or nearly enough) as the speaker meaning. A listener may form no listener meanings, e.g. if they aren't paying attention or don't understand. A listener may form multiple conflicting ideas of what the speaker might have meant (a situation in which a follow-up question is usually recommended). A listener meaning may be a misunderstanding, where the listener forms a meaning and falsely assumes that it is the speaker meaning. A listener may also form a misunderstanding which they recognize to be an obvious misunderstanding, but which comes to mind nonetheless, e.g. perhaps because it is humorous. These are not the only kinds of listener meanings.
+
+Speaker meanings can also involve complexities such as double meanings, sarcasm, and irony. When a speaker intends to convey a double meaning, it seems fine to me to say either that there are two speaker meanings, or that there is one speaker meaning with two aspects or layers.
+
+The foregoing gives us a basic theory of what meaning is and how to study it further. According to the theory, linguistic meanings are experiences pertaining to utterances, and they are of two types: speaker meanings and listener meanings.
+
+**Communication** is basically the attempt to coordinate speaker meanings and listener meanings in such a way that we achieve something we call shared understanding. This involves, among other things, a level of agreement on what statements are true and false, and the appearance of meaning the same things by words and sentences. 
+
+There are many aspects to communication, and I encourage the reader to pursue education in communication beyond this book. TODO: Where?
+
+A model of communication that I like is the [Shannon-Weaver model of communcation](http://ieeexplore.ieee.org/document/6773024/?reload=true&tp=&arnumber=6773024). According to this model, communication involves the following components:
+
+ * The **sender**: a person, let's say.
+ * The **receiver**: a person' let's say.
+ * The **channel**: the medium of communication. E.g., the atmosphere.
+ * The **encoder**: the technology used to create a transmission through the channel. E.g., the human vocal system.
+ * The **receiver**: the technology used to receive a transmission through the channel. E.g., the human ear.
+ * The **noise**: entropy which degrades transmissions through the medium. E.g., ambient background noise in the atmosphere.
 
 TODO
 
