@@ -1524,7 +1524,7 @@ Rules of logic are about as we can get to universal rules for debate. For all th
 
 
 
-I will define that a rule of logical inference is **valid** for a given person if and only if there are no **counterexamples** to the rule for that person. A counterexample to a rule of logical inference for a given person is a case where there are statements of the form 
+I will define that a rule of logical inference is **valid** for a given person if and only if there are no **counterexamples** to the rule for that person. A counterexample to a rule of logical inference for a given person is a case where they consider the premises warranted assertible and don't consider the conclusion warranted assertible. We will only consider a counterexample to genuine if even after participating in thorough discussion and evidencing a good understanding of the relevant issues, the person with the counterexample still finds the premises warranted assertible and the conclusion not warranted assertible.
 
 TODO
 
