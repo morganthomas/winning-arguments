@@ -1281,7 +1281,7 @@ A model of communication that I like is the [Shannon-Weaver model of communcatio
 
 According to the Shannon-Weaver model, communication always involves two-way **feedback**. Feedback is a process by which the sender+encoder and receiver+decoder coordinate messages in a way that allows them to verify to their satisfaction that shared understanding is occurring.
 
-Solving difficult communication problems often requires using new kinds of efforts to achieve communicative feedback. One simple way of achieving communicative feedback is to repeat back what somebody said to you in your own words, to verify you understand. Requests for clarification are another simple form of feedback. Body language and facial expressions also provide feedback: e.g., teachers often rely on students' facial expressions for feedback on whether they are understanding the material.
+Solving difficult communication problems often requires using new kinds of efforts to achieve communicative feedback. One simple way of achieving communicative feedback is to repeat back what somebody said to you in your own words, to verify you understand. Requests for clarification are another simple form of feedback. Body language and facial expressions also provide feedback: e.g., teachers often rely on students' facial expressions for feedback on whether they are understanding the material. One of the most complex forms of feedback is the process of philosophical debate. This is a form of feedback which one must sometimes employ in order to coordinate communication on deep problems.
 
 TODO
 
