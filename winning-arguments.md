@@ -1503,10 +1503,10 @@ Let's give some examples of rules of inference for statements in the language of
 
  * (**A** and **B**) entails **A**.
  * (**A** and **B**) entails **B**.
- * **A**, **B** entail (**A** and **B**).
+ * **A**, **B** entails (**A** and **B**).
  * **A** entails (**A** or **B**).
  * **B** entails (**A** or **B**).
- * (if **A** then **B**), **A** entail **B**.
+ * (if **A** then **B**), **A** entails **B**.
 
 The statement of each of these rules consists of: a sequence of statement forms, the word "entails," and a single statement form at the end. By a "statement form," I mean a first-order logic statement with meta-variables (**A** and **B** in these examples) holding the place of some parts of the statement.
 
