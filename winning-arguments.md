@@ -1544,11 +1544,20 @@ The syntax of first-order logic is specially chosen to make standard rules of lo
 
 There is a standard, widely accepted answer to what rules of logical inference are valid for first-order logic. This answer is a set of rules called **classical first-order logic**, or **classical logic** as we shall abbreviate it. There is controversy among academic logicians about whether all the rules of classical logic are valid. Few logicians think there are any valid rules of inference for first-order logic that are not part of classical logic. A greater number of logicians think that not all rules of classical logic are valid. It should be noted that the logicians in this debate employ various definitions of "valid" which may not always coincide.
 
-We will start our way into this central debate in the study of logic by stating the rules of classical logic.
+We will start our way into this central debate in the study of logic by looking at the rules of classical logic.
 
-There are infinitely many rules of inference or argument forms that are valid according to classical logic. In order to present the rules of classical logic in a finite amount of space, we need to use abstraction.
+There are infinitely many rules of inference or argument forms that are valid according to classical logic. In order to describe the rules of classical logic in a finite amount of space, we need to use abstraction.
 
-The way the rules of classical logic are conventionally presented is by giving a finite number of rules which allow all of the valid rules of inference or argument forms to be generated. There are a variety of ways of doing this: via [natural deduction](https://en.wikipedia.org/wiki/Natural_deduction) systems, via [sequent calculi](https://en.wikipedia.org/wiki/Sequent_calculus). Here we will do an informal presentation which is in essence a sequent calculus.
+The way the rules of classical logic are conventionally presented is by giving a finite number of rules which allow all of the valid rules of inference or argument forms to be generated. There are a variety of ways of doing this: via [natural deduction](https://en.wikipedia.org/wiki/Natural_deduction) systems, via [sequent calculi](https://en.wikipedia.org/wiki/Sequent_calculus). Here I will do an informal presentation which is in essence a sequent calculus.
+
+In order to give my presentation of the rules of classical logic, I need to introduce a new concept: the concept of a **meta-rule of logical inference**, or **meta-argument form**. A meta-rule of logical inference states that if a set of arguments of certain argument forms are valid, then another argument of another argument form is valid. Here is an example of a meta-rule of inference:
+
+(**A1**,...,**An**,**B** entails **C**) entails (**A1**,...,**An** entails (if **B** then **C**))
+
+This meta-rule of inference says that if you have a valid argument proceeding from some premises, including **B**, to **C**, then you get another valid argument by removing **B** from the premises and changing the conclusion to (if **B** then **C**).
+
+In the meta-rule above, the notation **A1**,...,**An** stands for any finite sequence of statements. **n** is supposed to be a variable standing for a number. **n** could be zero, in which case this denotes an empty sequence of statements. **n** could also be one, or any higher number.
+
 
 TODO
 
