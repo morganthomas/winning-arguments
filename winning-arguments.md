@@ -1542,7 +1542,7 @@ What language we choose for our investigation is not an entirely neutral choice.
 
 The syntax of first-order logic is specially chosen to make the standard rules of logical inference easily expressible. First-order logic is as complex as necessary to define enough rules of logical inference to do all of mathematics, but not more complex than necessary to accomplish this. Therefore we can feel good about our choice of language for investigating rules of logical inference.
 
-There is a standard, widely accepted answer to what rules of logical inference are valid for first-order logic. This answer is a set of rules called **classical first-order logic**, or **classical logic** as we shall abbreviate it. There is controversy among academic philosophers about whether all the rules of classical logic are valid. Few think there are any valid rules of inference for first-order logic that are not part of classical logic. A greater number think that not all rules of classical logic are valid.
+There is a standard, widely accepted answer to what rules of logical inference are valid for first-order logic. This answer is a set of rules called **classical first-order logic**, or **classical logic** as we shall abbreviate it. There is controversy among academic logicians about whether all the rules of classical logic are valid. Few think there are any valid rules of inference for first-order logic that are not part of classical logic. A greater number think that not all rules of classical logic are valid.
 
 TODO
 
