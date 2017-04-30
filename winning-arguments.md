@@ -1536,7 +1536,11 @@ I will call an argument form **valid** for a given person if and only if there a
 
 When an argument form is valid for people in general, we will call it simply "valid." "(**A** and **B**) entails **A**" is an example of a valid argument form. We can also call it a valid rule of logical inference, since every argument form is a rule of logical inference and vice versa.
 
-We are now in a position to articulate our main question about logic. **What rules of logical inference are valid?**
+We are now in a position to articulate our main question about logic. **What rules of logical inference are valid?** This question is implicitly relative to some language. We will use the language of first order logic for our investigation.
+
+What language we choose for our investigation is not an entirely neutral choice. When we give formal definitions of rules of inference for a formal language, the syntax of the language imposes constraints on the rules we can straightforwardly formulate. For example, in [second-order logic](https://en.wikipedia.org/wiki/Second-order_logic) we can easily express rules of inference that have no straightforward expression in first-order logic.
+
+The syntax of first-order logic is specially chosen to make the standard rules of logical inference easily expressible. First-order logic is as complex as necessary to define enough rules of logical inference to do all of mathematics, but not more complex than necessary to accomplish this.
 
 TODO
 
