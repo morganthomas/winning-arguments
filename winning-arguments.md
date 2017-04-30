@@ -1548,7 +1548,7 @@ We will start our way into this central debate in the study of logic by stating 
 
 There are infinitely many rules of inference or argument forms that are valid according to classical logic. In order to present the rules of classical logic in a finite amount of space, we need to use abstraction.
 
-The way the rules of classical logic are conventionally presented is by giving a finite number of rules which allow all of the valid rules of inference or argument forms to be generated. There are a variety of ways of doing this: via [natural deduction](https://en.wikipedia.org/wiki/Natural_deduction) systems, via [sequent calculi](https://en.wikipedia.org/wiki/Sequent_calculus). Here we will do an informal presentation which is essence a sequent calculus.
+The way the rules of classical logic are conventionally presented is by giving a finite number of rules which allow all of the valid rules of inference or argument forms to be generated. There are a variety of ways of doing this: via [natural deduction](https://en.wikipedia.org/wiki/Natural_deduction) systems, via [sequent calculi](https://en.wikipedia.org/wiki/Sequent_calculus). Here we will do an informal presentation which is in essence a sequent calculus.
 
 TODO
 
