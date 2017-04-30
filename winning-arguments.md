@@ -1536,6 +1536,8 @@ I will call an argument form **valid** for a given person if and only if there a
 
 When an argument form is valid for people in general, we will call it simply "valid." "(**A** and **B**) entails **A**" is an example of a valid argument form. We can also call it a valid rule of logical inference, since every argument form is a rule of logical inference and vice versa.
 
+We are now in a position to articulate our main question about logic. What rules of logical inference are valid?
+
 TODO
 
 ## Fallacies
