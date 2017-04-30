@@ -1522,7 +1522,7 @@ The beauty of logic is that by chaining together long sequences of applications 
 
 Rules of logical inference can also be called **argument forms**. The term "argument form" is somewhat more neutral in that "rule of inference" may carry the connotation "correct rule of inference" to many listeners, whereas the term "argument form" more explicitly encompasses incorrect rules of inference as well as correct ones. Again, though, both terms literally mean the same thing, as I am using them.
 
-A **case** of an argument form is a set of expressions to fill in the spaces held by meta-variables in the argument form. For example, in the argument form "(**A** and **B**) entails **A**," the spaces held by meta-variables are the spaces held by **A** and **B**. Here are some cases of this argument form:
+A **case** of an argument form is an argument resulting from substituting concrete expressions for the meta-variables in the argument form. For example, in the argument form "(**A** and **B**) entails **A**," the spaces held by meta-variables are the spaces held by **A** and **B**. Here are some cases of this argument form:
 
 * (Spot is a dog and Spot runs) entails Spot is a dog.
 * (Barack Obama is POTUS and POTUS is male) entails Barack Obama is POTUS.
