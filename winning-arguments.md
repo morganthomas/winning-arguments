@@ -1540,7 +1540,7 @@ We are now in a position to articulate our main question about logic. **What rul
 
 What language we choose for our investigation is not an entirely neutral choice. When we give formal definitions of rules of inference for a formal language, the syntax of the language imposes constraints on the rules we can straightforwardly formulate. For example, in [second-order logic](https://en.wikipedia.org/wiki/Second-order_logic) we can easily express rules of inference that have no straightforward expression in first-order logic.
 
-The syntax of first-order logic is specially chosen to make the standard rules of logical inference easily expressible. First-order logic is as complex as necessary to define enough rules of logical inference to do all of mathematics, but not more complex than necessary to accomplish this.
+The syntax of first-order logic is specially chosen to make the standard rules of logical inference easily expressible. First-order logic is as complex as necessary to define enough rules of logical inference to do all of mathematics, but not more complex than necessary to accomplish this. Therefore we can feel good about our choice of language for investigating rules of logical inference.
 
 TODO
 
