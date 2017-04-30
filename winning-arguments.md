@@ -1534,7 +1534,7 @@ Here are some non-examples of cases of this argument form:
 
 I will call an argument form **valid** for a given person if and only if there are no **counterexamples** to the rule for that person. A counterexample to an argument form for a given person is a (hypothetical or real) truth-seeking debate context and a case of the argument form where they consider the premises warranted assertible and don't consider the conclusion warranted assertible. I will only consider a counterexample to an argument form to be genuine if even after participating in thorough discussion and evidencing a good understanding of the relevant issues, the person with the counterexample still finds the premises warranted assertible and the conclusion not warranted assertible.
 
-
+When an argument form is valid for people in general, we will call it simply "valid." "(**A** and **B**) entails **A**" is an example of a valid argument form or rule of logical inference.
 
 TODO
 
