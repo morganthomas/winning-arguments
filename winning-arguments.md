@@ -1671,10 +1671,7 @@ I will explain the thought process that I used to arrive at this proof, and unpa
 
 In this presentation of classical logic, every proof that a sequent is valid must start by invoking the rule of non-contradiction. Recall that the rule of non-contradiction is the rule that for all statements **A**, the sequent (**A** entails **A**) is valid, or in other words it is incoherent to assert and deny a statement at the same time.
 
-The rule of non-contradiction is the only rule we have which allows one to conclude that a sequent is valid without having previously concluded that some other sequent is valid. Except for the rule of non-contradiction, all of the rules we have are of the form "if one or more sequents of a given form are valid, then one or more related sequents of a different form are valid." To use the other rules besides non-contradiction, one must have some sequents that are valid already at hand. Originally they always come from the rule of non-contradiction.
-
-
-
+The rule of non-contradiction is the only rule we have which allows one to conclude that a sequent is valid without having previously concluded that some other sequent is valid. Except for the rule of non-contradiction, all of the rules we have are of the form "if one or more sequents of a given form are valid, then one or more related sequents of a different form are valid." To use the other rules besides non-contradiction, one must have some sequents that are valid already at hand. Originally they always come from the rule of non-contradiction. These considerations told me that for sure, my proof was going to start with an invocation of the rule of non-contradiction.
 
 
 TODO
