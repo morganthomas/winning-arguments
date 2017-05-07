@@ -1628,6 +1628,8 @@ The following rules in classical logic are related to the existential quantifier
 
 The structural rules in classical logic are rules of inference that tell us that manipulating the structure of valid sequents in certain ways always yields other valid sequents. In summary, these rules tell us two thinsg. First, that we can add premises and conclusions to a valid sequent to get another valid sequent; this is because adding more assertions or denials to an incoherent set of assertions or denials will never make it coherent. Second, that order and repetition of the assertions and denials does not matter for coherence.
 
+The following are the structural rules of classical logic.
+
 13. **Weakening.** 
 
 TODO
