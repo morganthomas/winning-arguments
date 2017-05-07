@@ -1679,7 +1679,7 @@ The conclusion is a rather long first-order logic statement, and it contains det
 
 Notice that, with the exceptions of non-contradiction and cut, all of the rules of our system build more complex statements out of simpler statements. For instance, rule 2, assertion strengthening, lets us go from **A** to (**A** and **D**) or (**D** and **A**). Rule 8, negation denial, lets us go from assertion of **A** to denial of (not **A**). Each rule of our system (with the exceptions of non-contradiction and cut) builds one new statement with one new logical connective that wasn't there in the premises of the rule.
 
-We would like to start working backwards towards a completed proof by finding one or more valid sequents which let us derive the conclusion in one step, applying one rule of our system. Because of what our rules do, our objective is to find premises which let us build the outermost logical connective of one of the statements in our conclusion.
+We would like to start working backwards towards the completion of our proof by finding one or more valid sequents which let us derive the conclusion in one step, applying one rule of our system. Because of what our rules do, our objective is to find premises which let us build the outermost logical connective of one of the statements in our conclusion.
 
 In this case we have only one option. We must attempt to build the "for all" quantifier in the statement (for all *x*, (if P*x* then Q*x*)). This is the only statement in our conclusion sequent that has any logical connectives to build.
 
