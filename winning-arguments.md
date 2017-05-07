@@ -1667,6 +1667,8 @@ Consider the following classic argument. Socrates is a man, and all men are mort
 3. The rule of conditional assertion and steps 1 and 2 imply that ((Socrates is a man), (if (Socrates is a man) then (Socrates is mortal)) entails (Socrates is mortal)) is a valid sequent.
 4. The rule counterexample and step 3 imply that ((Socrates is a man), (for all *x*, (if *x* is a man then *x* is mortal)) entails (Socrates is mortal)) is a valid sequent.
 
+I will explain the thought process that I used to arrive at this proof. 
+
 
 
 
