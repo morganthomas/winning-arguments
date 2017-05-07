@@ -1564,7 +1564,7 @@ A sequent (**A1**,...,**An** entails **B1**,...,**Bm**) should be interpreted fo
 
 The sequent ((Pa and Pb) entails Pa) is valid. It states that it is incoherent to assert (Pa and Pb) while denying Pa.
 
-The sequent ((Pa or Pb) entails Pa, Pb) is valid. It states that it is incoherent to assert (Pa or Pb) while denying Pa and Pb.
+The sequent ((Pa or Pb) entails Pa, Pb) is valid. It states that it is incoherent to assert (Pa or Pb) while denying both Pa and Pb.
 
 We have finished introducing the notion of multiple conclusion sequents. 
 
