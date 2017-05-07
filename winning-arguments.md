@@ -1550,7 +1550,7 @@ There are infinitely many rules of inference or argument forms that are valid ac
 
 The way the rules of classical logic are conventionally presented is by giving a finite number of rules which allow all of the valid rules of inference or argument forms to be generated. There are a variety of ways of doing this: via [natural deduction](https://en.wikipedia.org/wiki/Natural_deduction) systems, via [sequent calculi](https://en.wikipedia.org/wiki/Sequent_calculus). Here I will do an informal presentation of a sequent calculus formulation of the rules of classical first order logic.
 
-My presentation is most closely based on the style of presentation of first-order logic articulated in [Dave Ripley's](http://davewripley.rocks/) graduate philosophical logic course taught in spring 2014 at the University of Connecticut. Credit for the original conception of the rules of classical first-order logic is best claimed by Gottlob Frege as far as I'm aware.
+My presentation is most closely based on the style of presentation of first-order logic articulated in [Dave Ripley's](http://davewripley.rocks/) graduate philosophical logic course taught in spring 2014 at the University of Connecticut. Credit for the original conception of the rules of classical first-order logic is best claimed by Gottlob Frege, as far as I'm aware.
 
 This presentation requires a concept that is new for us: the concept of multiple-conclusion sequents.
 
@@ -1565,6 +1565,8 @@ A sequent (**A1**,...,**An** entails **B1**,...,**Bm**) should be interpreted fo
 The sequent ((Pa and Pb) entails Pa) is valid. It states that it is incoherent to assert (Pa and Pb) while denying Pa.
 
 The sequent ((Pa or Pb) entails Pa, Pb) is valid. It states that it is incoherent to assert (Pa or Pb) while denying both Pa and Pb.
+
+This interpretation of the meaning of multiple conclusion sequents was taught to me by Dave Ripley, and as far as I know he is responsible for conceiving it.
 
 We have finished introducing the notion of multiple conclusion sequents. Let us proceed to the rules of classical logic.
 
@@ -1613,6 +1615,12 @@ The following rules in classical logic are related the universal quantifier ("fo
 9. **Counterexample.** Suppose (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**) is a valid sequent. Then (**A1**,...,**An**, (for all **x**, **B**) entails **C1**,...,**Cn**) is a valid sequent. This rule states that if it is incoherent to assert **B** for one specific possible value of **x** (denoted by **t**), then it is incoherent to assert the universal generalization (for all **x**, **B**). In short, *it is incoherent to assert any universal generalization that has a counterexample.*
 
 10. **Universal generalization.** Suppose (**A1**,...,**An** entails **B**[**x** -> **y**], **C1**,...,**Cn**) is a valid sequent, and that **y** does not occur as a free variable in any of the statements **A1**,...,**An**, **C1**,...,**Cn**. Then (**A1**,...,**An** entails (for all **x**, **B**), **C1**,...,**Cn**) is a valid sequent. The assumption that **y** does not occur as a free variable in any of the side premises **A1**,...,**An**, **C1**,...,**Cn** is a way of capturing the idea that **y** is a variable that could potentially refer to any object. The rule of universal generalization states in essence that *if it is incoherent to deny **B** for an arbitrary object, then it is incoherent to deny (for all **x**, **B**).*
+
+**Existential quantifier rules**
+
+The following rules in classical logic are related to the existential quantifier ("for some"). 
+
+11. 
 
 TODO
 
