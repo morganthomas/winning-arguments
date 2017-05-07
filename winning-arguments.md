@@ -1717,6 +1717,35 @@ We can match our goal sequent against the form of the conclusion sequent as foll
 
 We need to produce two premise sequents which the rule of conditional assertion will turn into our goal sequent. One of them will contain the assertions **A1**,...,**An** and the denials **C1**,...,**Cm**. The other will contain the assertions **D1**,...,**Dk** and the denials **F1**,...,**Fj**. In this case, we know that the combined sequence of assertions **A1**,...,**An**, **D1**,...,**Dk** is equal to the one-element sequence containing just "Pa." So Pa goes into either the **A** sequence or the **D** sequence, but we need to decide which. Similarly, Qa goes into either the **C** sequence or the **F** sequence, but we need to decide which.
 
+Let's set that issue aside for the moment and state what we know about the forms our premises need to have. We are settled that **B** = Pa and **E** = Qa, so we can write our needed premises in this way:
+
+* (**A1**,...,**An** entails Pa, **C1**,...,**Cm**)
+* (**D1**,...,**Dk**, Qa entails **F1**,...,**Fj**)
+
+Should Pa go into the **A** sequence or the **D** sequence? Should Qa go into the **C** sequence or the **F** sequence? If we put Pa in the **A** sequence and Qa in the **F** sequence, then both our premises become instances of the rule of non-contradiction:
+
+* (Pa entails Pa)
+* (Qa entails Qa)
+
+So that is what we should do, and we have reached the beginning of our proof. Let's now write out the steps in forwards order instead of backwards order:
+
+1. (Pa entails Pa) is valid, by the law of non-contradiction.
+2. (Qa entails Qa) is valid, by the law of non-contradiction.
+3. (Pa, (if Pa then Qa) entails Qa) is valid, by the law of conditional assertion and steps 1 and 2.
+4. (Pa, (for all *x*, (if Pa then Qa)) entails Qa) is valid, by the law of counterexample and step 3.
+
+Let's now write the finished version of the proof by substituting back the original English terms:
+
+* P stands for "is a man."
+* Q stands for "is mortal."
+* a stands for "Socrates."
+
+This gives us the following proof.
+
+1. ((Socrates is a man) entails (Socrates is a man)) is valid, by the law of non-contradiction.
+2. ((Socrates is mortal) entails (Socrates is mortal)) is valid, by the law of non-contradiction.
+3. ((Socrates is a man), (if (Socrates is a man) then (Socrates is mortal)) entails (Socrates is mortal)) is valid, by the law of conditional assertion and steps 1 and 2.
+4. ((Socrates is a man), (for all *x*, (if (*x* is a man) then (*x* is mortal))) entails (Socrates is mortal)) is valid, by the law of counterexample and step 3.
 
 TODO
 
