@@ -1658,6 +1658,8 @@ The most impressive example of the usefulness of logic is in math. Every mathema
 
 Logic is also indispensable in philosophy, and in any area of serious, truth-seeking human thought. The rules of logic are the most reliable generally accepted principles of reasoning that humans have.
 
+The reason rules of logic are useful is that they can be chained together to form interesting arguments. Let's examine how this is done in the case of classical first-order logic as I have presented it.
+
 TODO
 
 ## Fallacies
