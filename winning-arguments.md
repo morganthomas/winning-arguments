@@ -1751,9 +1751,9 @@ To sum up, the classic argument we have analyzed is valid according to classical
 
 The basic proof construction techniques that we have introduced in the context of this argument can be applied to construct arbitrarily complex proofs of the validity of valid first-order logic sequents. To go deeper into this topic, I refer you to the exercises. TODO: exercises
 
-That completes our introduction to how to use the rules of classical first-order logic. We can use the rules of logic to establish that sets of assertions and denials are incoherent. The rules of classical logic generate an infinite set of valid sequents which describe what sets of assertions and denials are incoherent according to classical logic. How correct are the rules?
+That completes our introduction to how to use the rules of classical first-order logic. We can use the rules of logic to establish that sets of assertions and denials are incoherent. The rules of classical logic generate an infinite set of valid sequents which describe what sets of assertions and denials are incoherent according to classical logic.
 
-Given the complexity of the rules themselves and the trouble that has been involved in describing them, this may appear to be a difficult question. It is. Let's get started.
+How correct are the rules of classical logic? Given the complexity of the rules themselves and the trouble that has been involved in describing them, this may appear to be a difficult question. It is. Let's get started.
 
 TODO
 
