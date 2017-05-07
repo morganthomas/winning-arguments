@@ -1654,7 +1654,7 @@ As I have stated before, it is a matter of controversy among logicians whether a
 
 Each of these rules states a very basic principle about what kinds of sets of assertions and denials are incoherent. Most of them are so obvious as to appear trivial, perhaps trivial to the extent of near-pointlessness. The reason that rules of logic are useful and allow us to arrive at surprising, non-obvious conclusions is that this can be accomplished by chaining together long sequences of applications of rules of logic.
 
-The most impressive example of the usefulness of logic is in math. Every mathematical statement that is true according to the consensus of mathematics can be arrived at by applying the rules of first order logic we have presented to derive progressively more conclusions from a widely accepted set of basic axioms, such as the axioms of [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory).
+The most impressive example of the usefulness of logic is in math. Every mathematical statement that is true according to the consensus of mathematics can be arrived at by applying the rules of first order logic we have presented to derive progressively more conclusions from a widely accepted set of basic axioms, such as the axioms of [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory). Higher mathematicians build ever more complex towers of thought, exploring an infinite space of true mathematical thoughts; this can be indefinitely without ever needing to add more axioms.
 
 TODO
 
