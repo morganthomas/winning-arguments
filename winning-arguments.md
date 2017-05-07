@@ -1572,7 +1572,9 @@ The rules of classical logic are the rules that state what sequents are valid ac
 
 The first rule of classical logic states that any statement entails itself. For any statement **A**, (**A** entails **A**) is a valid sequent. This sequent states that it is incoherent to assert **A** and deny **A** at the same time.
 
-The following rules in classical logic are related to conjunction. If (**A1**,...,**An**, **B**  entails **C1**,...,**Cm**) is a valid sequent, then (**A1**,...,**An**, (**B** and **D**) entails **C1,...,**Cm**) is a valid sequent. What changes between the "if" sequent and the "then" sequent is that **B** is replaced with (**B** and **D**). In other words, given an incoherent set of assertions and denials including the assertion of **B**, strengthening **B** to (**B** and **D**) gives you another incoherent set of assertions.
+The following rules in classical logic are related to conjunction.
+
+1. **Assertion strengthening.** If (**A1**,...,**An**, **B**  entails **C1**,...,**Cm**) is a valid sequent, then (**A1**,...,**An**, (**B** and **D**) entails **C1,...,**Cm**) is a valid sequent. What changes between the "if" sequent and the "then" sequent is that **B** is replaced with (**B** and **D**). In other words, given an incoherent set of assertions and denials including the assertion of **B**, strengthening **B** to (**B** and **D**) gives you another incoherent set of assertions. In a second version of this rule which is also a rule of classical logic, (**B** and **D**) is replaced with (**D** and **B**).
 
 TODO
 
