@@ -1662,10 +1662,10 @@ The reason rules of logic are useful is that they can be chained together to for
 
 Consider the following classic argument. Socrates is a man, and all men are mortal; therefore, Socrates is mortal. We can symbolize this argument as a sequent as follows: (Socrates is a man, (for all *x*, (if *x* is a man then *x* is mortal)) entails (Socrates is mortal)). This is a valid sequent/argument. Let's see how we can prove its validity according to the rules of classical logic.
 
-1. The rule of non-contradiction implies that ((Socrates is a man) entails (Socrates is a man)) is a valid sequent.
-2. The rule of non-contradiction implies that ((Socrates is mortal) entails (Socrates is mortal)) is a valid sequent.
-3. The rule of conditional assertion and steps 1 and 2 imply that ((Socrates is a man), (if (Socrates is a man) then (Socrates is mortal)) entails (Socrates is mortal)) is a valid sequent.
-4. The rule counterexample and step 3 imply that ((Socrates is a man), (for all *x*, (if *x* is a man then *x* is mortal)) entails (Socrates is mortal)) is a valid sequent.
+1. The rule of non-contradiction implies that this is a valid sequent: ((Socrates is a man) entails (Socrates is a man)).
+2. The rule of non-contradiction implies that this is a valid sequent: ((Socrates is mortal) entails (Socrates is mortal)).
+3. The rule of conditional assertion and steps 1 and 2 imply that this is a valid sequent: ((Socrates is a man), (if (Socrates is a man) then (Socrates is mortal)) entails (Socrates is mortal)).
+4. The rule of counterexample and step 3 imply that this is a valid sequent: ((Socrates is a man), (for all *x*, (if *x* is a man then *x* is mortal)) entails (Socrates is mortal)).
 
 I will explain the thought process that I used to arrive at this proof, and unpack why the proof is correct.
 
