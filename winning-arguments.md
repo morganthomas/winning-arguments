@@ -1596,6 +1596,14 @@ The following rules in classical logic are related to the conditional ("if/then"
 
 6. **Conditional assertion.** Suppose (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent and (**D1**,...,**Dk**, **E** entails **F1**,...,**Fj**) is a valid sequent. Then (**A1**,...,**An**, **D1**,...,**Dk**, (if **B** then **E**) entails **C1**,...,**Cm**, **F1**,...,**Fj**). A shorter (and less complete) way of stating the rule of conditional assertion is to say that *if it's incoherent to assert **E** and deny **B**, then it's incoherent to assert (if **B** then **E**).* This is one of the less intuitive rules of this presentation of classical logic. I will have more to say about it later.
 
+**Negation rules**
+
+The following rules in classical logic are related to negation ("not").
+
+7. **Negation assertion.** Suppose (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent. Then (**A1**,...,**An**, (not **B**) entails **C1**,...,**Cm**) is a valid sequent. In this rule, the denial of **B** is transformed to an assertion of (not **B**). A shorter (and less complete) way of stating the rule of negation assertion is to say that *if it's incoherent to deny **B**, then it's incoherent to assert (not **B**).*
+
+8. **Negation denial.** Suppose (**A1**,...,**An**, **B** entails **C1**,...,**Cm**) is a valid sequent. Then (**A1**,...,**An** entails (not **B**), **C1**,...,**Cm**) is a valid sequent. In this rule, the assertion of **B** is transformed to a denial of (not **B**). A shorter (and less complete) way of stating the rule of negation denial is to say that *if it's incoherent to assert **B** then it's incoherent to deny (not **B**).*
+
 TODO
 
 ## Fallacies
