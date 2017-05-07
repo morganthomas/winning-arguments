@@ -1548,21 +1548,25 @@ We will start our way into this central debate in the study of logic by looking 
 
 There are infinitely many rules of inference or argument forms that are valid according to classical logic. In order to describe the rules of classical logic in a finite amount of space, we need to use abstraction.
 
-The way the rules of classical logic are conventionally presented is by giving a finite number of rules which allow all of the valid rules of inference or argument forms to be generated. There are a variety of ways of doing this: via [natural deduction](https://en.wikipedia.org/wiki/Natural_deduction) systems, via [sequent calculi](https://en.wikipedia.org/wiki/Sequent_calculus). Here I will do an informal presentation which is in essence a sequent calculus.
+The way the rules of classical logic are conventionally presented is by giving a finite number of rules which allow all of the valid rules of inference or argument forms to be generated. There are a variety of ways of doing this: via [natural deduction](https://en.wikipedia.org/wiki/Natural_deduction) systems, via [sequent calculi](https://en.wikipedia.org/wiki/Sequent_calculus). Here I will do an informal presentation of a sequent calculus formulation of the rules of classical first order logic.
 
-In order to give my presentation of the rules of classical logic, I need to introduce a new concept: the concept of a **meta-rule of logical inference**, or **meta-argument form**. A meta-rule of logical inference states that if a set of arguments of certain argument forms are valid, then another argument of another argument form is valid. Here is an example of a meta-rule of inference:
+My presentation is most closely based on the style of presentation of first-order logic articulated in [Dave Ripley's](http://davewripley.rocks/) graduate philosophical logic course taught in spring 2014 at the University of Connecticut. Credit for the original conception of the rules of classical first-order logic is best claimed by Gottlob Frege as far as I'm aware.
 
-(**A1**,...,**An**,**B** entails **C**) entails (**A1**,...,**An** entails (if **B** then **C**))
+This presentation requires a concept that is new for us: the concept of multiple-conclusion sequents.
 
-This meta-rule of inference says that if you have a valid argument proceeding from some premises, including **B**, to **C**, then you get another valid argument by removing **B** from the premises and changing the conclusion to (if **B** then **C**).
+A **sequent** is simply an entailment between first order logic statements. ((Pa and Pb) entails Pa) is an example of a sequent.
 
-In the meta-rule above, the notation **A1**,...,**An** stands for any finite sequence of statements. **n** is supposed to be a variable standing for a number. **n** could be zero, in which case this denotes an empty sequence of statements. **n** could also be one, or any higher number.
+A **multiple-conclusion sequent** is one with multiple conclusions. ((Pa or Pb) entails Pa, Pb) is an example of a multiple-conclusion sequent. In general, a multiple-conclusion sequent has the form (**A1**,...,**An** entails **B1**,...,**Bm**).
 
-We proceed to a statement of the rules of classical logic.
+The notation **A1**,...,**An** stands for any finite sequence of statements. **n** is supposed to be a variable standing for a number. **n** could be zero, in which case this denotes an empty sequence of statements. **n** could also be one, or any higher number. **B1**,...,**Bm** is another instance of the same notation. Of course the sequences **A1**,...,**An** and **B1**,...,**Bm** may be of different length. A multiple conclusion sequent has zero or **premises** and zero or more **conclusions**. Our presentation of classical logic is based on multiple conclusion sequents, so henceforth "sequent" is short for "multiple-conclusion sequent."
 
-1. **Conjunction introduction.**
+A sequent (**A1**,...,**An** entails **B1**,...,**Bm**) should be interpreted for our purposes as stating that it is incoherent to assert all of **A1**, ..., **An** and to deny all of **B1**, ..., **Bm** at the same time. If what the sequent states is true, we say that the sequent is **valid**.
 
-(**A1**, ..., **An** entails **B**), (**A1**, ..., **An** entails **C**) entails (**A1**, ..., **An** entails (**B** and **C**))
+The sequent ((Pa and Pb) entails Pa) is valid. It states that it is incoherent to assert (Pa and Pb) while denying Pa.
+
+The sequent ((Pa or Pb) entails Pa, Pb) is valid. It states that it is incoherent to assert (Pa or Pb) while denying Pa and Pb.
+
+We have finished introducing the notion of multiple conclusion sequents. 
 
 TODO
 
