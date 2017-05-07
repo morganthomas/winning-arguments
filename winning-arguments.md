@@ -1606,6 +1606,12 @@ The following rules in classical logic are related to negation ("not").
 
 8. **Negation denial.** Suppose (**A1**,...,**An**, **B** entails **C1**,...,**Cm**) is a valid sequent. Then (**A1**,...,**An** entails (not **B**), **C1**,...,**Cm**) is a valid sequent. In this rule, the assertion of **B** is transformed to a denial of (not **B**). A shorter (and less complete) way of stating the rule of negation denial is to say that *if it's incoherent to assert **B** then it's incoherent to deny (not **B**).*
 
+**Universal quantifier rules**
+
+The following rules in classical logic are related the universal quantifier ("for all"). Stating these rules requires introducing a new notation. For any statement **A**, any variable name **x**, and any object term **t**, let **A**[**x** -> **t**] denote the statement resulting from replacing all instances of **x** in **A** with **t**.
+
+9. **Counterexample.** Suppose (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**) is a valid sequent. Then (**A1**,...,**An**, (for all **x**, **A**) entails **C1**,...,**Cn**) is a valid sequent.
+
 TODO
 
 ## Fallacies
