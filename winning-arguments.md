@@ -1610,7 +1610,9 @@ The following rules in classical logic are related to negation ("not").
 
 The following rules in classical logic are related the universal quantifier ("for all"). Stating these rules requires introducing a new notation. For any statement **A**, any variable name **x**, and any object term **t**, let **A**[**x** -> **t**] denote the statement resulting from replacing all instances of **x** in **A** with **t**.
 
-9. **Counterexample.** Suppose (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**) is a valid sequent. Then (**A1**,...,**An**, (for all **x**, **A**) entails **C1**,...,**Cn**) is a valid sequent.
+9. **Counterexample.** Suppose (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**) is a valid sequent. Then (**A1**,...,**An**, (for all **x**, **B**) entails **C1**,...,**Cn**) is a valid sequent. This rule states that if it is incoherent to assert **B** for one specific possible value of **x** (denoted by **t**), then it is incoherent to assert the universal generalization (for all **x**, **B**). In short, *it is incoherent to assert any universal generalization that has a counterexample.*
+
+10. **Universal generalization.** 
 
 TODO
 
