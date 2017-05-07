@@ -1652,7 +1652,7 @@ That completes my presentation of the rules of classical first order logic. For 
 
 As I have stated before, it is a matter of controversy among logicians whether all the rules of classical logic are correct in all contexts. Before we survey that very intricate debate, I would like to explain how these rules can be used.
 
-
+Each of these rules states a very basic principle about what kinds of sets of assertions and denials are incoherent. Most of them are so obvious as to appear trivial, perhaps trivial to the extent of near-pointlessness. The reason that rules of logic are useful and allow us to arrive at surprising, non-obvious conclusions is that this can be accomplished by chaining together long sequences of applications of rules of logic.
 
 TODO
 
