@@ -1574,7 +1574,9 @@ The first rule of classical logic states that any statement entails itself. For 
 
 The following rules in classical logic are related to conjunction.
 
-1. **Assertion strengthening.** If (**A1**,...,**An**, **B**  entails **C1**,...,**Cm**) is a valid sequent, then (**A1**,...,**An**, (**B** and **D**) entails **C1,...,**Cm**) is a valid sequent. What changes between the "if" sequent and the "then" sequent is that **B** is replaced with (**B** and **D**). In other words, given an incoherent set of assertions and denials including the assertion of **B**, strengthening **B** to (**B** and **D**) gives you another incoherent set of assertions. In a second version of this rule which is also a rule of classical logic, (**B** and **D**) is replaced with (**D** and **B**).
+1. **Assertion strengthening.** Suppose (**A1**,...,**An**, **B**  entails **C1**,...,**Cm**) is a valid sequent. Then (**A1**,...,**An**, (**B** and **D**) entails **C1,...,**Cm**) is a valid sequent. What changes between the "suppose" sequent and the "then" sequent is that **B** is replaced with (**B** and **D**). In other words, given an incoherent set of assertions and denials including the assertion of **B**, strengthening **B** to (**B** and **D**) gives you another incoherent set of assertions and denials. In a second version of this rule which is also a rule of classical logic, (**B** and **D**) is replaced with (**D** and **B**).
+
+2. **Denial strengthening.** Suppose (**A1**,...,**An* entails **B**, **C1**,...,**Cm**) is a valid sequent, and (**D1,...,**Dk** entails **E**, **F1**,...,**Fj**) is a valid sequent. Then (**A1**,...,**An**,**D1**,...,**Dk** entails (**B** and **E**), **C1**,...,**Cm**,**F1**,...,**Fj**) is a valid sequent.
 
 TODO
 
