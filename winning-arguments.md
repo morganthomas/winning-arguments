@@ -1560,7 +1560,7 @@ In the meta-rule above, the notation **A1**,...,**An** stands for any finite seq
 
 We proceed to a statement of the rules of classical logic.
 
-1. **Conjunction introduction.** (**A1**,...,**An**,**B**,**C**) entails (**B** and **C**)
+1. **Conjunction introduction.** (**A1**, ..., **An** entails **B**), (**A1**, ..., **An** entails **C**) entails (**A1**, ..., **An** entails (**B** and **C**))
 
 TODO
 
