@@ -1700,7 +1700,7 @@ Substituting these variables into the form of the premise of the rule of counter
 
 for some object term **t**. **t** is the only variable that's in the premise form of the rule of counterexample and not in the conclusion form. We need to pick a value for **t**. A sensible guess would be to pick **t** = a. As we will now see, this choice works out and lets us complete the proof.
 
-
+The final step of the proof we are constructing is to invoke the rule of counterexample to go from the validity of (Pa, (if Pa then Qa) entails Qa) to the validity of (Pa, (for all *x*, (if P*x* then Q*x*)) entails Qa).
 
 TODO
 
