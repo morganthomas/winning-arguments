@@ -1687,10 +1687,10 @@ We know that the rule we need employ is one of the universal quantifier rules. S
 
 Let's find that by matching our conclusion sequent against the form of the conclusion of the rule of counterexample. The form of the conclusion of the rule of counterexample is (**A1**,...,**An**, (for all **x**, **B**) entails **C1**,...,**Cn**). Our desired conclusion instantiates this form as follows:
 
-**A1**,...,**An** = Pa
-**x** = *x*
-**B** = (if P*x* then Q*x*)
-**C1**,...,**Cn** = Qa
+* **A1**,...,**An** = Pa
+* **x** = *x*
+* **B** = (if P*x* then Q*x*)
+* **C1**,...,**Cn** = Qa
 
 (The interesting equation **x** = *x* expresses that the meta-variable **x** is instantiated to the variable *x*.)
 
@@ -1710,10 +1710,10 @@ Suppose (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent 
 
 We can match our goal sequent against the form of the conclusion sequent as follows:
 
-**A1**,...,**An**, **D1**,...,**Dk** = Pa
-**B** = Pa
-**E** = Qa
-**C1**,...,**Cm**, **F1**,...,**Fj** = Qa
+* **A1**,...,**An**, **D1**,...,**Dk** = Pa
+* **B** = Pa
+* **E** = Qa
+* **C1**,...,**Cm**, **F1**,...,**Fj** = Qa
 
 
 TODO
