@@ -1650,6 +1650,10 @@ The final structural rule in our presentation is the rule of **cut**. This rule 
 
 That completes my presentation of the rules of classical first order logic. For another presentation which is more compact and easier to survey, see [Wikipedia's presentation of the LK sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus#The_system_LK). 
 
+As I have stated before, it is a matter of controversy among logicians whether all the rules of classical logic are correct in all contexts. Before we survey that very intricate debate, I would like to explain how these rules can be used.
+
+
+
 TODO
 
 ## Fallacies
