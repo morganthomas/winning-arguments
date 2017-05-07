@@ -1673,6 +1673,10 @@ In this presentation of classical logic, every proof that a sequent is valid mus
 
 The rule of non-contradiction is the only rule we have which allows one to conclude that a sequent is valid without having previously concluded that some other sequent is valid. Except for the rule of non-contradiction, all of the rules we have are of the form "if one or more sequents of a given form are valid, then one or more related sequents of a different form are valid." To use the other rules besides non-contradiction, one must have some sequents that are valid already at hand. Originally they always come from the rule of non-contradiction. These considerations told me that for sure, my proof was going to start with an invocation of the rule of non-contradiction.
 
+A useful technique for constructing proofs that sequents are valid is to try to work backwards from the desired conclusion to the beginning of the proof. In this case, the desired conclusion is that ((Socrates is a man), (for all *x*, (if *x* is a man then *x* is mortal)) entails (Socrates is mortal)).
+
+The conclusion is a rather long first-order logic statement, and it contains details that are not necessary for the task at hand. We can simplify it and make it easier to work with by replacing the English phrases with symbols. We will symbolize the predicate "is a man" by the letter P. We will symbolize the predicate "is mortal" by the letter Q. And we will symbolize Socrates by the letter a. Then our conclusion becomes: (Pa and (for all *x*, (if P*x* then Q*x*)) entails Qa). This is a little more surveyable.
+
 
 TODO
 
