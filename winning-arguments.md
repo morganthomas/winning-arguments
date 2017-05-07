@@ -1624,6 +1624,12 @@ The following rules in classical logic are related to the existential quantifier
 
 12. **Example.** Suppose (**A1**,...,**An** entails **B**[**x** -> **t**], **C1**,...,**Cm**) is a valid sequent. Then (**A1**,...,**An** entails (for some **x**, **B**), **C1**,...,**Cm**) is a valid sequent. The rule of example states in essence that *if it is incoherent to deny **B** for some specific object, then it is incoherent to deny (for some **x**, **B**).*
 
+**Structural rules**
+
+The structural rules in classical logic are rules of inference that tell us that manipulating the structure of valid sequents in certain ways always yields other valid sequents. In summary, these rules tell us two thinsg. First, that we can add premises and conclusions to a valid sequent to get another valid sequent; this is because adding more assertions or denials to an incoherent set of assertions or denials will never make it coherent. Second, that order and repetition of the assertions and denials does not matter.
+
+13. **Weakening.** 
+
 TODO
 
 ## Fallacies
