@@ -1660,7 +1660,16 @@ Logic is also indispensable in philosophy, and in any area of serious, truth-see
 
 The reason rules of logic are useful is that they can be chained together to form interesting arguments. Let's examine how this is done in the case of classical first-order logic as I have presented it.
 
-Consider the following sequent: (P*a*, (if P*a* then P*b*) entails P*b*)
+Consider the following classic argument. Socrates is a man, and all men are mortal, therefore Socrates is mortal. We can symbolize this as a sequent as follows: (Socrates is a man, (for all *x*, (if *x* is a man then *x* is mortal)) entails (Socrates is mortal)). This is a valid sequent/argument. Let's see how we can prove its validity according to the rules of classical logic.
+
+1. The rule of non-contradiction implies that ((Socrates is a man) entails (Socrates is a man)) is a valid sequent.
+2. The rule of non-contradiction implies that ((Socrates is mortal) entails (Socrates is mortal)) is a valid sequent.
+3. The rule of conditional assertion and steps 1 and 2 imply that ((Socrates is a man), (if (Socrates is a man) then (Socrates is mortal)) entails (Socrates is mortal)) is a valid sequent.
+4. The rule counterexample and step 3 imply that ((Socrates is a man), (for all *x*, (if *x* is a man then *x* is mortal)) entails (Socrates is mortal)) is a valid sequent.
+
+
+
+
 
 TODO
 
