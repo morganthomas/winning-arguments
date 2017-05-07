@@ -1558,6 +1558,9 @@ This meta-rule of inference says that if you have a valid argument proceeding fr
 
 In the meta-rule above, the notation **A1**,...,**An** stands for any finite sequence of statements. **n** is supposed to be a variable standing for a number. **n** could be zero, in which case this denotes an empty sequence of statements. **n** could also be one, or any higher number.
 
+We proceed to a statement of the rules of classical logic.
+
+1. **Conjunction introduction.** (**A1**,...,**An**,**B**,**C**) entails (**B** and **C**)
 
 TODO
 
