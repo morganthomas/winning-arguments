@@ -1598,7 +1598,7 @@ The following rules in classical logic are related to the conditional ("if/then"
 
 5. **Conditional denial.** Suppose (**A1**,...,**An**, **B** entails **C**, **D1**,...,**Dm**) is a valid sequent. Then (**A1**,...,**An** entails (if **B** then **C**), **D1**,...,**Dm**) is a valid sequent. In this rule, the premise or assertion **B** of the sequent is moved to the conclusion or denial side as the premise of the conditional (if **B** then **C**). A shorter (and less complete) way of stating the rule of conditional denial is to say that *if it's incoherent to assert **B** and deny **C**, then it's incoherent to deny (if **B** then **C**).*
 
-6. **Conditional assertion.** Suppose (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent and (**D1**,...,**Dk**, **E** entails **F1**,...,**Fj**) is a valid sequent. Then (**A1**,...,**An**, **D1**,...,**Dk**, (if **B** then **E**) entails **C1**,...,**Cm**, **F1**,...,**Fj**). A shorter (and less complete) way of stating the rule of conditional assertion is to say that *if it's incoherent to assert **E** and deny **B**, then it's incoherent to assert (if **B** then **E**).* This is one of the less intuitive rules of this presentation of classical logic. I will have more to say about it later.
+6. **Conditional assertion.** Suppose (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent and (**D1**,...,**Dk**, **E** entails **F1**,...,**Fj**) is a valid sequent. Then (**A1**,...,**An**, **D1**,...,**Dk**, (if **B** then **E**) entails **C1**,...,**Cm**, **F1**,...,**Fj**) is a valid sequent. A shorter (and less complete) way of stating the rule of conditional assertion is to say that *if it's incoherent to assert **E** and deny **B**, then it's incoherent to assert (if **B** then **E**).* This is one of the less intuitive rules of this presentation of classical logic. I will have more to say about it later.
 
 **Negation rules**
 
@@ -1700,7 +1700,21 @@ Substituting these variables into the form of the premise of the rule of counter
 
 for some object term **t**. **t** is the only variable that's in the premise form of the rule of counterexample and not in the conclusion form. We need to pick a value for **t**. A sensible guess would be to pick **t** = a. As we will now see, this choice works out and lets us complete the proof.
 
-The final step of the proof we are constructing is to invoke the rule of counterexample to go from the validity of (Pa, (if Pa then Qa) entails Qa) to the validity of (Pa, (for all *x*, (if P*x* then Q*x*)) entails Qa).
+The final step of the proof we are constructing is to invoke the rule of counterexample to go from the validity of (Pa, (if Pa then Qa) entails Qa) to the validity of (Pa, (for all *x*, (if P*x* then Q*x*)) entails Qa). (Pa, (if Pa then Qa) entails Qa) is indeed a valid sequent, as some reflection should show. In order to complete our proof, we have to prove that it is a valid sequent. We will do this by continuing to work backwards, now trying to find a step that will let us arrive at (Pa, (if Pa then Qa) entails Qa).
+
+Our goal in this step should be to build one of the logical connectives in our goal sequent. There is only one choice: we need to build the "if/then" of the statement (if Pa then Qa). This tells us that we need to use one of the conditional rules: whichever one lets us build an assertion, since (if Pa then Qa) is an assertion in our goal sequent. Thus we need to use rule 6, the rule of conditional assertion.
+
+The rule of conditional assertion reads as follows. 
+
+Suppose (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent and (**D1**,...,**Dk**, **E** entails **F1**,...,**Fj**) is a valid sequent. Then (**A1**,...,**An**, **D1**,...,**Dk**, (if **B** then **E**) entails **C1**,...,**Cm**, **F1**,...,**Fj**) is a valid sequent.
+
+We can match our goal sequent against the form of the conclusion sequent as follows:
+
+**A1**,...,**An**, **D1**,...,**Dk** = Pa
+**B** = Pa
+**E** = Qa
+**C1**,...,**Cm**, **F1**,...,**Fj** = Qa
+
 
 TODO
 
