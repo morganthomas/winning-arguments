@@ -1570,6 +1570,8 @@ We have finished introducing the notion of multiple conclusion sequents. Let us 
 
 The rules of classical logic are the rules that state what sequents are valid according to classical logic. A sequent is valid according to classical logic if and only if it can be deduced according to these rules.
 
+**Rule of non-contradiction**
+
 The first rule of classical logic states that any statement entails itself. For any statement **A**, (**A** entails **A**) is a valid sequent. This sequent states that it is incoherent to assert **A** and deny **A** at the same time.
 
 **Conjunction rules**
