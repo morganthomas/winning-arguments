@@ -1685,6 +1685,23 @@ In this case we have only one option. We must attempt to build the "for all" qua
 
 We know that the rule we need employ is one of the universal quantifier rules. Specifically, it must be whichever of the two rules can be applied to produce assertions, since in this sequent (for all *x*, (if P*x* then Q*x*)) is an assertion. Therefore the rule we need to employ is the rule of counterexample. This tells us that the second to last step in our proof should be to derive a sequent of the form (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**), which the rule of counterexample will turn into the desired conclusion sequent, namely: (Pa, (for all *x*, (if P*x* then Q*x*)) entails Qa). 
 
+Let's find that by matching our conclusion sequent against the form of the conclusion of the rule of counterexample. The form of the conclusion of the rule of counterexample is (**A1**,...,**An**, (for all **x**, **B**) entails **C1**,...,**Cn**). Our desired conclusion instantiates this form as follows:
+
+**A1**,...,**An** = Pa
+**x** = *x*
+**B** = (if P*x* then Q*x*)
+**C1**,...,**Cn** = Qa
+
+(The interesting equation **x** = *x* expresses that the meta-variable **x** is instantiated to the variable *x*.)
+
+Substituting these variables into the form of the premise of the rule of counterexample, we can say that our premise should be of the form:
+
+(Pa, (if P**t** then Q**t**) entails Qa)
+
+for some object term **t**. **t** is the only variable that's in the premise form of the rule of counterexample and not in the conclusion form. We need to pick a value for **t**. A sensible guess would be to pick **t** = a. As we will now see, this choice works out and lets us complete the proof.
+
+
+
 TODO
 
 ## Fallacies
