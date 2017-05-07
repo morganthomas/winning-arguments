@@ -1566,7 +1566,11 @@ The sequent ((Pa and Pb) entails Pa) is valid. It states that it is incoherent t
 
 The sequent ((Pa or Pb) entails Pa, Pb) is valid. It states that it is incoherent to assert (Pa or Pb) while denying both Pa and Pb.
 
-We have finished introducing the notion of multiple conclusion sequents. 
+We have finished introducing the notion of multiple conclusion sequents. Let us proceed to the rules of classical logic.
+
+The rules of classical logic are the rules that state what sequents are valid according to classical logic. A sequent is valid according to classical logic if and only if it can be deduced according to these rules.
+
+The first rule of classical logic states that any statement entails itself. For any statement **A**, (**A** entails **A**) is a valid sequent.
 
 TODO
 
