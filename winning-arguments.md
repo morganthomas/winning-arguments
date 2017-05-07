@@ -1675,7 +1675,7 @@ The rule of non-contradiction is the only rule we have which allows one to concl
 
 A useful technique for constructing proofs that sequents are valid is to try to work backwards from the desired conclusion to the beginning of the proof. In this case, the desired conclusion is that ((Socrates is a man), (for all *x*, (if *x* is a man then *x* is mortal)) entails (Socrates is mortal)).
 
-The conclusion is a rather long first-order logic statement, and it contains details that are not necessary for the task at hand. We can simplify it and make it easier to work with by replacing the English phrases with symbols. We will symbolize the predicate "is a man" by the letter P. We will symbolize the predicate "is mortal" by the letter Q. And we will symbolize Socrates by the letter a. Then our desired conclusion becomes: (Pa, (for all *x*, (if P*x* then Q*x*)) entails Qa). This is a little more surveyable.
+The conclusion is a rather long first-order logic statement, and it contains details that are not necessary for the task at hand. We can simplify it and make it easier to work with by replacing the English phrases with symbols. We will symbolize the predicate "is a man" by the letter P. We will symbolize the predicate "is mortal" by the letter Q. And we will symbolize the object term "Socrates" by the letter a. Then our desired conclusion becomes: (Pa, (for all *x*, (if P*x* then Q*x*)) entails Qa). This is a little more surveyable.
 
 
 TODO
