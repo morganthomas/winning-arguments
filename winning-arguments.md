@@ -1715,6 +1715,8 @@ We can match our goal sequent against the form of the conclusion sequent as foll
 * **E** = Qa
 * **C1**,...,**Cm**, **F1**,...,**Fj** = Qa
 
+We need to produce two premise sequents which the rule of conditional assertion will turn into our goal sequent. One of them will contain the assertions **A1**,...,**An** and the denials **C1**,...,**Cm**. The other will contain the assertions **D1**,...,**Dk** and the denials **F1**,...,**Fj**. In this case, we know that the combined sequence of assertions **A1**,...,**An**, **D1**,...,**Dk** is equal to the one-element sequence containing just "Pa." So Pa goes into either the **A** sequence or the **D** sequence, but we need to decide which. Similarly, Qa goes into either the **C** sequence or the **F** sequence, but we need to decide which.
+
 
 TODO
 
