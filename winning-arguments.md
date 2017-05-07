@@ -1660,6 +1660,8 @@ Logic is also indispensable in philosophy, and in any area of serious, truth-see
 
 The reason rules of logic are useful is that they can be chained together to form interesting arguments. Let's examine how this is done in the case of classical first-order logic as I have presented it.
 
+Consider the following sequent: (P*a*, (if P*a* then P*b*) entails P*b*)
+
 TODO
 
 ## Fallacies
