@@ -1642,6 +1642,8 @@ From the rules of strengthening, assertion contraction, and denial contraction, 
 
 14. **Denial permutation.** Suppose (**A1**,...,**An** entails **B1**,...,**Bm**, **C**, **D**, **E1**,...,**Ek**) is a valid sequent. Then (**A1**,...,**An** entails **B1**,...,**Bm**, **D**, **C**, **E1**,...,**Ek**) is a valid sequent. What changes between the "suppose" sequent and the "then" sequent is that the order of **C**, **D** is swapped to produce **D**, **C**. The rule of denial permutation states in essence that *if a position is incoherent, then it's still incoherent after swapping the order of two denials.*
 
+From the rules of assertion permutation and denial permutation, it follows in generality that *the order of assertions and denials does not matter for coherence.* From all the structural rules together, it follows in generality that *the order and repetition of assertions and denials do not matter for coherence.*
+
 TODO
 
 ## Fallacies
