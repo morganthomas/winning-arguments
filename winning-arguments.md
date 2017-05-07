@@ -1648,7 +1648,7 @@ The final structural rule in our presentation is the rule of **cut**. This rule 
 
 15. **Cut.** Suppose that (**A1**,...,**An** entails **B1**,...,**Bm**, **C**) is a valid sequent, and that (**C**, **D1**,...,**Dk** entails **E1**,...,**Ek**) is a valid sequent. Then (**A1**,...,**An**, **D1**,...,**Dk** entails **B1**,...,**Bm**, **E1**,...,**Ek**) is a valid sequent. The cut rule is so named because the rule lets us combine two valid sequents, one with **C** in the conclusions and one with **C** in the premises, while cutting **C** out of the picture. The rule of cut states in essence that *if it's incoherent for you to assert **C** and it's incoherent for you to deny **C**, then your position is incoherent.*
 
-That completes my presentation of the rules of classical first order logic. For another presentation which is more compact and easier to survey, see [Wikipedia on the LK sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus#The_system_LK). 
+That completes my presentation of the rules of classical first order logic. For another presentation which is more compact and easier to survey, see [Wikipedia's presentation of the LK sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus#The_system_LK). 
 
 TODO
 
