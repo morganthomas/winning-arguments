@@ -1630,7 +1630,17 @@ The structural rules in classical logic are rules of inference that tell us that
 
 The following are the structural rules of classical logic.
 
-13. **Strengthening.** Suppose (**A1**,...,**An** entails **C1**,...,**Cm**) is a valid sequent. Then for any statement **B**, (**A1**,...,**An**, **B** entails **C1**,...,**Cm**) is a valid sequent, and (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent. The rule of weakening states in essence that *if your position is incoherent then your position is still incoherent if you strengthen your position by asserting **B** or denying **B**.* This rule is called "weakening" in most other presentations of classical logic.
+13. **Strengthening.** Suppose (**A1**,...,**An** entails **C1**,...,**Cm**) is a valid sequent. Then for any statement **B**, (**A1**,...,**An**, **B** entails **C1**,...,**Cm**) is a valid sequent, and (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent. The rule of strengthening states in essence that *if your position is incoherent, then your position is still incoherent if you strengthen it by asserting **B** or denying **B**.* This rule is called "weakening" in most other presentations of classical logic.
+
+12. **Assertion contraction.** Suppose (**A1**,...,**An**, **B**, **B** entails **C1**,...,**Cm**) is a valid sequent. Then (**A1**,...,**An**, **B** entails **C1**,...,**Cm**) is a valid sequent. The rule of assertion contraction states in essence that *if a position is incoherent and asserts **B** more than one time, then it is still incoherent if asserts **B** one less time.*
+
+13. **Denial contraction.** Suppose (**A1**,...,**An** entails **B**, **B**, **C1**,...,**Cm**) is a valid sequent. Then (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent. The rule of denial contraction states in essence that *if a position is incoherent and denies **B** more than once, then it is still incoherent if it denies **B** one less time.*
+
+From the rules of strengthening, assertion contraction, and denial contraction, it follows that the number of times you assert or deny a statement does not matter for the coherence of your position. To arrive at this conclusion one also needs to use the rules of assertion permutation and denial permutation.
+
+13. **Assertion permutation.** Suppose (**A1**,...,**An**, **B**, **C**, **D1**,...,**Dm** entails **E1**,...,**Ek**) is a valid sequent. Then (**A1**,...,**An**, **C**, **B**, **D1**,...,**Dm** entails **E1**,...,**Ek**). What changes between the "suppose" sequent and the "then" sequent is that the order of **B**, **C** is swapped to produce **C**, **B**. The rule of assertion permutation states in essence that *if a position is incoherent, then it's still incoherent after swapping the order of two assertions.*
+
+14. **Denial permutation.** Suppose (**A1**,...,**An** entails **B1**,...,**Bm**, **C**, **D**, **E1**,...,**Ek**) is a valid sequent. Then (**A1**,...,**An** entails **B1**,...,**Bm**, **D**, **C**, **E1**,...,**Ek**) is a valid sequent. What changes between the "suppose" sequent and the "then" sequent is that the order of **C**, **D** is swapped to produce **D**, **C**. The rule of denial permutation states in essence that *if a position is incoherent, then it's still incoherent after swapping the order of two denials.*
 
 TODO
 
