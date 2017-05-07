@@ -1669,6 +1669,8 @@ Consider the following classic argument. Socrates is a man, and all men are mort
 
 I will explain the thought process that I used to arrive at this proof, and unpack why the proof is correct.
 
+In this presentation of classical logic, every proof that a sequent is valid must start by invoking the rule of non-contradiction. The rule of non-contradiction is the only rule we have which allows one to conclude that a sequent is valid without having previously concluded that some other sequent is valid. Except for the rule of non-contradiction, all of the rules we have are of the form "if one or more sequents of a given form are valid, then one or more related sequents of a different form are valid."
+
 
 
 
