@@ -1630,7 +1630,7 @@ The structural rules in classical logic are rules of inference that tell us that
 
 The following are the structural rules of classical logic.
 
-13. **Weakening.** 
+13. **Weakening.** Suppose (**A1**,...,**An** entails **C1**,...,**Cm**) is a valid sequent. Then for any statement **B**, (**A1**,...,**An**, **B** entails **C1**,...,**Cm**) is a valid sequent, and (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent. The rule of weakening states in essence that *if your position is incoherent then your position is still incoherent if you assert **B** or deny **B**.*
 
 TODO
 
