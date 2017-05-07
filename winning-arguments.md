@@ -1592,7 +1592,7 @@ The following rules of classical logic are related to disjunction ("or").
 
 The following rules in classical logic are related to the conditional ("if/then").
 
-5. **Conditional denial.** Suppose (**A1**,...,**An**, **B** entails **C**, **D1**,...,**Dm**) is a valid sequent. Then (**A1**,...,**An** entails (if **B** then **C**), **D1**,...,**Dm**) is a valid sequent. In this rule, the premise or assertion **B** of the sequent is moved to the conclusion or denial side as the premise of the conditional (if **B** then **C**). A shorter (and less complete) way of stating the rule of conditional denial is to say that *if it's incoherent to assert **B** and deny **C**, then it's incoherent to deny (if **B** then **C**).
+5. **Conditional denial.** Suppose (**A1**,...,**An**, **B** entails **C**, **D1**,...,**Dm**) is a valid sequent. Then (**A1**,...,**An** entails (if **B** then **C**), **D1**,...,**Dm**) is a valid sequent. In this rule, the premise or assertion **B** of the sequent is moved to the conclusion or denial side as the premise of the conditional (if **B** then **C**). A shorter (and less complete) way of stating the rule of conditional denial is to say that *if it's incoherent to assert **B** and deny **C**, then it's incoherent to deny (if **B** then **C**).*
 
 TODO
 
