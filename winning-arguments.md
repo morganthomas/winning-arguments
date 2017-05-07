@@ -1759,6 +1759,8 @@ A rule of logical inference can also be called an argument form. For our purpose
 
 Recall that I call an argument form "valid" for a given person when it lacks counterexamples for that person. A counterexample to an argument form for a given person is a (hypothetical or real) truth-seeking debate context and a case of the argument form where they consider the premises warranted assertible and don't consider the conclusion warranted assertible.
 
+Empirically, this psychological notion of validity coincides well (but not perfectly) with the classical logic notion of validity for most people, and the more concrete the problem domain is, the more this tends to be so.
+
 
 
 
