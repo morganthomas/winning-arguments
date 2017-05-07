@@ -1612,7 +1612,7 @@ The following rules in classical logic are related to negation ("not").
 
 The following rules in classical logic are related the universal quantifier ("for all"). Stating these rules requires introducing a new notation. For any statement **A**, any variable name **x**, and any object term **t**, let **A**[**x** -> **t**] denote the statement resulting from replacing all instances of **x** in **A** with **t**.
 
-9. **Counterexample.** Suppose (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**) is a valid sequent. Then (**A1**,...,**An**, (for all **x**, **B**) entails **C1**,...,**Cn**) is a valid sequent. This rule states that if it is incoherent to assert **B** for one specific possible value of **x** (denoted by **t**), then it is incoherent to assert the universal generalization (for all **x**, **B**). In short, *it is incoherent to assert any universal generalization that has a counterexample.*
+9. **Counterexample.** Suppose (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**) is a valid sequent. Then (**A1**,...,**An**, (for all **x**, **B**) entails **C1**,...,**Cn**) is a valid sequent. The rule of counterexample states that if it is incoherent to assert **B** for one specific possible value of **x** (denoted by **t**), then it is incoherent to assert the universal generalization (for all **x**, **B**). In short, *it is incoherent to assert any universal generalization that has a counterexample.*
 
 10. **Universal generalization.** Suppose (**A1**,...,**An** entails **B**[**x** -> **y**], **C1**,...,**Cn**) is a valid sequent, and that **y** does not occur as a free variable in any of the statements **A1**,...,**An**, **C1**,...,**Cn**. Then (**A1**,...,**An** entails (for all **x**, **B**), **C1**,...,**Cn**) is a valid sequent. The assumption that **y** does not occur as a free variable in any of the side premises **A1**,...,**An**, **C1**,...,**Cn** is a way of capturing the idea that **y** is a variable that could potentially refer to any object. The rule of universal generalization states in essence that *if it is incoherent to deny **B** for an arbitrary object, then it is incoherent to deny (for all **x**, **B**).*
 
@@ -1621,6 +1621,8 @@ The following rules in classical logic are related the universal quantifier ("fo
 The following rules in classical logic are related to the existential quantifier ("for some"). 
 
 11. **Non-existence generalization.** Suppose (**A1**,...,**An**, **B**[**x** -> **y**] entails **C1**,...,**Cm**) is a valid sequent, and that **y** does not occur as a free variable in any of the statements **A1**,...,**An**, **C1**,...,**Cm**. Then (**A1**,...,**An**, (for some **x**, **B**) entails **C1**,...,**Cn**) is a valid sequent. The assumption that **f** does not occur as a free variable in any of the side premises **A1**,...,**An**, **C1**,...,**Cm** is a way of capturing the idea that **y** is a variable that could potentially refer to any object. The rule of non-existence generalization states in essence that *if it is inchoherent to assert **B** for an arbitrary object, then it is incoherent to assert (for some **x**, **B**).
+
+12. **Example.** Suppose (**A1**,...,**An** entails **B**[**x** -> **t**], **C1**,...,**Cm**) is a valid sequent. Then (**A1**,...,**An** entails (for some **x**, **B**), **C1**,...,**Cm**) is a valid sequent. The rule of example states in essence that *if it is incoherent to deny **B** for some specific object, then it is incoherent to deny (for some **x**, **B**).*
 
 TODO
 
