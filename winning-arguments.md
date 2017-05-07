@@ -1747,7 +1747,7 @@ This gives us the following proof.
 3. ((Socrates is a man), (if (Socrates is a man) then (Socrates is mortal)) entails (Socrates is mortal)) is valid, by the law of conditional assertion and steps 1 and 2.
 4. ((Socrates is a man), (for all *x*, (if (*x* is a man) then (*x* is mortal))) entails (Socrates is mortal)) is valid, by the law of counterexample and step 3.
 
-To sum up, the classic argument we have analyzed is valid according to classical logic. Given that Socrates is a man and all men are mortal, it follows that Socrates is mortal. It is incoherent according to classical logic to assert that Socrates is a man and all men are mortal while denying that Socrates is mortal.
+To sum up, the classic argument we have analyzed is valid according to classical logic. Given that Socrates is a man and all men are mortal, it follows that Socrates is mortal. It is incoherent, according to classical logic, to assert that Socrates is a man and all men are mortal while denying that Socrates is mortal.
 
 The basic proof construction techniques that we have introduced in the context of this argument can be applied to construct arbitrarily complex proofs of the validity of valid first-order logic sequents. To go deeper into this topic, I refer you to the exercises. TODO: exercises
 
