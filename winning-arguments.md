@@ -1683,6 +1683,8 @@ We would like to start working backwards, finding one or more valid sequents whi
 
 In this case we have only one option. We must attempt to build the "for all" quantifier in the statement (for all *x*, (if P*x* then Q*x*)). This is the only statement in our conclusion sequent that has any logical connectives to build.
 
+We know that the rule we need employ is one of the universal quantifier rules. Specifically, it must be whichever of the two rules can be applied to produce assertions, since in this sequent (for all *x*, (if P*x* then Q*x*)) is an assertion. Therefore the rule we need to employ is the rule of counterexample. This tells us that the second to last step in our proof should be to derive a sequent of the form (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**), which the rule of counterexample will turn into the desired conclusion sequent, namely: (Pa, (for all *x*, (if P*x* then Q*x*)) entails Qa). 
+
 TODO
 
 ## Fallacies
