@@ -1566,7 +1566,7 @@ The sequent ((Pa and Pb) entails Pa) is valid. It states that it is incoherent t
 
 The sequent ((Pa or Pb) entails Pa, Pb) is valid. It states that it is incoherent to assert (Pa or Pb) while denying both Pa and Pb.
 
-This interpretation of the meaning of multiple conclusion sequents was taught to me by Dave Ripley, and as far as I know he is responsible for conceiving it.
+This interpretation of the meaning of multiple conclusion sequents was taught to me by Dave Ripley, and as far as I know he is responsible for conceiving it. TODO: confirm
 
 We have finished introducing the notion of multiple conclusion sequents. Let us proceed to the rules of classical logic.
 
@@ -1620,7 +1620,7 @@ The following rules in classical logic are related the universal quantifier ("fo
 
 The following rules in classical logic are related to the existential quantifier ("for some"). 
 
-11. 
+11. **Non-existence generalization.** Suppose (**A1**,...,**An**, **B**[**x** -> **y**] entails **C1**,...,**Cm**) is a valid sequent, and that **y** does not occur as a free variable in any of the statements **A1**,...,**An**, **C1**,...,**Cm**. Then (**A1**,...,**An**, (for some **x**, **B**) entails **C1**,...,**Cn**) is a valid sequent. The assumption that **f** does not occur as a free variable in any of the side premises **A1**,...,**An**, **C1**,...,**Cm** is a way of capturing the idea that **y** is a variable that could potentially refer to any object. The rule of non-existence generalization states in essence that *if it is inchoherent to assert **B** for an arbitrary object, then it is incoherent to assert (for some **x**, **B**).
 
 TODO
 
