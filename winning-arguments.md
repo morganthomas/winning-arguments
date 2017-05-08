@@ -1783,7 +1783,7 @@ Let us now return to the question we keep coming back to. Suppose that (**A1**,.
 
 Now, finally, the answer seems to me to be "yes;" at least, I am unaware of any further qualifiers that need to be added. However, it does not follow from the rules we have already stated about classical logic that in these circumstances it is warranted for me to assert **B**. Rather, this seems to be an additional principle about classical logic:
 
-16. **Law of the excluded middle.** Suppose (**A1**,...,**An** entails **B**) is a valid sequent. Suppose **A1**,...,**An** is coherent according to classical logic. Suppose it is warranted to assert **A1**,...,**An** in a given context. Then either it is warranted to assert **B** in the given context, or re-examination of the warrant to assert **A1**,...,**An** is warranted.
+16. **Law of inference.** Suppose (**A1**,...,**An** entails **B**) is a valid sequent. Suppose **A1**,...,**An** is coherent according to classical logic. Suppose it is warranted to assert **A1**,...,**An** in a given context. Then either it is warranted to assert **B** in the given context, or re-examination of the warrant to assert **A1**,...,**An** is warranted.
 
 This is a restatement in the form of a rule of the question posed three paragraphs above. We have removed the qualifier that asserting **B** is not prohibited by any social taboos/norms. Any context where this would be a blocker to assertion is not a context where the rules of classical logic hold sway.
 
