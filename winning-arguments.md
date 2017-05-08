@@ -1757,9 +1757,35 @@ We went into our discussion of classical logic saying that we wanted to discover
 
 A rule of logical inference can also be called an argument form. For our purposes we can equate rules of inference or argument forms with single-conclusion sequents possibly containing meta-variables. Recall that the result of instantiating the meta-variables in an argument form is called a "case." 
 
-Recall that I call an argument form "valid" for a given person when it lacks counterexamples for that person. A counterexample to an argument form for a given person is a (hypothetical or real) truth-seeking debate context and a case of the argument form where they consider the premises warranted assertible and don't consider the conclusion warranted assertible.
+Recall that I call an argument form "valid" for a given person when it lacks counterexamples for that person. A counterexample to an argument form for a given person is a (hypothetical or real) truth-seeking debate context and a case of the argument form where they consider the premises warranted assertible and don't consider the conclusion warranted assertible. Recall also that I call an argument form simply "valid" if it is valid for people in general.
 
-Empirically, this psychological notion of validity coincides well (but not perfectly) with the classical logic notion of validity for most people, and the more concrete the problem domain is, the more this tends to be so. In other words, especially in concrete problem domains, it tends to be the case that an argument form is valid for a person if and only if all instances of that argument form are valid according to the rules of classical logic. This is certainly not true as a universal generalization, though.
+We can call an argument form "valid according to classical logic" when every instance of the argument form is valid (as a sequent) according to the rules of classical logic.
+
+Empirically, our psychological notion of validity coincides well (but not perfectly) with the classical logic notion of validity for most people, and the more concrete the problem domain is, the more this tends to be so. In other words, especially in concrete problem domains, it tends to be the case that an argument form is valid for people in general if and only if all instances of that argument form are valid according to the rules of classical logic. However, there is significant controversy about whether the rules of classical logic are valid universally.
+
+Here is one reason one might doubt the closeness of the connection I have stated between the psychological and classical logic notions of validity. One might ask, if it is incoherent to deny a conclusion in a given context, does it follow that it is warranted to assert it? When a sequent is valid according to classical logic, classical logic tells us it is incoherent to deny the conclusion in contexts where the premises are held true. When an argument form is valid in the psychological sense, people consider the conclusion warranted assertible in contexts where the premises are held true (and thus warranted assertible).
+
+So then, if it's incoherent to deny a statement in a given context given premises that are held true in that context, then is it warranted to assert it? Not always. For example, if the premises that are held true in the context are incoherent, then any additional assertions or denials will be incoherent (because adding more to an incoherent position gives you an incoherent position). But it is not warranted to assert anything at all in an incoherent position.
+
+Let us then restrict our attention to contexts where the premises held true in the context are, taken together, coherent (i.e. not incoherent according to classical logic). In such contexts, if a statement is incoherent to deny, is it warranted to assert?
+
+
+
+
+
+
+
+According to classical logic, yes. This does not actually follow from anything we have said so far, as far as I can tell, because we have not said anything about warrant in connection with the rules of classical logic. In my experience, people working within classical logic routinely make this inference. This gives us our final rule of classical logic, which we must postulate as a basic rule of classical logic because it does not (seem to me to) follow from the others.
+
+16. **Reductio ad absurdum.** 
+
+
+
+
+
+
+
+We have tied back our presentation of classical logic to our original goal of getting at the notion of validity of argument forms. We have bridged gap between the notion of valid of rules of logical inference and the notion of valid sequents, where valid sequents are ones where it is incoherent to assert the premises and deny the conclusion.
 
 TODO
 
