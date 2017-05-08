@@ -1779,13 +1779,9 @@ Logic is able to tell us that certain positions are incoherent. This is about al
 
 I started out this section by presenting a one-directional notion of rules of logical inference, according to which rules of logical inference let us pass from true, warranted assertible statements to other true, warranted assertible statements. Our inquiry has shown us that this is an incomplete picture of how logic works. Every person who accepts the rules of logic and reads a logical argument has two options: to accept the conclusion or to reject one or more of the premises. In real debates logic is not necessarily used simply to pass from truth to truth. Instead, logic constrains humans to bounce about as they will in the space of logically coherent positions. In practice, of course, humans often find themselves in logically incoherent positions; it may take them a long time to notice that; and they may never notice.
 
-TODO
+TODO: summarize here?
 
-
-
-
-
-How correct are the rules of classical logic? Given the complexity of the rules themselves and the trouble that has been involved in describing them, this may appear to be a difficult question. It is. Let's get started.
+We have assembled a truly impressive series of qualifiers and disclaimers about the rules of classical logic, and we have not even gotten into any of the debates about what specific rules of logic are correct. How correct are the rules of classical logic? Given the complexity of the rules themselves and the trouble that has been involved in describing them, this may appear to be a difficult question. It is. Let's get started.
 
 TODO
 
