@@ -1779,6 +1779,8 @@ Logic is able to tell us that certain positions are incoherent. This is about al
 
 I started out this section by presenting a one-directional notion of rules of logical inference, according to which rules of logical inference let us pass from true, warranted assertible statements to other true, warranted assertible statements. Our inquiry has shown us that this is an incomplete picture of how logic works. Every person who accepts the rules of logic and reads a logical argument has two options: to accept the conclusion or to reject one or more of the premises. In real debates logic is not necessarily used simply to pass from truth to truth. Instead, logic constrains humans to bounce about as they will in the space of logically coherent positions. In practice, of course, humans often find themselves in logically incoherent positions; it may take them a long time to notice that; and they may never notice.
 
+Let us now return to the question we keep coming back to. Suppose that (**A1**,...,**An** entails **B**) is a valid sequent according to classical logic. Suppose that I accept the rules of classical logic. Suppose **A1**,...,**An** is a coherent set of assertions (or in other words that it is not incoherent according to classical logic, or in other words that (**A1**,...,**An** entails) is a valid sequent (empty sequence of statements after "entails" intended)).
+
 TODO: summarize here?
 
 We have assembled a truly impressive series of qualifiers and disclaimers about the rules of classical logic, and we have not yet scratched the surface of the debates about what specific rules of logic are correct. 
