@@ -1785,11 +1785,11 @@ Now, finally, the answer seems to me to be "yes;" at least, I am unaware of any 
 
 16. **Law of inference.** Suppose (**A1**,...,**An** entails **B**) is a valid sequent. Suppose **A1**,...,**An** is coherent according to classical logic. Suppose it is warranted to assert **A1**,...,**An** in a given context. Then either it is warranted to assert **B** in the given context, or re-examination of the warrant to assert **A1**,...,**An** is warranted.
 
-This is a restatement in the form of a rule of the question posed three paragraphs above. We have removed the qualifier that asserting **B** is not prohibited by any social taboos/norms. Any context where this would be a blocker to assertion is not a context where the rules of classical logic hold sway.
+This is a restatement in the form of a rule of the question posed three paragraphs above. We have removed the qualifier that asserting **B** is not prohibited by any social taboos/norms. Any context where this would be a blocker to assertion is not a context where the rules of classical logic hold sway. Now we are truly finished going through the rules of classical logic.
 
-TODO: summarize here?
+Along the way through stating the rules of classical logic and describing how to use them, we have assembled a truly impressive series of qualifiers and disclaimers about the rules of classical logic.
 
-We have assembled a truly impressive series of qualifiers and disclaimers about the rules of classical logic, and we have not yet scratched the surface of the debates about what specific rules of logic are correct. Classical logic represents the dominant point of view about rules of logic are correct; but there are competing sets of rules for logic, so called **non-classical logics**, which are intended to address perceived deficiencies of classical logic.
+Yet, we have not yet scratched the surface of the debates about what specific rules of logic are correct. Classical logic represents the dominant point of view about rules of logic are correct; but there are competing sets of rules for logic, so called **non-classical logics**, which are intended to address perceived deficiencies of classical logic.
 
 In almost every case, non-classical logics are sets of rules which are *weaker* than the rules of classical logic, in the sense that the set of sets of assertions and denials that a non-classical logic counts as incoherent is typically a strict subset of the set of sets of assertions and denials that classical logic counts as incoherent.
 
