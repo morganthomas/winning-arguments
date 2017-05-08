@@ -1793,8 +1793,6 @@ Yet, we have not yet scratched the surface of the debates about what specific ru
 
 In almost every case, non-classical logics are sets of rules which are *weaker* than the rules of classical logic, in the sense that the set of sets of assertions and denials that a non-classical logic counts as incoherent is typically a strict subset of the set of sets of assertions and denials that classical logic counts as incoherent.
 
-
-
 How correct are the rules of classical logic? Given the complexity of the rules themselves and the trouble that has been involved in describing them, this may appear to be a difficult question. It is. Let's get started.
 
 TODO
