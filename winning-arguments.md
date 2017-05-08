@@ -1771,15 +1771,11 @@ Let us then restrict our attention to contexts where the premises held true in t
 
 Yes, there are. Suppose I have a position that is not incoherent according to classical logic. Suppose my position makes it incoherent for me to deny **P**, and that I just learned this. Suppose **P** is such a shocking, implausible statement to me that I think it's probably false. I might not consider it warranted for me to assert **P**, because I might think that the fact that my position makes it incoherent for me to deny **P** means that there is something wrong in my position. As such I might consider it unwarranted for me to assert **P** but incumbent upon me to re-evaluate the assertions and denials in my position.
 
+A sequent (**A1**,...,**An** entails **B**) states that is incoherent to assert **A1**,...,**An** and deny **B**. Even if somebody accepts all the rules of classical logic as applied to the case, and if they believe all of **A1**,...,**An** the validity of such a sequent cannot compel them to accept **B** as true, as they always have the option of rejecting one or more of **A1**,...,**An** instead of accepting **B**.
 
+This reflects a broader truth about logical arguments in general. Logical arguments always proceed from premises to conclusions, but they never compel the reader to accept their conclusions. Logical arguments always cut two ways: they can compel the reader either to accept their conclusions or to reject some of their premises.
 
-
-
-
-
-
-
-We have tied back our presentation of classical logic to our original goal of getting at the notion of validity of argument forms. We have bridged gap between the notion of valid of rules of logical inference and the notion of valid sequents, where valid sequents are ones where it is incoherent to assert the premises and deny the conclusion.
+Logic is able to tell us that certain positions are incoherent. This is about all it can do. It can't tell us which of the many logically coherent sets of statements we should believe, disbelieve, assert, deny, hold to be true in a given context, hold to be false in a given context, etc. 
 
 TODO
 
