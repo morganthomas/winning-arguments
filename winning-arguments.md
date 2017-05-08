@@ -1495,7 +1495,7 @@ Let's now get into the weeds with our first important category of laws of reason
 
 ## Logic
 
-**Logic** is a field of study where the primary topic is valid rules of logical inference. Let's unpack that.
+**Logic**, as I shall describe it, is a field of study where the primary topic is valid rules of logical inference. Let's unpack that.
 
 A **rule of logical inference**, or **rule of inference**, is a rule which states that in any conversational context where a set of statements with given forms (**premises**) are warranted assertible, another statement (the **conclusion**) is warranted assertible. This is my definition.
 
@@ -1781,7 +1781,11 @@ I started out this section by presenting a one-directional notion of rules of lo
 
 TODO: summarize here?
 
-We have assembled a truly impressive series of qualifiers and disclaimers about the rules of classical logic, and we have not even gotten into any of the debates about what specific rules of logic are correct. How correct are the rules of classical logic? Given the complexity of the rules themselves and the trouble that has been involved in describing them, this may appear to be a difficult question. It is. Let's get started.
+We have assembled a truly impressive series of qualifiers and disclaimers about the rules of classical logic, and we have not yet scratched the surface of the debates about what specific rules of logic are correct. 
+
+
+
+How correct are the rules of classical logic? Given the complexity of the rules themselves and the trouble that has been involved in describing them, this may appear to be a difficult question. It is. Let's get started.
 
 TODO
 
