@@ -1769,15 +1769,9 @@ So then, if it's incoherent to deny a statement in a given context given premise
 
 Let us then restrict our attention to contexts where the premises held true in the context are, taken together, coherent (i.e. not incoherent according to classical logic). In such contexts, if a statement is incoherent to deny, is it warranted to assert it? Perhaps not, as it might be incoherent to deny the statement and yet there might be a social taboo/norm of some kind prohibiting one from asserting it. Let's set aside this possibility as well. Are there any other ways that a statement can be incoherent to deny and yet not warranted to assert? 
 
+Yes, there are. Suppose I have a position that is not incoherent according to classical logic. Suppose my position makes it incoherent for me to deny **P**, and that I just learned this. Suppose **P** is such a shocking, implausible statement that I think it's probably false. I might not consider it warranted for me to assert **P**, because I might think that the fact that my position makes it incoherent for me to deny **P** means that there is something wrong in my position. 
 
 
-
-
-
-
-According to classical logic, yes. This does not actually follow from anything we have said so far, as far as I can tell, because we have not said anything about warrant in connection with the rules of classical logic. In my experience, people working within classical logic routinely make this inference. This gives us our final rule of classical logic, which we must postulate as a basic rule of classical logic because it does not (seem to me to) follow from the others.
-
-16. **Reductio ad absurdum.** 
 
 
 
