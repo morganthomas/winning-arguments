@@ -1803,6 +1803,8 @@ Correct in what context? Rules are always correct or incorrect relative to some 
 
 This argument is not in essence original to me, though some details are. In most respects this argument is part of the folk literature on logic. An example of a published presentation of a similar argument can be found in TODO.
 
+The first step in the argument is to introduce the notion of **model theory**. Model theory is a mathematical theory which describes how to apply an interpretation to a statement of first-order logic.
+
 TODO
 
 ## Fallacies
