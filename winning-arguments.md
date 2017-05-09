@@ -1795,6 +1795,14 @@ In almost every case, non-classical logics are sets of rules which are *weaker* 
 
 How correct are the rules of classical logic? Given the complexity of the rules themselves and the trouble that has been involved in describing them, this may appear to be a difficult question. It is. Let's get started.
 
+I will start by presenting the best argument I can to the effect that the rules of classical logic *are* correct.
+
+Correct in what sense? The argument I will present can be adapted to argue that the rules of classical logic are correct in a variety of different senses. At the end of the argument I will discuss some of the senses of correctness that the argument can be said to demonstrate of the rules of classical logic.
+
+Correct in what context? Rules are always correct or incorrect relative to some context; so, for what contexts should I argue the rules of classical logic are correct? For this argument I won't have any particular context in mind. The argument can be applied to any particular context to see how well it holds up in that context.
+
+This argument is not in essence original to me, though some details are. In most respects this argument is part of the folk literature on logic. An example of a published presentation of a similar argument can be found in TODO.
+
 TODO
 
 ## Fallacies
