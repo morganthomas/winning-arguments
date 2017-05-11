@@ -1803,7 +1803,7 @@ Correct in what context? Rules are always correct or incorrect relative to some 
 
 This argument is not in essence original to me, though some details are. In most respects this argument is part of the folk literature on logic. An example of a published presentation of a similar argument can be found in TODO.
 
-The first step in the argument, for us, has to be to look at some mathematical notions in an introductory fashion, with more rigor than we have afforded them so far. The most fundamental of these, and the most difficult to explain, is the notion of a **set**.
+The first step in the argument, for us, has to be to look at some mathematical notions in an introductory fashion, with more rigor than we have afforded them so far. The purpose of doing this is to develop some of the vocabulary that the argument will use. The most fundamental notion I need to explain, and the most difficult to explain, is the notion of a **set**.
 
 
 
