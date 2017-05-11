@@ -1811,7 +1811,7 @@ Specifically, classical model theory applies to first order logic with some fixe
 
 Most presentations of model theory allow, in addition to predicates, ternary relations which apply to exactly three things, and in general allow *n*-ary relations for every positive integer *n*. I am departing from this common practice for the reasons that it simplifies the presentation, and that lacking relations between more than two things is not actually much of a handicap. For example, all of mathematics can be expressed in set theory, in terms of a single copula or binary relation, "in," the relation of set inclusion.
 
-In any vocabulary which has the concept of an [ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) (a,b) of objects, one can replace a ternary relation with a binary relation between objects and ordered pairs. If R is a ternary relation between objects, I can define a binary relation S between objects and ordered pairs by the definition: Sa(b,c) iff Rabc. By repeating this operation, one can replace *n*-ary relations (for any positive integer *n*) with binary relations.
+In any vocabulary which has the concept of an [ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) (*a*,*b*) of objects, one can replace a ternary relation with a binary relation between objects and ordered pairs. Let R be a ternary relation. We will write R*abc* to denote that the relation R holds between the objects *a*, *b*, and *c*. I can define a binary relation S between objects and ordered pairs by the definition: S*a*(*b*,*c*) iff R*abc*. By repeating this operation, one can replace *n*-ary relations (for any positive integer *n*) with binary relations.
 
 ## Fallacies
 
