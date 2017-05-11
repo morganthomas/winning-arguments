@@ -1845,6 +1845,14 @@ The von Neumann universe picture and the axioms of ZFC are an outcome of the fol
 
 The axiom schema of specification is the compromise ZFC makes to deal with the fact that the axiom schema of comprehension is logically contradictory. Rather than letting you form any set you can describe, ZFC tells you that you can only form any *subset* you can describe of any existing set. This appears to block Russell's paradox and the other paradoxes of set theory; nobody has been able to find a logical contradiction in ZFC.
 
+The next axiom is a straightforward one, which states that given any two objects, there is a set containing both.
+
+4. **Pairing.** (for all *x*, (for all *y*, (for some *z*, ((x in z) and (y in z)))))
+
+The next axiom states given any set of sets *F*, there is a set containing all elements of elements of *F*.
+
+5. **Union.** (for all *F*, (for some *A*, (for all *Y*, (for all *x*, (if ((*x* in *Y*) and (*Y* in *F*)) then (x in *A*)))))) 
+
 
 
 
