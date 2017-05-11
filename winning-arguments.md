@@ -1813,7 +1813,7 @@ Most presentations of model theory allow, in addition to predicates and copulas,
 
 In any vocabulary which has the concept of an [ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) (*a*,*b*) of objects, one can replace a ternary relation with a binary relation between objects and ordered pairs. Let R be a ternary relation. We will write R*abc* to denote that the relation R holds between the objects *a*, *b*, and *c*. I can define a binary relation S between objects and ordered pairs by the definition: S*a*(*b*,*c*) iff R*abc*. By repeating this operation, one can replace *n*-ary relations (for any positive integer *n*) with binary relations.
 
-Because lacking ternary and higher *n*-ary relations is not a problem for our purposes, the choice to provide only for predicates (unary relations) and copulas (binary relations) is justified.
+Because lacking ternary and higher *n*-ary relations is not a problem for our purposes, the choice to provide only for predicates (unary relations) and copulas (binary relations) is adequately justified.
 
 ## Fallacies
 
