@@ -1805,7 +1805,13 @@ This argument is not in essence original to me, though some details are. In most
 
 The first step in the argument is to introduce the notion of **model theory**. Model theory is a mathematical theory which describes how to apply an interpretation to a statement of first-order logic.
 
-TODO
+To introduce model theory, let's start with the concept of **truth values**. There are two truth values: true, and false. Classical model theory provides a theoretical, mathematical method for assigning truth values to all statements in a given vocabulary. In other words, it provides a method of saying (in theory) for each statement in a given vocabulary whether it is true or false.
+
+Specifically, classical model theory applies to first order logic with some fixed sets of object literals, predicates, and copulas, which we will call a **vocabulary**. Henceforth we will assume in the background some fixed vocabulary, with the understanding that the arbitrary, fixed vocabulary we assume could stand for any vocabulary. We will use the variables t, u, v, etc. to denote object literals. We will use the variables P, Q, R, etc. to denote predicates. We will use the variables C, D, E, etc. to denote copulas. Recall that a predicate is a relation which applies to exactly one object: e.g., "is red" is a predicate. Recall that a copula is a relation which applies to exactly two objects: e.g., "loves" is a copula.
+
+Most presentations of model theory allow, in addition to predicates, ternary relations which apply to exactly three things, and in general allow *n*-ary relations for every positive integer *n*. I am departing from this common practice for the reasons that it simplifies the presentation, and that lacking relations between more than two things is not actually much of a handicap. For example, all of mathematics can be expressed in set theory, in terms of a single copula or binary relation, "in," the relation of set inclusion.
+
+In any vocabulary which has the concept of an [ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) (a,b) of objects, one can replace a ternary relation with a binary relation between objects and ordered pairs. If R is a ternary relation between objects, I can define a binary relation S between objects and ordered pairs by the definition: Sa(b,c) iff Rabc. By repeating this operation, one can replace *n*-ary relations (for any positive integer *n*) with binary relations.
 
 ## Fallacies
 
