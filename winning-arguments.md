@@ -1803,6 +1803,10 @@ Correct in what context? Rules are always correct or incorrect relative to some 
 
 This argument is not in essence original to me, though some details are. In most respects this argument is part of the folk literature on logic. An example of a published presentation of a similar argument can be found in TODO.
 
+The first step in the argument, for us, has to be to look at some mathematical notions in an introductory fashion, with more rigor than we have afforded them so far. The most fundamental of these, and the most difficult to explain, is the notion of a **set**.
+
+
+
 The first step in the argument is to introduce the notion of **model theory**. Model theory is a mathematical theory which describes how to apply an interpretation to a statement of first-order logic.
 
 To introduce model theory, let's start with the concept of **truth values**. There are two truth values: true, and false. Classical model theory provides a theoretical, mathematical method for assigning truth values to all statements in a given vocabulary. In other words, it provides a method of saying (in theory) for each statement in a given vocabulary whether it is true or false.
@@ -1815,13 +1819,16 @@ In any vocabulary which has the concept of an [ordered pair](https://en.wikipedi
 
 Because lacking ternary and higher *n*-ary relations is not a problem for our purposes, the choice to provide only for predicates (unary relations) and copulas (binary relations) is adequately justified.
 
-Now we need to define the concept of a model. A **model** *M* is an ordered pair *M* = (*D*,*I*), where:
+
+A **model** *M* is an ordered pair *M* = (*D*,*I*), where:
 
 * *D* is a set, called the **domain** of *M*.
 * *I* is a function, called the **interpretation** of *M*, defined on all words in the vocabulary:
    * For each object literal t, *I*(t) is an element of *D*.
    * For each predicate P, *I*(P) is a subset of *D*.
    * For each copula C, *I*(C) is a binary relation on *D*, or in other words a set of ordered pairs of elements of *D*.
+
+Given a model *M*, we can say for any statement *P* of first order logic (in our fixed vocabulary) whether or not *P* is true in *M*. A model is a context or a possible world in which statements can be said to be true or false.
 
 ## Fallacies
 
