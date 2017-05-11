@@ -1835,7 +1835,9 @@ One interesting fact about the von Neumann universe is that in it there are only
 
 The axiom of regularity is true in the von Neumann universe. The axiom of regularity is not usually necessary for doing math. [Wikipedia has a lot of interesting discussion about the axiom](https://en.wikipedia.org/wiki/Axiom_of_regularity), covering assorted implications it has. Nothing we do will depend on the axiom of regularity; I have introduced it only because it is one of the axioms of ZFC.
 
+After the axiom of extensionality and the axiom of regularity comes an infinite series of axioms, stating for every statement *P* of first-order logic (in the vocabulary of ZFC) that for any set *A*, there exists the set of elements of *A* of which *P* is true. Each formula of first-order logic (in the vocabulary of ZFC) generates one instance of the axiom schema of specification stating the same.
 
+3. **Axiom schema of specification.** Let *P* be a statement of first-order logic in the vocabulary of ZFC, which does not contain any free occurrences of the variables name *y*. Then the following is an axiom of ZFC: (for all *z*, (for some *y*, (for all *x*, ((*x* in *y*) iff ((*x* in *z*) and *P*))))).
 
 
 
