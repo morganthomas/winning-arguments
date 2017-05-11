@@ -1813,15 +1813,15 @@ Sets can be finite, or infinite. Examples of finite sets include: the set contai
 
 Examples of infinite sets include: the set of all integers; the set of all positive integers; and the set of all sets of positive integers. The set of all sets of positive integers contains such sets as the empty set, the set containing exactly seven, three, and four, the set of all positive integers except for the numbers nine and twenty, and the set of all positive integers.
 
-No two distinct sets have the same elements (according to the classical notion of sets). For example, there is exactly one empty set. There is exactly one set containing exactly the numbers three and five. And so forth. If two sets have the same elements, then those sets are equal, i.e. they are the same set. This is the **axiom of extensionality**, which is the first axiom of ZFC:
+No two distinct sets have the same elements (according to the classical notion of sets). For example, there is exactly one empty set. There is exactly one set containing exactly the numbers three and five. And so forth. If two sets have the same elements, then those sets are equal, i.e. they are the same set. This is the axiom of extensionality, which is the first axiom of ZFC:
 
-1. **Extensionality.** (for all *x*, *y*, ((for all *z*, ((*z* in *x*) iff (*z* in y))) iff (x = y)))
+1. **Axiom of extensionality.** (for all *x*, *y*, ((for all *z*, ((*z* in *x*) iff (*z* in y))) iff (x = y)))
 
 ZFC is a set of axioms for set theory: one we have just stated the first axiom of. The vocabulary ZFC uses contains two copulas: "in," the relation of set membership, and "=," the identity copula (the relation of being one and the same thing as). Thus the whole vocabulary of ZFC is on display in the axiom of extensionality. This axiom is simply a formal statement of the idea that sets containing the same elements are equal. This is also sometimes stated by saying: sets are extensional.
 
 The next axiom of ZFC states that every non-empty set contains a member disjoint from itself. 
 
-2. **Regularity.** (for all *x*, (if (for some *a*, (*a* "in" x)) then (for some *y*, ((*y* in *x*) and (not (for some *z*, ((*z* in *y*) and (*z* in *x*))))))))
+2. **Axiom of regularity.** (for all *x*, (if (for some *a*, (*a* "in" x)) then (for some *y*, ((*y* in *x*) and (not (for some *z*, ((*z* in *y*) and (*z* in *x*))))))))
 
 One may rightly ask why one should believe what this axiom says. It is not obviously an intuitive truth about sets. It is, however, an intuitive truth about the universe of sets under the [von Neumann universe](https://en.wikipedia.org/wiki/Von_Neumann_universe) picture of the universe of sets.
 
@@ -1847,11 +1847,13 @@ The axiom schema of specification is the compromise ZFC makes to deal with the f
 
 The next axiom is a straightforward one, which states that given any two objects, there is a set containing both.
 
-4. **Pairing.** (for all *x*, (for all *y*, (for some *z*, ((x in z) and (y in z)))))
+4. **Axiom of pairing.** (for all *x*, (for all *y*, (for some *z*, ((x in z) and (y in z)))))
 
 The next axiom states given any set of sets *F*, there is a set containing all elements of elements of *F*.
 
-5. **Union.** (for all *F*, (for some *A*, (for all *Y*, (for all *x*, (if ((*x* in *Y*) and (*Y* in *F*)) then (x in *A*)))))) 
+5. **Axiom of union.** (for all *F*, (for some *A*, (for all *Y*, (for all *x*, (if ((*x* in *Y*) and (*Y* in *F*)) then (x in *A*)))))) 
+
+We call the set containing exactly the elements of elements of *F* the **union** of *F*. The axiom of union does not in itself state that the union of *F* exists. One can prove that the union of every set exists in ZFC by applying the axiom of union, which yields a set containing all elements of elements of *F*, and then applying the axiom of specification to narrow down to a set containing exactly the elements of elements of *F*.
 
 
 
