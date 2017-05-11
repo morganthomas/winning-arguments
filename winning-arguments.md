@@ -1550,6 +1550,8 @@ There are infinitely many rules of inference or argument forms that are valid ac
 
 The way the rules of classical logic are conventionally presented is by giving a finite number of rules which allow all of the valid rules of inference or argument forms to be generated. There are a variety of ways of doing this: via [natural deduction](https://en.wikipedia.org/wiki/Natural_deduction) systems, via [sequent calculi](https://en.wikipedia.org/wiki/Sequent_calculus). Here I will do an informal presentation of a sequent calculus formulation of the rules of classical first order logic.
 
+TODO: Add graphical sequents
+
 My presentation is most closely based on the style of presentation of first-order logic articulated in [Dave Ripley's](http://davewripley.rocks/) graduate philosophical logic course taught in spring 2014 at the University of Connecticut. Credit for the original conception of the rules of classical first-order logic is best claimed by Gottlob Frege, as far as I'm aware.
 
 This presentation requires a concept that is new for us: the concept of multiple-conclusion sequents.
@@ -1807,7 +1809,9 @@ The first step in the argument, for us, has to be to look at some mathematical n
 
 
 
-The first step in the argument is to introduce the notion of **model theory**. Model theory is a mathematical theory which describes how to apply an interpretation to a statement of first-order logic.
+That completes our introduction of mathematical notions which is the first step in the argument I am currently presenting for the correctness of the rules of classical logic.
+
+The next step in the argument is to introduce the notion of **model theory**. Model theory is a mathematical theory which describes how to apply an interpretation to a statement of first-order logic.
 
 To introduce model theory, let's start with the concept of **truth values**. There are two truth values: true, and false. Classical model theory provides a theoretical, mathematical method for assigning truth values to all statements in a given vocabulary. In other words, it provides a method of saying (in theory) for each statement in a given vocabulary whether it is true or false.
 
