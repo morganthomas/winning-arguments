@@ -1819,6 +1819,24 @@ No two distinct sets have the same elements (according to the classical notion o
 
 ZFC is a set of axioms for set theory: one we have just stated the first axiom of. The vocabulary ZFC uses contains two copulas: "in," the relation of set membership, and "=," the identity copula (the relation of being one and the same thing as). Thus the whole vocabulary of ZFC is on display in the axiom of extensionality. This axiom is simply a formal statement of the idea that sets containing the same elements are equal. This is also sometimes stated by saying: sets are extensional.
 
+The next axiom of ZFC states that every non-empty set contains a member disjoint from itself. 
+
+2. **Regularity.** (for all *x*, (if (for some *a*, (*a* "in" x)) then (for some *y*, ((*y* in *x*) and (not (for some *z*, ((*z* in *y*) and (*z* in *x*))))))))
+
+One may rightly ask why one should believe what this axiom says. It is not obviously an intuitive truth about sets. It is, however, an intuitive truth about the universe of sets under the [von Neumann universe](https://en.wikipedia.org/wiki/Von_Neumann_universe) picture of the universe of sets.
+
+The von Neumann universe is one way of intuitively motivating the axioms of ZFC. The universe of sets as described by ZFC can be organized into an infinite hierarchy of "stages." At stage 0, you have no sets. At each successive stage, you form all sets that can be formed from members of the preceding stages. At stage 1, you have just the empty set. At stage 2, you add the set containing exactly the empty set. At stage 3, you add the set containing exactly the empty set and the set containing exactly the empty set, as well as the set containing exactly the set containing the empty set. From here the number of sets added at successive stages increases extremely rapidly. 
+
+One interesting fact about the von Neumann universe is that in it there are only sets. There is nothing else in the von Neumann universe besides sets. In fact, this is a consequence of the axiom of extensionality as it is formulated in ZFC. However, this illustrates that obviously the axioms of ZFC are not the one definitive way of understanding sets. For example, it is useful for many purposes to talk about sets containing non-sets. However, a universe containing only sets is quite sufficient to form a foundation for all of mathematics.
+
+The axiom of regularity is not usually necessary for doing math. [Wikipedia has a lot of interesting discussion about the axiom](https://en.wikipedia.org/wiki/Axiom_of_regularity), covering assorted implications it has. Nothing we do will depend on the axiom of regularity; I have introduced it only because it is one of the axioms of ZFC.
+
+
+
+
+
+
+
 That completes our introduction of mathematical notions which is the first step in the argument I am currently presenting for the correctness of the rules of classical logic.
 
 The next step in the argument is to introduce the notion of **model theory**. Model theory is a mathematical theory which describes how to apply an interpretation to a statement of first-order logic.
