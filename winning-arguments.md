@@ -1815,7 +1815,7 @@ In any vocabulary which has the concept of an [ordered pair](https://en.wikipedi
 
 Because lacking ternary and higher *n*-ary relations is not a problem for our purposes, the choice to provide only for predicates (unary relations) and copulas (binary relations) is adequately justified.
 
-Now we need to define the concept of a model. A **model** *M* is an ordered pair *M* = (*D*,*I*):
+Now we need to define the concept of a model. A **model** *M* is an ordered pair *M* = (*D*,*I*), where:
 
 * *D* is a set, called the **domain** of *M*.
 * *I* is a function, called the **interpretation** of *M*, defined on all words in the vocabulary:
