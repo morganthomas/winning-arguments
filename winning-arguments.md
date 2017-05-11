@@ -1853,7 +1853,9 @@ The next axiom states given any set of sets *F*, there is a set containing all e
 
 5. **Axiom of union.** (for all *F*, (for some *A*, (for all *Y*, (for all *x*, (if ((*x* in *Y*) and (*Y* in *F*)) then (x in *A*)))))) 
 
-We call the set containing exactly the elements of elements of *F* the **union** of *F*. The axiom of union does not in itself state that the union of *F* exists. One can prove that the union of every set exists in ZFC by applying the axiom of union, which yields a set containing all elements of elements of *F*, and then applying the axiom of specification to narrow down to a set containing exactly the elements of elements of *F*.
+We call the set containing exactly the elements of elements of *F* the **union** of *F*. The axiom of union does not in itself state that the union of *F* exists. One can prove that the union of every set exists in ZFC by applying the axiom of union, which yields a set containing all elements of elements of *F*, and then applying an axiom of specification to narrow down to a set containing exactly the elements of elements of *F*.
+
+
 
 
 
