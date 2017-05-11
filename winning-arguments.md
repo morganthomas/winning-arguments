@@ -1843,6 +1843,8 @@ The axiom schema of specification can be compared to the axiom schema of compreh
 
 The von Neumann universe picture and the axioms of ZFC are an outcome of the following series of efforts (with many others contributing along the way, I'm sure): Gottlob Frege's articulation (in essence) of the laws of classical first-order logic in his  *Grundgesetze der Arithmetik*, along with some laws that led to Russell's paradox; Bertrand Russell's and Alfred North Whitehead's efforts to resolve Russell's paradox and rescue Frege's project, particularly in their *Principia Mathematica*; efforts along similar lines by Ernst Zermelo resulting in the axioms of [Zermelo set theory](https://en.wikipedia.org/wiki/Zermelo_set_theory); and further contributions by von Neumann, Abraham Fraenkel, and I assume others, leading to the axioms of ZFC.
 
+The axiom schema of specification is the compromise ZFC makes to deal with the fact that the axiom schema of comprehension is logically contradictory. Rather than letting you form any set you can describe, ZFC tells you that you can only form any *subset* you can describe of any existing set. This appears to block Russell's paradox and the other paradoxes of set theory; nobody has been able to find a logical contradiction in ZFC.
+
 
 
 
