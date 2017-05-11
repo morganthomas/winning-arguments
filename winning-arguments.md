@@ -1829,7 +1829,7 @@ The von Neumann universe is one way of intuitively motivating the axioms of ZFC.
 
 One interesting fact about the von Neumann universe is that in it there are only sets. There is nothing else in the von Neumann universe besides sets. In fact, this is a consequence of the axiom of extensionality as it is formulated in ZFC. However, this illustrates that obviously the axioms of ZFC are not the one definitive way of understanding sets. For example, it is useful for many purposes to talk about sets containing non-sets. However, a universe containing only sets is quite sufficient to form a foundation for all of mathematics.
 
-The axiom of regularity is not usually necessary for doing math. [Wikipedia has a lot of interesting discussion about the axiom](https://en.wikipedia.org/wiki/Axiom_of_regularity), covering assorted implications it has. Nothing we do will depend on the axiom of regularity; I have introduced it only because it is one of the axioms of ZFC.
+The axiom of regularity is true in the von Neumann universe. The axiom of regularity is not usually necessary for doing math. [Wikipedia has a lot of interesting discussion about the axiom](https://en.wikipedia.org/wiki/Axiom_of_regularity), covering assorted implications it has. Nothing we do will depend on the axiom of regularity; I have introduced it only because it is one of the axioms of ZFC.
 
 
 
