@@ -1807,13 +1807,21 @@ The first step in the argument is to introduce the notion of **model theory**. M
 
 To introduce model theory, let's start with the concept of **truth values**. There are two truth values: true, and false. Classical model theory provides a theoretical, mathematical method for assigning truth values to all statements in a given vocabulary. In other words, it provides a method of saying (in theory) for each statement in a given vocabulary whether it is true or false.
 
-Specifically, classical model theory applies to first order logic with some fixed sets of object literals, predicates, and copulas, which we will call a **vocabulary**. Henceforth we will assume in the background some fixed vocabulary, with the understanding that the arbitrary, fixed vocabulary we assume could stand for any vocabulary. We will use the variables t, u, v, etc. to denote object literals. We will use the variables P, Q, R, etc. to denote predicates. We will use the variables C, D, E, etc. to denote copulas. Recall that a predicate is a relation which applies to exactly one object: e.g., "is red" is a predicate. Recall that a copula is a relation which applies to exactly two objects: e.g., "loves" is a copula.
+Specifically, classical model theory applies to first order logic with some fixed sets of object literals, predicates, and copulas, which we will call a **vocabulary**. Henceforth we will assume in the background some fixed vocabulary, with the understanding that the arbitrary, fixed vocabulary we assume could stand for any vocabulary. I will use the letters t, u, v, etc. to denote object literals. I will use the letters P, Q, R, etc. to denote predicates. I will use the letters C, D, E, etc. to denote copulas. Recall that a predicate is a relation which applies to exactly one object: e.g., "is red" is a predicate. Recall that a copula is a relation which applies to exactly two objects: e.g., "loves" is a copula.
 
 Most presentations of model theory allow, in addition to predicates and copulas, ternary relations which apply to exactly three things, and in general they allow *n*-ary relations for every positive integer *n*. I am departing from this common practice for the reasons that it simplifies the presentation, and that lacking relations between more than two things is not actually much of a handicap. For example, all of mathematics can be expressed in set theory, in terms of a single copula or binary relation, "in," the relation of set inclusion.
 
 In any vocabulary which has the concept of an [ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) (*a*,*b*) of objects, one can replace a ternary relation with a binary relation between objects and ordered pairs. Let R be a ternary relation. We will write R*abc* to denote that the relation R holds between the objects *a*, *b*, and *c*. I can define a binary relation S between objects and ordered pairs by the definition: S*a*(*b*,*c*) iff R*abc*. By repeating this operation, one can replace *n*-ary relations (for any positive integer *n*) with binary relations.
 
 Because lacking ternary and higher *n*-ary relations is not a problem for our purposes, the choice to provide only for predicates (unary relations) and copulas (binary relations) is adequately justified.
+
+Now we need to define the concept of a model. A **model** *M* is an ordered pair *M* = (*D*,*I*):
+
+* *D* is a set, called the **domain** of *M*.
+* *I* is a function, called the **interpretation** of *M*, defined on all words in the vocabulary:
+   * For each object literal t, *I*(t) is an element of *D*.
+   * For each predicate P, *I*(P) is a subset of *D*.
+   * For each copula C, *I*(C) is a binary relation on *D*, or in other words a set of ordered pairs of elements of *D*.
 
 ## Fallacies
 
