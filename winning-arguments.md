@@ -1805,9 +1805,19 @@ Correct in what context? Rules are always correct or incorrect relative to some 
 
 This argument is not in essence original to me, though some details are. In most respects this argument is part of the folk literature on logic. An example of a published presentation of a similar argument can be found in TODO.
 
-The first step in the argument, for us, has to be to look at some mathematical notions in an introductory fashion, with more rigor than we have afforded them so far. The purpose of doing this is to develop some of the vocabulary that the argument will use. The most fundamental notion I need to explain, and the most difficult to explain, is the notion of a **set**.
+The first step in the argument, for us, has to be to look at some mathematical notions in an introductory fashion, with more rigor than we have afforded them so far. The purpose of doing this is to develop some of the vocabulary that the argument will use. The most fundamental notion I need to explain, and the most difficult to explain, is the notion of a **set**. I will offer what I consider to be the most mainstream, most widely accepted explanation of the notion of sets. This explanation is what I will call the classical notion of sets, as formalized in first-order logic and the axioms of ZFC (Zermelo-Fraenkel set theory with the axiom of choice).
 
+Intuitively, a set is a collection of objects. Any object can be in a set, and for every set, every object either is in the set or is not in the set. The relation of set membership (according to the classical notion of sets) is a purely binary, in or out affair. Everything is either in or out of every set; nothing is both in and out of any set; nothing is neither in nor out of any set; nothing is in any sense in between in and out of any set.
 
+Sets can be finite, or infinite. Examples of finite sets include: the set containing exactly the numbers one, two, and three; the set containing exactly [the City God Temple of Shanghai](https://en.wikipedia.org/wiki/City_God_Temple_of_Shanghai), my left hand, and the number seven; the set containing exactly the number one; and the set containing nothing, also known as **the empty set**.
+
+Examples of infinite sets include: the set of all integers; the set of all positive integers; and the set of all sets of positive integers. The set of all sets of positive integers contains such sets as the empty set, the set containing exactly seven, three, and four, the set of all positive integers except for the numbers nine and twenty, and the set of all positive integers.
+
+No two distinct sets have the same elements (according to the classical notion of sets). For example, there is exactly one empty set. There is exactly one set containing exactly the numbers three and five. And so forth. If two sets have the same elements, then those sets are equal, i.e. they are the same set. This is the **axiom of extensionality**, which is the first axiom of ZFC:
+
+1. **Extensionality.** (for all *x*, *y*, ((for all *z*, ((*z* in *x*) iff (*z* in y))) iff (x = y)))
+
+ZFC is a set of axioms for set theory: one we have just stated the first axiom of. The vocabulary ZFC uses contains two copulas: "in," the relation of set membership, and "=," the identity copula (the relation of being one and the same thing as). Thus the whole vocabulary of ZFC is on display in the axiom of extensionality. This axiom is simply a formal statement of the idea that sets containing the same elements are equal. This is also sometimes stated by saying: sets are extensional.
 
 That completes our introduction of mathematical notions which is the first step in the argument I am currently presenting for the correctness of the rules of classical logic.
 
