@@ -1857,6 +1857,14 @@ We call the set containing exactly the elements of elements of *F* the **union**
 
 After the axiom of union comes another axiom schema, another infinite set of axioms. This schema, the axiom schema of replacement, tells us that the image of any set under the image of any definable function is contained in some set.
 
+A definable function, for our purposes, is a statement *P* relating a variable representing the input of the function, namely *x*, to a variable representing the output of the function, namely *y*. For a statement *P* to be a function over a set *A*, it must be the case that for every *x* in *A* there is exactly one *y* such that *P*.
+
+An example of a definable function is the statement *P* = (for all *z*, ((*z* in *y*) iff (*z* = *x*))). This statement defines the function that maps any object *x* to the set *y* containing exactly *x*. 
+
+The image of a set *A* under a definable function *P* is the set of all *y* such that for some *x* in *A*, *P*. In other words, it is the set resulting from collecting all of the output values that *P* produces for input values in *A*.
+
+The axiom schema of replacement states that the image of any set under the image of any definable function is contained in some set. Formally:
+
 6. **Axiom schema of replacement.** Let *P* be a statement of first-order logic in the vocabulary of ZFC, which does not contain any free occurrences of the variable name *B*. Then the following is an axiom of ZFC: (for all *A*, (if (for all *x*, (if *x* in *A* then (for exactly one *y*, *P*))) then (for some *B*, (for all *x*, (if (*x* in *A*) then (for some *y*, ((*y* in *B*) and *P*)))))))
 
 
