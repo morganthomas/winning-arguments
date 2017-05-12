@@ -1893,8 +1893,11 @@ The final axiom, the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_ch
 
 9. **Axiom of choice.** (for all *X*, (if (for all *y*, (if *y* in *X* then (for some *z*, (*z* in *Y*)))) then (for some *f*, (for all *A*, ((if (*A* in *X*) then (for exactly one *B*, (*A*,*B*) in *f*)) and (for all *B*, (if ((*A*,*B*) in *f*) then (*B* in *A*))))))))
 
+In order to state the axiom of choice, I have introduced a new notation: the [ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) notation (*A*,*B*). Conceptually, an ordered pair is exactly what it sounds like: a sequence of exactly two objects, one after the other. In classical set theory, ordered pairs are commonly defined by [Kuratowski's definition](https://en.wikipedia.org/wiki/Ordered_pair#Kuratowski_definition), which equates the ordered pair (*A*,*B*) with the set {{*A*,*B*},{*A*}}, or in other words the set containing exactly two sets, namely: the set containing exactly *A*, and the set containing exactly *A* and *B*. Intuitively, this set can serve functionally as an ordered pair because it tells us what both the elements of the ordered pair are (namely whatever elements are in either set in the Kuratowski pair) and it tells us which is the first element of the pair (namely whatever element is in a one-element set in the Kuratowski pair). I will not pursue further formalization of the ordered pair notation, to avoid getting too distracted by details. TODO: source for formal development
 
+The next notion the axiom of choice employs is the set-theoretic notion of a function. In set theory, a function is a type of set of ordered pairs. If *f* is a function, we can equate the statement *f*(*a*) = *b* with the statement ((*a*,*b*) in *f*). A function, by definition, is a set *f* of ordered pairs such that (for all *a*, (if (for some *b*, (*b* in *f*)) then (for exactly one *b*, (*b* in *f*)))).
 
+The axiom of choice states that for any set *X* of nonempty sets, there is a function *f* such that for all *A* in *X*, *f*(*A*) in *A*.
 
 That completes the introduction of mathematical notions which is the first step in the argument I am currently presenting for the correctness of the rules of classical logic.
 
@@ -1906,12 +1909,11 @@ Specifically, classical model theory applies to first order logic with some fixe
 
 Most presentations of model theory allow, in addition to predicates and copulas, ternary relations which apply to exactly three things, and in general they allow *n*-ary relations for every positive integer *n*. I am departing from this common practice for the reasons that it simplifies the presentation, and that lacking relations between more than two things is not actually much of a handicap. For example, all of mathematics can be expressed in set theory, in terms of a single copula or binary relation, "in," the relation of set inclusion.
 
-In any vocabulary which has the concept of an [ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) (*a*,*b*) of objects, one can replace a ternary relation with a binary relation between objects and ordered pairs. Let R be a ternary relation. We will write R*abc* to denote that the relation R holds between the objects *a*, *b*, and *c*. I can define a binary relation S between objects and ordered pairs by the definition: S*a*(*b*,*c*) iff R*abc*. By repeating this operation, one can replace *n*-ary relations (for any positive integer *n*) with binary relations.
+In any vocabulary which has the concept of an ordered pair, one can replace a ternary relation with a binary relation between objects and ordered pairs. Let R be a ternary relation. We will write R*abc* to denote that the relation R holds between the objects *a*, *b*, and *c*. I can define a binary relation S between objects and ordered pairs by the definition: S*a*(*b*,*c*) iff R*abc*. By repeating this operation, one can replace *n*-ary relations (for any positive integer *n*) with binary relations.
 
 Because lacking ternary and higher *n*-ary relations is not a problem for our purposes, the choice to provide only for predicates (unary relations) and copulas (binary relations) is adequately justified.
 
-
-A **model** *M* is an ordered pair *M* = (*D*,*I*), where:
+**Definition.** A **model** *M* is an ordered pair *M* = (*D*,*I*), where:
 
 * *D* is a set, called the **domain** of *M*.
 * *I* is a function, called the **interpretation** of *M*, defined on all words in the vocabulary:
