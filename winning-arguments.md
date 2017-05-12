@@ -1837,7 +1837,7 @@ The axiom of regularity is true in the von Neumann universe. The axiom of regula
 
 After the axiom of extensionality and the axiom of regularity comes an infinite series of axioms, stating for every statement *P* of first-order logic (in the vocabulary of ZFC) that for every set *A*, there exists the set of elements of *A* of which *P* is true. Each statement of first-order logic (in the vocabulary of ZFC) generates one instance of the axiom schema of specification stating the same.
 
-3. **Axiom schema of specification.** Let *P* be a statement of first-order logic in the vocabulary of ZFC, which does not contain any free occurrences of the variables name *y*. Then the following is an axiom of ZFC: (for all *z*, (for some *y*, (for all *x*, ((*x* in *y*) iff ((*x* in *z*) and *P*))))).
+3. **Axiom schema of specification.** Let *P* be a statement of first-order logic in the vocabulary of ZFC, which does not contain any free occurrences of the variable name *y*. Then the following is an axiom of ZFC: (for all *z*, (for some *y*, (for all *x*, ((*x* in *y*) iff ((*x* in *z*) and *P*))))).
 
 The axiom schema of specification can be compared to the axiom schema of comprehension. The axiom schema of comprehension is not part of ZFC. It states, for every statement *P*, that there exists the set of objects of which *P* is true. The axiom schema of comprehension leads to logical contradictions. For example, it leads to [Russell's paradox](https://plato.stanford.edu/entries/russell-paradox/), the paradox concerning whether or not the set of all sets that are not members of themselves is a member of itself. The logical contradictions that arise from the axiom schema of comprehension have probably been the most major driving force in the development of set theory.
 
@@ -1853,7 +1853,11 @@ The next axiom states given any set of sets *F*, there is a set containing all e
 
 5. **Axiom of union.** (for all *F*, (for some *A*, (for all *Y*, (for all *x*, (if ((*x* in *Y*) and (*Y* in *F*)) then (x in *A*)))))) 
 
-We call the set containing exactly the elements of elements of *F* the **union** of *F*. The axiom of union does not in itself state that the union of *F* exists. One can prove that the union of every set exists in ZFC by applying the axiom of union, which yields a set containing all elements of elements of *F*, and then applying an axiom of specification to narrow down to a set containing exactly the elements of elements of *F*.
+We call the set containing exactly the elements of elements of *F* the **union** of *F*. The axiom of union does not in itself state that the union of *F* exists. One can prove that the union of every set exists in ZFC by applying the axiom of union, which yields a set containing all elements of elements of *F*, and then applying an axiom of specification to narrow down to a set containing exactly the elements of elements of *F*. For this purpose one can use the axiom of specification for the statement *P* = (for some *A*, ((*x* in *A*) and (*A* in *F*))).
+
+After the axiom of union comes another axiom schema, another infinite set of axioms. This schema, the axiom schema of replacement, tells us that the image of any set under the image of any definable function is contained in some set.
+
+6. **Axiom schema of replacement.** Let *P* be a statement of first-order logic in the vocabulary of ZFC, which does not contain any free occurrences of the variable name *B*. Then the following is an axiom of ZFC: (for all *A*, (if (for all *x*, (if *x* in *A* then (for exactly one *y*, *P*))) then (for some *B*, (for all *x*, (if (*x* in *A*) then (for some *y*, ((*y* in *B*) and *P*)))))))
 
 
 
