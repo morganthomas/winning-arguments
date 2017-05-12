@@ -1897,7 +1897,7 @@ In order to state the axiom of choice, I have introduced a new notation: the [or
 
 The next notion the axiom of choice employs is the set-theoretic notion of a function. In set theory, a function is a type of set of ordered pairs. If *f* is a function, we can equate the statement *f*(*a*) = *b* with the statement ((*a*,*b*) in *f*). A function, by definition, is a set *f* of ordered pairs such that (for all *a*, (if (for some *b*, (*b* in *f*)) then (for exactly one *b*, (*b* in *f*)))).
 
-The axiom of choice states that for any set *X* of nonempty sets, there is a function *f* such that for all *A* in *X*, *f*(*A*) in *A*.
+My formulation of the axiom of choice states roughly that for any set *X* of nonempty sets, there is a function *f* such that for all *A* in *X*, *f*(*A*) in *A*.
 
 That completes the introduction of mathematical notions which is the first step in the argument I am currently presenting for the correctness of the rules of classical logic.
 
