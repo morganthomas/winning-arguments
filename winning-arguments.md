@@ -1863,10 +1863,11 @@ An example of a definable function is the statement *P* = (for all *z*, ((*z* in
 
 The image of a set *A* under a definable function *P* is the set of all *y* such that for some *x* in *A*, *P*. In other words, it is the set resulting from collecting all of the output values that *P* produces for input values in *A*.
 
-The axiom schema of replacement states that the image of any set under the image of any definable function is contained in some set. Formally:
+The axiom schema of replacement states that the image of any set under any definable function is contained in some set. Formally:
 
 6. **Axiom schema of replacement.** Let *P* be a statement of first-order logic in the vocabulary of ZFC, which does not contain any free occurrences of the variable name *B*. Then the following is an axiom of ZFC: (for all *A*, (if (for all *x*, (if *x* in *A* then (for exactly one *y*, *P*))) then (for some *B*, (for all *x*, (if (*x* in *A*) then (for some *y*, ((*y* in *B*) and *P*)))))))
 
+The axiom schema of replacement implies that there exists the image of any set under any definable function. The argument is a straightforward variation on the argument that the axiom of union implies the existence of the union of any set of sets.
 
 
 
