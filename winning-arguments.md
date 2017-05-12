@@ -1881,6 +1881,13 @@ In the von Neumann construction, we equate each natural number with the set of s
 
 The axiom of infinity, viewed at a high level, asserts that there is a set containing all the von Neumann natural numbers. The axiom of infinity asserts the existence of a set *X*. The substatement (for some *e*, ((*e* in *X*) and (not (for some *y*, *y* in *e*)))) asserts that *X* contains the empty set. The rest of the statement asserts that for every element *y* of *X*, *X* also contains the set containing exactly *y*. This axiom serves as a precursor for fairly intricate set-theoretical developments that lead ultimately to the conclusion that the infinite set of exactly the von Neumann natural numbers exists. TODO: provide a source
 
+The next axiom, the power set axiom, implies that for every set *A*, the set of all subsets of *A* exists. This is called the **power set** of *A*.
+
+A subset of a set *A* is a set *B* such that (for all *x*, (if *x* in *B* then *x* in *A*)). The power set axiom reads as follows.
+
+8. **Axiom of power set.** (for all *A*, (for some *P*, (for all *B*, (if (for all *x*, (if *x* in *B* then *x* in *A*)) then *B* in *P*)))).
+
+The final axiom, the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice), is a subject of much wonderment, controversy, and [metamathematical](https://en.wikipedia.org/wiki/Metamathematics) research. 
 
 
 
