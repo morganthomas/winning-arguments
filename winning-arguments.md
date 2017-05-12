@@ -1899,6 +1899,8 @@ The next notion the axiom of choice employs is the set-theoretic notion of a fun
 
 My formulation of the axiom of choice states roughly that for any set *X* of nonempty sets, there is a function *f* such that for all *A* in *X*, *f*(*A*) in *A*.
 
+That completes my presentation of the axioms of ZFC. From these axioms, together with the laws of classical logic, one can prove almost all widely accepted mathematical truths, almost all practically important mathematical truths, and in general all mathematical truths except for some esoteric or alternative truths. The known esoteric mathematical truths not provable in ZFC are often logical or set theoretical in nature. One example of a mathematical statement not provable in ZFC, but widely accepted as true, is the statement that no logical contradiction can be proven from the axioms of ZFC. Another example is the statement that there is an [inaccessible cardinal](https://en.wikipedia.org/wiki/Inaccessible_cardinal).
+
 That completes the introduction of mathematical notions which is the first step in the argument I am currently presenting for the correctness of the rules of classical logic.
 
 The next step in the argument is to introduce the notion of **model theory**. Model theory is a mathematical theory which describes how to apply an interpretation to a statement of first-order logic.
