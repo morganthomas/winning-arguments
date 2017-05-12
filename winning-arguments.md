@@ -1875,7 +1875,9 @@ The next axiom is the axiom of ZFC which allows it to prove the existence of inf
 
 7. **Axiom of infinity.** (for some *X*, ((for some *e*, ((*e* in *X*)) and (not (for some *y*, *y* in *e*))) and (for all *y*, (if (*y* in *X*) then (for some *s*, ((*s* in *X*) and (for all *z*, (*z* in *s* iff *z* = *y*))))))))
 
+This axiom requires significant unpacking. Let's begin with the concept of the natural numbers as they are most commonly defined in classical set theory. This is the so-called [von Neumann construction](https://en.wikipedia.org/wiki/Natural_number#Von_Neumann_construction) of the natural numbers. Here by "natural numbers," we mean non-negative integers, i.e. the numbers 0, 1, 2, 3, etc. on to infinity.
 
+In this construction, we equate each natural number with the set of smaller natural numbers. We equate the number zero with the empty set, since there are no natural numbers smaller than zero. We equate the number one with the set containing exactly the empty set, or in other words the set containing exactly the number zero. We equate the number two with the set containing exactly the empty set and the set containing exactly the empty set, or in other words the set containing exactly the numbers zero and one. And so on to infinity.
 
 
 
