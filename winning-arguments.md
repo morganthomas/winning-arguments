@@ -1889,11 +1889,14 @@ A subset of a set *A* is a set *B* such that (for all *x*, (if *x* in *B* then *
 
 The final axiom, the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice), is a subject of much wonderment, controversy, and [metamathematical](https://en.wikipedia.org/wiki/Metamathematics) research. 
 
+"Informally put, the axiom of choice says that given any collection of bins, each containing at least one object, it is possible to make a selection of exactly one object from each bin." (Wikipedia)
+
+9. **Axiom of choice.** (for all *X*, (if (for all *y*, (if *y* in *X* then (for some *z*, (*z* in *Y*)))) then (for some *f*, (for all *A*, ((if (*A* in *X*) then (for exactly one *B*, (*A*,*B*) in *f*)) and (for all *B*, (if ((*A*,*B*) in *f*) then (*B* in *A*))))))))
 
 
 
 
-That completes our introduction of mathematical notions which is the first step in the argument I am currently presenting for the correctness of the rules of classical logic.
+That completes the introduction of mathematical notions which is the first step in the argument I am currently presenting for the correctness of the rules of classical logic.
 
 The next step in the argument is to introduce the notion of **model theory**. Model theory is a mathematical theory which describes how to apply an interpretation to a statement of first-order logic.
 
