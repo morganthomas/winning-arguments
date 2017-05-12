@@ -1759,7 +1759,7 @@ The basic proof construction techniques that I have introduced in the context of
 
 That completes my introduction of how to use the rules of classical first-order logic. We can use rules of logic to establish that sets of assertions and denials are incoherent. The rules of classical logic generate an infinite set of valid sequents which describe what sets of assertions and denials are incoherent according to classical logic.
 
-We went entered our discussion of classical logic wanting to discover what rules of logical inference are valid. Rules of logical inference let us go from premises that are warranted assertible in a given context to conclusions that are also warranted assertible in the context. We ended up with something slightly different: we got a system of rules telling us what sets of assertions and denials are incoherent. Let's see how we get back to the topic of rules of logical inference.
+We went entered our discussion of classical logic wanting to discover what rules of logical inference are valid. Rules of logical inference let us go from premises that are warranted assertible in a given context to conclusions that are also warranted assertible in the context. We ended up with something slightly different: we got a system of rules telling us what sets of assertions and denials are incoherent. Let's see how we can get back to the topic of rules of logical inference.
 
 A rule of logical inference can also be called an argument form. For our purposes we can equate rules of inference or argument forms with single-conclusion sequents possibly containing meta-variables. Recall that the result of instantiating the meta-variables in an argument form is called a "case." 
 
