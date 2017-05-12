@@ -1873,7 +1873,7 @@ The axiom schema of replacement implies that there exists the image of any set u
 
 The next axiom is the axiom of ZFC which allows it to prove the existence of infinite sets. If one removes this axiom from ZFC, then in the resulting system, it is not possible to prove the existence of infinite sets.
 
-7. **Axiom of infinity.** (for some *X*, ((for some *e*, (
+7. **Axiom of infinity.** (for some *X*, ((for some *e*, ((*e* in *X*)) and (not (for some *y*, *y* in *x*))) and (for all *y*, (if (*y* in *X*) then (for some *s*, ((*s* in *X*) and (for all *z*, (*z* in *s* iff *z* = *y*))))))))
 
 
 
