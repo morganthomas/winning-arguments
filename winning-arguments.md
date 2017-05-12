@@ -1867,7 +1867,7 @@ The axiom schema of replacement states that the image of any set under any defin
 
 6. **Axiom schema of replacement.** Let *P* be a statement of first-order logic in the vocabulary of ZFC, which does not contain any free occurrences of the variable name *B*. Then the following is an axiom of ZFC: (for all *A*, (if (for all *x*, (if *x* in *A* then (for exactly one *y*, *P*))) then (for some *B*, (for all *x*, (if (*x* in *A*) then (for some *y*, ((*y* in *B*) and *P*)))))))
 
-In this axiom we have used the quantifier "for exactly one," which is something we have not seen before, which was not part of our definition of statements of first-order logic as given back in the section titled Statements. A statement of the form (for exactly one **x**, **Q**) can be taken as an abbrevation for (for some **x**, (**Q** and (for all **y**, (if **Q**[**x** -> **y**] then (**x** = **y**))))).
+In this axiom we have used the quantifier "for exactly one," which is something we have not seen before, which was not part of our definition of statements of first-order logic as given back in the section titled Statements. A statement of the form (for exactly one **x**, **Q**) can be taken as an abbrevation for (for some **x**, (**Q** and (for all **y**, (if **Q**[**x** -> **y**] then **x** = **y**)))).
 
 The axiom schema of replacement implies that there exists the image of any set under any definable function. The argument is a straightforward variation on the argument that the axiom of union implies the existence of the union of any set of sets.
 
