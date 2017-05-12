@@ -1755,7 +1755,7 @@ This gives us the following proof.
 
 To sum up, the classic argument we have analyzed is valid according to classical logic. Given that Socrates is a man and all men are mortal, it follows that Socrates is mortal. It is incoherent, according to classical logic, to assert that Socrates is a man and all men are mortal while denying that Socrates is mortal.
 
-The basic proof construction techniques that we have introduced in the context of this argument can be applied to construct arbitrarily complex proofs of the validity of valid first-order logic sequents. To go deeper into this topic, I refer you to the exercises. TODO: exercises
+The basic proof construction techniques that I have introduced in the context of this argument can be applied to construct arbitrarily complex proofs of the validity of valid first-order logic sequents. To go deeper into this topic, I refer you to the exercises. TODO: exercises
 
 That completes my introduction of how to use the rules of classical first-order logic. We can use the rules of logic to establish that sets of assertions and denials are incoherent. The rules of classical logic generate an infinite set of valid sequents which describe what sets of assertions and denials are incoherent according to classical logic.
 
