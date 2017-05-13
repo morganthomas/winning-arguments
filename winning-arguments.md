@@ -1950,7 +1950,7 @@ We now have a mathematical way of understanding the concept of a context, for th
 
 What grounds this type of *prima facie* circular definition is that the definition of "model" is implicitly stated in the context of classical first-order logic and set theory, as axiomatized in ZFC. We have, in this text, skipped the extremely laborious mathematical developments required to define and prove, in ZFC and classical first-order logic, essential properties of basic mathematical concepts such as the definition of "model" and the definition of truth in a model. We have skipped over these formal details in this text, but all of these details can be filled in by any logician worth their salt who chose to devote the time the task would take. TODO: provide a source of formal development
 
-In short, the point is this. We know how to use the word "and" as it occurs in the phrase "**P** is true in *M* and **Q** is true in *M*," because the rules of inference for first-order logic which I have provided tell us how to use the word "and." There is therefore no circularity in the definition of whether (**P** and **Q**) is true in *M*. The definition is grounded in the rules of classical logic as described earlier.
+In short, the point is this. We know how to use the word "and" as it occurs in the phrase "**P** is true in *M* and **Q** is true in *M*," because the rules for first-order logic which I have provided tell us how to use the word "and." There is therefore no circularity in the definition of whether (**P** and **Q**) is true in *M*. The definition is grounded in the rules of classical logic as described earlier.
 
 ## Fallacies
 
