@@ -1958,7 +1958,13 @@ Model theory is philosophically valuable because it offers a more explicit way o
 
 Here is a natural question. Suppose that (**A1**,...,**An** entails **B**) is a valid sequent, and that **A1**,...,**An** are true. Does it follow that **B** is true? It does in the following sense: 
 
-**Soundness theorem.** For any model *M*, if **A1**,...,**An** are all true in *M*, then **B** is true in *M*.
+**Soundness theorem.** Let **A1**,...,**An**, **B** be statements. Suppose that (**A1**,...,**An** entails **B**) is a valid sequent. Let *M* be a model. Suppose that **A1**,...,**An** are true in *M*. Then for any model *M*, if **A1**,...,**An** are all true in *M*, then **B** is true in *M*.
+
+**Proof.** TODO
+
+Here's another natural question. Can we reverse the conditional in the soundness theorem. In other words, if in any model *M* where **A1**,...,**An** are true, **B** is also true, does it follow that (**A1**,...,**An** entails **B**)? The answer is "yes."
+
+**Completeness theorem.** Let **A1**,...,**An**, **B** be statements. Suppose that for any model *M*, if **A1**,...,**An** are all true in **M**, then **B** is true in *M*. Then (**A1**,...,**An** entails **B**) is a valid sequent.
 
 **Proof.** TODO
 
