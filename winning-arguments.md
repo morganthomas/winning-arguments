@@ -1962,7 +1962,7 @@ Here is a natural question. Suppose that (**A1**,...,**An** entails **B**) is a 
 
 **Proof.** TODO
 
-Here's another natural question. Can we reverse the conditional in the soundness theorem. In other words, if in any model *M* where **A1**,...,**An** are true, **B** is also true, does it follow that (**A1**,...,**An** entails **B**)? The answer is "yes."
+Here's another natural question. Can we reverse the conditional in the soundness theorem? In other words, if in any model *M* where **A1**,...,**An** are true, **B** is also true, does it follow that (**A1**,...,**An** entails **B**)? The answer is "yes."
 
 **Completeness theorem.** Let **A1**,...,**An**, **B** be statements. Suppose that for any model *M*, if **A1**,...,**An** are all true in **M**, then **B** is true in *M*. Then (**A1**,...,**An** entails **B**) is a valid sequent.
 
