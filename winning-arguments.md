@@ -1923,7 +1923,7 @@ Because lacking ternary and higher *n*-ary relations is not a problem for our pu
 
 * *D* is a set, called the **domain** of *M*. For convenience, we shall assume that all elements of *D* are object literals. This means that we automatically have a way to refer to elements of *D* in statements.
 * *I* is a function, called the **interpretation** of *M*, defined on all words in the vocabulary:
-   * For each object literal t, *I*(t) is an element of *D*.
+   * For each object literal t, *I*(t) is an element of *D*. If t in *D*, then *I*(t) = t.
    * For each predicate P, *I*(P) is a subset of *D*.
    * For each copula C, *I*(C) is a binary relation on *D*, or in other words a set of ordered pairs of elements of *D*.
 
@@ -1939,6 +1939,12 @@ A model is a context or a possible world in which statements can be said to be t
 5. For any statement **P** and any variable name **x**:
     * (for all **x**, **P**) is true in *M* iff for all *a* in *M*, **P**[**x** -> *a*] is true in *M*.
     * (for some **x**, **P**) is true in *M* iff for some *a* in *M*, **P**[**x** -> *a*] is true in *M*.
+
+Let's take a breather to deal with a technicality. Earlier I wrote:
+
+"We will consider a context to provide a partial mapping from object terms to objects, saying for some subset of the set of all of context-sensitive object terms (i.e. variables and context-sensitive object literals) what objects they denote. In our approach, statements containing free occurrences of variables whose denotations are not defined by a given context, and statements containing context-sensitive object literals whose denotations are not defined by that context, will be uninterpretable in that context."
+
+Yet, in the definition of "model," I wrote: "the **interpretation** of *M*, defined on all words in the vocabulary." How do these statements square with each other? In a simple way: terms that aren't defined in the given context are not considered part of the vocabulary.
 
 ## Fallacies
 
