@@ -1944,7 +1944,7 @@ Let's take a breather to deal with a technicality. Earlier I wrote:
 
 "We will consider a context to provide a partial mapping from object terms to objects, saying for some subset of the set of all of context-sensitive object terms (i.e. variables and context-sensitive object literals) what objects they denote. In our approach, statements containing free occurrences of variables whose denotations are not defined by a given context, and statements containing context-sensitive object literals whose denotations are not defined by that context, will be uninterpretable in that context."
 
-Yet, in the definition of "model," I wrote: "the **interpretation** of *M*, defined on all words in the vocabulary." How do these statements square with each other? In a simple way: terms that aren't defined in the given context are not considered part of the vocabulary.
+Yet, in the definition of "model," I wrote: "the **interpretation** of *M*, defined on all words in the vocabulary." How do these statements square with each other? In a simple way: terms that aren't defined in the given context are not considered part of the vocabulary. Technicality handled.
 
 ## Fallacies
 
