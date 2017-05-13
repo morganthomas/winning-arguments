@@ -1954,7 +1954,7 @@ In short, the point is this. We know how to use the word "and" as it occurs in t
 
 Model theory is an interesting achievement in which we have been able to turn first-order logic back on itself. By using first-order logic and some well-chosen axioms of set theory, we are able to develop all of mathematics, including a mathematical theory called model theory which can be used to study the concept of truth as implicitly described in the rules of classical first-order logic.
 
-Model theory is philosophically valuable because it offers a more explicit way of looking at the concept of truth as understood by classical logic. It is also specifically valuable for the present purpose. My present purpose is to present the best argument I can that the rules of classical logic are correct. Model theory is an essential tool in this argument. The whole argument up to this point has been laying the groundwork of set theory and model theory, which we can now put into motion to argue that the rules of classical logic are correct.
+Model theory is philosophically valuable because it offers a more explicit way of looking at the concept of truth as understood by classical logic. It is also specifically valuable for the present purpose. My present purpose is to present the best argument I can that the rules of classical logic are correct. Model theory is an essential tool in this argument. The whole argument up to this point has been laying the groundwork of set theory and model theory, which I can now put into motion to argue that the rules of classical logic are correct.
 
 
 
