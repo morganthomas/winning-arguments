@@ -1911,7 +1911,7 @@ The next step in the argument is to introduce the notion of **model theory**. Mo
 
 To introduce model theory, let's start with the concept of **truth values**. There are two truth values: true, and false. Classical model theory provides a theoretical, mathematical method for assigning truth values to all statements in a given vocabulary. In other words, it provides a method of saying (in theory) for each statement in a given vocabulary whether it is true or false.
 
-Specifically, classical model theory applies to first order logic with some fixed sets of object literals, predicates, and copulas, which we will call a **vocabulary**. Henceforth we will assume in the background some fixed vocabulary, with the understanding that the arbitrary, fixed vocabulary we assume could stand for any vocabulary. I will use the letters t, u, v, etc. to denote object literals. I will use the letters P, Q, R, etc. to denote predicates. I will use the letters C, D, E, etc. to denote copulas. Recall that a predicate is a relation which applies to exactly one object: e.g., "is red" is a predicate. Recall that a copula is a relation which applies to exactly two objects: e.g., "loves" is a copula.
+Specifically, classical model theory applies to first order logic with some fixed sets of object literals, predicates, and copulas, which we will call a **vocabulary**. Henceforth we will assume in the background some fixed vocabulary, with the understanding that the arbitrary, fixed vocabulary we assume could stand for any vocabulary. I will use the letters t, u, v, etc. to denote object literals, and I will assume that variables *a*, *b*, *c*, etc. are among the object literals. I will use the letters P, Q, R, etc. to denote predicates. I will use the letters C, D, E, etc. to denote copulas. Recall that a predicate is a relation which applies to exactly one object: e.g., "is red" is a predicate. Recall that a copula is a relation which applies to exactly two objects: e.g., "loves" is a copula.
 
 Most presentations of model theory allow, in addition to predicates and copulas, ternary relations which apply to exactly three things, and in general they allow *n*-ary relations for every positive integer *n*. I am departing from this common practice for the reasons that it simplifies the presentation, and that lacking relations between more than two things is not actually much of a handicap. For example, all of mathematics can be expressed in set theory, in terms of a single copula or binary relation, "in," the relation of set inclusion.
 
@@ -1921,13 +1921,24 @@ Because lacking ternary and higher *n*-ary relations is not a problem for our pu
 
 **Definition.** A **model** *M* is an ordered pair *M* = (*D*,*I*), where:
 
-* *D* is a set, called the **domain** of *M*.
+* *D* is a set, called the **domain** of *M*. For convenience, we shall assume that all elements of *D* are object literals. This means that we automatically have a way to refer to elements of *D* in statements.
 * *I* is a function, called the **interpretation** of *M*, defined on all words in the vocabulary:
    * For each object literal t, *I*(t) is an element of *D*.
    * For each predicate P, *I*(P) is a subset of *D*.
    * For each copula C, *I*(C) is a binary relation on *D*, or in other words a set of ordered pairs of elements of *D*.
 
-Given a model *M*, we can say for any statement *P* of first order logic (in our fixed vocabulary) whether or not *P* is true in *M*. A model is a context or a possible world in which statements can be said to be true or false.
+A model is a context or a possible world in which statements can be said to be true or false. Given a model *M*, we can say for any statement *P* of first order logic (in our fixed vocabulary) whether or not *P* is true in *M*. We define whether any statement *P* is true in *M* as follows:
+
+1. For any predicate **P** and any object literal **t**, **Pt** is true in *M* iff *I*(**t**) in *I*(**P**).
+2. For any copula **C** and any object literals **t** and **u**, **Ctu** is true in *M* iff (*I*(**t**), *I*(**u**)) in *I*(**C**).
+3. For any statement **P**, (not **P**) is true in *M* iff (not (**P** is true in *M*)).
+4. For any statements **P** and **Q**:
+    * (if **P** then **Q**) is true in *M* iff (if (**P** is true in *M*) then (**Q** is true in **M**)).
+    * (**P** and **Q**) is true in *M* iff **P** is true in *M* and **Q** is true in *M*.
+    * (**P** or **Q**) is true in *M* iff **P** is true in *M* or **Q** is true in *M*.
+5. For any statement **P** and any variable name **x**:
+    * (for all **x**, **P**) is true in *M* iff for all *a* in *M*, **P**[**x** -> *a*] is true in *M*.
+    * (for some **x**, **P**) is true in *M* iff for some *a* in *M*, **P**[**x** -> *a*] is true in *M*.
 
 ## Fallacies
 
