@@ -1956,7 +1956,11 @@ Model theory is an interesting achievement in which we have been able to turn fi
 
 Model theory is philosophically valuable because it offers a more explicit way of looking at the concept of truth as understood by classical logic. It is also specifically valuable for the present purpose. My present purpose is to present the best argument I can that the rules of classical logic are correct. Model theory is an essential tool in this argument. The whole argument up to this point has been laying the groundwork of set theory and model theory, which I can now put into motion to argue that the rules of classical logic are correct.
 
+Here is a natural question. Suppose that (**A1**,...,**An** entails **B**) is a valid sequent, and that **A1**,...,**An** are true. Does it follow that **B** is true? It does in the following sense: 
 
+**Soundness theorem.** For any model *M*, if **A1**,...,**An** are all true in *M*, then **B** is true in *M*.
+
+**Proof.** TODO
 
 ## Fallacies
 
