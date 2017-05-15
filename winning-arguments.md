@@ -1972,7 +1972,9 @@ In summary, the rules of classical logic we have described are sound and complet
 
 Say that a sequent (**A1*,...,**An** entails **B**) **has a counterexample** iff there is a model *M* such that **A1**,...,**An** are true in *M* and **B** is false in *M*. The soundness and completeness theorems, taken together, state that (**A1**,...,**An** entails **B**) is a valid sequent if and only if it has no counterexample.
 
-One philosophical reading of this mathematical fact is to say that the sequent (**A1**,...,**An** entails **B**) is valid if and only if we can infer from **A1**,...,**An** to **B** under any possible way of bestowing precise meanings to the terms in **A1**,...,**An**, **B**. This reading assumes that every possible way of bestowing precise meanings to the terms in **A1**,...,**An**, **B** can be represented suitably by a model in the sense we have defined.
+One philosophical reading of this mathematical fact is to say that the sequent (**A1**,...,**An** entails **B**) is valid if and only if **B** is true under any possible way of bestowing precise meanings to the vocabulary in **A1**,...,**An**, **B** which renders **A1**,...,**An** true. This reading assumes that every possible way of bestowing precise meanings to the vocabulary in **A1**,...,**An**, **B** can be represented suitably by a model in the sense we have defined.
+
+I think the assumption of the reading is true, if we understand a "precise meaning" for a predicate as necessarily saying for every object that the predicate is true or is false of the object, and similarly for copulas. 
 
 ## Fallacies
 
