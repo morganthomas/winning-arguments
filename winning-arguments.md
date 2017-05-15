@@ -1972,9 +1972,13 @@ In summary, the rules of classical logic we have described are sound and complet
 
 Say that a sequent (**A1**,...,**An** entails **B**) **has a counterexample** iff there is a model *M* such that **A1**,...,**An** are true in *M* and **B** is false in *M*. The soundness and completeness theorems, taken together, state that (**A1**,...,**An** entails **B**) is a valid sequent if and only if it has no counterexample.
 
-One philosophical reading of this mathematical fact is to say that the sequent (**A1**,...,**An** entails **B**) is valid if and only if **B** is true under any possible way of bestowing precise meanings to the vocabulary in **A1**,...,**An**, **B** which renders **A1**,...,**An** true. This reading assumes that every possible way of bestowing precise meanings to the vocabulary in **A1**,...,**An**, **B** can be represented suitably by a model in the sense we have defined.
+One philosophical reading of this mathematical fact is to say that the sequent (**A1**,...,**An** entails **B**) is valid if and only if **B** is true under any possible way of bestowing precise meanings to the vocabulary in **A1**,...,**An**, **B** which renders **A1**,...,**An** true. This reading assumes that every possible way of bestowing precise meanings to the vocabulary in **A1**,...,**An**, **B** can be represented by a model in the sense we have defined.
 
 I think the assumption of the reading is true, if we understand a "precise meaning" for a predicate as necessarily saying for every object that the predicate is true or is false of the object, and similarly for copulas. 
+
+I don't take model theory to be a theory of meaning. For me, meaning is a psychological notion, as I elaborated in the section titled Language and the section titled Meaning. I don't think classical model theory offers a plausible or realistic model of human psychology; for example, human psychological processing does not seem to readily classify every single object in the universe as either satisfying or not satisfying any given predicate. 
+
+The thesis I have agreed to does not construe model theory as a theory of meaning. Rather, it hypothesizes a connection between precise meaning and classical model theory: namely, that every possible way of bestowing precise meanings to the terms of a vocabulary can be represented by a model in the sense I have defined. Such a representation is not a *complete* representation of such precise meanings; it only goes as far as is required to determine for every first-order logic statement over the given vocabulary whether the statement is true or false.
 
 ## Fallacies
 
