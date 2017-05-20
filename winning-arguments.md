@@ -1996,7 +1996,24 @@ I don't propose to provide a theory of vague predicates in this work. I don't th
 
 For the purposes of the present argument for the correctness of classical logic, the challenge posed by vagueness is that it challenges the applicability of the rules of classical logic to real world problems. A sequent is valid according to classical logic iff it has no precise counterexamples. The existence of vagueness and other forms of non-preciseness in real predicates might make us wonder: are there invalid arguments which lack any precise counterexamples, or valid arguments which have precise counterexamples? If so, then the rules of classical logic are not necessarily correct in all cases.
 
-We can quickly rule out the possibility of valid arguments which have precise counterexamples. A valid argument with precise counterexamples has counterexamples, and so by definition is not valid. What is more difficult to rule out is the possibility of invalid arguments which lack precise counterexamples. Whether or not such arguments exist is in essence what the debate between believers in classical logic and believers in non-classical logics is about.
+We can quickly rule out the possibility of valid arguments which have precise counterexamples. A valid argument with precise counterexamples has convincing counterexamples, and so it is not valid. 
+
+* Here I am using "valid" in the sense of "valid for people in general."
+* I am using "counterexample" in the sense of a person, a (hypothetical or real) truth-seeking debate context, and a case of the argument form where the person would generally consider the premises warranted assertible and the conclusion not warranted assertible.
+* I am using "convincing counterexample" in the sense of a counterexample which people in general would accept (given sufficient time, attention, openness to the process of truth seeking debate, etc.)
+* I am using "precise counterexample" in the sense of a counterexample where the terms in the argument have precise meanings, the premises of the argument are true, and the conclusion is false.
+
+This argument, for the conclusion that there are no valid arguments with precise counterexamples, relies on the assumption that every precise counterexample is a convincing counterexample. This assumption is intuitively plausible, but I have not argued for it yet. My argument for the assumption is that as far as I am aware, there are no convincing counterexamples to the assumption that every precise counterexample is a convincing counterexample. If given such a convincing counterexample, then I would need to re-evaluate my position. However, I haven't come across one and I don't particularly expect that I ever will.
+
+That completes my argument that there are no valid arguments with precise counterexamples. It is not a water-tight argument, to be sure. This doesn't bother me very much for the reason that I don't consider it possible to give a water-tight argument for the correctness of a set of rules of logic. One reason for this is that any argument for the correctness of a set of rules of logic must employ rules of logic. We have been employing the rules of classical logic all throughout this argument for the correctness of the rules of classical logic, mostly implicitly; for example, in order to derive the mathematical facts that we have used in the argument from the axioms of ZFC.
+
+In some sense, any argument for the correctness of a system of rules of logic will be circular, since it will almost inevitably employ the rules of logic it is trying to justify. This is an interesting paradox. It would be a problem for my view if my present goal was to establish knowledge of the correctness of the rules of logic. However, my goal is merely to justify the idea that the rules of classical logic are correct from a pragmatic standpoint: in particular, that using the rules of inference of classical logic will not in practice lead us from truth into falsehood, and that these rules can safely and generally be employed in the practice of constructing winning arguments.
+
+Earlier we raised two questions expressing doubts about the correctness of the rules of classical logic. These questions are pertinent even if we accept the conclusion I arrived at that a sequent is valid according to classical logic iff it lacks precise counterexamples. The first question was whether there are any valid arguments with precise counterexamples. I answered "no" to this question.
+
+The second question was whether there are invalid arguments which have lack precise counterexamples.  This is a trickier question. Whether or not such arguments exist is a primary and crucial topic of debate between believers in classical logic and believers in non-classical logics is about. Because this such a complex and raging debate, we cannot expect to arrive at a definitive answer to the question.
+
+
 
 ## Fallacies
 
