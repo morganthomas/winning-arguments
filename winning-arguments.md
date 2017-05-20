@@ -2015,6 +2015,12 @@ The second question was whether there are invalid arguments which lack precise c
 
 I want to argue that there are no pragmatically convincing counterexamples to the claim that every invalid argument has a precise counterexample. Stated differently, the claim is that there is no real world context where practical problems would arise from assuming that an argument with no precise counterexamples is valid. My basis for this claim is that I have looked for such pragmatically convincing counterexamples without finding them. I will illustrate the difficulty of finding such pragmatically convincing counterexamples by exploring some avenues for producing such counterexamples that may seem promising, and explaining why it seems to me that those avenues yield no such counterexamples.
 
+Let us first consider the topic of vagueness. Can vague predicates provide us with any pragmatically convincing examples of invalid arguments with no precise counterexamples?
+
+Let's start with a very simple example: the argument form ( entails (**A** or (not **A**))). This argument form has an empty sequence of premises and a single conclusion. All instances of this argument form are valid sequents in classical logic. According to classical logic, for any statement **A**, either **A** is true or its negation (not **A**) is true. According to classical logic, an equivalent way of stating this is to say that for any statement **A**, either **A** is true or **A** is false. This principle is sometimes called the **law of the excluded middle**, or **LEM** for short.
+
+Many proponents of non-classical logics reject the law of the excluded middle. Many also reject the idea that all of the formulations of LEM given in the previous paragraph are equivalent statements. The main question for our purposes is: are there any pragmatically convincing counterexamples to LEM? 
+
 ## Fallacies
 
 ## Biases
