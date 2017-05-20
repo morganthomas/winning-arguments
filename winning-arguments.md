@@ -2035,6 +2035,10 @@ The generalization of these comments is that in practical contexts, when one is 
 
 In contexts where this is the rule, we can think of vague predicates as being incomplete precise predicates, whose definitions are extended on an *ad hoc* basis to deal with intermediate cases as they arise.
 
+Let's think about pragmatic situations where one encounters an intermediate case of a vague predicate and one's response is not to classify the object as satisfying or not satisfying the predicate. In such situations, the pragmatics of the situation do not require one to classify the object as satisfying or not satisfying the predicate. Instead, one is somehow able to work around making such a classification. Such cases will only pose a problem for the argument I am making if it can be shown that classifying the object as satisfying or not satisfying the predicate would lead to some form of pragmatically significant error. I haven't come up with any such examples. I am interested if you have any. For the time being, I operate under the assumption that there are none.
+
+I will assume going forward in the argument that there are no pragmatic situations where classifying an object as satisfying or not satisfying a vague predicate will lead to some form of pragmatically significant error (regardless of which of the two classification options is chosen). If this assumption holds, then it rules out vagueness as a source of counterexamples to the claim that there are no invalid arguments which lack precise counterexamples.
+
 ## Fallacies
 
 ## Biases
