@@ -2093,6 +2093,8 @@ From what has been assumed it follows that it does matter pragmatically whether 
 
 ### Paradoxes
 
+The next category of challenges to classical logic which we will consider are the challenges posed by logical paradoxes, and schools of non-classical logic which advocate for ways of weakening the rules of classical logic in order to resolve paradoxes.
+
 ## Fallacies
 
 ## Biases
