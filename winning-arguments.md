@@ -1994,7 +1994,7 @@ There are many different theories of what it means for a predicate to be vague, 
 
 I don't propose to provide a theory of vague predicates in this work. I don't think one needs a theory of vague predicates in order to make effective use of them in arguments. 
 
-For the purposes of the present argument for the correctness of classical logic, the challenge posed by vagueness is that it challenges the applicability of the rules of classical logic to real world problems. A sequent is valid according to classical logic iff it has no precise counterexamples. We might wonder, though, given the existence of vagueness and other forms of non-preciseness, in some contexts can there be incoherent sequents which lack any precise counterexamples, or coherent sequents which have precise counterexamples? Here I am using "coherent" and "incoherent" in a context-dependent sense; the terms refer to the concepts of coherence and incoherence appropriate to any given context.
+For the purposes of the present argument for the correctness of classical logic, the challenge posed by vagueness is that it challenges the applicability of the rules of classical logic to real world problems. A sequent is valid according to classical logic iff it has no precise counterexamples. The existence of vagueness and other forms of non-preciseness in real predicates might make us wonder: in some contexts, can there be incoherent sequents which lack any precise counterexamples, or coherent sequents which have precise counterexamples? Here I am using "coherent" and "incoherent" in a context-dependent sense; the terms refer to the concepts of coherence and incoherence appropriate to any given context.
 
 ## Fallacies
 
