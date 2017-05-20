@@ -2011,7 +2011,7 @@ In some sense, any argument for the correctness of a system of rules of logic wi
 
 Earlier we raised two questions expressing doubts about the correctness of the rules of classical logic. These questions are pertinent even if we accept the conclusion I arrived at that a sequent is valid according to classical logic iff it lacks precise counterexamples. The first question was whether there are any valid arguments with precise counterexamples. I answered "no" to this question.
 
-The second question was whether there are invalid arguments which have lack precise counterexamples.  This is a trickier question. Whether or not such arguments exist is a primary and crucial topic of debate between believers in classical logic and believers in non-classical logics is about. Because this such a complex and raging debate, we cannot expect to arrive at a definitive answer to the question.
+The second question was whether there are invalid arguments which lack precise counterexamples.  This is a trickier question. Whether or not such arguments exist is a primary and crucial topic of debate between believers in classical logic and believers in non-classical logics is about. Because this such a complex and raging debate, we cannot expect to arrive at a definitive answer to the question.
 
 
 
