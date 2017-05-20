@@ -1970,7 +1970,7 @@ Here's another natural question. Can we reverse the conditional in the soundness
 
 **Proof.** TODO
 
-In summary, the rules of classical logic we have described are sound and complete with respect to classical model theory. We can restate the soundness and completeness theorems together as one statement, in the following way.
+In summary, the rules of classical logic I have described are sound and complete with respect to classical model theory. We can restate the soundness and completeness theorems together as one statement, in the following way.
 
 Say that a sequent (**A1**,...,**An** entails **B**) **has a counterexample** iff there is a model *M* such that **A1**,...,**An** are true in *M* and **B** is false in *M*. The soundness and completeness theorems, taken together, state that (**A1**,...,**An** entails **B**) is a valid sequent if and only if it has no counterexample.
 
