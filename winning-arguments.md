@@ -2071,7 +2071,7 @@ I do intend to lean on my observation that pragmatically, it makes no difference
 
 It follows from this assumption that pragmatically, it does not matter whether statement 2 (in my description of intuitionism) is true or false. To recall, here is statement 2. "Mathematical statements are synthetic a priori truths. One verifies mathematical statements by means of constructing mathematical objects in one's mind and observing their properties." One way statement 2 can be false is if mathematical Platonism is true, so that mathematical objects are not constructed by humans, but merely observed by humans. Since it doesn't matter pragmatically whether intuitionism or mathematical Platonism is true, it doesn't matter pragmatically whether statement 2 is true or false.
 
-
+If mathematical Platonism is true, then most would agree that it is coherent for statement 3 to be false. To recall, statement 3 is the following. "Not all rules of classical logic are correct in the context of mathematics. The rules of logic that are correct in the context of mathematics are the rules of intuitionistic logic." I think most philosophical logicians would agree that it is coherent and logically possible for mathematical Platonism to be true and for all mathematical predicates to be precise, and that this would imply that all the rules of classical logic are valid for mathematics, in the sense that the rules of classical logic will not lead us from true mathematical premises to false mathematical conclusions.
 
 ## Fallacies
 
