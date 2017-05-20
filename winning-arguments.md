@@ -2051,11 +2051,17 @@ What other potential areas can we look at for pragmatically convincing counterex
 
 Scholarly readers will likely expect a discussion of [intuitionism](https://en.wikipedia.org/wiki/Intuitionism), a school of thought founded by the mathematician and philosopher [L.E.J. Brouwer](https://en.wikipedia.org/wiki/L._E._J._Brouwer).
 
-Here is my summary of some basic theses or assumptions of intuitionism. I don't assume that all intuitionists would agree with all of these statements, but they represent my best attempt to represent the views of intuitionists in general and simple terms.
+Here is my summary of some basic theses or assumptions of intuitionism. I don't assume that all intuitionists would agree with all of these statements, but they represent my best attempt to represent the views of intuitionists in general and simple terms. I have weakened phrasing that my sources use in some places (particularly, by removing the term "know"/"knowledge"), in order to assist the presentation going forward.
 
-1. Immanuel Kant, in the Critique of Pure Reason, was correct in arguing that there are knowable *synthetic a priori truths*. [A priori truths](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) are truths which we can know by introspection alone, without engaging in empirical investigation. [Synthetic, as opposed to analytic, truths](https://plato.stanford.edu/entries/analytic-synthetic/) are substantial truths that are not true merely by virtue of the definitions of the words they contain, but rather are true by virtue both of the definitions of the words they contain and by virtue of facts about the world. Synthetic a priori truths, then, are substantial truths about the world which we can know 
+1. Immanuel Kant, in the Critique of Pure Reason, was correct in arguing that there are *synthetic a priori truths*. [A priori truths](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) are truths which we can know by introspection alone, without engaging in empirical investigation. [Synthetic, as opposed to analytic, truths](https://plato.stanford.edu/entries/analytic-synthetic/) are substantial truths that are not true merely by virtue of the definitions of the words they contain, but rather are true by virtue both of the definitions of the words they contain and by virtue of facts about the world. Synthetic a priori truths, then, are substantial truths about the world which we can know 
 2. Mathematical statements are synthetic a priori truths. One verifies mathematical statements by means of constructing mathematical objects in one's mind and observing their properties.
 3. Not all rules of classical logic are correct in the context of mathematics. The rules of logic that are correct in the context of mathematics are the rules of [intuitionistic logic](https://en.wikipedia.org/wiki/Intuitionistic_logic). 
+
+If intuitionism, as represented by these three statements, is correct, then evidently the rules of classical logic are not correct in all contexts. 
+
+Here is my personal opinion on intuitionism, in case you are curious. I agree with statement 1. I agree with statement 2, except that crucially I replace the word "constructing" with the word "observing," a replacement which substantially modifies the meaning of the statement. I will go into this topic more in the section titled Math.
+
+For our purposes, the key question is whether intuitionists can make a pragmatically convincing case for their position. According to intuitionists, some mathematical statements are neither true nor false, because they can neither be verified nor falsified by means of correct mathematics. Since the statement (**A** or (not **A**)) expresses that **A** is either true or false, according to intuitionists, following the rules of classical logic will sometimes lead one from truth to falsehood. The key question for us is whether their case can be made pragmatically convincing.
 
 ## Fallacies
 
@@ -2073,6 +2079,6 @@ Here is my summary of some basic theses or assumptions of intuitionism. I don't 
 
 ## Paradoxes
 
-## Foundations of math
+## Math
 
 ## Faith
