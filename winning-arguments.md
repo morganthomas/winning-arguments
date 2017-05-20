@@ -2049,6 +2049,14 @@ I will assume going forward in the argument that there are no pragmatic situatio
 
 What other potential areas can we look at for pragmatically convincing counterexamples to the claim that every invalid argument has a precise counterexample? 
 
+Scholarly readers will likely expect a discussion of [intuitionism](https://en.wikipedia.org/wiki/Intuitionism), a school of thought founded by the mathematician and philosopher [L.E.J. Brouwer](https://en.wikipedia.org/wiki/L._E._J._Brouwer).
+
+Here is my summary of some basic theses or assumptions of intuitionism. I don't assume that all intuitionists would agree with all of these statements, but they represent my best attempt to represent the views of intuitionists in general and simple terms.
+
+1. Immanuel Kant, in the Critique of Pure Reason, was correct in arguing that there are knowable *synthetic a priori truths*. [A priori truths](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori) are truths which we can know without engaging in empirical investigation. [Synthetic, as opposed to analytic, truths](https://plato.stanford.edu/entries/analytic-synthetic/) are substantial truths that are not true merely by virtue of the definitions of the words they contain, but rather are true by virtue both of the definitions of the words they contain and by virtue of facts about the world.
+2. Mathematical statements are synthetic a priori truths. One verifies mathematical statements by means of constructing mathematical objects in one's mind and observing their properties.
+3. Not all rules of classical logic are correct in the context of mathematics. The rules of logic that are correct in the context of mathematics are the rules of [intuitionistic logic](https://en.wikipedia.org/wiki/Intuitionistic_logic). 
+
 ## Fallacies
 
 ## Biases
