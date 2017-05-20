@@ -1984,6 +1984,8 @@ The thesis I have agreed to does not construe model theory as a theory of meanin
 
 In short, here is the conclusion I've arrived at. The sequent (**A1**,...,**An** entails **B**) is valid according to classical logic, if and only if there is no possible set of precise meanings for the vocabulary in the sequent under which **A1**,...,**An** are true and **B** is false. We can shorten this conclusion further by saying: an argument is valid according to classical logic iff it has no precise counterexamples.
 
+Everything I said since I started discussing model theory can be generalized pretty straightforwardly to multiple conclusion sequents, though I carried out the whole discussion only in terms of single conclusion sequents. TODO: go through and double check that
+
 A precise meaning for a predicate classifies every object in the universe as satisfying or not satisfying the predicate. In the real world of language use, predicates are not precise in this sense.
 
 Predicate words in natural languages are almost always **vague**. What this means is that one can find intermediate cases where it is unclear whether or not the predicate applies. This situation is classically described with [the paradox of the heap](https://en.wikipedia.org/wiki/Sorites_paradox). 
