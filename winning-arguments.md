@@ -1980,7 +1980,7 @@ I don't take model theory to be a theory of meaning. For me, meaning is a psycho
 
 The thesis I have agreed to does not construe model theory as a theory of meaning. Rather, it hypothesizes a connection between precise meaning and classical model theory: namely, that every possible way of bestowing precise meanings to the terms of a vocabulary can be represented by a model in the sense I have defined. Such a representation is not a *complete* representation of such precise meanings; it only goes as far as is required to determine for every first-order logic statement over the given vocabulary whether the statement is true or false. Moreover, such precise meanings are not necessarily a kind of meaning in the psychological sense, because meanings of predicates in the psychological sense seldom satisfy the preciseness condition of classical logic of classifying every object in the universe as either satisfying or not satsifying the predicate. Precise meanings, in this discussion, are therefore a theoretical concept not assumed to be a type of speaker or listener meaning. Precise meanings can be thought of as some kind of idealization of meanings in the psychological sense.
 
-In short, here is the conclusion I've arrived at. The sequent (**A1**,...,**An** entails **B**) is valid if and only if there is no possible set of precise meanings for the vocabulary in the sequent under which **A1**,...,**An** are true and **B** is false. 
+In short, here is the conclusion I've arrived at. The sequent (**A1**,...,**An** entails **B**) is valid according to classical logic, if and only if there is no possible set of precise meanings for the vocabulary in the sequent under which **A1**,...,**An** are true and **B** is false. 
 
 ## Fallacies
 
