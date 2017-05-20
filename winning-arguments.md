@@ -2069,6 +2069,10 @@ Replacing "constructing" with "observing" in statement 2 appears to me to underm
 
 I do intend to lean on my observation that pragmatically, it makes no difference whether the intutionists, the mathematical Platonists, or neither group are correct about the nature of mathematical objects. Pragmatically it does not matter whether mathematical objects are constructions of the finite human mind, whether mathematical objects are constructions of God in an infinite heavenly realm, whether mathematical objects are neither of these things, or whether mathematical objects do not even exist. The preceding statement is an assumption of my argument.
 
+It follows from this assumption that pragmatically, it does not matter whether statement 2 (in my description of intuitionism) is true or false. To recall, here is statement 2. "Mathematical statements are synthetic a priori truths. One verifies mathematical statements by means of constructing mathematical objects in one's mind and observing their properties." One way statement 2 can be false is if mathematical Platonism is true, so that mathematical objects are not constructed by humans, but merely observed by humans. Since it doesn't matter pragmatically whether intuitionism or mathematical Platonism is true, it doesn't matter pragmatically whether statement 2 is true or false.
+
+
+
 ## Fallacies
 
 ## Biases
