@@ -2107,8 +2107,6 @@ From what has been assumed it follows that it does matter pragmatically whether 
 
 ## Persuasion
 
-## Paradoxes
-
 ## Math
 
 ## Faith
