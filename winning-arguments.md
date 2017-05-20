@@ -2031,6 +2031,10 @@ Suppose one needs to classify human males as tall or not tall for some practical
 
 If one needs to classify human males as tall or not tall for some practical purpose, then in practice one will usually define a semi-arbitrary exact cut-off point, some height measurement *x*, stipulating that all males of height less than *x* are not tall, and all males of height more than *x* are tall. If one encountered a male whose height was exactly *x*, to within the limits of the precision of the measuring apparatus, then one would semi-arbitrarily make a decision as to whether or not they count as tall for whatever practical purpose is at hand. 
 
+The generalization of these comments is that in practical contexts, when one is dealing with vague predicates (e.g. "tall"), intermediate cases are handled (usually) by semi-arbitrarily classifying the object as satisfying or not satisfying the predicate in question. 
+
+In contexts where this is the rule, we can think of vague predicates as being incomplete precise predicates, whose definitions are extended on an *ad hoc* basis to deal with intermediate cases as they arise.
+
 ## Fallacies
 
 ## Biases
