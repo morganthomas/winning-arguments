@@ -2059,7 +2059,7 @@ Let's think about pragmatic situations where one encounters an intermediate case
 
 I will assume going forward in the argument that there are no pragmatic situations where classifying an object as satisfying or not satisfying a vague predicate will lead to some form of pragmatically significant error (regardless of which of the two classification options is chosen). If this assumption holds, then it rules out vagueness as a source of pragmatically convincing counterexamples to the claim that every invalid argument has a precise counterexample. This is because if one has a vague counterexample to an invalid argument, one can in principle turn it into a precise counterexample by filling in all details of the vague predicates (and copulas), classifying every object (or pair of objects) in the domain/universe as satisfying or not satisfying each predicate (or copula).
 
-### [Intuitionism](#intuitionism)
+### Intuitionism
 
 What other potential areas can we look at for pragmatically convincing counterexamples to the claim that every invalid argument has a precise counterexample? 
 
@@ -2094,6 +2094,8 @@ From what has been assumed it follows that it does matter pragmatically whether 
 ### Paradoxes
 
 The next category of challenges to classical logic which we will consider are the challenges posed by logical paradoxes, and schools of non-classical logic which advocate for ways of weakening the rules of classical logic in order to resolve paradoxes.
+
+As with intuitionism, in this section our question will be: do any paradoxes give rise to pragmatically convincing counterexamples to the claim that 
 
 ## Fallacies
 
