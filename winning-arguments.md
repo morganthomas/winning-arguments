@@ -2031,7 +2031,7 @@ Let's start with a very simple example: the argument form ( entails (**A** or (n
 
 Many proponents of non-classical logics reject the law of the excluded middle. Many also reject the idea that all of the formulations of LEM given in the previous paragraph are equivalent statements. The main question for our purposes is: are there any pragmatically convincing counterexamples to LEM? 
 
-Vague predicates provide a potentially promising avenue for finding pragmatically convincing counterexamples to LEM. All we need to do is to find a pragmatic context where assuming for a specific statement **A** that the statement (**A** or (not **A**)) is true will lead us into some kind of error.
+Vague predicates provide a potentially promising avenue for finding pragmatically convincing counterexamples to LEM. All we need to do is to find a pragmatic context where assuming for a specific statement **A** that the statement (**A** or (not **A**)) is true will lead us into some kind of pragmatic error.
 
 Note that it is not sufficient to find a case where philosophical reflection tells us that a statement is, intuitively speaking, neither true nor false. Such cases, one might argue, are easy to find by considering intermediate cases of vague predicates: for example, is a human male "tall" if they are exactly the average height of a human male? An example such as this one does not meet the burden of proof I have defined for the non-classical logician. We need a case where there is something erroneous about assuming that the statement (**A** or (not **A**)) is true, and the error could matter for some practical purpose.
 
