@@ -2023,7 +2023,13 @@ Let's start with a very simple example: the argument form ( entails (**A** or (n
 
 Many proponents of non-classical logics reject the law of the excluded middle. Many also reject the idea that all of the formulations of LEM given in the previous paragraph are equivalent statements. The main question for our purposes is: are there any pragmatically convincing counterexamples to LEM? 
 
-Vague predicates provide a potentially promising avenue for finding pragmatically convincing counterexamples to LEM. All we need to do is to find a pragmatic context where assuming that a specific statement is either true or false will lead us into some kind of error. 
+Vague predicates provide a potentially promising avenue for finding pragmatically convincing counterexamples to LEM. All we need to do is to find a pragmatic context where assuming for a specific statement **A** that the statement (**A** or (not **A**)) is true will lead us into some kind of error.
+
+Note that it is not sufficient to find a case where philosophical reflection tells us that a statement is, intuitively speaking, neither true nor false. Such cases, one might argue, are easy to find by considering intermediate cases of vague predicates: for example, is a human male "tall" if they are exactly the average height of a human male? An example such as this one does not meet the burden of proof I have defined for the non-classical logician. We need a case where there is something erroneous about assuming that the statement (**A** or (not **A**)) is true, and the error could matter for some practical purpose.
+
+Suppose one needs to classify human males as tall or not tall for some practical purpose. For example, one can suppose we are trying to select players for a men's basketball team, and we are trying to follow the rule that we will only select players who are tall. Or, one can suppose that we are recruiting male soliders for an elite division of an army, and that one of the physical requirements is that the recruits be tall.
+
+If one needs to classify human males as tall or not tall for some practical purpose, then in practice one will usually define a semi-arbitrary exact cut-off point, some height measurement *x*, stipulating that all males of height less than *x* are not tall, and all males of height more than *x* are tall. If one encountered a male whose height was exactly *x*, to within the limits of the precision of the measuring apparatus, then one would semi-arbitrarily make a decision as to whether or not they count as tall for whatever practical purpose is at hand. 
 
 ## Fallacies
 
