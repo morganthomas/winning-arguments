@@ -2013,6 +2013,8 @@ Earlier we raised two questions expressing doubts about the correctness of the r
 
 The second question was whether there are invalid arguments which lack precise counterexamples.  This is a trickier question. Whether or not such arguments exist is a primary and crucial topic of debate between believers in classical logic and believers in non-classical logics. Because this is such a complex and contentious debate, I do not harbor the ambition to resolve the debate in this text. What I will do is offer the best argument I can to the effect that every invalid argument has a precise counterexample, and that from a pragmatic standpoint we can safely operate under this assumption.
 
+I want to argue that there are no pragmatically convincing counterexamples to the claim that every invalid argument has a precise counterexample. Stated differently, the claim is that there is no real world context where practical problems would arise from assuming that an argument with no precise counterexamples is valid. My basis for this claim is that I have looked for such pragmatically convincing counterexamples without finding them. I will illustrate the difficulty of finding such pragmatically convincing counterexamples by going into some possible avenues of producing such pragmatically convincing counterexamples and explaining why it seems to me that those avenues yield no such counterexamples.
+
 ## Fallacies
 
 ## Biases
