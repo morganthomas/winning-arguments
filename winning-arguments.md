@@ -2065,6 +2065,10 @@ For our purposes, the key question is whether intuitionists can make a pragmatic
 
 Let's consider briefly my difference with intuitionists on the topic of whether we construct mathematical objects in our minds, as opposed to merely observing them in our minds. Does this difference of philosophical opinion have any pragmatic significance? Only if there is some practical application of mathematics where classical mathematics brings us to conclusions that are false in a way that is significant for some practical purpose, and where intuitionistic mathematics does not lead us into the same falsehood. Having looked for such a case, I'm not aware of such a case. Going forward in the argument, I assume there is no such case, but of course please inform me if you think of one.
 
+Replacing "constructing" with "observing" in statement 2 appears to me to undermine the main argument intuitionists have for statement 3. Indeed, I suspect that most intuitionists would not dispute the preceding statement. The intuitionists I've spoken to reject [mathematical Platonism](http://www.iep.utm.edu/mathplat/), the view according to which mathematical objects are out there in some timeless, infinite realm of heavenly forms. They reject it because they reject the idea that humans are capable of observing such heavenly forms and verifying mathematical truths in this way. In addition, I think the intuitionists I've spoken would admit that while their view implies that LEM is not true in all cases about mathematics, if mathematical Platonism is true then LEM presumably is true about mathematics, and so intuitionism is false. I am a mathematical Platonist, and this explains why the intuitionist argument is not compelling to me. However, this is in no way persuasive to somebody who is not themselves a mathematical Platonist. I don't want my pragmatic defense against the intuitionist attack on classical logic to rest on the assumption of mathematical Platonism. Therefore, I have not yet constructed my pragmatic defense against the intuitionist attack on classical logic.
+
+
+
 ## Fallacies
 
 ## Biases
