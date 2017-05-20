@@ -1501,7 +1501,7 @@ Let's now get into the weeds with our first important category of laws of reason
 
 A **rule of logical inference**, or **rule of inference**, is a rule which states that in any conversational context where a set of statements with given forms (**premises**) are warranted assertible, another statement (the **conclusion**) is warranted assertible. This is my definition.
 
-Let's give some examples of rules of inference for statements in the language of first-order logic.
+I'll give some examples of rules of inference for statements in the language of first-order logic.
 
  * (**A** and **B**) entails **A**.
  * (**A** and **B**) entails **B**.
@@ -1811,6 +1811,8 @@ Correct in what context? Rules are always correct or incorrect relative to some 
 
 This argument is not in essence original to me, though some details are. In most respects this argument is part of the folk literature on logic. An example of a published presentation of a similar argument can be found in TODO.
 
+### Set theory
+
 The first step in the argument, for us, has to be to look at some mathematical notions in an introductory fashion, with more rigor than we have afforded them so far. The purpose of doing this is to develop some of the vocabulary that the argument will use. The most fundamental notion I need to explain, and the most difficult to explain, is the notion of a **set**. I will offer what I consider to be the most mainstream, most widely accepted explanation of the notion of sets. This explanation is what I will call the classical notion of sets, as formalized in first-order logic and the axioms of ZFC (Zermelo-Fraenkel set theory with the axiom of choice).
 
 Intuitively, a set is a collection of objects. Any object can be in a set, and for every set, every object either is in the set or is not in the set. The relation of set membership (according to the classical notion of sets) is a purely binary, in or out affair. Everything is either in or out of every set; nothing is both in and out of any set; nothing is neither in nor out of any set; nothing is in any sense in between in and out of any set.
@@ -1909,6 +1911,8 @@ That completes my presentation of the axioms of ZFC. From these axioms, together
 
 That completes the introduction of mathematical notions which is the first step in the argument I am currently presenting for the correctness of the rules of classical logic.
 
+### Model theory
+
 The next step in the argument is to introduce the notion of **model theory**. Model theory is a mathematical theory which describes how to apply an interpretation to a statement of first-order logic.
 
 To introduce model theory, let's start with the concept of **truth values**. There are two truth values: true, and false. Classical model theory provides a theoretical, mathematical method for assigning truth values to all statements in a given vocabulary. In other words, it provides a method of saying (in theory) for each statement in a given vocabulary whether it is true or false.
@@ -1987,6 +1991,8 @@ In short, here is the conclusion I've arrived at. The sequent (**A1**,...,**An**
 Everything I said since I started discussing model theory can be generalized pretty straightforwardly to multiple conclusion sequents, though I carried out the whole discussion only in terms of single conclusion sequents. TODO: go through and double check that
 
 A precise meaning for a predicate classifies every object in the universe as satisfying or not satisfying the predicate. In the real world of language use, predicates are not precise in this sense.
+
+### Vagueness
 
 Predicate words in natural languages are almost always **vague**. What this means is that one can find intermediate cases where it is unclear whether or not the predicate applies. This situation is classically described with [the paradox of the heap](https://en.wikipedia.org/wiki/Sorites_paradox). 
 
