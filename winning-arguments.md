@@ -1,5 +1,7 @@
 # Winning Arguments
 
+**A system of meta-philosophy**
+
 ## Table of Contents
 
 * [Acknowledgements](#acknowledgements)
