@@ -1982,6 +1982,16 @@ The thesis I have agreed to does not construe model theory as a theory of meanin
 
 In short, here is the conclusion I've arrived at. The sequent (**A1**,...,**An** entails **B**) is valid according to classical logic, if and only if there is no possible set of precise meanings for the vocabulary in the sequent under which **A1**,...,**An** are true and **B** is false. 
 
+A precise meaning for a predicate classifies every object in the universe as satisfying or not satisfying the predicate. In the real world of language use, predicates are not precise in this sense.
+
+Predicate words in natural languages are almost always **vague**. What this means is that one can find intermediate cases where it is unclear whether or not the predicate applies. This situation is classically described with [the paradox of the heap](https://en.wikipedia.org/wiki/Sorites_paradox). 
+
+Imagine a heap of sand. Imagine the process of removing sand from the heap one grain at a time, going on indefinitely until no sand remains where the heap was. At some point, one no longer has a heap of sand. This point is probably reached before the sand is entirely gone. For example, one grain of sand is probably not a heap. Two grains of sand is probably not a heap.
+
+If "is a heap" is a precise predicate, then at some point, removing a single grain of sand from the heap must cause us to pass from having a heap of sand to not having a heap of sand. However, it seems obvious that a single grain of sand cannot make the difference between having a heap of sand and not having a heap of sand. The usual conclusion is that "is a heap" is a **vague predicate**. "Is a heap" is somehow different from a precise predicate, in such a way that you cannot draw an exact line between heaps and non-heaps.
+
+There are many different theories of what it means for a predicate to be vague, and of how to make sense of vague predicates and their seemingly paradoxical nature. [PhilPapers has catalogued over a thousand scholarly works on "Vagueness and Indeterminacy."](https://philpapers.org/browse/vagueness-and-indeterminacy) The academic debate around vagueness is, as you might guess, stunningly intricate and complicated.
+
 ## Fallacies
 
 ## Biases
