@@ -2021,6 +2021,8 @@ Let's start with a very simple example: the argument form ( entails (**A** or (n
 
 Many proponents of non-classical logics reject the law of the excluded middle. Many also reject the idea that all of the formulations of LEM given in the previous paragraph are equivalent statements. The main question for our purposes is: are there any pragmatically convincing counterexamples to LEM? 
 
+Vague predicates provide a potentially promising avenue for finding pragmatically convincing counterexamples to LEM. All we need to do is to find a pragmatic context where assuming that a specific statement is either true or false will lead us into some kind of error. 
+
 ## Fallacies
 
 ## Biases
