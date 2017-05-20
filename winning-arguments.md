@@ -1996,7 +1996,7 @@ I don't propose to provide a theory of vague predicates in this work. I don't th
 
 For the purposes of the present argument for the correctness of classical logic, the challenge posed by vagueness is that it challenges the applicability of the rules of classical logic to real world problems. A sequent is valid according to classical logic iff it has no precise counterexamples. The existence of vagueness and other forms of non-preciseness in real predicates might make us wonder: are there invalid arguments which lack any precise counterexamples, or valid arguments which have precise counterexamples? If so, then the rules of classical logic are not necessarily correct in all cases.
 
-We can quickly rule out the possibility of valid arguments which have precise counterexamples. A valid argument with precise counterexamples has counterexamples, and so by definition is not valid. What is more difficult to rule out is the possibility of invalid arguments which lack precise counterexamples. Whether or not such arguments exist is in essence what the debate between classical and non-classical logics is about.
+We can quickly rule out the possibility of valid arguments which have precise counterexamples. A valid argument with precise counterexamples has counterexamples, and so by definition is not valid. What is more difficult to rule out is the possibility of invalid arguments which lack precise counterexamples. Whether or not such arguments exist is in essence what the debate between classical logic and non-classical logics is about.
 
 ## Fallacies
 
