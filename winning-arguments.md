@@ -1996,7 +1996,7 @@ Everything I said since I started discussing model theory can be generalized pre
 
 ### Vagueness
 
-A precise meaning for a predicate classifies every object in the universe as satisfying or not satisfying the predicate. In the real world of language use, predicates are not precise in this sense.
+A precise meaning for a predicate classifies every object in the universe as satisfying or not satisfying the predicate. In the real world of language use, predicates are rarely precise in this sense.
 
 Predicate words in natural languages are almost always **vague**. What this means is that one can find intermediate cases where it is unclear whether or not the predicate applies. This situation is classically described with [the paradox of the heap](https://en.wikipedia.org/wiki/Sorites_paradox). 
 
