@@ -2004,7 +2004,7 @@ Imagine a heap of sand. Imagine the process of removing sand from the heap one g
 
 If "is a heap" is a precise predicate, then at some point, removing a single grain of sand from the heap must cause us to pass from having a heap of sand to not having a heap of sand. However, it seems intuitive that a single grain of sand cannot make the difference between having a heap of sand and not having a heap of sand. The usual conclusion is that "is a heap" is a **vague predicate**. "Is a heap" is somehow different from a precise predicate, in such a way that some objects are neither discernibly heaps nor discernibly non-heaps.
 
-There are many different theories of what it means for a predicate to be vague, and of how to make sense of vague predicates and their seemingly paradoxical nature. [PhilPapers has catalogued over a thousand scholarly works on "Vagueness and Indeterminacy."](https://philpapers.org/browse/vagueness-and-indeterminacy) The academic debate around vagueness is, as you might guess, stunningly intricate and complicated.
+There are many different theories of what it means for a predicate to be vague, and of how to make sense of vague predicates and their seemingly paradoxical nature. [PhilPapers has catalogued over a thousand scholarly works on vagueness and indeterminacy.](https://philpapers.org/browse/vagueness-and-indeterminacy) The academic debate around vagueness is, as you might guess, stunningly intricate and complicated.
 
 I don't propose to provide a theory of vague predicates in this work. I don't think one needs a theory of vague predicates in order to make effective use of them in arguments, or in life in general. 
 
