@@ -2124,7 +2124,7 @@ Paradoxes are the last place I am going to look in this text for potential pragm
 
 ## Paradoxes
 
-This section presents my own theory of how to resolve logical paradoxes. There was also a subsection titled Paradoxes of the section titled Logic. That subsection aimed to provide a pragmatic resolution to logical paradoxes. It made no pretense to provide a conceptual, intuitively appealing resolution to the paradoxes that would satisfy the metaphysical itch that is natural to humans. This section aims to provide such a conceptual, metaphysical resolution to the logical paradoxes.
+This section presents my theory of how to resolve logical paradoxes. There was also a subsection titled Paradoxes of the section titled Logic. That subsection aimed to provide a pragmatic resolution to logical paradoxes. It made no pretense to provide a conceptual, intuitively appealing resolution to the paradoxes that would satisfy the metaphysical itch that is natural to humans. This section aims to provide such a conceptual, metaphysical resolution to the logical paradoxes.
 
 The theory of this section rests on a premise that I think most people will find implausible, though I nonetheless believe it to be true. I do not intend to present this section as more than my own opinion. I believe the premise of the section because my faith tells me it is true (see the next section, titled Faith). The source from which I heard the premise is [a source officially called The Law of One and also more commonly (in my experience) called the Ra material](http://www.lawofone.info/). The much-anticipated premise is:
 
