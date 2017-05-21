@@ -2103,6 +2103,8 @@ In this subsection, the last subsection, our question will be: do any paradoxes 
 
 Paradoxes are the last place I am going to look in this text for potential pragmatically convincing counterexamples to the statement that an argument form is valid iff it has no precise counterexamples. It's not that this is the last place that there is to look. Rather, there are inexhaustibly many places to look for potential counterexamples to the statement. Yet, I have to end the argument somewhere. I have tried to cover what I think are the most important challenges to classical logic; paradoxes are our last stop. This topic is impossible to cover comprehensively. [PhilPapers has catalogued over 2,000 scholarly works on paradoxes.](https://philpapers.org/browse/paradoxes) Therefore this argument will be based on a very shallow/narrow analysis of the topic of paradoxes, relative to the extent of the literature.
 
+### Conclusions
+
 ## Fallacies
 
 ## Biases
