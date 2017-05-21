@@ -323,11 +323,7 @@ Thus far I have gotten rid of two distinctions between laws and rules. I have te
 
 It still feels odd to speak of the "laws of chess." In the terminological framework we've arrived at, we have no substantive distinction between rules and laws, but there is still a distinction of habitual application of the two terms to different things. The laws of Newtonian physics are rules we are generally happy to call laws. The rules of chess, not so much. In general, we seem to apply the term "law" to rules that cover a larger jurisdiction than other rules.
 
-Let's summarize what we've said about rules up to this point. Rules are defined and established by humans. Pretty much anything can follow rules. Games have rules, and rules occur in the context of games and gamelike activities. There is no substantive difference in meaning between "rule" and "law," understanding the unqualified term "law" to exclude laws of nature (but to include human-constructed descriptions thereof). Laws are a kind of rule, but the term "law" isn't applied to all rules, but only to certain rules whose jurisdictions are particularly wide.
-
-So far we have established some relationships between rules and other things: rules are related to the humans who make them, the games they're part of, and the people and things that follow them. However, we have not yet examined in enough detail what rules are in themselves. What are rules?
-
-It's not useful to answer this question by giving a dictionary definition of "rule." "Rule" is such a central, basic concept in human thought that explaining it in terms of simpler concepts is impossible. Instead, we need to explain what rules are in a much more indirect fashion, by examining the concept of rules, as it's used in practice, from many different angles.
+What else can we say about rules?
 
 Essentially any rule can be written in the form of a statement (possibly a very long one). The statement of a rule says what is true in the context of the rule if the rule is followed. When what the rule says isn't true, we say the rule has been broken.
 
@@ -369,6 +365,19 @@ A prescriptive rule can be organically binding in a given social game if there i
 One simple kind of case of an approximate Nash equilibrium around following a rule is the kind of case where each player is individually better off following the rule, regardless of what others do. "Don't eat mushrooms you are unable to identify" is an example of a rule like this.
 
 In other cases, whether people are better off following the rule depends on whether or not others follow the rule. For example, if others are working hard to get US dollars in your area, then you're probably better off if you work hard to get US dollars, so that you can buy things from all the people working for dollars in your area.
+
+In summary, here are the key statements I have made about rules.
+
+1. Rules are defined and established by humans.
+2. Pretty much anything can follow rules.
+3. Games have rules, and rules occur in the context of games and gamelike activities.
+4. There is no substantive difference in meaning between "rule" and "law," understanding the unqualified term "law" to exclude laws of nature (but to include human-constructed descriptions thereof).
+5. Laws are a kind of rule, but the term "law" isn't applied to all rules, but only to certain rules whose jurisdictions are particularly wide.
+6. Essentially any rule can be written in the form of a statement, saying what is true when the rule is followed.
+7. Rules are of two types: descriptive rules and prescriptive rules.
+8. All rules/laws bind us and/or the world, in some sense and at least in some cases.
+9. The phenomenon of binding is of two types: authoritative and organic binding. Descriptive rules are always organically binding.
+10. Prescriptive rules can be organically binding in a game if there is an approximation of a Nash equilibrium around following the rule.
 
 ## Winning
 
