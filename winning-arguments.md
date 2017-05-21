@@ -2172,7 +2172,7 @@ There are many ways of slicing the world up into objects. For example, I regard 
 
 I can consider myself and my keyboard as being a single object. I can consider my keyboard and all other components and accessories of my computer as being a single object. I can consider all of them as merely being a part of the planet Earth, or a part of the United States, or a part of my apartment.
 
-I can consider my keyboard and the Dalai Lama as together forming exactly one object. I can call such an object the mereological sum of my keyboard and the Dalai Lama. For any set of objects, the mereological sum of those objects exists. The merological sum of the set of all objects is a single object which is everything. This we can call The Whole.
+I can consider my keyboard and the Dalai Lama as together forming exactly one object. I can call such an object "the mereological sum of my keyboard and the Dalai Lama." For any set of objects, the mereological sum of those objects exists. The merological sum of the set of all objects is a single object which is everything. This we can call The Whole.
 
 All the objects mentioned so far are concrete objects. An object *x* is **concrete** iff *x* has a part *y* such that *y* is part of the physical world. In particular, since (by terminological stipulation) every object *x* is a part of itself, if *x* is part of the physical world then *x* is concrete. All objects mentioned so far are concrete.
 
