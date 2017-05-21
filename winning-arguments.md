@@ -33,7 +33,8 @@
 * [Statistics](#statistics)
 * [Beliefs](#beliefs)
 * [Persuasion](#persuasion)
-* [Foundations of math](#foundations-of-math)
+* [Math](#math)
+* [Paradoxes](#paradoxes)
 * [Faith](#faith)
 
 ## Acknowledgements
