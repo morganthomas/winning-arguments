@@ -2091,7 +2091,22 @@ From what has been assumed it follows that it does matter pragmatically whether 
 
 The next category of challenges to classical logic which we will consider are the challenges posed by logical paradoxes, and schools of non-classical logic which advocate for ways of weakening the rules of classical logic in order to resolve paradoxes.
 
-As with intuitionism, in this section our question will be: do any paradoxes give rise to pragmatically convincing counterexamples to the claim that 
+We are still in the midst of my argument that for practical purposes, classical logic correctly captures the notion of validity, in the sense that an argument is valid iff it is valid according to classical logic.
+
+The full structure of the argument is on display at this point. First I argued that an argument is valid according to classical logic iff it has no precise counterexamples. This is a philosophical interpretation of the soundness and completeness theorems for classical logic. Since then I have been defending against possible counterexamples to the claim that an argument is valid iff it has no precise counterexamples. The strategy is to argue from a pragmatic perspective for the following two claims:
+
+1. An argument is valid according to classical logic iff it has no precise counterexamples.
+2. An argument is valid iff it has no precise counterexamples.
+
+From these two claims it follows by logic that:
+
+3. An argument is valid iff it is valid according to classical logic.
+
+This statement is the goal of the whole argument, and the goal of the whole section titled Logic.
+
+In this subsection, the last subsection, our question will be: do any paradoxes give rise to pragmatically convincing counterexamples to the claim that an argument is valid iff it has no precise counterexamples? If so, then the paradoxes pose a challenge to classical logic which matters from the pragmatic perspective we are taking. If not, then they don't.
+
+Paradoxes are the last place I am going to look in this text for potential counterexamples to the statement that an argument is valid iff it has no precise counterexamples. It's not that this is the last place that there is to look. Rather, there are inexhaustibly many places to look for potential counterexamples to the statement. Yet, I have to end the argument somewhere. I have tried to cover what I think are the most important challenges to classical logic. Paradoxes are our last stop. This topic is impossible to cover comprehensively. [PhilPapers has catalogued over 2,000 scholarly works on paradoxes.](https://philpapers.org/browse/paradoxes) Therefore this argument will be based on a very shallow/narrow analysis of the topic of paradoxes, relative to the extent of the literature.
 
 ## Fallacies
 
