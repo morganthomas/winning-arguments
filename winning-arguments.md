@@ -643,7 +643,7 @@ Back in the Introduction, I gave a series of words from the first three paragrap
 
 We've done our analysis of "winning," but the rest of these words remain to be analyzed: "true," "reason," "believe," and "statement." In this section we shall analyze the word "statement."
 
-What is a statement? A statement is a kind of sentence. Here are some dictionary definitions of "statement" that I looked up on Google:
+What is a statement? A statement is a kind of sentence or sequence of sentences. Here are some dictionary definitions of "statement" that I looked up on Google:
 
 * a definite or clear expression of something in speech or writing.
 * an official account of facts, views, or plans, especially one for release to the media.
@@ -653,12 +653,12 @@ In this section I am interested in statements in the sense (somewhat crudely exp
 
 The study of winning arguments is mostly a study of statements and the relationships between statements. Therefore, we should take care to develop a good understanding of statements.
 
-Logicians frequently provide various definitions of the word "statement." In this text, I shall use the following definition of the word "statement." **A statement is a sentence which can be believed or disbelieved.** This definition picks out a certain wide class of sentences, spanning across all natural languages and many formal languages. This class probably agrees in essential intent, if not in actual [extension](https://en.wikipedia.org/wiki/Extension_(semantics)), with most modern logicians' definitions of "statement."
+Logicians frequently provide various definitions of the word "statement." In this text, I shall use the following definition of the word "statement." **A statement is a sentence or sequence of sentences which can be believed or disbelieved.** This definition picks out a certain wide class of sentences, spanning across all natural languages and many formal languages. This class probably agrees in essential intent, if not in actual [extension](https://en.wikipedia.org/wiki/Extension_(semantics)), with most modern logicians' definitions of "statement."
 
 Here are some examples of statements:
 
 * I am cold.
-* This is a pen.
+* This is a pen. It has red ink.
 * It is early in the morning.
 * After we harvest the wheat we will store it in the silos.
 * Within the lives of others we can find some of the most important insights about ourselves.
