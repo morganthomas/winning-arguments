@@ -2130,7 +2130,7 @@ The theory of this section rests on a premise that I think most people will find
 
 **The Law of One.** All is one. All objects are identically the same object.
 
-I have provided what I consider to be two equivalent formulations of the premise, which I call the Law of One. The first formulation, "all is one," is a standard New Age trope. The second formulation is the most logically precise and the most unintuitive formulation of the Law of One which I believe to be true and consider to be a formulation of the Law of One. I will now quote commentary on the Law of One from the Ra material, which provides much more intuitive color:
+I have provided what I consider to be two equivalent formulations of the premise, which I call the Law of One. The first formulation, "all is one," is a standard New Age trope. The second formulation is the most logically precise and the most unintuitive idea which I believe to be true and consider to be a formulation of the Law of One. I will now quote commentary on the Law of One from the Ra material, which provides much more intuitive color:
 
 [4.20](http://www.lawofone.info/results.php?s=4#20) "The Law of One, though beyond the limitations of name, as you call vibratory sound complexes, may be approximated by stating that all things are one, that there is no polarity, no right or wrong, no disharmony, but only identity. All is one, and that one is love/light, light/love, the Infinite Creator."
 
