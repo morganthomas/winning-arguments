@@ -2166,6 +2166,6 @@ This metaphysics is based on one premise: the Law of One. This is the only premi
 
 The first notion is the notion of **object**. We have been using this notion all along. The best explanation of the notion of object which we have gotten so far was the explanation provided by [model theory](https://github.com/sharedassumptions/winning-arguments/blob/master/winning-arguments.md#model-theory). Model theory takes objects as a given, and it does not inquire into their internal characteristics, but treats them merely as blank objects, different only in that they are distinct, and in what predicates are true of them and what relationships are true of them (or in other words what pairs in the interpretation of a copula they belong to).
 
-Everything is an object. Among the objects there are all the objects we are familiar with from everyday life. There are sets and all other mathematical objects. There are also many objects we are unfamiliar with. 
+Everything is an object. Among the objects there are all the objects we are familiar with from everyday life. There are sets and all other mathematical objects. There are also many objects we are unfamiliar with. Every conceivable object exists.
 
 ## Faith
