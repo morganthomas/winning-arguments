@@ -345,16 +345,14 @@ Dictionaries can also be thought of as sets of prescriptive rules, for example i
 
 What is it that rules and laws do in the world? Rules and laws have effects. How can we describe their effects?
 
-All laws bind us and/or the world, in some sense and at least in some cases. The sense in which laws are binding varies.
+All rules/laws bind us and/or the world, in some sense and at least in some cases. The sense in which rules/laws are binding varies.
 
 * The laws of physics are binding in the sense that physical theories generally postulate laws that always hold within their domain of applicability, so that any counterexamples would falsify the theory.
 * Sociological laws like Duverger's law and Godwin's law are expected to have some counterexamples, and counterexamples are not necessarily considered to undermine the whole law. They are binding in the sense that they represent strong statistical trends that one tends to observe over time.
 * The laws of governments are binding in the sense (and to the extent) that they can be enforced and offenses are punishable. Many consider the laws of governments to be binding in a moral sense in many cases. It seems to be a consensus among the people I speak to that laws of governments are not always binding in a moral sense, but I imagine this perspective is not shared by the whole world. For example, many Islamists undoubtedly would agree that sharia law is binding in a moral sense.
 * Many believe in many cases that international law is binding on states in a moral sense. International law is binding in another sense (and to the extent) that it is enforceable and offenses are punishable, which varies widely from case to case.
 
-I can't think of any counterexamples to the generalization that all laws are binding, to something in some sense in some cases. This, then, is one truism about laws which I will accept: all laws are binding.
-
-TODO: Generalize to rules?
+I can't think of any counterexamples to the generalization that all rules/laws are binding, to something in some sense in some cases. This, then, is one truism about rules/laws which I will accept: all rules/laws are binding.
 
 Let's try to study further the phenomenon of rules and laws binding phenomena. If we look at the phenomenon of binding, it seems to divide into two distinct subtypes: the case where the rules and laws are defined by a centralized authority with the ability to enforce rules/laws, and the case where there is no such centralized authority. Let us call these **authoritative binding** and **organic binding**, respectively.
 
@@ -371,8 +369,6 @@ A prescriptive rule can be organically binding in a given social game if there i
 One simple kind of case of an approximate Nash equilibrium around following a rule is the kind of case where each player is individually better off following the rule, regardless of what others do. "Don't eat mushrooms you are unable to identify" is an example of a rule like this.
 
 In other cases, whether people are better off following the rule depends on whether or not others follow the rule. For example, if others are working hard to get US dollars in your area, then you're probably better off if you work hard to get US dollars, so that you can buy things from all the people working for dollars in your area.
-
-TODO
 
 ## Winning
 
