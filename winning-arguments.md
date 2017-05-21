@@ -2109,4 +2109,8 @@ As with intuitionism, in this section our question will be: do any paradoxes giv
 
 ## Math
 
+## Paradoxes
+
+TODO. This section will present my own theory of how to resolve the logical and set theoretic paradoxes. As opposed to the subsection of Logic, which is about a pragmatic resolution to the paradoxes.
+
 ## Faith
