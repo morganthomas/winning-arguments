@@ -2124,6 +2124,12 @@ Paradoxes are the last place I am going to look in this text for potential pragm
 
 ## Paradoxes
 
-This section presents my own theory of how to resolve logical paradoxes. There was also a subsection titled Paradoxes of the section titled Logic. That subsection aimed to provide a pragmatic resolution to logical paradoxes. It made no pretense to provide a conceptual, intuitively appealing resolution to the paradoxes that would satisfy the metaphysical itch that is natural to humans.
+This section presents my own theory of how to resolve logical paradoxes. There was also a subsection titled Paradoxes of the section titled Logic. That subsection aimed to provide a pragmatic resolution to logical paradoxes. It made no pretense to provide a conceptual, intuitively appealing resolution to the paradoxes that would satisfy the metaphysical itch that is natural to humans. This section aims to provide such a conceptual, metaphysical resolution to the logical paradoxes.
+
+The theory of this section rests on a premise that I think most people will find implausible, though I nonetheless believe it to be true. I do not intend to present this section as more than my own opinion. I believe the premise of the section because my faith tells me it is true (see the next section, titled Faith). The source from which I heard the premise is [The Law of One](http://www.lawofone.info/). The much-anticipated premise is:
+
+**The Law of One.** All is one. All objects are identically the same object.
+
+I have provided what I consider to be two equivalent formulations of the premise, which I call the law of one. The first formulation, "all is one," is a standard New Age trope. The second formulation is the most extreme and unintuitive formulation of the law of one which I believe to be true and consider to be a formulation of the law of one.
 
 ## Faith
