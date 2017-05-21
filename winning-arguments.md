@@ -2150,7 +2150,9 @@ Overall, the years since I began having mystical experiences have been character
 
 The conflicts between the Law of One and logic are obvious. Suppose the Law of One is true. Then everything is everything else. Then my left arm is my left foot. Then I walk on my left arm. This contradicts the fact that I don't walk on my left arm.
 
-In general, the Law of One entails that every statement is both true and false. There are a number of ways of arriving at this conclusion. For starters, according to the rules of classical logic, [any contradiction entails every statement](https://en.wikipedia.org/wiki/Principle_of_explosion), so that the contradiction articulated in the preceding paragraph allows us to prove every statement (including the negation of every statement).
+In general, the Law of One entails that every statement is both true and false. There are a number of ways of arriving at this conclusion.
+
+For one, according to the rules of classical logic, [any contradiction entails every statement](https://en.wikipedia.org/wiki/Principle_of_explosion), so that the contradiction articulated in the preceding paragraph allows us to prove every statement (including the negation of every statement).
 
 There are many other ways to arrive at the conclusion that the Law of One entails that every statement is both true and false, relying on much more modest logical machinery. For example, the Law of One entails that the property of truth and the property of falsehood are the same property, from which it follows that if every statement is either true or false, then every statement is both true and false. Similarly, if I let **P** be any true statement, and **Q** be any statement, from the consequence of the Law of One that **Q** is identical to **P**, I can infer than **Q** is true. If I do the same trick letting **P** be any false statement, I can infer that the arbitrary statement **Q** is false (as well as true).
 
