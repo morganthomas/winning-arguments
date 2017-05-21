@@ -2172,4 +2172,6 @@ There are many ways of slicing the world up into objects. For example, I regard 
 
 I can consider myself and my keyboard as being a single object. I can consider my keyboard and all other components and accessories of my computer as being a single object. I can consider all of them as merely being a part of the planet Earth, or a part of the United States, or a part of my apartment.
 
+I can consider my keyboard and the Dalai Lama as together forming exactly one object. I can call such an object the mereological sum of my keyboard and the Dalai Lama. 
+
 ## Faith
