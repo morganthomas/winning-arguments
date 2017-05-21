@@ -2174,4 +2174,8 @@ I can consider myself and my keyboard as being a single object. I can consider m
 
 I can consider my keyboard and the Dalai Lama as together forming exactly one object. I can call such an object the mereological sum of my keyboard and the Dalai Lama. For any set of objects, the mereological sum of those objects exists. The merological sum of the set of all objects is a single object which is everything. This we can call The Whole.
 
+All the objects mentioned so far are concrete objects. An object *x* is **concrete** iff *x* has a part *y* such that *y* is part of the physical world. In particular, since (by terminological stipulation) every object *x* is a part of itself, if *x* is part of the physical world then *x* is concrete. All objects mentioned so far are concrete.
+
+An **abstract** object is any object which is not concrete. Some types of abstract objects are: sets, predicates, numbers, and any kind of mathematical object.
+
 ## Faith
