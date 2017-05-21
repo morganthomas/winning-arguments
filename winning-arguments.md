@@ -2095,12 +2095,12 @@ We are still in the midst of my argument that for practical purposes, classical 
 
 The full structure of the argument is on display at this point. First I argued that an argument is valid according to classical logic iff it has no precise counterexamples. This is a philosophical interpretation of the soundness and completeness theorems for classical logic. Since then I have been defending against possible counterexamples to the claim that an argument is valid iff it has no precise counterexamples. The overall strategy is to argue from a pragmatic perspective for the following two claims:
 
-1. An argument is valid according to classical logic iff it has no precise counterexamples.
-2. An argument is valid iff it has no precise counterexamples.
+1. An argument form is valid according to classical logic iff it has no precise counterexamples.
+2. An argument form is valid iff it has no precise counterexamples.
 
 From these two claims it follows by logic that:
 
-3. An argument is valid iff it is valid according to classical logic.
+3. An argument form is valid iff it is valid according to classical logic.
 
 This statement is the goal of the whole argument, and the goal of the whole section titled Logic.
 
