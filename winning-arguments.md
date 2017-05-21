@@ -2124,6 +2124,6 @@ Paradoxes are the last place I am going to look in this text for potential pragm
 
 ## Paradoxes
 
-TODO. This section will present my own theory of how to resolve the logical and set theoretic paradoxes. As opposed to the subsection of Logic, which is about a pragmatic resolution to the paradoxes.
+This section presents my own theory of how to resolve logical paradoxes. There was also a subsection titled Paradoxes of the section titled Logic. That subsection aimed to provide a pragmatic resolution to logical paradoxes. It made no pretense to provide a conceptual, intuitively appealing resolution to the paradoxes that would satisfy the metaphysical itch that is natural to humans.
 
 ## Faith
