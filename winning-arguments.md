@@ -2093,7 +2093,7 @@ The next category of challenges to classical logic which we will consider are th
 
 We are still in the midst of my argument that for practical purposes, classical logic correctly captures the notion of validity, in the sense that an argument is valid iff it is valid according to classical logic.
 
-The full structure of the argument is on display at this point. First I argued that an argument is valid according to classical logic iff it has no precise counterexamples. This is a philosophical interpretation of the soundness and completeness theorems for classical logic. Since then I have been defending against possible counterexamples to the claim that an argument is valid iff it has no precise counterexamples. The strategy is to argue from a pragmatic perspective for the following two claims:
+The full structure of the argument is on display at this point. First I argued that an argument is valid according to classical logic iff it has no precise counterexamples. This is a philosophical interpretation of the soundness and completeness theorems for classical logic. Since then I have been defending against possible counterexamples to the claim that an argument is valid iff it has no precise counterexamples. The overall strategy is to argue from a pragmatic perspective for the following two claims:
 
 1. An argument is valid according to classical logic iff it has no precise counterexamples.
 2. An argument is valid iff it has no precise counterexamples.
