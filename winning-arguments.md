@@ -2006,7 +2006,7 @@ If "is a heap" is a precise predicate, then at some point, removing a single gra
 
 There are many different theories of what it means for a predicate to be vague, and of how to make sense of vague predicates and their seemingly paradoxical nature. [PhilPapers has catalogued over a thousand scholarly works on "Vagueness and Indeterminacy."](https://philpapers.org/browse/vagueness-and-indeterminacy) The academic debate around vagueness is, as you might guess, stunningly intricate and complicated.
 
-I don't propose to provide a theory of vague predicates in this work. I don't think one needs a theory of vague predicates in order to make effective use of them in arguments. 
+I don't propose to provide a theory of vague predicates in this work. I don't think one needs a theory of vague predicates in order to make effective use of them in arguments, or in life in general. 
 
 For the purposes of the present argument for the correctness of classical logic, the challenge posed by vagueness is that it challenges the applicability of the rules of classical logic to real world problems. A sequent is valid according to classical logic iff it has no precise counterexamples. The existence of vagueness and other forms of non-preciseness in real predicates might make us wonder: are there invalid arguments which lack any precise counterexamples, or valid arguments which have precise counterexamples? If so, then the rules of classical logic are not necessarily correct in all cases.
 
