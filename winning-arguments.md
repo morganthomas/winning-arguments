@@ -2178,4 +2178,8 @@ All the objects mentioned so far are concrete objects. An object *x* is **concre
 
 An **abstract** object is any object which is not concrete. Some types of abstract objects are: sets, predicates, numbers, and any kind of mathematical object.
 
+So far the following classifications of objects have been introduced. We have physical objects, i.e. parts of the physical world. We have concrete objects, which by definition are any objects with physical parts. And we have abstract objects, which by definitions are non-concrete objects. Thus all objects are either abstract or concrete. The Whole is concrete, since it has physical parts. By The Law of One, the One is both abstract and concrete: its nature is therefore paradoxically both physical and non-physical, and the same comment may be extended to all objects.
+
+The Law of One entails that physical material and consciousness are of the same nature. Thus. physical material is consciousness, and consciousness is physical material.
+
 ## Faith
