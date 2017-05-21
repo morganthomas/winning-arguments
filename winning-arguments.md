@@ -26,6 +26,7 @@
    * [Vagueness](#vagueness)
    * [Intuitionism](#intuitionism)
    * [Paradoxes](#paradoxes)
+   * [Conclusions](#conclusions)
 * [Fallacies](#fallacies)
 * [Biases](#biases)
 * [Induction](#induction)
