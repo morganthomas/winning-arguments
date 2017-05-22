@@ -706,7 +706,7 @@ There are the following kinds of words in (our presentation of) first-order logi
 * For **variable names** I will use single italicized lower case letters: *a*, *b*, *c*...
 * For **object literals** I will use English phrases denoting objects, e.g. "the President of the United States" or "this chicken." The latter example illustrates that English phrases denoting objects can be context-sensitive in meaning.
 * For **predicates** I will use upper case letters (P, Q, R, ...) and ordinary English phrases denoting categories of objects, specific objects, or properties (e.g. "a dog," "the President of the United States," "clean").
-* For **copulas** I will use ordinary English copulas, e.g. "loves" TODO more examples
+* For **copulas** I will use ordinary English copulas, e.g. "loves," "instantiates," and "penetrates," as well as upper case letters (C, D, E, ...)
 * The following are all the **connective words:** **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
 An **object term** (of our presentation of first-order logic) is a variable name or an object literal. In other words an object term is any piece of syntax that can denote an object.
