@@ -2181,7 +2181,7 @@ I can consider my keyboard and the Dalai Lama as together forming exactly one ob
 
 All the objects mentioned so far are concrete objects. An object *x* is **concrete** iff *x* has a part *y* such that *y* is part of the physical world. In particular, since (by terminological stipulation) every object *x* is a part of itself, if *x* is part of the physical world then *x* is concrete. All objects mentioned so far are concrete.
 
-An **abstract** object is any object which is not concrete. Some types of abstract objects are: sets, predicates, numbers, and any kind of mathematical object.
+An **abstract** object is any object which is not concrete. Tautologically, every object is either concrete or abstract. Some types of abstract objects are: sets, predicates, numbers, and any kind of mathematical object.
 
 So far the following classifications of objects have been introduced. We have physical objects, i.e. parts of the physical world. We have concrete objects, which by definition are any objects with physical parts. And we have abstract objects, which by definitions are non-concrete objects. Thus all objects are either abstract or concrete. The Whole is concrete, since it has physical parts. By The Law of One, the One is both abstract and concrete: its nature is therefore paradoxically both physical and non-physical, and the same comment may be extended to all objects.
 
