@@ -2187,11 +2187,11 @@ So far the following classifications of objects have been introduced. We have ph
 
 A print edition of a book, for example, is a concrete object which has both physical and abstract parts. A print edition of a book can be thought of as the mereological sum of the copies that form parts of the print edition. One can also subdivide the print edition of the book into the chapters, sections, or pages of the edition.
 
-If one considers a single page of the print edition, one can regard it as the mereological sum of all the copies of that page in all the copies of the edition. Or, on the other hand, one can consider it as the sequence of all words or all letters on the page.
+If one considers a single page of the print edition, one can regard it as the mereological sum of all the copies of that page in all the copies of the edition. Or, on the other hand, one can consider it as the sequence of all words or all letters and spaces on the page.
 
 A letter can be considered as an abstract object, which is instantiated by every physical phenomenon which represents that letter. Or, one can consider it as the mereological sum of all instantiations of the letter: either all instantiations in the current world or all instantiations in all possible worlds.
 
-* If one equates a page of a print edition with the sequence of letters (and, presumably, spaces) on the page, and one considers the letters as abstract objects, then from that point of view the page is an abstract object.
+* If one equates a page of a print edition with the sequence of letters and spaces on the page, and one considers the letters as abstract objects, then from that point of view the page is an abstract object.
 * On the other hand, if one equates a page of a print edition with the mereological sum of the copies of the page, then from that point of view the page is a concerete object.
 * Another point of view on the page is to regard the page as the mereological sum of the sequence of abstract-object letters and spaces in the page, and the physical copies of the page. This perspective unites the preceding two perspectives, and regards the page as a concrete object with abstract parts.
 * Another point of view on the page is to regard the page as the mereological sum of all objects with which the page can reasonably be equated. This is a (formally, theoretically) all-encompassing point of view on the page.
