@@ -2171,7 +2171,7 @@ This metaphysics is based on one premise: the Law of One. This is the only premi
 
 The first notion is the notion of **object**. We have been using this notion all along. The best explanation of the notion of object which we have gotten so far was the explanation provided by [model theory](https://github.com/sharedassumptions/winning-arguments/blob/master/winning-arguments.md#model-theory). Model theory takes objects as a given, and it does not inquire into their internal characteristics, but treats them merely as blank objects, different only in that they are distinct, and in what predicates are true of them and what relationships are true of them (or in other words what pairs in the interpretation of a copula they belong to).
 
-Everything is an object. Among the objects there are all the objects we are familiar with from everyday life. There are sets and all other mathematical objects. There are also many objects we are unfamiliar with. Every conceivable object exists.
+Everything is an object. Among the objects there are all the objects we are familiar with from everyday life. There are sets and all other mathematical objects. There are also many objects we are unfamiliar with. Every conceivable object exists. All possible worlds exist.
 
 There are many ways of slicing the world up into objects. For example, I regard the keyboard I am typing on as an object. I can also look at it as an assembly of objects: the keys, the case, etc. I can also consider it as two objects: the top half of my keyboard, and the bottom half of my keyboard. Or the left half and the right half of my keyboard. I can count the air inside the keyboard case as part of the keyboard; or I can exclude the air. I can count or I can exclude the empty space inside the keyboard case as part of the keyboard. I might even count the empty space as part of the keyboard without counting the air as part of the keyboard; one possible rationale would be that the empty space is a necessary part of the functional mechanisms of the keyboard, whereas the air is not.
 
@@ -2183,7 +2183,18 @@ All the objects mentioned so far are concrete objects. An object *x* is **concre
 
 An **abstract** object is any object which is not concrete. Tautologically, every object is either concrete or abstract. Some types of abstract objects are: sets, predicates, numbers, and any kind of mathematical object.
 
-So far the following classifications of objects have been introduced. We have physical objects, i.e. parts of the physical world. We have concrete objects, which by definition are any objects with physical parts. And we have abstract objects, which by definitions are non-concrete objects. Thus all objects are either abstract or concrete. The Whole is concrete, since it has physical parts. By The Law of One, the One is both abstract and concrete: its nature is therefore paradoxically both physical and non-physical, and the same comment may be extended to all objects.
+A print edition of a book, for example, is a concrete object which has both physical and abstract parts. A print edition of a book can be thought of as the mereological sum of the copies that form parts of the print edition. One can also subdivide the print edition of the book into the chapters, sections, or pages of the edition.
+
+If one considers a single page of the print edition, one can regard it as the mereological sum of all the copies of that page in all the copies of the edition. Or, on the other hand, one can consider it as the sequence of all words or all letters on the page.
+
+A letter can be considered as an abstract object, which is instantiated by every physical phenomenon which represents that letter. Or, one can consider it as the mereological sum of all instantiations of the letter: either all instantiations in the current world or all instantiations in all possible worlds.
+
+* If one equates a page of a print edition with the sequence of letters (and, presumably, spaces) on the page, and one considers the letters as abstract objects, then from that point of view the page is an abstract object.
+* On the other hand, if one equates a page of a print edition with the mereological sum of the copies of the page, then from that point of view the page is a concerete object.
+* Another point of view on the page is to regard the page as the mereological sum of the sequence of abstract-object letters and spaces in the page, and the physical copies of the page. This perspective unites the preceding two perspectives, and regards the page as a concrete object with abstract parts.
+* Another point of view on the page is to regard the page as the mereological sum of all objects with which the page can reasonably be equated.
+
+So far the following classifications of objects have been introduced. We have physical objects, i.e. parts of the physical world. We have concrete objects, which by definition are any objects with physical parts. And we have abstract objects, which by definition are non-concrete objects. Thus all objects are either abstract or concrete. The Whole is concrete, since it has physical parts. By The Law of One, the One is both abstract and concrete: its nature is therefore paradoxically both physical and non-physical, and the same comment may be extended to all objects.
 
 The Law of One entails that physical material and consciousness are of the same nature. Thus. physical material is consciousness, and consciousness is physical material.
 
