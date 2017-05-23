@@ -2147,6 +2147,8 @@ It is relatively easy to prove from the axioms of ZFC that there is no set of al
 
 Similar arguments show that in ZFC there is no set of all [groups](https://en.wikipedia.org/wiki/Group_(mathematics)); no set of all [binary relations](https://en.wikipedia.org/wiki/Binary_relation); no set of all [topological spaces](https://en.wikipedia.org/wiki/Topological_space); no [category of all categories](https://en.wikipedia.org/wiki/Category_(mathematics)); no category of all [rings](https://en.wikipedia.org/wiki/Ring_(mathematics)); and so forth. Lots of things that are natural to talk about, that would be useful to talk about for many purposes, that seem to some form of common sense like they ought to exist, don't exist according to ZFC.
 
+A common and reasonable response to this complaint is that while it's a shame to be unable to talk about these things, it is after all logically contradictory to do so, so we need to accept the reality that these notions are incoherent.
+
 ### Conclusions
 
 ## Fallacies
