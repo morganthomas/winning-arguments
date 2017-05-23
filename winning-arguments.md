@@ -2117,7 +2117,7 @@ Let's collect together some paradoxes to work with. In this section I will analy
 
 The goal of this section is to provide a pragmatically satisfying resolution to these three paradoxes. This is a very minimal list of paradoxes. Russell's paradox and the liar paradox are representative examples of the most pressing category of logical paradox. These are paradoxes which allow us to prove anything on the basis of the rules of classical logic and elementary, plausible assumptions. I have also chosen one example of a paradox of relevance: another type of paradox plucked out of the large field of relevance logic, which studies logics intended to correctly capture the notion of relevance. By solving these three paradoxes, I will illustrate methods which can be applied to solve, not all paradoxes, but all paradoxes I'm aware of that are paradoxical in virtue of resulting in logical contradictions. TODO: find counterexamples to this claim
 
-Russell's paradox made a big splash in the development of mathematical logic and the foundations of math. Consideration of this paradox was probably the most pivotal process in the development of those disciplines. Let me explain the history.
+Russell's paradox made a big splash in the development of mathematical logic and the foundations of math. Consideration of this paradox was probably the most pivotal process in the development of those disciplines. Let me continue to explain the history.
 
 In my awareness, Aristotle was the first to formulate a useful system of rules of logic. [Aristotle's logic](https://en.wikipedia.org/wiki/Term_logic) allowed for the classification of certain simple arguments as valid or invalid. However, Aristotle's logic did not obtain to anything resembling the generality of first order logic, which can be used to analyze the validity of essentially any precisely formulated argument. 
 
@@ -2130,6 +2130,8 @@ This period is also the most important period in the history of set theory. On t
 One controversy was the controversy over the correctness of [Cantor's results in set theory](https://en.wikipedia.org/wiki/Georg_Cantor#Set_theory). Another historical controversy in math was [the controversy](https://en.wikipedia.org/wiki/History_of_Grandi%27s_series) regarding [Grandi's series](https://en.wikipedia.org/wiki/Grandi%27s_series). There were various doubts and controversies surrounding [calculus](https://en.wikipedia.org/wiki/Calculus#History) until it was put on rigorous foundations.
 
 "The crisis of foundations in math" usually refers to the time in the late 1800s when the hunt for rigorous foundations of mathematics was at the peak of its intensity, driven in part by paradoxes like Russell's paradox which posed serious challenges to the coherence of mathematics. This crisis of foundations is usually seen as having settled down after rigorous foundations of math were obtained, and they were studied in sufficient depth that people became satisfied that the foundations were coherent and unlikely to contain hidden contradictions.
+
+Russell came up with his paradox through studying Frege's [Grundgesetze der arithmetik](https://en.wikipedia.org/wiki/Gottlob_Frege#Logic.2C_foundation_of_arithmetic). It demonstrated that Frege's logical foundation of mathematics, as described in that book, was logically inconsistent. Frege was never able to repair his own system, but Russell showed a way to resolving the paradox, which was then refined by other scholars, resulting in first order logic and the axioms of ZFC.
 
 ### Conclusions
 
