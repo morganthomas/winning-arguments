@@ -2172,9 +2172,15 @@ Let's study a little more formally how the Russell paradox arises. The Russell p
 
 I'll present an axiomatization of naive set theory in this latter sense. This axiomatization is a standard, prototypical axiomatization of naive set theory. It is set in classical first order logic, in the same vocabulary as ZFC, containing two copulas: "in" and "=."
 
+The axiom of extensionality states that if two sets have the same elements, then they are equal (and conversely). You can't have two distinct sets with exactly the same elements.
+
 1. **Axiom of extensionality.** (for all *x*, *y*, ((for all *z*, ((*z* in *x*) iff (*z* in y))) iff (x = y)))
 
+The axiom schema of comprehension is an infinite set of axioms stating in essence that if you can describe a set by stating what conditions an object needs to fulfill to be in the set, then such a set exists.
+
 2. **Axiom schema of comprehension.** Let *P* be a statement of first-order logic in the vocabulary of naive set theory. Then the following is an axiom of naive set theory: (for some *y*, (for all *x*, ((*x* in *y*) iff *P*))).
+
+From now on, I will refer to the set theory just described as "naive set theory."
 
 ### Conclusions
 
