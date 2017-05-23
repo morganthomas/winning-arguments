@@ -2137,6 +2137,8 @@ As far as most of the mathematical community is concerned, these developments re
 
 We have already discussed the attacks of the intuitionists, which argue for weaker logic and weaker mathematical axioms which can prove less, in order to bring math into alignment with that which intuitionists consider humans to be able to intuit.
 
+A very different line of attack has been advanced by philosophers who take issue with the means by which the axioms of ZFC resolve set-theoretic paradoxes such as Russell's paradox. In my mind the most important trailblazer of this way of thinking was [Graham Priest](https://en.wikipedia.org/wiki/Graham_Priest). 
+
 ### Conclusions
 
 ## Fallacies
