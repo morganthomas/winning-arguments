@@ -2145,6 +2145,8 @@ Some sets are never formed in this way. For example, in the von Neumann universe
 
 It is relatively easy to prove from the axioms of ZFC that there is no set of all sets. Assume the axioms of ZFC. Suppose, in order to reach a contradiction, that there is a set of all sets. Then, by using an instance of the axiom schema of separation, we can produce the set of all sets which do not contain themselves, which is a subset of the set of all sets. Having produced the Russell set, we are led a contradiction.
 
+Similar arguments show that in ZFC there is no set of all [groups](https://en.wikipedia.org/wiki/Group_(mathematics)); no set of all [binary relations](https://en.wikipedia.org/wiki/Binary_relation); no set of all [topological spaces](https://en.wikipedia.org/wiki/Topological_space); no [category of all categories](https://en.wikipedia.org/wiki/Category_(mathematics)); no category of all [rings](https://en.wikipedia.org/wiki/Ring_(mathematics)); and so forth. Lots of things that are natural to talk about, that would be useful to talk about for many purposes, that seem to some form of common sense like they ought to exist, don't exist according to ZFC.
+
 ### Conclusions
 
 ## Fallacies
