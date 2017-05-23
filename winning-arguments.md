@@ -2155,7 +2155,14 @@ That brings us back to the liar paradox. The liar paradox concerns any statement
 
 If anything, the liar paradox poses a challenge to the idea that classical logic is applicable to English. Statements can be formulated in English which, by the rules of classical logic, make it possible to formulate statements which are true if and only if they are false, which by classical logic allows us to infer any statement. Can we then with justification employ the rules of classical logic in debates conducted in English? I think so, generally speaking, but the attack remains to be defended against.
 
-Let's turn to the problem of defending against the attack on classical logic and ZFC which I have just carried out.
+Let's turn to the problem of defending against the attack on classical logic and ZFC which I have just carried out. My defense will grant (for the sake of argument) the following premises of the argument:
+
+1. It is unintuitive to disallow talk about the set of all sets and such objects. It is desirable to have a way to coherently discuss these sets.
+2. It is desirable to be able to apply classical logic to English without worrying about incoherence resulting from paradoxes such as the liar paradox.
+
+The argument will demonstrate a way to be able to coherently discuss the set of all sets and such objects, and a way to apply classical logic to English without worrying about incoherence from the liar paradox and such paradoxes.
+
+The standard of success is pragmatic adequacy. The solutions I come up with should be, ideally, suitable for whatever useful purposes people are going to put them to. There is no higher standard of theoretical perfection (e.g. perfect precision, perfect well-definedness) that I am trying to reach. The standard of success is pragmatic adequacy.
 
 ### Conclusions
 
