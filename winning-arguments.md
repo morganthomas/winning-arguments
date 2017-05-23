@@ -2202,7 +2202,19 @@ From the point of view of defending against the attack that I am currently defen
 
 The objector can certainly reject the idea that there is something sufficiently necessary or useful about having things like the set of all sets to justify logical innovations like the ad hoc method of rejecting contradictions. The sticking point as I see it is more with the liar paradox. Without a solution to the liar paradox, the classical logician is left without a way to synthesize their logic with natural language in a coherent way. I claim that the text of Winning Arguments, including the present defense of classical logic, and the ad hoc method of rejecting contradictions, taken all together provide a coherent way to synthesize classical logic with natural language. I'm not currently aware of a better way to do it.
 
-Let's ask if there is a better way to do the particular task at hand right now, which is solving logical paradoxes, with a focus on the Russell paradox.
+Let's ask if there is a better way to do the particular task at hand right now, which is solving logical paradoxes, with a focus on the Russell paradox. For starters, let's stack up the pros and cons of the ad hoc method of rejecting contradictions.
+
+**Pros:**
+
+ * Easy to understand.
+ * Easy to practice.
+ * Adequate for general practical purposes.
+ * Part of a relatively coherent synthesis of classical logic with natural language.
+
+**Cons:**
+
+ * Not perfect.
+ * Could lead one into falsehood, perhaps with bad consequences.
 
 ### Conclusions
 
