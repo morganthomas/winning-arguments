@@ -2166,7 +2166,7 @@ The standard of success is pragmatic adequacy. The solutions I come up with shou
 
 Along the way, I will review, to a shallow extent, the literature on the other approaches that have been developed and which I am not taking. This will help me to make my case for the approach I am taking.
 
-I'm going to start with the problem of solving the Russell paradox. The solution to the liar paradox will be conceptually the same, more or less. It will be useful for the structure of my argument to look at the Russell paradox first and in much more detail, because set theory is a much clearer, sharper context within which to examine the essential underlying problem behind both of these paradoxes. It is also by far the context with which I am more familiar.
+I'm going to start with the Russell paradox. It will be useful for the structure of my argument to look at the Russell paradox first and in much more detail than the liar paradox, because set theory is a much clearer, sharper context within which to examine the essential underlying problem behind both of these paradoxes. It is also by far the context with which I am more familiar. The solution I arrive at for the Russell paradox will carry over more or less identically to the liar paradox, and (as I said before) every other logical paradox I'm aware of.
 
 ### Conclusions
 
