@@ -2133,6 +2133,10 @@ One controversy was the controversy over the correctness of [Cantor's results in
 
 Russell came up with his paradox through studying Frege's [Grundgesetze der arithmetik](https://en.wikipedia.org/wiki/Gottlob_Frege#Logic.2C_foundation_of_arithmetic). Russell's paradox demonstrated that Frege's logical foundation of mathematics, as described in the Grundgesetze, was logically inconsistent. Frege was never able to repair his own system, but Russell showed a way to resolving the paradox, which was then refined by other scholars, resulting in first order logic and the axioms of ZFC.
 
+As far as most of the mathematical community is concerned, these developments resolved the crisis of foundations. However, many scholars continue to be concerned with the foundations of math, and many find fault with the foundations provided by first order logic and ZFC.
+
+We have already discussed the attacks of the intuitionists, which argue for weaker logic and weaker mathematical axioms which can prove less, in order to bring math into alignment with that which intuitionists consider humans to be able to intuit.
+
 ### Conclusions
 
 ## Fallacies
