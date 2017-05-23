@@ -2139,6 +2139,8 @@ We have already discussed the attacks of the intuitionists, which argue for weak
 
 A very different line of attack has been advanced by philosophers who take issue with the means by which the axioms of ZFC resolve set-theoretic paradoxes such as Russell's paradox. In my mind the most important trailblazer of this way of thinking was [Graham Priest](https://en.wikipedia.org/wiki/Graham_Priest). I will carry out this line of attack now.
 
+[The Von Neumann universe](https://en.wikipedia.org/wiki/Von_Neumann_universe) provides a picture of the universe of set theory which the axioms of ZFC describe. In the von Neumann universe, we begin at stage zero with no sets, and at each successive stage, we add all the sets which have not yet been formed and which can be formed from elements of the preceding stage. We run through all of the ordinal numbers building stages, resulting in a whole lot of sets.
+
 ### Conclusions
 
 ## Fallacies
