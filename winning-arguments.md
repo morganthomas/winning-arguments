@@ -2131,7 +2131,7 @@ One controversy was the controversy over the correctness of [Cantor's results in
 
 "The crisis of foundations in math" usually refers to the time in the late 1800s when the hunt for rigorous foundations of mathematics was at the peak of its intensity, driven in part by paradoxes like Russell's paradox which posed serious challenges to the coherence of mathematics. This crisis of foundations is usually seen as having settled down after rigorous foundations of math were obtained, and they were studied in sufficient depth that people became satisfied that the foundations were coherent and unlikely to contain hidden contradictions.
 
-Russell came up with his paradox through studying Frege's [Grundgesetze der arithmetik](https://en.wikipedia.org/wiki/Gottlob_Frege#Logic.2C_foundation_of_arithmetic). It demonstrated that Frege's logical foundation of mathematics, as described in that book, was logically inconsistent. Frege was never able to repair his own system, but Russell showed a way to resolving the paradox, which was then refined by other scholars, resulting in first order logic and the axioms of ZFC.
+Russell came up with his paradox through studying Frege's [Grundgesetze der arithmetik](https://en.wikipedia.org/wiki/Gottlob_Frege#Logic.2C_foundation_of_arithmetic). Russell's paradox demonstrated that Frege's logical foundation of mathematics, as described in the Grundgesetze, was logically inconsistent. Frege was never able to repair his own system, but Russell showed a way to resolving the paradox, which was then refined by other scholars, resulting in first order logic and the axioms of ZFC.
 
 ### Conclusions
 
