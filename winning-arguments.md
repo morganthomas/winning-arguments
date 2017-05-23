@@ -2119,6 +2119,10 @@ The goal of this section is to provide a pragmatically satisfying resolution to 
 
 Russell's paradox made a big splash in the development of mathematical logic and the foundations of math. Consideration of this paradox was probably the most pivotal process in the development of those disciplines. Let me explain the history.
 
+In my awareness, Aristotle was the first to formulate a useful system of rules of logic. [Aristotle's logic](https://en.wikipedia.org/wiki/Term_logic) allowed for the classification of certain simple arguments as valid or invalid. However, Aristotle's logic did not obtain to anything resembling the generality of first order logic, which can be used to analyze the validity of essentially any precisely formulated argument. 
+
+The next development I'll mention is George Boole (1815-1864)'s discovery or invention of so-called [boolean logic](http://www.i-programmer.info/babbages-bag/235-logic-logic-everything-is-logic.html). This forms most of the basis for the biggest practical application of logic, which is in the design and programming of computers.
+
 ### Conclusions
 
 ## Fallacies
