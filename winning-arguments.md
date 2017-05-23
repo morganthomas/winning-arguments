@@ -2123,7 +2123,9 @@ In my awareness, Aristotle was the first to formulate a useful system of rules o
 
 The next development I'll mention is George Boole (1815-1864)'s discovery or invention of so-called [boolean logic](http://www.i-programmer.info/babbages-bag/235-logic-logic-everything-is-logic.html). This forms most of the basis for the biggest practical application of logic, which is in the design and programming of computers.
 
-The next development I'll mention is the development of first order logic. As far as I understand, first order logic was more or less independently conceived by [Guiseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) and [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege). 
+The next development I'll mention is the development of predicate logic (a category of logics including first order logic). As far as I understand, predicate logic was more or less independently conceived by [Guiseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) and [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege). The discovery/invention of predicate logic occurred in the late 1800s and early 1900s, in a flurry of seminal research which is without a doubt in my mind the most important period in the history of logic.
+
+This period is also the most important period in the history of set theory. On the basis of first order logic, people first put set theory on rigorous logical foundations, with ZFC being the most popular way of doing this. These developments in turn conceptually put all of mathematics on rigorous logical foundations, as it became apparent that all definitions of mathematics could be constructed on top of basic set theory notions, and that essentially all mathematical theorems could be proven from the axioms of ZFC via the rules of inference of first order logic. These are the developments which brought rigor to mathematics, resolving for the most part various doubts and controversies, such as controversy over the correctness of [Cantor's results in set theory](https://en.wikipedia.org/wiki/Georg_Cantor#Set_theory).
 
 ### Conclusions
 
