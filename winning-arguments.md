@@ -2182,11 +2182,17 @@ The axiom schema of comprehension is an infinite set of axioms stating in essenc
 
 From now on, I will refer to the set theory just described as "naive set theory." Naive set theory is much simpler and easier to understand than ZFC. Also, one can prove logical contradictions in it, and therefore one can prove anything in it. It is for this reason generally considered unsuitable as a foundation of math. If we can make naive set theory work, then we can obtain a key goal of the present defense: namely, to be able to coherent discuss the set of all sets and such objects. Our standard, to recall, is pragmatic adequacy. Can we find a pragmatically adequate resolution to the Russell paradox in the context of naive set theory?
 
-I think so; and it's very simple. Reject proofs which end in logical contradictions or employ means that could be used to prove any statement. One can do this on an *ad hoc* basis, as one encounters them.
+I think so; and it's very simple. Reject proofs which end in logical contradictions or employ means that could be used to prove any statement. One can do this on an *ad hoc* basis, as one encounters them. Let us call this **the ad hoc method of rejecting contradictions**.
 
 This method does introduce some risk of reaching logical contradictions. I think that this risk is quite tolerable in practice. More generally, I think the method I have just outlined is pragmatically adequate.
 
 In favor of this point, I would offer the observation that theoretical physicists frequently make use of mathematics which is unrigorous to the point of actually being false or logically inconsistent from time to time. Such incorrect math can still yield correct experimental predictions with high degrees of accuracy. I have all this on the authority of my personal experience reading theoretical physics and the authority of Spencer Kwit, a person I know who is competent in theoretical physics. It is clear from this observation that math does not need to be logically consistent, or even true, to be pragmatically useful.
+
+I conclude with substantial comfort that the ad hoc method of rejecting contradictions is pragmatically adequate for general purposes. According to this, it achieves one of the main goals of the present defense.
+
+Here is a counter-argument. The problem with accepting a logically inconsistent system is that any such system is based on axioms that are false. It is impossible to derive falsehood from truth by the rules of classical logic, and so from the fact that contradictions are provable in naive set theory, we can infer that some of the axioms of naive set theory are false. But if you let any atom of falsehood into the system, it infects the whole system, as classical logic tells us by allowing us to infer anything from a contradiction. The consequences of the falsehood inherent in naive set theory are ultimately unpredictable. We never know how the falsehood might manifest and lead us into error in complex mathematical situations. The consequences of this for practical purposes could be potentially be disastrous.
+
+
 
 ### Conclusions
 
