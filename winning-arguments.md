@@ -2141,6 +2141,10 @@ A very different line of attack has been advanced by philosophers who take issue
 
 [The Von Neumann universe](https://en.wikipedia.org/wiki/Von_Neumann_universe) provides a picture of the universe of set theory which the axioms of ZFC describe. In the von Neumann universe, we begin at stage zero with no sets, and at each successive stage, we add all the sets which have not yet been formed and which can be formed from elements of the preceding stage. We run through all of the ordinal numbers building stages, resulting in a whole lot of sets.
 
+Some sets are never formed in this way. For example, in the von Neumann universe, there is no set of all sets. Each set is produced at some stage; each set contains only sets from preceding stages; and for each stage, there are infinitely many stages after it. Thus there can be no set of all sets in the von Neumann universe.
+
+It is relatively easy to prove from the axioms of ZFC that there is no set of all sets. Assume the axioms of ZFC. Suppose, in order to reach a contradiction, that there is a set of all sets. Then, by using an instance of the axiom schema of separation, we can produce the set of all sets which do not contain themselves, which is a subset of the set of all sets. Having produced the Russell set, we are led a contradiction.
+
 ### Conclusions
 
 ## Fallacies
