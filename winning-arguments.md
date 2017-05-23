@@ -2149,6 +2149,8 @@ Similar arguments show that in ZFC there is no set of all [groups](https://en.wi
 
 A common and reasonable response to this complaint is that while it's a shame to be unable to talk about these things, it is after all logically contradictory to do so, so we need to accept the reality that these notions are incoherent.
 
+I don't know about you, but that response is not satisfying to me. One reason for this is that the paradoxes don't just create problems for talking about very large sets. They also create problems for talking about language. 
+
 ### Conclusions
 
 ## Fallacies
