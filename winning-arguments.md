@@ -2117,6 +2117,8 @@ Let's collect together some paradoxes to work with. In this section I will analy
 
 The goal of this section is to provide a pragmatically satisfying resolution to these three paradoxes. This is a very minimal list of paradoxes. Russell's paradox and the liar paradox are representative examples of the most pressing category of logical paradox. These are paradoxes which allow us to prove anything on the basis of the rules of classical logic and elementary, plausible assumptions. I have also chosen one example of a paradox of relevance: another type of paradox plucked out of the large field of relevance logic, which studies logics intended to correctly capture the notion of relevance. By solving these three paradoxes, I will illustrate methods which can be applied to solve, not all paradoxes, but all paradoxes I'm aware of that are paradoxical in virtue of resulting in logical contradictions. TODO: find counterexamples to this claim
 
+Russell's paradox made a big splash in the development of mathematical logic and the foundations of math. Consideration of this paradox was probably the most pivotal process in the development of those disciplines. Let me explain the history.
+
 ### Conclusions
 
 ## Fallacies
