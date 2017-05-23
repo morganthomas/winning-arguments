@@ -2164,7 +2164,7 @@ The argument will demonstrate a way to be able to coherently discuss the set of 
 
 The standard of success is pragmatic adequacy. The solutions I come up with should be, ideally, suitable for whatever useful purposes people are going to put them to. There is no higher standard of theoretical perfection (e.g. perfect precision, perfect well-definedness) that I am trying to reach. The standard of success is pragmatic adequacy.
 
-Along the way, I will review, to a shallow extent, the literature on the other approaches that have been developed and which I am not taking. This will help greatly to flesh out my case.
+Along the way, I will review, to a shallow extent, the literature on the other approaches that have been developed and which I am not taking. This will help me to make my case for the approach I am taking.
 
 ### Conclusions
 
