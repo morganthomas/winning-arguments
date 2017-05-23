@@ -2216,7 +2216,7 @@ Let's ask if there is a better way to do the particular task at hand right now, 
  * Not perfect.
  * Could lead one into falsehood, perhaps with bad consequences.
 
-Let's now survey the landscape of competing approaches, and stack up their pros and cons as well. We will do this primarily from the pragmatic perspective which is our modus operandi in this text.
+Let's now survey the landscape of competing approaches, and stack up their pros and cons as well. We will do this primarily from the pragmatic perspective which is the modus operandi of this text.
 
 ### Conclusions
 
