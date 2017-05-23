@@ -2168,6 +2168,8 @@ Along the way, I will review, to a shallow extent, the literature on the other a
 
 I'm going to start with the Russell paradox. It will be useful for the structure of my argument to look at the Russell paradox first and in much more detail than the liar paradox, because set theory is a much clearer, sharper context within which to examine the essential underlying problem behind both of these paradoxes. It is also by far the context with which I am more familiar. The solution I arrive at for the Russell paradox will carry over more or less identically to the liar paradox, and (as I said before) to every other logical paradox I'm aware of.
 
+Let's study a little more formally how the Russell paradox arises. The Russell paradox arises in the context of so-called **naive set theory**. In one sense, "naive set theory" refers to set theory as it was practiced before the rigorous formalization of set theory, and to modern equivalents. In another, more specific sense, "naive set theory" can refer to set theory based on a specific logic and set of axioms in which any describable set can be formed and therefore the Russell paradox arises.
+
 ### Conclusions
 
 ## Fallacies
