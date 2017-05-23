@@ -2109,6 +2109,12 @@ In this subsection, the last subsection, our question will be: do any paradoxes 
 
 Paradoxes are the last place I am going to look in this text for potential pragmatically convincing counterexamples to the statement that an argument form is valid iff it has no precise counterexamples. It's not that this is the last place that there is to look. Rather, there are inexhaustibly many places to look for potential counterexamples to the statement. Yet, I have to end the argument somewhere. I have tried to cover what I think are the most important challenges to classical logic; paradoxes are our last stop. This topic is impossible to cover comprehensively. [PhilPapers has catalogued over 2,000 scholarly works on paradoxes.](https://philpapers.org/browse/paradoxes) Therefore this argument will be based on a very shallow/narrow analysis of the topic of paradoxes, relative to the extent of the literature.
 
+Let's collect together some paradoxes to work with. In this section I will analyze the following paradoxes:
+
+1. **Russell's paradox.** Let *R* be the set of all sets which do not contain themselves. In other words *R* is the set of all objects *x* such that ((*x* is a set) and (not (*x* in *x*)). If there is such a set *R*, then in classical logic contradiction ensues, from the observation that (*x* in *x*) iff (not (*x* in *x*)).
+2. **The liar paradox.** Let *L* be the statement (*L* is false). If there is such a statement *L*, then in classical logic contradiction ensues, from the observation that *L* is true iff *L* is false.
+3. **A paradox of relevance.** Let **A** be any true statement and let **B** be any statement. It can be shown in classical logic that (if **B** then **A**) is true. For example, since the sky is blue, it is true according to classical logic that (if (the sky is red) then (the sky is blue)). However, the latter statement is intuitively false.
+
 ### Conclusions
 
 ## Fallacies
