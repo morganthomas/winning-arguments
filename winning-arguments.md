@@ -2182,6 +2182,12 @@ The axiom schema of comprehension is an infinite set of axioms stating in essenc
 
 From now on, I will refer to the set theory just described as "naive set theory." Naive set theory is much simpler and easier to understand than ZFC. Also, one can prove logical contradictions in it, and therefore one can prove anything in it. It is for this reason generally considered unsuitable as a foundation of math. If we can make naive set theory work, then we can obtain a key goal of the present defense: namely, to be able to coherent discuss the set of all sets and such objects. Our standard, to recall, is pragmatic adequacy. Can we find a pragmatically adequate resolution to the Russell paradox in the context of naive set theory?
 
+I think so; and it's very simple. Reject proofs which end in logical contradictions or employ means that could be used to prove any statement. One can do this on an *ad hoc* basis, as one encounters them.
+
+This method does introduce some risk of reaching logical contradictions. I think that this risk is quite tolerable in practice. More generally, I think the method I have just outlined is pragmatically adequate.
+
+In favor of this point, I would offer the observation that theoretical physicists frequently make use of mathematics which is unrigorous to the point of actually being false or logically inconsistent in some cases. I have this on the authority of my personal experience reading theoretical physics and the authority of Spencer Kwit, a person I know who is competent in theoretical physics.
+
 ### Conclusions
 
 ## Fallacies
