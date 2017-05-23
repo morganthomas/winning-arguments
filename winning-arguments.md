@@ -2194,6 +2194,10 @@ Here is a counter-argument. The problem with accepting a logically inconsistent 
 
 I do agree that the risk the counter-argument points to exists. I simply consider the risk adequately small for practical purposes. In practice it seems to be the case most of the time that higher math users (e.g. physicists) rely on intuitions to move from conclusion to conclusion, and that those intuitions have a degree of reliability which does not require verification by validation in a formal system. Indeed, physicists can pass through false statements on their way to conclusions that are perfectly good and reliable. Doing so may even be better in some cases, because it may simplify their work. Who are philosophers to tell physicists (or anybody, more generally) how to play the games they play to do their jobs? Such philosophical criticism of the methods of physicists could credibly come from physicist philosophers, but they would need to persuade other physicists by the standards of physicists.
 
+To address the criticism from a less practical and more conceptual angle, I will also attack it at the premise that it is impossible to derive falsehood from truth by the rules of classical logic. In the section titled The Law of One, I have laid out a metaphysics based on the premise that all is one, from which I deduce that every statement is true (and false). If indeed every statement is true and false, then every inference proceeds from truth to falsehood. I think this is a coherent metaphysics -- more coherent, in my opinion, than others I have come across -- and that even as a thought experiment it undermines to some extent the premise that it is impossible to derive falsehood from truth by the rules of classical logic. The logical paradoxes themselves, such as the liar paradox and the Russell paradox, also of course undermine this idea. 
+
+From the point of view of defending against the attack that I am currently defending against, the counter-argument I am currently criticizing is of no use. The attack on classical logic that I am currently defending against advances the point of view that it is possible to derive falsehoods from truth by means of classical logic, and the Russell paradox and the liar paradox are among the examples demonstrating this phenomenon. Therefore an objection to my defense which is based on the premise that the rules of classical logic can't take us from truth to falsehood is self-defeating. If the objecter (who, as we can tell by inspecting the objection, is a believer in classical logic) were to abandon my defense on account of this objection, then they would once again be subject to the attack I am defending against. This is fine, as long as the objecter has their own defense against the attack which is satisfactory to them.
+
 ### Conclusions
 
 ## Fallacies
@@ -2212,7 +2216,7 @@ I do agree that the risk the counter-argument points to exists. I simply conside
 
 ## Math
 
-## Paradoxes
+## The Law of One
 
 This section presents my theory of how to resolve logical paradoxes. There was also a subsection titled Paradoxes of the section titled Logic. That subsection aimed to provide a pragmatic resolution to logical paradoxes. It made no pretense to provide a conceptual, intuitively appealing resolution to the paradoxes that would satisfy the metaphysical itch that is natural to humans. This section aims to provide such a conceptual, metaphysical resolution to the logical paradoxes.
 
