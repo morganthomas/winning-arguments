@@ -2143,7 +2143,7 @@ A very different line of attack has been advanced by philosophers who take issue
 
 Some sets are never formed in this way. For example, in the von Neumann universe, there is no set of all sets. Each set is produced at some stage; each set contains only sets from preceding stages; and for each stage, there are infinitely many stages after it. Thus there can be no set of all sets in the von Neumann universe.
 
-It is relatively easy to prove from the axioms of ZFC that there is no set of all sets. Assume the axioms of ZFC. Suppose, in order to reach a contradiction, that there is a set of all sets. Then, by using an instance of the axiom schema of separation, we can produce the set of all sets which do not contain themselves, which is a subset of the set of all sets. Having produced the Russell set, we are led a contradiction.
+It is relatively easy to prove from the axioms of ZFC that there is no set of all sets. Assume the axioms of ZFC. Suppose, in order to reach a contradiction, that there is a set of all sets. Then, by using an instance of the axiom schema of specification, we can produce the set of all sets which do not contain themselves, which is a subset of the set of all sets. Having produced the Russell set, we are led a contradiction.
 
 Similar arguments show that in ZFC there is no set of all [groups](https://en.wikipedia.org/wiki/Group_(mathematics)); no set of all [binary relations](https://en.wikipedia.org/wiki/Binary_relation); no set of all [topological spaces](https://en.wikipedia.org/wiki/Topological_space); no [category of all categories](https://en.wikipedia.org/wiki/Category_(mathematics)); no category of all [rings](https://en.wikipedia.org/wiki/Ring_(mathematics)); and so forth. Lots of things that are natural to talk about, that would be useful to talk about for many purposes, that seem to some form of common sense like they ought to exist, don't exist according to ZFC.
 
@@ -2169,6 +2169,12 @@ Along the way, I will review, to a shallow extent, the literature on the other a
 I'm going to start with the Russell paradox. It will be useful for the structure of my argument to look at the Russell paradox first and in much more detail than the liar paradox, because set theory is a much clearer, sharper context within which to examine the essential underlying problem behind both of these paradoxes. It is also by far the context with which I am more familiar. The solution I arrive at for the Russell paradox will carry over more or less identically to the liar paradox, and (as I said before) to every other logical paradox I'm aware of.
 
 Let's study a little more formally how the Russell paradox arises. The Russell paradox arises in the context of so-called **naive set theory**. In one sense, "naive set theory" refers to set theory as it was practiced before the rigorous formalization of set theory, and to modern equivalents. In another, more specific sense, "naive set theory" can refer to set theory based on a specific logic and set of axioms in which any describable set can be formed and therefore the Russell paradox arises.
+
+I'll present an axiomatization of naive set theory in this latter sense. This axiomatization is a standard, prototypical axiomatization of naive set theory. It is set in classical first order logic, in the same vocabulary as ZFC, containing two copulas: "in" and "=."
+
+1. **Axiom of extensionality.** (for all *x*, *y*, ((for all *z*, ((*z* in *x*) iff (*z* in y))) iff (x = y)))
+
+2. **Axiom schema of comprehension.** Let *P* be a statement of first-order logic in the vocabulary of naive set theory. Then the following is an axiom of naive set theory: (for some *y*, (for all *x*, ((*x* in *y*) iff *P*))).
 
 ### Conclusions
 
