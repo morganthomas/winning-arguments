@@ -2123,6 +2123,8 @@ In my awareness, Aristotle was the first to formulate a useful system of rules o
 
 The next development I'll mention is George Boole (1815-1864)'s discovery or invention of so-called [boolean logic](http://www.i-programmer.info/babbages-bag/235-logic-logic-everything-is-logic.html). This forms most of the basis for the biggest practical application of logic, which is in the design and programming of computers.
 
+The next development I'll mention is the development of first order logic. As far as I understand, first order logic was more or less independently conceived by [Guiseppe Peano](https://en.wikipedia.org/wiki/Giuseppe_Peano) and [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege). 
+
 ### Conclusions
 
 ## Fallacies
