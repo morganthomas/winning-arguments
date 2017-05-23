@@ -2180,7 +2180,7 @@ The axiom schema of comprehension is an infinite set of axioms stating in essenc
 
 2. **Axiom schema of comprehension.** Let *P* be a statement of first-order logic in the vocabulary of naive set theory. Then the following is an axiom of naive set theory: (for some *y*, (for all *x*, ((*x* in *y*) iff *P*))).
 
-From now on, I will refer to the set theory just described as "naive set theory." Naive set theory is much simpler and easier to understand than ZFC. Also, one can prove logical contradictions in it, and therefore one can prove anything in it. It is for this reason generally considered unsuitable as a foundation of math. If we can make naive set theory work, then we can obtain a key goal of the present defense: namely, to be able to coherent discuss the set of all sets and such objects. Our standard, to recall, is pragmatic adequacy. Can we find a pragmatically adequate solution to the Russell paradox in the context of naive set theory?
+From now on, I will refer to the set theory just described as "naive set theory." Naive set theory is much simpler and easier to understand than ZFC. Also, one can prove logical contradictions in it, and therefore one can prove anything in it. It is for this reason generally considered unsuitable as a foundation of math. If we can make naive set theory work, then we can obtain a key goal of the present defense: namely, to be able to coherent discuss the set of all sets and such objects. Our standard, to recall, is pragmatic adequacy. Can we find a pragmatically adequate resolution to the Russell paradox in the context of naive set theory?
 
 ### Conclusions
 
