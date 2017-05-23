@@ -2153,7 +2153,7 @@ I don't know about you, but that response is not satisfying to me. One reason fo
 
 That brings us back to the liar paradox. The liar paradox concerns any statement *L* such that *L* is equivalent to the statement (*L* is false). For example, the English sentence "this sentence is false" is such a statement.
 
-If anything, the liar paradox poses a challenge to the idea that classical logic is applicable to English. Statements can be formulated in English which, by the rules of classical logic, make it possible to formulate statements which are true if and only if they are false, which by classical logic allows us to infer any statement. Can we then with justification employ the rules of logic in debates conducted in English? I think so, but the attack remains to be defended against. Let's turn to the problem of defending against this attack.
+If anything, the liar paradox poses a challenge to the idea that classical logic is applicable to English. Statements can be formulated in English which, by the rules of classical logic, make it possible to formulate statements which are true if and only if they are false, which by classical logic allows us to infer any statement. Can we then with justification employ the rules of classical logic in debates conducted in English? I think so, generally speaking, but the attack remains to be defended against. Let's turn to the problem of defending against this attack.
 
 ### Conclusions
 
