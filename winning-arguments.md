@@ -2149,7 +2149,11 @@ Similar arguments show that in ZFC there is no set of all [groups](https://en.wi
 
 A common and reasonable response to this complaint is that while it's a shame to be unable to talk about these things, it is after all logically contradictory to do so, so we need to accept the reality that these notions are incoherent.
 
-I don't know about you, but that response is not satisfying to me. One reason for this is that the paradoxes don't just create problems for talking about very large sets. They also create problems for talking about language. 
+I don't know about you, but that response is not satisfying to me. One reason for this is that the logical paradoxes don't just create problems for talking about very large sets. They also create problems for talking about language.
+
+That brings us back to the liar paradox. The liar paradox concerns any statement *L* such that *L* is equivalent to the statement (*L* is false). For example, the English sentence "this sentence is false" is such a statement.
+
+If anything, the liar paradox poses a challenge to the idea that classical logic is applicable to English. Statements can be formulated in English which, by the rules of classical logic, make it possible to formulate statements which are true if and only if they are false, which by classical logic allows us to infer any statement.
 
 ### Conclusions
 
