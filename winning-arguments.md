@@ -2186,7 +2186,7 @@ I think so; and it's very simple. Reject proofs which end in logical contradicti
 
 This method, clearly, can be generalized to any logical paradox we arrive at. Thus it solves the liar paradox as well as the Russell paradox, along with any other paradox where the problem is that it produces a logical contradiction.
 
-This method does introduce some risk of reaching logical contradictions. I think that this risk is quite tolerable in practice. More generally, I think the method I have just outlined is pragmatically adequate.
+This method does introduce some risk of reaching logical contradictions and falsehoods unintentionally. I think that this risk is quite tolerable in practice. More generally, I think the method I have just outlined is pragmatically adequate.
 
 In favor of this point, I would offer the observation that theoretical physicists frequently make use of mathematics which is unrigorous to the point of actually being false or logically inconsistent from time to time. Such incorrect math can still yield correct experimental predictions with high degrees of accuracy. I have all this on the authority of my personal experience reading theoretical physics and the authority of Spencer Kwit, a person I know who is competent in theoretical physics. It is clear from this observation that math does not need to be logically consistent, or even true, to be pragmatically useful.
 
