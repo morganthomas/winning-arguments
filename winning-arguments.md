@@ -2186,7 +2186,7 @@ I think so; and it's very simple. Reject proofs which end in logical contradicti
 
 This method does introduce some risk of reaching logical contradictions. I think that this risk is quite tolerable in practice. More generally, I think the method I have just outlined is pragmatically adequate.
 
-In favor of this point, I would offer the observation that theoretical physicists frequently make use of mathematics which is unrigorous to the point of actually being false or logically inconsistent in some cases. I have this on the authority of my personal experience reading theoretical physics and the authority of Spencer Kwit, a person I know who is competent in theoretical physics.
+In favor of this point, I would offer the observation that theoretical physicists frequently make use of mathematics which is unrigorous to the point of actually being false or logically inconsistent from time to time. I have this on the authority of my personal experience reading theoretical physics and the authority of Spencer Kwit, a person I know who is competent in theoretical physics.
 
 ### Conclusions
 
