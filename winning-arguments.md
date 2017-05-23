@@ -2184,6 +2184,8 @@ From now on, I will refer to the set theory just described as "naive set theory.
 
 I think so; and it's very simple. Reject proofs which end in logical contradictions or employ means that could be used to prove any statement. One can do this on an *ad hoc* basis, as one encounters them. Let us call this **the ad hoc method of rejecting contradictions**.
 
+This method, clearly, can be generalized to any logical paradox we arrive at. Thus it solves the liar paradox as well as the Russell paradox, along with any other paradox where the problem is that it produces a logical contradiction.
+
 This method does introduce some risk of reaching logical contradictions. I think that this risk is quite tolerable in practice. More generally, I think the method I have just outlined is pragmatically adequate.
 
 In favor of this point, I would offer the observation that theoretical physicists frequently make use of mathematics which is unrigorous to the point of actually being false or logically inconsistent from time to time. Such incorrect math can still yield correct experimental predictions with high degrees of accuracy. I have all this on the authority of my personal experience reading theoretical physics and the authority of Spencer Kwit, a person I know who is competent in theoretical physics. It is clear from this observation that math does not need to be logically consistent, or even true, to be pragmatically useful.
@@ -2197,6 +2199,8 @@ I do agree that the risk the counter-argument points to exists. I simply conside
 To address the criticism from a less practical and more conceptual angle, I will also attack it at the premise that it is impossible to derive falsehood from truth by the rules of classical logic. In the section titled The Law of One, I have laid out a metaphysics based on the premise that all is one, from which I deduce that every statement is true (and false). If indeed every statement is true and false, then every inference proceeds from truth to falsehood. I think this is a coherent metaphysics -- more coherent, in my opinion, than others I have come across -- and that even as a thought experiment it undermines to some extent the premise that it is impossible to derive falsehood from truth by the rules of classical logic. The logical paradoxes themselves, such as the liar paradox and the Russell paradox, also of course undermine this idea. 
 
 From the point of view of defending against the attack that I am currently defending against, the counter-argument I am currently criticizing is potentially self-defeating. The attack on classical logic that I am currently defending against advances the point of view that it is possible to derive falsehoods from truth by means of classical logic, and the Russell paradox and the liar paradox are among the examples demonstrating this phenomenon. Therefore an objection to my defense which is based on the premise that the rules of classical logic can't take us from truth to falsehood is potentially self-defeating, in the following way. If the objecter (who, as we can tell by inspecting the objection, is a believer in classical logic) were to abandon my defense on account of this objection, then they would once again be subject to the attack I am defending against. This is fine, as long as the objector has their own defense against the attack which meets their own standards.
+
+The objector can certainly reject the idea that there is something sufficiently necessary or useful about 
 
 ### Conclusions
 
