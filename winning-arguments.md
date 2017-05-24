@@ -40,6 +40,7 @@ Under construction. Pardon the dust!
 * [Persuasion](#persuasion)
 * [Math](#math)
 * [Paradoxes](#paradoxes)
+* [The Law of One](#the-law-of-one)
 * [Faith](#faith)
 
 ## Acknowledgements
