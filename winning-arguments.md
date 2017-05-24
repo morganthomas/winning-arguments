@@ -2322,7 +2322,7 @@ Everything that exists is an object. Every object is part of the one infinite cr
 
 These conclusions can be reached in intuition in many ways. I encourage the reader to try, as an exercise, reaching these conclusions in intuition.
 
-
+These conclusions can also be reached by many different arguments, some of which are instructive.
 
 ## Faith
 
