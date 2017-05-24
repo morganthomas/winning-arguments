@@ -2322,7 +2322,7 @@ Everything that exists is an object. Every object is part of the one infinite cr
 
 These conclusions can be reached in intuition in many ways. I encourage the reader to try, as an exercise, reaching these conclusions in intuition.
 
-These conclusions can also be reached by many different arguments, some of which are instructive.
+These conclusions can also be reached by many different arguments, some of which are instructive. It is merely true by definition that every object is part of The Whole, so this is not interesting to argue for. What is more interesting to argue for is the conclusion that the one infinite creator is the atom at the bottom of everything. Such arguments are not needed for justificatory purposes in the present context. However, they are useful for illustration purposes.
 
 ## Faith
 
