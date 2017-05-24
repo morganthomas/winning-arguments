@@ -686,9 +686,9 @@ There are many approaches to the study of grammar. Indeed, there are a number of
 
 There is a lot of interesting stuff to explore here, and I only have space to scratch the surface. Let's start by learning a simple formal language of statements. We're going to explain how to write statements in a toy language whose only sentences are statements. This language is called **(the language of) first-order logic**. First-order logic is notable in that it has an extremely simple grammar, and essentially any statement can be expressed in first-order logic.
 
-Our presentation of first-order logic is notationally different from most other presentations of first-order logic, in that I opted to use English words in place of logical symbols, making the notation more naturally readable for English speakers, but less compact.
+This presentation of first-order logic is notationally different from most other presentations of first-order logic, in that I opted to use English words in place of logical symbols, making the notation more naturally readable for English speakers, but less compact.
 
-In essence the version of first-order logic I present should be equivalent to all other presentations of first-order logic, despite interesting differences. The reader can, as an exercise, find another presentation of first-order logic and find for themselves the reasons why that system is for all intents and purposes interchangeable with ours, despite their differences. Our presentation differs in tricky ways (as well as simple ways) from most presentations of first-order logic, so that this can be an interesting exercise for a student of mathematical logic.
+In essence the version of first-order logic I present should be equivalent to all other presentations of first-order logic, despite interesting differences. The reader can, as an exercise, find another presentation of first-order logic and find for themselves the reasons why that system is for all intents and purposes interchangeable with ours, despite their differences. This presentation differs in tricky ways (as well as simple ways) from most presentations of first-order logic, so that this can be an interesting exercise for a student of mathematical logic.
 
 Here are some examples of statements in our version of first-order logic:
 
@@ -699,7 +699,7 @@ Here are some examples of statements in our version of first-order logic:
 
 As you can see, these statements look a lot like statements in English, but not quite. Let's go through the rules that define the grammar of this language.
 
-There are the following kinds of words in (our presentation of) first-order logic: variable names, object literals, predicates, [copulas](https://en.wikipedia.org/wiki/Copula_(linguistics)#English), such as verbs, and connective words.
+There are the following kinds of words in (this presentation of) first-order logic: variable names, object literals, predicates, [copulas](https://en.wikipedia.org/wiki/Copula_(linguistics)#English), such as verbs, and connective words.
 
 * For **variable names** I will use single italicized lower case letters: *a*, *b*, *c*...
 * For **object literals** I will use English phrases denoting objects, e.g. "the President of the United States" or "this chicken." The latter example illustrates that English phrases denoting objects can be context-sensitive in meaning.
@@ -707,7 +707,7 @@ There are the following kinds of words in (our presentation of) first-order logi
 * For **copulas** I will use ordinary English copulas, e.g. "loves," "instantiates," and "kills," as well as upper case letters (C, D, E, ...)
 * The following are all the **connective words:** **if**, **then**, **and**, **or**, **not**, **for**, **all**, **some**, **is**.
 
-An **object term** (of our presentation of first-order logic) is a variable name or an object literal. In other words an object term is any piece of syntax that can denote an object.
+An **object term** (of this presentation of first-order logic) is a variable name or an object literal. In other words an object term is any piece of syntax that can denote an object.
 
 We will also need notations for variables ranging over different types of words:
 
@@ -716,9 +716,9 @@ We will also need notations for variables ranging over different types of words:
 * When we need a variable that ranges over statements, i.e. a *statement variable*, I will use bolded upper case letters starting with "A": **A**, **B**, **C**, ...
 * When we need a variable that ranges over copulas, I will use a bolded lower case **v**.
 
-A **lexical unit** (of our presentation of first-order logic) is a word, a parenthesis, or a comma.
+A **lexical unit** (of this presentation of first-order logic) is a word, a parenthesis, or a comma.
 
-A **statement** (of our presentation of first-order logic) is any sequence of lexical units which can be formed according to the following rules:
+A **statement** (of this presentation of first-order logic) is any sequence of lexical units which can be formed according to the following rules:
 
 1. If **a** is an object term and **P** is a predicate, then (**a** is **P**) is a statement.
 3. If **a** is an object term and **v** is an [English copula](https://en.wikipedia.org/wiki/Copula_(linguistics)#English), such as a verb, then (**a** **v**) is a statement.
@@ -1571,7 +1571,7 @@ A **sequent** is simply an entailment between first order logic statements. ((Pa
 
 A **multiple-conclusion sequent** is one with multiple conclusions. ((Pa or Pb) entails Pa, Pb) is an example of a multiple-conclusion sequent. In general, a multiple-conclusion sequent has the form (**A1**,...,**An** entails **B1**,...,**Bm**).
 
-The notation **A1**,...,**An** stands for any finite sequence of statements. **n** is supposed to be a variable standing for a number. **n** could be zero, in which case this denotes an empty sequence of statements. **n** could also be one, or any higher number. **B1**,...,**Bm** is another instance of the same notation. Of course the sequences **A1**,...,**An** and **B1**,...,**Bm** may be of different length. A multiple conclusion sequent has zero or **premises** and zero or more **conclusions**. Our presentation of classical logic is based on multiple conclusion sequents, so henceforth "sequent" is short for "multiple-conclusion sequent."
+The notation **A1**,...,**An** stands for any finite sequence of statements. **n** is supposed to be a variable standing for a number. **n** could be zero, in which case this denotes an empty sequence of statements. **n** could also be one, or any higher number. **B1**,...,**Bm** is another instance of the same notation. Of course the sequences **A1**,...,**An** and **B1**,...,**Bm** may be of different length. A multiple conclusion sequent has zero or **premises** and zero or more **conclusions**. This presentation of classical logic is based on multiple conclusion sequents, so henceforth "sequent" is short for "multiple-conclusion sequent."
 
 A sequent (**A1**,...,**An** entails **B1**,...,**Bm**) should be interpreted for our purposes as stating that it is incoherent to assert all of **A1**, ..., **An** and to deny all of **B1**, ..., **Bm** at the same time. If what the sequent states is true, we say that the sequent is **valid**.
 
@@ -1657,7 +1657,7 @@ From the rules of strengthening, assertion contraction, and denial contraction, 
 
 From the rules of assertion permutation and denial permutation, it follows in generality that *the order of assertions and denials does not matter for coherence.* From all the structural rules together, it follows in generality that *the order and repetition of assertions and denials do not matter for coherence.*
 
-The final structural rule in our presentation is the rule of **cut**. This rule is redundant; [Gentzen's cut elimination theorem](https://en.wikipedia.org/wiki/Cut-elimination_theorem) shows that any sequent that is valid in classical logic can be shown to be valid using just the 14 rules we have listed so far, without using rule 15, the cut rule. However, sequent derivations not using the cut rule will tend to be much longer than derivations using the cut rule.
+The final structural rule in this presentation is the rule of **cut**. This rule is redundant; [Gentzen's cut elimination theorem](https://en.wikipedia.org/wiki/Cut-elimination_theorem) shows that any sequent that is valid in classical logic can be shown to be valid using just the 14 rules we have listed so far, without using rule 15, the cut rule. However, sequent derivations not using the cut rule will tend to be much longer than derivations using the cut rule.
 
 15. **Cut.** Suppose that (**A1**,...,**An** entails **B1**,...,**Bm**, **C**) is a valid sequent, and that (**C**, **D1**,...,**Dk** entails **E1**,...,**Ek**) is a valid sequent. Then (**A1**,...,**An**, **D1**,...,**Dk** entails **B1**,...,**Bm**, **E1**,...,**Ek**) is a valid sequent. The cut rule is so named because the rule lets us combine two valid sequents, one with **C** in the conclusions and one with **C** in the premises, while cutting **C** out of the picture. The rule of cut states in essence that *if it's incoherent for you to assert **C** and it's incoherent for you to deny **C**, then your position is incoherent.*
 
