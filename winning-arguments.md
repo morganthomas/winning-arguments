@@ -2275,7 +2275,7 @@ There are various objections to the Law of One along the lines of: it is unthink
 
 From the point of view of the title of this section, my contention is that accepting the Law of One as true is helpful in resolving paradoxes in general, including logical paradoxes. I'm not sure how many would be motivated by this consideration alone to accept the Law of One, but demonstrating the helpfulness of the Law of One in resolving logical paradoxes is a primary goal of this section.
 
-I think there are additional benefits to accepting the Law of One. I have found my meager understanding of the Law of One to be an unbelievably productive cognitive tool. My attempts to understand the Law of One and to reconcile it with logic were the germ of this book. I would say that wrestling with the unthinkable paradox at the heart of the Law of One has done more than anything else to deepen my philosophical thinking.
+I think there are additional benefits to accepting the Law of One. I have found my humble understanding of the Law of One to be an unbelievably productive cognitive tool. My attempts to understand the Law of One and to reconcile it with logic were the germ of this book. I would say that wrestling with the unthinkable paradox at the heart of the Law of One has done more than anything else to deepen my philosophical thinking.
 
 My understanding of the Law of One also helps me to heal my emotional pains by loving and accepting everything as the one infinite creator. I am able to do this more fully because of my intellectual understanding of how everything is one with the infinite creator.
 
