@@ -4,6 +4,8 @@
 
 [Audio version available on YouTube.](https://www.youtube.com/playlist?list=PLMG5V0T2bhudVl601quvjHk2lga2L7F5l)
 
+Under construction. Pardon the dust!
+
 ## Table of Contents
 
 * [Acknowledgements](#acknowledgements)
