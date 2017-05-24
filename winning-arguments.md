@@ -2214,6 +2214,7 @@ Let's ask if there is a better way to do the particular task at hand right now, 
 **Cons:**
 
  * Not perfect.
+ * Not based on exceptionless rules that are always correct.
  * Could lead one into falsehood, perhaps with bad consequences.
 
 Let's now survey the landscape of competing approaches, and stack up their pros and cons as well. We will do this primarily from the pragmatic perspective which is the modus operandi of this text.
