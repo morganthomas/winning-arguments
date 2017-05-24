@@ -637,11 +637,9 @@ The first three paragraphs of the Introduction explained the meaning of the titl
 >
 > Second, "winning arguments" can be interpreted as a noun phrase, where "argument" is used in the sense of "a series of statements designed to provide reason to believe some conclusion(s)." In this interpretation of the phrase, "winning" is an adjective, presumably meaning something like "persuasive."
 
-Back in the Introduction, I gave a series of words from the first three paragraphs that needed explanation:
+Back in the Introduction, I gave a series of words from the first three paragraphs that needed explanation. Those words were: "debate," "argument," "winning," "true," "reason," "believe," "persuasive," and "statement."
 
-> Let's return to our original task of clarifying the meaning of the first three paragraphs of this Introduction. So far we've clarified the meanings of two critical words, "debate" and "argument." Yet many words of nebulous, dubious, or unclear meaning remain. First and foremost, "winning," but also (with the evident nebulousness, dubiousness or unclarity depending in part on where and how deep you've traveled into philosophy) "true," "reason," "believe," "persuasive," and "statement." Let's analyze the meanings of these words, starting with "winning."
-
-We've done our analysis of "winning," but the rest of these words remain to be analyzed: "true," "reason," "believe," and "statement." In this section we shall analyze the word "statement."
+We've done our analysis of "debate," "argument," "winning," and combinations thereof, but the rest of these words remain to be analyzed: "true," "reason," "believe," "persuasive," and "statement." In this section we shall analyze the word "statement."
 
 What is a statement? A statement is a kind of sentence or sequence of sentences. Here are some dictionary definitions of "statement" that I looked up on Google:
 
