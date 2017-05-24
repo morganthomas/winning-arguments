@@ -2316,7 +2316,7 @@ So far we have worked within a division of objects into physical objects, abstra
 
 I'll add some more meat to the concepts that have been laid out so far. The most important metaphysical concepts invoked so far are "object," "part," and "set." Everything is an object, and objects can be divided into parts, which are also objects. Objects can be assembled into sets, and one can produce new objects by the "mereological sum" operation applied to a set. The mereological sum operation, applied to a set, produces the smallest possible object of which all elements of the set are parts.
 
-There is no purpose I can see in offering a rigorous axiomatization of the mereology that follows from the Law of One. I think that an intuitive understanding of the metaphysics of parthood according to the Law of One is very instructive for understanding the Law of One. Therefore I will not offer any axioms for mereology, or attempt to prove any results, but I will merely attempt to illustrate intuitions regarding the metaphysics of parthood under the Law of One.
+There is no purpose I can see in offering a rigorous axiomatization of the mereology that follows from the Law of One. I think that an intuitive understanding of the metaphysics of parthood according to the Law of One is very instructive for understanding the Law of One. I will not offer any axioms for mereology, or attempt to prove any results. I will merely attempt to illustrate intuitions regarding the metaphysics of parthood under the Law of One.
 
 ## Faith
 
