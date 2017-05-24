@@ -639,7 +639,7 @@ The first three paragraphs of the Introduction explained the meaning of the titl
 
 Back in the Introduction, I gave a series of words from the first three paragraphs that needed explanation. Those words were: "debate," "argument," "winning," "true," "reason," "believe," "persuasive," and "statement."
 
-We've done our analysis of "debate," "argument," "winning," and combinations thereof, but the rest of these words remain to be analyzed: "true," "reason," "believe," "persuasive," and "statement." In this section we shall analyze the word "statement."
+We've done some analysis of "debate," "argument," "winning," and combinations thereof, but the rest of these words remain to be analyzed: "true," "reason," "believe," "persuasive," and "statement." In this section we shall analyze the word "statement."
 
 What is a statement? A statement is a kind of sentence or sequence of sentences. Here are some dictionary definitions of "statement" that I looked up on Google:
 
