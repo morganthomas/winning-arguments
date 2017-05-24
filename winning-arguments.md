@@ -2,6 +2,8 @@
 
 **A system of meta-philosophy**
 
+[Audio version available on YouTube.](https://www.youtube.com/playlist?list=PLMG5V0T2bhudVl601quvjHk2lga2L7F5l)
+
 ## Table of Contents
 
 * [Acknowledgements](#acknowledgements)
