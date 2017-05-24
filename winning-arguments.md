@@ -2316,9 +2316,7 @@ So far we have worked within a division of objects into physical objects, abstra
 
 I'll add some more meat to the concepts that have been laid out so far. The most important metaphysical concepts invoked so far are "object," "part," and "set." Everything is an object, and objects can be divided into parts, which are also objects. Objects can be assembled into sets, and one can produce new objects by the "mereological sum" operation applied to a set. The mereological sum operation, applied to a set, produces the smallest possible object of which all elements of the set are parts.
 
-We already have a rigorous, axiomatic treatment of sets. In fact, I've given two: ZFC, and naive set theory. One can use either one, whichever is convenient. For metaphysical purposes, I think naive set theory is more convenient, because of its greater versatility. Since we are in a paradox-saturated setting where are able to deal with paradoxes, using naive set theory makes sense.
-
-I haven't given us a rigorous, axiomatic treament of the parthood relation. The study of the parthood relation is usually called [mereology](https://philpapers.org/browse/mereology/). Mereology can be [axiomatized](https://en.wikipedia.org/wiki/Mereology#Axioms_and_primitive_notions). As with set theory, this results in paradoxes if done naively. This is OK for our purposes, though.
+There is no purpose I can see in offering a rigorous axiomatization of the mereology that follows from the Law of One. I think that an intuitive understanding of the metaphysics of parthood according to the Law of One is very instructive for understanding the Law of One. Therefore I will not offer any axioms for mereology, or attempt to prove any results, but I will merely attempt to illustrate intuitions regarding the metaphysics of parthood under the Law of One.
 
 ## Faith
 
