@@ -2318,7 +2318,11 @@ I'll add some more meat to the concepts that have been laid out so far. The most
 
 There is no purpose I can see in offering a rigorous axiomatization of the mereology that follows from the Law of One. I think that an intuitive understanding of the metaphysics of parthood according to the Law of One is very instructive for understanding the Law of One. I will not offer any axioms for mereology, or attempt to prove any results. I will merely attempt to illustrate true and general intuitions regarding the metaphysics of parthood under the Law of One.
 
-Everything that exists is an object. Every object is part of the one infinite creator, because the one infinite creator is The Whole, the mereological sum of all objects. Every object is a slice of existence taken out of the one infinite creator. At the same time, the one infinite creator is contained at the bottom of everything; it is the atom. At the same time, it is everything.
+Everything that exists is an object. Every object is part of the one infinite creator, because the one infinite creator is The Whole, the mereological sum of all objects. Every object is a slice of existence taken out of the one infinite creator. At the same time, the one infinite creator is contained at the bottom of everything; it is the atom.
+
+These conclusions can be reached in intuition in many ways. I encourage the reader to try, as an exercise, reaching these conclusions in intuition.
+
+
 
 ## Faith
 
