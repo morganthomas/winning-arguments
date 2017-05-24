@@ -2312,7 +2312,7 @@ I'll add some more meat to the concepts that have been laid out so far. The most
 
 We already have a rigorous, axiomatic treatment of sets. In fact, I've given two: ZFC, and naive set theory. One can use either one, whichever is convenient. For metaphysical purposes, I think naive set theory is more convenient, because of its greater versatility. Since we are in a paradox-saturated setting where are able to deal with paradoxes, using naive set theory makes sense.
 
-I haven't given us a rigorous, axiomatic treament of the parthood relation. The study of the parthood relation is usually called [mereology](https://philpapers.org/browse/mereology/). Mereology can be [axiomatized](https://en.wikipedia.org/wiki/Mereology#Axioms_and_primitive_notions), much like set theory. As with set theory, this results in paradoxes if done naively. This is OK for our purposes, though.
+I haven't given us a rigorous, axiomatic treament of the parthood relation. The study of the parthood relation is usually called [mereology](https://philpapers.org/browse/mereology/). Mereology can be [axiomatized](https://en.wikipedia.org/wiki/Mereology#Axioms_and_primitive_notions). As with set theory, this results in paradoxes if done naively. This is OK for our purposes, though.
 
 ## Faith
 
