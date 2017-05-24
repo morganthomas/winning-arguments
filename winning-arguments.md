@@ -1581,7 +1581,7 @@ The sequent ((Pa or Pb) entails Pa, Pb) is valid. It states that it is incoheren
 
 This interpretation of the meaning of multiple conclusion sequents was taught to me by Dave Ripley, and as far as I know he is responsible for conceiving it. TODO: confirm
 
-We have finished introducing the notion of multiple conclusion sequents. Let us proceed to the rules of classical logic.
+I have finished introducing the notion of multiple conclusion sequents. Let us proceed to the rules of classical logic.
 
 The rules of classical logic are the rules that state what sequents are valid according to classical logic. A sequent is valid according to classical logic if and only if it can be deduced according to these rules.
 
