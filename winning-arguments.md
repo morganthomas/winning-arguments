@@ -2320,7 +2320,7 @@ There is no purpose I can see in offering a rigorous axiomatization of the mereo
 
 Everything that exists is an object. Every object is part of the one infinite creator, because the one infinite creator is The Whole, the mereological sum of all objects. Every object is a slice of existence taken out of the one infinite creator. At the same time, the one infinite creator is contained at the bottom of everything; it is the atom.
 
-These conclusions can be reached in intuition in many ways. I encourage the reader to try, as an exercise, reaching these conclusions in intuition.
+These conclusions can be reached in intuition in many ways. I encourage the reader to try, as an exercise, reaching these conclusions in intuition, and to try with patience and creativity.
 
 These conclusions can also be reached by many different arguments, some of which are instructive. It is merely true by definition that every object is part of The Whole, so this is not interesting to argue for. What is more interesting to argue for is the conclusion that the one infinite creator is the atom at the bottom of everything. Such arguments are not needed for justificatory purposes in the present context. However, they are useful for illustration purposes.
 
