@@ -2308,4 +2308,12 @@ A letter can be considered as an abstract object, which is instantiated by every
 
 So far we have worked within a division of objects into physical objects, abstract objects (which lack physical parts), and objects which have both physical and abstract parts. The Law of One entails that physical objects and abstract objects are of the same nature: physical objects are abstract, and abstract objects are physical. More generally, the Law of One entails that there is only one type of substance. Consciousness and physical material are of the same nature. Consciousness is physical material, and physical material is consciousness.
 
+I'll add some more meat to the concepts that have been laid out so far. The most important metaphysical concepts invoked so far are "object," "part," and "set." Everything is an object, and objects can be divided into parts, which are also objects. Objects can be assembled into sets, and one can produce new objects by the "mereological sum" operation applied to a set. The mereological sum operation, applied to a set, produces the smallest possible object of which all elements of the set are parts.
+
+We already have a rigorous, axiomatic treatment of sets. In fact, I've given two: ZFC, and naive set theory. One can use either one, whichever is convenient. For metaphysical purposes, I think naive set theory is more convenient, because of its greater versatility. Since we are in a paradox-saturated setting where are able to deal with paradoxes, using naive set theory makes sense.
+
+I haven't given us a rigorous, axiomatic treament of the parthood relation. The study of the parthood relation is usually called [mereology](https://philpapers.org/browse/mereology/). Mereology can be [axiomatized](https://en.wikipedia.org/wiki/Mereology#Axioms_and_primitive_notions), much like set theory. As with set theory, this results in paradoxes if done naively. This is OK for our purposes, though.
+
 ## Faith
+
+## 
