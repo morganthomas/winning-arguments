@@ -1570,7 +1570,7 @@ The way the rules of classical logic are conventionally presented is by giving a
 
 TODO: Add graphical sequents
 
-My presentation is most closely based on the style of presentation of first-order logic articulated in [Dave Ripley's](http://davewripley.rocks/) graduate philosophical logic course taught in spring 2014 at the University of Connecticut. Credit for the original conception of the rules of classical first-order logic is best claimed by Gottlob Frege, as far as I'm aware.
+My presentation is most closely based on the style of presentation of first-order logic articulated in [Dave Ripley's](http://davewripley.rocks/) graduate philosophical logic course taught in spring 2014 at the University of Connecticut. Credit for the original conception of the rules of classical first-order logic is best claimed by Gottlob Frege and Guiseppe Peano, as far as I'm aware.
 
 This presentation requires a concept that is new for us: the concept of multiple-conclusion sequents.
 
