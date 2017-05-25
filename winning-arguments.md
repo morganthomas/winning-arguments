@@ -2237,7 +2237,8 @@ Here is the situation according to my opinion:
 1. There is no way of weakening the rules of logic which would render naive set theory a suitable foundation of mathematics without invoking the ad hoc method of rejecting contradictions.
 2. Statement 1 is impossible to prove.
 3. Statement 2 is impossible to prove.
-4. And so forth.
+
+And so forth.
 
 This being how I view the situation, I don't expect to be able to resolve the debate about whether weakening the rules of classical logic is a viable approach to solving the paradoxes.
 
