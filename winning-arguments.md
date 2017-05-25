@@ -1576,7 +1576,7 @@ This presentation requires a concept that is new for this text: the concept of m
 
 A **sequent** is simply an entailment between first order logic statements. ((Pa and Pb) entails Pa) is an example of a sequent.
 
-A **multiple-conclusion sequent** is one with multiple conclusions. ((Pa or Pb) entails Pa, Pb) is an example of a multiple-conclusion sequent. In general, a multiple-conclusion sequent has the form (**A1**,...,**An** entails **B1**,...,**Bm**).
+A **multiple-conclusion sequent** is a sequent with multiple conclusions. ((Pa or Pb) entails Pa, Pb) is an example of a multiple-conclusion sequent. In general, a multiple-conclusion sequent has the form (**A1**,...,**An** entails **B1**,...,**Bm**).
 
 The notation **A1**,...,**An** stands for any finite sequence of statements. **n** is supposed to be a variable standing for a number. **n** could be zero, in which case this denotes an empty sequence of statements. **n** could also be one, or any higher number. **B1**,...,**Bm** is another instance of the same notation. Of course the sequences **A1**,...,**An** and **B1**,...,**Bm** may be of different length. A multiple conclusion sequent has zero or **premises** and zero or more **conclusions**. This presentation of classical logic is based on multiple conclusion sequents, so henceforth "sequent" is short for "multiple-conclusion sequent."
 
