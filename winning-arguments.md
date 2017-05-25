@@ -1511,7 +1511,7 @@ Let's now get into the weeds with our first important category of laws of reason
 
 ## Logic
 
-We are about to take a deep dive into the treacherous, brambly swamp of [philosophical logic](https://en.wikipedia.org/wiki/Philosophical_logic) and the [philosophy of logic](https://en.wikipedia.org/wiki/Philosophy_of_logic), with the heroic aim of acquiring true, classical principles of reasoning, what we knew all along well articulated and defended from the attacks of the critics.
+We are about to take a deep dive into the treacherous, brambly swamp of [philosophical logic](https://en.wikipedia.org/wiki/Philosophical_logic) and the [philosophy of logic](https://en.wikipedia.org/wiki/Philosophy_of_logic), with the heroic aim of acquiring true, classical, foundational principles of reasoning, what we knew all along well articulated and defended from the attacks of the critics.
 
 **Logic**, as I shall describe it, is a field of study where the primary topic is valid rules of logical inference. Let's unpack that.
 
