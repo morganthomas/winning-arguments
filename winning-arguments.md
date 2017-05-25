@@ -2268,7 +2268,7 @@ The argument for this conclusion was completed at the end of the previous subsec
 
 This conclusion is a fairly complete summary of this section, in that it is the only major conclusion drawn in the section and everything else in the section was driving towards explaining and arguing for this conclusion. Indeed, all the rest of the text up to this point can be viewed as providing context, motivation, and groundwork for this, the first major conclusion of this text.
 
-By way of the argument for the conclusion I have pointed out a system of rules for determining when sets of assertions and denials are incoherent, and for inferring reliably from truths to other truths. This system is called classical logic. I have defended classical logic against difficult, complex, and serious attacks from competing points of view on logic, and from challenges created by the logical paradoxes that seem to be intrinsic to the nature of logic and of human thought.
+By way of the argument for the conclusion I have pointed out a system of rules for determining when sets of assertions and denials are incoherent, and for inferring reliably from truths to other truths. This system is called classical logic. I have defended classical logic against difficult, complex, and serious attacks from competing points of view on logic, and from challenges created by the logical paradoxes that seem to be intrinsic to logic and to human thought.
 
 ## Fallacies
 
