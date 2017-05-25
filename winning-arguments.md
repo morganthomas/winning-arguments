@@ -1503,7 +1503,7 @@ What I am looking to study are **laws of reasoning**. Laws of reasoning are gene
 
 One example of a law of reasoning is that properly formulated *reductio ad absurdum* arguments are winning. This law is basically correct. However, this formulation of it is still imprecise, and at this point in the text we lack the methodology to justify or even to state precisely the *reductio ad absurdum* principle. Furthermore, there is plenty of controversy around the *reductio ad absurdum* principle among logicians, which we have yet to touch at all. 
 
-The overall primary aim of the text up to this point can be described as defining and analyzing important concepts that allow us clearly articulate the goal I am now setting to describe laws of reasoning. 
+The overall primary aim of the text up to this point can be described as the aim of defining and analyzing important concepts that allow us clearly articulate the goal I am now setting to describe laws of reasoning. 
 
 Of course, we don't just want to describe any laws of reasoning. We want to describe laws of reasoning that are correct, or true. It's a messy question what exactly this means, especially because there are very few laws of reasoning which entirely lack plausible counterexamples (cases where they allow one to infer false conclusions from plausibly true premises).
 
