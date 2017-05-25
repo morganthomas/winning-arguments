@@ -2268,7 +2268,9 @@ The argument for this conclusion was completed at the end of the previous subsec
 
 This conclusion is a fairly complete summary of this section, in that it is the only major conclusion drawn in the section and everything else in the section was driving towards explaining and arguing for this conclusion. Indeed, all the rest of the text up to this point can be viewed as providing context, motivation, and groundwork for this, the first major conclusion of this text.
 
-By way of the argument for the conclusion I have pointed out a system of rules for determining when sets of assertions and denials are incoherent, and for inferring reliably from truths to other truths. This system is called classical logic. I have defended classical logic against difficult, complex, and serious attacks from competing points of view on logic, and from intrinsic challenges created by paradoxes and by the mismatch that exists between the exactness of formal logic and the fuzziness of natural language. Frequently pragmatism has been an anchoring perspective. The standard for success has been adequacy for the practical purposes of winning arguments, seeking the truth, etc.
+By way of the argument for the conclusion I have pointed out a system of rules for determining when sets of assertions and denials are incoherent, and for inferring reliably from truths to other truths. This system is called classical logic. I have defended classical logic against difficult, complex, and serious attacks from competing points of view on logic, and from intrinsic challenges created by paradoxes and by the mismatch that exists between the exactness of formal logic and the fuzziness of natural language. Frequently pragmatism has been an anchoring perspective. The standard for success has been adequacy for the practical purposes of winning arguments, seeking the truth, etc. I have argued at length that the rules of classical logic meet the standard set. I am quite confident in this conclusion.
+
+
 
 ## Fallacies
 
