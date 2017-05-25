@@ -1586,7 +1586,7 @@ The sequent ((Pa and Pb) entails Pa) is valid. It states that it is incoherent t
 
 The sequent ((Pa or Pb) entails Pa, Pb) is valid. It states that it is incoherent to assert (Pa or Pb) while denying both Pa and Pb.
 
-According to Dave Ripley in communication with me, this interpretation of the meaning of multiple conclusion sequents was anticipated 'in John MacFarlane's unpublished (but widely-distributed) "In what sense (if any) is logic normative for thought?"' and the notion first appears in the published literature in [Greg Restall's 2005 "Multiple Conclusions."](https://philpapers.org/rec/RESMC) The notion was taught to me by Dave Ripley.
+According to Dave Ripley in communication with me, this interpretation of the meaning of multiple conclusion sequents was anticipated 'in John MacFarlane's unpublished (but widely-distributed) "In what sense (if any) is logic normative for thought?"' and the notion first appears in the published literature in [Greg Restall's 2005 "Multiple Conclusions."](https://philpapers.org/rec/RESMC) The interpretation was taught to me by Dave Ripley in his 2014 logic course.
 
 I have finished introducing the notion of multiple conclusion sequents. Let us proceed to the rules of classical logic.
 
