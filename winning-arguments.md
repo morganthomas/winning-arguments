@@ -2232,12 +2232,26 @@ I did some research that tried to advance the perspective that weakening the rul
 
 I wrote [a paper](https://drive.google.com/file/d/0Bx_KuRX8hgkZc1FWX3REOFp4Mzg/edit?usp=sharing) giving a general meta-theory of logic describing and proving properties of a wide class of systems of logic, certainly not inclusive of all systems of logic that have been advanced as possible ways of solving the logical paradoxes. I wrote [a paper](https://drive.google.com/file/d/0Bx_KuRX8hgkZZjhaS0NLQnZEZzg/edit?usp=sharing) stating a mathematical conjecture to the effect that none of these systems would form a basis for naive set theory in which one could do math. This conjecture was a vast generalization of a type of result I proved in one case in [a paper](https://drive.google.com/file/d/0Bx_KuRX8hgkZb21GWm9jV2FUV1k/edit?usp=sharing) proving that a particular handful of logics did not make it possible to do math in naive set theory. I found the conjecture much too difficult to make progress on proving. Moreover, if one were to prove the conjecture, it would only rule out a certain wide class of logics, and one would be far from ruling out all logics that have been proposed in this approach to solving the logical paradoxes. I therefore gave up on the idea of furnishing mathematical proof of the claim that no way of weakening the rules of logic would make naive set theory a suitable foundation of mathematics. This is probably impossible to accomplish, anyway.
 
-To summarize, here is the situation as I see it:
+Here is the situation according to my opinion:
 
 1. There is no way of weakening the rules of logic which would render naive set theory a suitable foundation of mathematics without invoking the ad hoc method of rejecting contradictions.
 2. Statement 1 is impossible to prove.
 3. Statement 2 is impossible to prove.
 4. And so forth.
+
+This being how I view the situation, I don't expect to be able to resolve the debate about whether weakening the rules of classical logic is a viable approach to solving the paradoxes.
+
+One who does wish to stick to the approach of weakening the rules of logic, and who accepts statement 1, can still exclude the paradoxes of naive set theory from conisderation as ones that need to be solved. For instance, maybe their only goal is to solve the paradoxes of self referential language. I don't know how many find this way of thinking satisfying. To me, it seems like a solution to the logical paradoxes should solve all of the logical paradoxes. No approach to paradoxes based on weakening logic can accurately claim to solve all the logical paradoxes, as far as I'm aware.
+
+One can disagree with my opinion that we should not be satisfied with a solution to logical paradoxes that only works for some logical paradoxes and not others. In general, one can disagree with my overall assessment on approaches to paradoxes based on weakening logic, in a whole variety of ways. The philosophical debate will go on. I don't claim the ability to resolve it.
+
+For the present practical purposes, we are just looking for a resolution to the debate about logic that is satisfactory in the sense that we can be confident it is practically adequate, and that we are not likely to find solutions that are, practically speaking, better.
+
+I have already argued that classical logic with the ad hoc method of rejecting contradictions is practically adequate. The question remains, are we unlikely to find solutions that are, practically speaking, better?
+
+The main way that the ad hoc method of rejecting contradictions could be improved is if it were replaced with a more certain method. I think that applying the ad hoc method of rejecting contradictions in challenging situations will lead to development of generalizable principles and rules of thumb for practicing this discipline. In this sense the ad hoc method of rejecting contradictions is open to improvement and has the possibility of improvement built in. I will explore this idea further in the section titled Inconsistent Math.
+
+One could improve the certainty of the ad hoc method of rejecting contradictions further beyond this by replacing it with a mechanical method. This is in essence an equivalent way of describing the approach of weakening the rules of logic while maintaining that the rules of logic are always correct to apply. I've already argued that one can't in this way improve upon the ad hoc method of rejecting contradictions.
 
 ### Conclusions
 
@@ -2355,4 +2369,4 @@ These conclusions can also be reached by many different arguments, some of which
 
 ## Faith
 
-## 
+## Appendix: Inconsistent Math
