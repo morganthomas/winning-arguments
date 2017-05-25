@@ -2262,7 +2262,7 @@ That completes my defense of classical logic, except for the final task of round
 
 ### Conclusion
 
-The conclusion of the section titled Logic is that an argument form is valid iff it is valid according to classical logic.
+The conclusion of the section titled Logic is that an argument form is valid if and only if it is valid according to classical logic.
 
 The argument for this conclusion was completed at the end of the previous subsection.
 
