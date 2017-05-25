@@ -1323,7 +1323,7 @@ Here is a first pass attempt at explaining rationality in practical terms. Ratio
 
 Given the immense practical importance of rationality, we don't want to approach the understanding of rationality as a purely theoretical problem. We want to approach it as a practical problem, so that our solution will be as useful as possible to as many people as possible. My goal here is not to develop the most rigorous theory possible, but merely to give the most usable, and yet correct explanation of rationality I can.
 
-We can study rationality from a psychological perspective, by speculating about people's inner states, primarily their processes of belief formation, and by making prescriptive recommendations about how to form beliefs in order to be rational. 
+One can study rationality from a psychological perspective, by thinking about people's inner states, primarily their processes of belief formation, and by making prescriptive recommendations about how to form beliefs in order to be rational. 
 
 I think it's very informative to think about rationality by thinking about the kind of moral virtues that a person should seek to have in order to be rational. Here some moral virtues that I think of as contributing to or being requirements for rationality (in no particular order):
 
