@@ -2256,23 +2256,19 @@ One could improve the certainty of the ad hoc method of rejecting contradictions
 
 For further discussion of logical paradoxes, which does not form a part of the present argument, I refer the reader to the section titled The Law of One.
 
+TODO: discuss relevance paradox
+
 That completes my defense of classical logic, except for the final task of rounding up the conclusions drawn in this section on Logic.
 
-### Conclusions
+### Conclusion
 
-In this subsection I will restate, without argument, the major conclusions I have drawn in the section titled Logic.
+The conclusion of the section titled Logic is that an argument form is valid iff it is valid according to classical logic.
 
-1. First order logic is a good and proper choice for a language in which to formally describe the rules of logic.
-2. An argument form is valid iff it is valid according to classical logic.
+The argument for this conclusion was completed at the end of the previous subsection.
 
+This conclusion is a fairly complete summary of this section, in that it is the only major conclusion drawn in the section and everything else in the section was driving towards explaining and arguing for this conclusion. Indeed, all the rest of the text up to this point can be viewed as providing context, motivation, and groundwork for this, the first major conclusion of this text.
 
-
-
-
-
-
-
-
+By way of the argument for the conclusion I have pointed out a system of rules for determining when sets of assertions and denials are incoherent, and for inferring reliably from truths to other truths. This system is called classical logic. I have defended classical logic against difficult, complex, and serious attacks from competing points of view on logic, and from challenges created by the logical paradoxes that seem to be intrinsic to the nature of logic and of human thought.
 
 ## Fallacies
 
