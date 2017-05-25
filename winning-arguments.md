@@ -1457,7 +1457,7 @@ There is no centralized authority on rationality. Generally speaking, rationalit
 
 Of course, rationality is in competition with other conflicting forces: for example, ignorance. Rationality isn't always dominant, and this qualifier should be stated, though I don't believe it conflicts with anything I've said.
 
-Here's a basic law of rationality, a basic norm of assertion, which we'll call the **law of evidence**: if you assert a statement, you should (ideally) be able to explain your reasons for believing it, and those reasons should (ideally) be good ones.
+Here's a basic law of rationality, a basic norm of assertion, which I'll call the **law of evidence**: if you assert a statement, you should (ideally) be able to explain your reasons for believing it, and those reasons should (ideally) be good ones.
 
 If you assert a statement, and somebody asks you why it's true, and you can't provide any good answer, it's generally an uncomfortable situation where one feels some social pressure to take back the assertion. 
 
