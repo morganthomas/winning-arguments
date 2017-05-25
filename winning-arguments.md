@@ -2228,7 +2228,9 @@ There are many, many ways that one can weaken the rules of logic in such a way t
 
 The real challenge here is not to find ways of weakening the rules of logic that render self-referential language coherent. The challenge is to make such a revision of the rules of logic coherent with the rest of the structure of Western academic thought. As far as I'm aware, nobody has made this work. My opinion is that nobody is going to make it work. I say this as somebody who tried to make this work and worked on it with some of the top academics working on the problem.
 
+I did some research that tried to advance the perspective that weakening the rules of logic is not ultimately a workable and satisfactory way to resolve logical paradoxes. I did this research in the context of set theory and the Russell paradox.
 
+I wrote [a paper](https://drive.google.com/file/d/0Bx_KuRX8hgkZc1FWX3REOFp4Mzg/edit?usp=sharing) giving a general meta-theory of logic describing and proving properties of a wide class of systems of logic, certainly not inclusive of all systems of logic that have been advanced as possible ways of solving the logical paradoxes. I wrote [a paper](https://drive.google.com/file/d/0Bx_KuRX8hgkZZjhaS0NLQnZEZzg/edit?usp=sharing) stating a mathematical conjecture to the effect that none of these systems would form a basis for naive set theory in which one could do math. This conjecture was a vast generalization of a type of result I proved in one case in [a paper](https://drive.google.com/file/d/0Bx_KuRX8hgkZb21GWm9jV2FUV1k/edit?usp=sharing) proving that a particular handful of logics did not make it possible to do math in naive set theory. I found the conjecture much too difficult to make progress on proving. Moreover, if one were to prove the conjecture, it would only rule out a certain wide class of logics, and one would be far from ruling out all that have been proposed in this approach to solving the logical paradoxes.
 
 ### Conclusions
 
