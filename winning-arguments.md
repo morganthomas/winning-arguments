@@ -2220,11 +2220,15 @@ Let's ask if there is a better way to do the particular task at hand right now, 
  * Not based on exceptionless rules that are always correct.
  * Could lead one into falsehood, perhaps with bad consequences.
 
-Let's now survey the landscape of competing approaches, and stack up their pros and cons as well. We will do this primarily from the pragmatic perspective which is the modus operandi of this text.
+Let's now survey the landscape of approaches to logical paradoxes that compete with this text's approaches, and stack up their pros and cons as well. We will do this primarily from the pragmatic perspective which is the modus operandi of this text.
 
-All competing approaches that I'm aware of to solving logical paradoxes are based on weakening the systems of rules that give rise to the paradoxes. For example, to solve the liar paradox, one can propose weakening the rules of logic, or weakening the self-referential capabilities of language. It's not obvious to me how the latter approach can make sense for natural language, since natural language is not based on formal rules or centralized authority. The competing solutions to the liar paradox that I'm aware of all ride on weakening the rules of logic.
+All competing approaches that I'm aware of for solving logical paradoxes are based on weakening the systems of rules that give rise to the paradoxes. For example, to solve the liar paradox, one can propose weakening the rules of logic, or weakening the self-referential capabilities of language. It's not obvious to me how the latter approach can make sense for natural language, since natural language is not based on formal rules or centralized authority. The competing solutions to the liar paradox that I'm aware of all ride on weakening the rules of logic.
 
 There are many, many ways that one can weaken the rules of logic in such a way that self-referential language is rendered coherent. For an introduction to this topic, I would recommend [An Introduction to Non-Classical Logic, by Graham Priest](https://books.google.com/books?id=Gm82ItOO9C4C), with Chapters 7 and 8 being the chapters that are relevant specifically to paradoxes of self-referential language. You can also take a look at any of [over 2,000 scholarly works on the liar paradox catalogued by PhilPapers](https://philpapers.org/browse/liar-paradox).
+
+The real challenge here is not to find ways of weakening the rules of logic that render self-referential language coherent. The challenge is to make such a revision of the rules of logic coherent with the rest of the structure of Western academic thought.
+
+
 
 ### Conclusions
 
