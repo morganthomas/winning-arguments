@@ -1455,7 +1455,7 @@ If following a set of principles of rationality reduced your likelihood of succe
 
 There is no centralized authority on rationality. Generally speaking, rationality's dominance can be attributed to the fact that it gets shit done, that it wins. No centralized enforcement is necessary to maintain its dominance; it's a natural consequence of the way that rationality relates to human society as a whole, which is a consequence of properties of rationality, human society, humans, and the world. This situation also means that the dominant understanding of rationality should, over time, naturally tend towards greater correctness. In short, the laws of rationality are organically binding.
 
-Of course, rationality is in competition with other conflicting forces: for example, ignorance. Rationality isn't always dominant, and this qualifier should be stated, though I don't believe it conflicts with anything we've said.
+Of course, rationality is in competition with other conflicting forces: for example, ignorance. Rationality isn't always dominant, and this qualifier should be stated, though I don't believe it conflicts with anything I've said.
 
 Here's a basic law of rationality, a basic norm of assertion, which we'll call the **law of evidence**: if you assert a statement, you should (ideally) be able to explain your reasons for believing it, and those reasons should (ideally) be good ones.
 
