@@ -1572,7 +1572,7 @@ TODO: Add graphical sequents
 
 My presentation is most closely based on the style of presentation of first-order logic articulated in [Dave Ripley's](http://davewripley.rocks/) graduate philosophical logic course taught in spring 2014 at the University of Connecticut. Credit for the original conception of the rules of classical first-order logic is best claimed by Gottlob Frege and Giuseppe Peano, as far as I'm aware.
 
-This presentation requires a concept that is new for us: the concept of multiple-conclusion sequents.
+This presentation requires a concept that is new for this text: the concept of multiple-conclusion sequents.
 
 A **sequent** is simply an entailment between first order logic statements. ((Pa and Pb) entails Pa) is an example of a sequent.
 
