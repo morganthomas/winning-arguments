@@ -2226,7 +2226,7 @@ All competing approaches that I'm aware of for solving logical paradoxes are bas
 
 There are many, many ways that one can weaken the rules of logic in such a way that self-referential language is rendered coherent. For an introduction to this topic, I would recommend [An Introduction to Non-Classical Logic, by Graham Priest](https://books.google.com/books?id=Gm82ItOO9C4C), with Chapters 7 and 8 being the chapters that are relevant specifically to paradoxes of self-referential language. You can also take a look at any of [over 2,000 scholarly works on the liar paradox catalogued by PhilPapers](https://philpapers.org/browse/liar-paradox).
 
-The real challenge here is not to find ways of weakening the rules of logic that render self-referential language coherent. The challenge is to make such a revision of the rules of logic coherent with the rest of the structure of Western academic thought.
+The real challenge here is not to find ways of weakening the rules of logic that render self-referential language coherent. The challenge is to make such a revision of the rules of logic coherent with the rest of the structure of Western academic thought. As far as I'm aware, nobody has made this work. My opinion is that nobody is going to make it work.
 
 
 
