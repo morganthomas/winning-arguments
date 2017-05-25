@@ -1509,9 +1509,9 @@ Of course, I don't just want to describe any laws of reasoning. I want to descri
 
 Let's now get into the weeds with our first important category of laws of reasoning: laws of logic.
 
-We are about to take a deep dive into the treacherous, brambly swamp known as philosophy of logic, with the heroic aim of acquiring true, classical principles of reasoning, what we knew all along well articulated and defended from the attacks of the critics.
-
 ## Logic
+
+We are about to take a deep dive into the treacherous, brambly swamp known as philosophy of logic, with the heroic aim of acquiring true, classical principles of reasoning, what we knew all along well articulated and defended from the attacks of the critics.
 
 **Logic**, as I shall describe it, is a field of study where the primary topic is valid rules of logical inference. Let's unpack that.
 
