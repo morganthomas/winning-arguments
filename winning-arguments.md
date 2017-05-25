@@ -1501,7 +1501,7 @@ The way to develop such a method or body of theory is to start by looking at lot
 
 What I am looking to study are **laws of reasoning**. Laws of reasoning are generalizations which guide us in understanding what arguments are winning.  Laws of reasoning help us to evaluate the quality of arguments by telling us what methods of argumentation do and do not work. They are the essential theoretical ammunition that one needs to win arguments.
 
-One example of a law of reasoning is that properly formulated *reductio ad absurdum* arguments are winning. This law is basically correct. However, this formulation of it is still imprecise, and at this point we lack the methodology to justify or even to state precisely the *reductio ad absurdum* principle. Furthermore, there is plenty of controversy around the *reductio ad absurdum* principle among logicians, which we have yet to touch at all. 
+One example of a law of reasoning is that properly formulated *reductio ad absurdum* arguments are winning. This law is basically correct. However, this formulation of it is still imprecise, and at this point in the text we lack the methodology to justify or even to state precisely the *reductio ad absurdum* principle. Furthermore, there is plenty of controversy around the *reductio ad absurdum* principle among logicians, which we have yet to touch at all. 
 
 The overall primary aim of the text up to this point has been defining and analyzing important concepts that allow us clearly articulate the goal we are now setting to describe laws of reasoning. 
 
