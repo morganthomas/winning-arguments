@@ -2253,6 +2253,8 @@ The main way that the ad hoc method of rejecting contradictions could be improve
 
 One could improve the certainty of the ad hoc method of rejecting contradictions further beyond this by replacing it with a mechanical method. This is in essence an equivalent way of describing the approach of weakening the rules of logic while maintaining that the rules of logic are always correct to apply. I've already argued that one can't in this way improve upon the ad hoc method of rejecting contradictions.
 
+For further discussion of logical paradoxes, which does not form a part of the present argument, I refer the reader to the section titled The Law of One.
+
 That completes my defense of classical logic, except for the final task of rounding up the conclusions drawn in this section on Logic.
 
 ### Conclusions
