@@ -1580,7 +1580,7 @@ A **multiple-conclusion sequent** is a sequent, which might have multiple conclu
 
 The notation **A1**,...,**An** stands for any finite sequence of statements. **n** is supposed to be a variable standing for a number. **n** could be zero, in which case this denotes an empty sequence of statements. **n** could also be one, or any higher number. **B1**,...,**Bm** is another instance of the same notation. Of course the sequences **A1**,...,**An** and **B1**,...,**Bm** may be of different length. A multiple conclusion sequent has zero or more **premises** and zero or more **conclusions**. This presentation of classical logic is based on multiple conclusion sequents, so henceforth "sequent" is short for "multiple-conclusion sequent."
 
-A sequent (**A1**,...,**An** entails **B1**,...,**Bm**) should be interpreted for our purposes as stating that it is incoherent to assert all of **A1**, ..., **An** and to deny all of **B1**, ..., **Bm** at the same time. If what the sequent states is true, I say that the sequent is **valid**.
+A sequent (**A1**,...,**An** entails **B1**,...,**Bm**) should be interpreted for our purposes as stating that it is incoherent to assert all of **A1**, ..., **An** and to deny all of **B1**, ..., **Bm** at the same time. If what the sequent states is true according to classical logic, I say that the sequent is **valid according to classical logic**, or simply **valid** when context makes the meaning clear.
 
 The sequent ((Pa and Pb) entails Pa) is valid. It states that it is incoherent to assert (Pa and Pb) while denying Pa.
 
