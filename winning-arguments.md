@@ -2278,7 +2278,7 @@ I introduced the Law of Inference, a law which I first described to my awareness
 
 I also introduced the ad hoc method of rejecting contradictions as a necessary part of the system for the purpose of solving logical paradoxes. This method is a pretty obvious suggestion, I think, and I am confident it has been thought and described before, although again, I first described it to my awareness.
 
-The argument I have advanced is in essence a psychological argument. I defined an argument form as being valid iff it is valid for people in general. I defined an argument form as being valid for a given person iff the argument form has no counterexamples for them. The statement that an argument form is valid iff it is valid according to classical logic is a psychological conclusion which I have arrived at via philosophical methods based on armchair reflection and introspection, but also through the practical experience of being involved in many kinds of debates, and learning how to win at them.
+The argument I have advanced is in essence a psychological argument. I defined an argument form as being valid iff it is valid for people in general. I defined an argument form as being valid for a given person iff the argument form has no counterexamples for them. The conclusion that an argument form is valid iff it is valid according to classical logic is a psychological conclusion which I have arrived at via philosophical methods based on armchair reflection and introspection, but also through the practical experience of being involved in many kinds of debates, and learning how to win at them.
 
 ## Fallacies
 
