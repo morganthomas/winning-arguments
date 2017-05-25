@@ -1574,7 +1574,7 @@ My presentation is most closely based on the style of presentation of first-orde
 
 This presentation requires a concept that is new for this text: the concept of multiple-conclusion sequents.
 
-A **sequent** is simply an entailment between first order logic statements. ((Pa and Pb) entails Pa) is an example of a sequent.
+A **sequent** is basically an entailment between first order logic statements. ((Pa and Pb) entails Pa) is an example of a sequent.
 
 A **multiple-conclusion sequent** is a sequent with multiple conclusions. ((Pa or Pb) entails Pa, Pb) is an example of a multiple-conclusion sequent. In general, a multiple-conclusion sequent has the form (**A1**,...,**An** entails **B1**,...,**Bm**).
 
