@@ -1321,7 +1321,7 @@ It is not productive to try to answer question "what is rationality?" by coming 
 
 Here is a first pass attempt at explaining rationality in practical terms. Rationality is in part a set of practices people employ in solving problems. Rationality is involved in the processes we use to organize ourselves into complex societies, develop technologies which improve our standard of living, cure diseases, discover the truth, and solve resource distribution problems (through systems such as regulated capitalist, socialist, and mixed-model economies), among many other things.
 
-Given the immense practical importance of rationality, we don't want to approach the understanding of rationality as a purely theoretical problem. We want to approach it as a practical problem, so that our solution will be as useful as possible to as many people as possible. Our goal is not to develop the most rigorous theory possible, but to develop the most usable, and yet correct theory possible.
+Given the immense practical importance of rationality, we don't want to approach the understanding of rationality as a purely theoretical problem. We want to approach it as a practical problem, so that our solution will be as useful as possible to as many people as possible. My goal here is not to develop the most rigorous theory possible, but merely to give the most usable, and yet correct explanation of rationality I can.
 
 We can study rationality from a psychological perspective, by speculating about people's inner states, primarily their processes of belief formation, and by making prescriptive recommendations about how to form beliefs in order to be rational. 
 
