@@ -2232,6 +2232,13 @@ I did some research that tried to advance the perspective that weakening the rul
 
 I wrote [a paper](https://drive.google.com/file/d/0Bx_KuRX8hgkZc1FWX3REOFp4Mzg/edit?usp=sharing) giving a general meta-theory of logic describing and proving properties of a wide class of systems of logic, certainly not inclusive of all systems of logic that have been advanced as possible ways of solving the logical paradoxes. I wrote [a paper](https://drive.google.com/file/d/0Bx_KuRX8hgkZZjhaS0NLQnZEZzg/edit?usp=sharing) stating a mathematical conjecture to the effect that none of these systems would form a basis for naive set theory in which one could do math. This conjecture was a vast generalization of a type of result I proved in one case in [a paper](https://drive.google.com/file/d/0Bx_KuRX8hgkZb21GWm9jV2FUV1k/edit?usp=sharing) proving that a particular handful of logics did not make it possible to do math in naive set theory. I found the conjecture much too difficult to make progress on proving. Moreover, if one were to prove the conjecture, it would only rule out a certain wide class of logics, and one would be far from ruling out all logics that have been proposed in this approach to solving the logical paradoxes. I therefore gave up on the idea of furnishing mathematical proof of the claim that no way of weakening the rules of logic would make naive set theory a suitable foundation of mathematics. This is probably impossible to accomplish, anyway.
 
+To summarize, here is the situation as I see it:
+
+1. There is no way of weakening the rules of logic which would render naive set theory a suitable foundation of mathematics without invoking the ad hoc method of rejecting contradictions.
+2. Statement 1 is impossible to prove.
+3. Statement 2 is impossible to prove.
+4. And so forth.
+
 ### Conclusions
 
 
