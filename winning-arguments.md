@@ -1564,7 +1564,7 @@ We will start our way into this central debate in the study of logic by looking 
 
 There are infinitely many rules of inference or argument forms that are valid according to classical logic. In order to describe the rules of classical logic in a finite amount of space, we need to use abstraction.
 
-The way the rules of classical logic are conventionally presented is by giving a finite number of rules which allow all of the valid rules of inference or argument forms to be generated. There are a variety of ways of doing this: via [natural deduction](https://en.wikipedia.org/wiki/Natural_deduction) systems, via [sequent calculi](https://en.wikipedia.org/wiki/Sequent_calculus). Here I will do an informal presentation of a sequent calculus formulation of the rules of classical first order logic.
+The way the rules of classical logic are conventionally presented is by giving a finite number of rules which allow all of the valid rules of inference or argument forms to be generated. There are a variety of ways of doing this: e.g., via [natural deduction](https://en.wikipedia.org/wiki/Natural_deduction) systems, via [Hilbert systems](https://en.wikipedia.org/wiki/Hilbert_system), or via [sequent calculi](https://en.wikipedia.org/wiki/Sequent_calculus). Here I will do an informal presentation of a sequent calculus formulation of the rules of classical first order logic.
 
 TODO: Add graphical sequents
 
@@ -2259,6 +2259,11 @@ For further discussion of logical paradoxes, which does not form a part of the p
 That completes my defense of classical logic, except for the final task of rounding up the conclusions drawn in this section on Logic.
 
 ### Conclusions
+
+In this subsection I will restate, without argument, the major conclusions I have drawn in the section titled Logic.
+
+1. First order logic is a good and proper choice for a language in which to formally describe the rules of logic.
+2. An argument form is valid iff it is valid according to classical logic.
 
 
 
