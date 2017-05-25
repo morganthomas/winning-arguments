@@ -1505,7 +1505,9 @@ One example of a law of reasoning is that properly formulated *reductio ad absur
 
 The overall primary aim of the text up to this point can be described as the aim of defining and analyzing important concepts that allow us clearly articulate the goal I am now setting to describe laws of reasoning. 
 
-Of course, I don't just want to describe any laws of reasoning. I want to describe laws of reasoning that are correct, or true. It's a messy question what exactly this means, especially because there are very few laws of reasoning which entirely lack plausible counterexamples (cases where they plausibly allow one to infer false conclusions from plausibly true premises). We are about to take a deep dive into the treacherous, brambly swamp known as philosophy of logic with the heroic aim of acquiring true, classical principles of reasoning, what we knew all along well articulated and defended from the attacks of the critics.
+Of course, I don't just want to describe any laws of reasoning. I want to describe laws of reasoning that are correct, or true. It's a messy question what exactly this means, especially because there are very few laws of reasoning which entirely lack plausible counterexamples (cases where they plausibly allow one to infer false conclusions from plausibly true premises).
+
+We are about to take a deep dive into the treacherous, brambly swamp known as philosophy of logic, with the heroic aim of acquiring true, classical principles of reasoning, what we knew all along well articulated and defended from the attacks of the critics.
 
 Let's now get into the weeds with our first important category of laws of reasoning: laws of logic.
 
