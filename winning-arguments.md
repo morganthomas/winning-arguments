@@ -1809,7 +1809,7 @@ Now, finally, the answer seems to me to be "yes;" at least, I am unaware of any 
 
 This is a restatement in the form of a rule of the question posed three paragraphs above. I have removed the qualifier that asserting **B** is not prohibited by any social taboos/norms. Any context where this would be a blocker to assertion, despite the other conditions holding, is not a context where the rules of classical logic hold sway. Now I am totally finished describing rules of classical logic, until we get to the topic of paradoxes, where I will introduce one more rule for dealing with paradoxes.
 
-Along the way through stating the rules of classical logic and describing how to use them, we have assembled a truly impressive series of qualifiers and disclaimers about the rules of classical logic.
+Along the way through stating the rules of classical logic and describing how to use them, we have accumulated a truly impressive series of qualifiers and disclaimers about the rules of classical logic.
 
 Yet, we have not yet scratched the surface of the debates about what specific rules of logic are correct. Classical logic represents the dominant point of view about rules of logic are correct; but there are competing sets of rules for logic, so called **non-classical logics**, which are intended to address perceived deficiencies of classical logic.
 
