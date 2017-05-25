@@ -2272,7 +2272,7 @@ By way of the argument for the conclusion, I have pointed out a system of rules 
 
 Frequently, pragmatism has been an anchoring perspective. The standard for success has been adequacy for the practical purposes of winning arguments, seeking the truth, etc. I have argued at length that the rules of classical logic meet the standard set. I am quite confident in this conclusion.
 
-My presentation of classical logic is largely equivalent to any other presentation in terms of what it provides, though the form is different from other presentations I've seen. There are, however, two differences of substance between my presentation of classical logic and those presentations which I have seen.
+My presentation of classical logic is largely equivalent to any other presentation in terms of what it provides, though the form is different from other presentations I've seen. There are, however, two differences of substance between my presentation of classical logic and those presentations which I have seen before this one.
 
 I introduced the Law of Inference, a law which I first described to my awareness, although I would not be surprised to learn others who I haven't read have also come up with the idea.
 
