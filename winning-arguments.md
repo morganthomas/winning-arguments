@@ -30,7 +30,7 @@ Under construction. Pardon the dust!
    * [Vagueness](#vagueness)
    * [Intuitionism](#intuitionism)
    * [Paradoxes](#paradoxes)
-   * [Conclusions](#conclusions)
+   * [Conclusion](#conclusion)
 * [Fallacies](#fallacies)
 * [Biases](#biases)
 * [Induction](#induction)
