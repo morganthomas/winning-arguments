@@ -1807,7 +1807,7 @@ Now, finally, the answer seems to me to be "yes;" at least, I am unaware of any 
 
 16. **Law of inference.** Suppose (**A1**,...,**An** entails **B**) is a valid sequent. Suppose **A1**,...,**An** is coherent according to classical logic. Suppose it is warranted to assert **A1**,...,**An** in a given context. Then either it is warranted to assert **B** in the given context, or re-examination of the warrant to assert **A1**,...,**An** is warranted.
 
-This is a restatement in the form of a rule of the question posed three paragraphs above. I have removed the qualifier that asserting **B** is not prohibited by any social taboos/norms. Any context where this would be a blocker to assertion, despite the other conditions holding, is not a context where the rules of classical logic hold sway. Now we are totally finished going through the rules of classical logic.
+This is a restatement in the form of a rule of the question posed three paragraphs above. I have removed the qualifier that asserting **B** is not prohibited by any social taboos/norms. Any context where this would be a blocker to assertion, despite the other conditions holding, is not a context where the rules of classical logic hold sway. Now I am totally finished describing rules of classical logic, until we get to the topic of paradoxes, where I will introduce one more rule for dealing with paradoxes.
 
 Along the way through stating the rules of classical logic and describing how to use them, we have assembled a truly impressive series of qualifiers and disclaimers about the rules of classical logic.
 
