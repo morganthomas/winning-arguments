@@ -2388,5 +2388,3 @@ These conclusions can also be reached by many different arguments, some of which
 TODO
 
 ## Faith
-
-## Appendix: Inconsistent Math
