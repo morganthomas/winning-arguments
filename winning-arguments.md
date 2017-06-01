@@ -1258,8 +1258,6 @@ In the rest of this text we are going to spend a lot of time thinking about what
 
 ## Meaning
 
-TODO: fold this into the section on Language
-
 What is meaning? We discussed this question briefly in the section titled Language. Let's recall in summary what I said back there.
 
 I drew a distinction between three types of meaning: speaker meaning, listener meaning, and sentence meaning. Speaker meaning is what a speaker intends to mean by a sentence in a particular instance. Listener meaning is what a listener takes a sentence to mean in a particular instance. Sentence meaning is what a sentence means in itself according to the conventions of a language. 
