@@ -1264,7 +1264,7 @@ What is meaning? We discussed this question briefly in the section titled Langua
 
 I drew a distinction between three types of meaning: speaker meaning, listener meaning, and sentence meaning. Speaker meaning is what a speaker intends to mean by a sentence in a particular instance. Listener meaning is what a listener takes a sentence to mean in a particular instance. Sentence meaning is what a sentence means in itself according to the conventions of a language. 
 
-In the field of formal semantics, people give mathematical definitions of sentence meaning for formal languages. The same kind of analysis can be done informally but not exactly or comprehensively with natural languages. I pointed out that it is not feasible to give a definition of English sentence meaning that works across the board, because of the complexity and variability of English language use. We can still usefully talk informally about "the conventional notion of English sentence meaning," even though the concept breaks down after a certain point.
+In the field of formal semantics, people give mathematical definitions of sentence meaning for formal languages. The same kind of analysis can be done semi-formally but not exactly or comprehensively with natural languages. I pointed out that it is not feasible to give a definition of English sentence meaning that works across the board, because of the complexity and variability of English language use. We can still usefully talk informally about "the conventional notion of English sentence meaning," even though the concept breaks down after a certain point.
 
 I pointed out a competition between two general approaches to understanding linguistic meaning: psychological approaches, and non-psychological approaches. 
 
