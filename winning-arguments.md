@@ -1165,7 +1165,7 @@ Though I don't claim literally to possess knowledge and to know that I possess i
 
 My lack of clarity around how to define or use the word "knowledge" is one difficulty I have around claiming possession of knowledge. However, it's not my only difficulty.
 
-The other difficulty is that my experiences are consistent with a lot of different things being true. For example, I could be a [brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat) experiencing a simulated reality created by attaching my brain to computers that fire appropriate signals at my brain to make it seem like it's in a human body on the planet Earth. My experiences are entirely consistent with this possibility.
+The other difficulty is that my experiences are consistent with a lot of different things being true. For example, I could be a [brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat) experiencing a simulated reality created by attaching my brain to computers that fire appropriate signals at my brain to make it seem like it's in a human body on the planet Earth. My experiences are entirely consistent with this possibility. Maybe the brain in a vat thought experiment is metaphysically impossible, somehow; but as far as I know, it is metaphysically possible.
 
 My experiences are consistent with the possibility that the whole world has only existed for five minutes, and all of my older memories were implanted in me by whatever mischevious God created this universe. 
 
