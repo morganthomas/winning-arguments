@@ -2314,7 +2314,15 @@ I am going to advance a substantially different perspective on cognitive biases,
 
 The biggest source of inspiration for the explanations of this section is [the general theory of reflexivity, as explained by George Soros in his lecture at Central European University, Oct. 26 2009](https://www.youtube.com/watch?v=oCaCrWzFPYY). I highly recommend this talk; in my opinion, although George Soros is a malevolent actor in the global game of society, his theory of reflexivity is true and highly insightful.
 
+There is vastly more information in existence than humans are able to gather or process. This is true no matter how small the portion of existence you are looking at is. As a simple example, consider the lamp in my living room. It is an inexpensive, mass produced lamp which I bought at Target. I know very little about it. For some examples of what I know about it, I know what it looks like from various perspectives; I know how to turn it on and off; I know where I got it.
 
+As I argued in the section titled Epistemology, really I don't know that I know anything; so I am using "know" in a loose, weak, practical sense here. The preceding statements of so-called knowledge should be understood as a manner of speaking, carrying an implicit qualifier regarding my lack of knowing that I know anything. Strictly speaking, these statements of so-called knowledge are statements of confident opinions about a mundane, publicly observable thing.
+
+What don't I know (even in this loose sense) about my lamp? Certainly almost all of what there is to know about it. I don't know how much it weighs. I don't know what materials it's made of. I don't know the location of its manufacture. I don't know where the raw materials came from. I don't know the names of any of the people who were involved in gathering the materials and manufacturing the lamp. In general there is a great deal of historical information which I lack about the lamp. I also lack a great deal of information about the lamp's future. For example, I don't know at what time and location it will be destroyed or permanently disassembled, never again to function as a lamp.
+
+I also lack most information about the lamp as it exists in the present. There are for example unimaginable numbers of facts that I could (but haven't) learned about the microscopic structure of the lamp: the positions of each individual particle in the lamp at any given instant in time, etc. According to the [Heisenberg uncertainty principle](https://en.wikipedia.org/wiki/Heisenberg_uncertainty_principle), to the extent that quantum mechanics is an accurate model of the subatomic structure and behavior of the lamp, it's not possible under the laws of physics for me to know everything about what's going on in the lamp at the subatomic level.
+
+My information about the lamp is, at the end of the day, incredibly meager and impoverished compared to what there is to know about it. This is due mainly to my limitations as an organism, especially limits as to the amount of information which I can consciously process.
 
 ## Induction
 
