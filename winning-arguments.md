@@ -2422,6 +2422,8 @@ This simple way of approaching uncertainty is frequently the best or only availa
 
 This simple way of approaching uncertainty has the advantage that it makes good use of our natural capabilities. We are naturally good at thinking of possibilities. We are naturally good to some extent at subjectively weighing the probabilities of events. Of course in general it is a very difficult and error-prone art. Still, we are naturally good at least at easy cases; e.g., it's easy to understand that it's likely that the sun will rise tomorrow, and that it's not likely that my apartment will burn down tomorrow. We have some natural fluency with subjective probabilities, which we can employ in intuition, appreciating the nuances of the particular situation and having no need or ability to assign numbers to our subjective weighings of the probabilities.
 
+That completes this section's survey of various methods of dealing with uncertainty. In summary, we surveyed the methods of statistics and probability, including the frequentist and Bayesian paradigms, and we considered the method of thinking of possibilities and intuitively weighing probabilities which is part of common sense. Undoubtedly these categories do not cover all methods of dealing with uncertainty which are good for something.
+
 ## Beliefs
 
 ## Persuasion
