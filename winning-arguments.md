@@ -2292,6 +2292,12 @@ The argument I have advanced is in essence a psychological argument. I defined a
 
 ## Fallacies
 
+Applied logic basically has two branches: the study of the rules of logic, and the study of logical fallacies. These are really opposite ways of approaching the same topic. The study of the rules of logic asks, what arguments are valid? The study of fallacies asks, basically, what arguments are invalid? An argument is valid exactly when it lacks counterexamples, and it is invalid exactly when it has counterexamples. Therefore the basic question of the study of logical fallacies has already been answered.
+
+The subtlety left out so far is that there is a large distinction between valid arguments and winning arguments. Validity is a formal property of an argument, in the sense that it only depends on the form of the argument. Most winning arguments lack this formal property. If one's argument happens to be formally valid, and one is dealing with a receptive, reasonable audience who considers the premises of the argument to be true, then one is probably going to win the argument. Yet it is rare outside of the field of math that all of those pieces come together. Most winning arguments in most fields are not formally valid.
+
+Yet approaching the topic with a fresh perspective, but from the opposite angle, is also quite useful. Medieval logicians catalogued lists of categories of fallacies. The widely known terminology of fallacies -- *ad hominem* fallacy, appeal to authority fallacy, etc. -- provides easily accessible ammunition for debunking bad arguments.
+
 ## Biases
 
 Bias is a complex and important topic in the study of psychology and rationality. In this section, we are specifically going to look at **cognitive biases**: that is, biases which influence cognition or thought.
