@@ -2372,11 +2372,7 @@ In addition to using insight about cognitive biases for the purpose of self-dece
 
 On the flip side, insight about cognitive biases can be used to protect oneself against others' attempts to exploit one's cognitive biases to sell untrue ideas. The information needed to exploit others' cognitive biases and to defend against exploitation of cognitive biases is basically the same information. Since most people don't study cognitive biases, this symmetry might appear to create a great advantage for those looking to exploit others' cognitive biases. I think a lot of evidence suggests that such a great advantage exists. On the bright side, I think that those of us who can defend against such exploitation can help to provide a form of herd immunity by being trusted influencers of others' opinions who make a habit of calling out nonsense. The strength of the defensive side will grow if cognitive biases and the exploitation thereof become more widely appreciated.
 
-## Induction
-
-## Probability
-
-## Statistics
+## Uncertainty
 
 ## Beliefs
 
