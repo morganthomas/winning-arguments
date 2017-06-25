@@ -2364,6 +2364,14 @@ That completes the argument of this section. I have characterized cognitive bias
 
 Cognitive biases are a well-studied topic, and what I'm saying should harmonize with most of the information out there. I would encourage the reader to study cognitive biases with more than just this section. Two sources I've suggested are [the LessWrong sequences](https://wiki.lesswrong.com/wiki/Sequences) and [Wikipedia's list of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). To make productive use of this information, one should apply it to analyzing one's own cognitive processes and to analyzing social phenomena around oneself.
 
+The main applications of this information which I encourage are the application of self-examination of one's cognitive biases with an aim towards improving them, and the application of understanding how social phenomena around oneself are affected by cognitive biases.
+
+Insight about cognitive biases can also be applied in many other ways. One can use insight about cognitive biases to find more ways to disassemble views which one is biased against, and thereby use insight about cognitive biases to reinforce one's own cognitive biases. This is bad from the perspective of rationality when it amounts to using one's intellect to protect oneself from the truth.
+
+In addition to using insight about cognitive biases for the purpose of self-deception, one can use it for the purpose of deceiving others. One way to do this is to use insight about cognitive biases to find ways to exploit others' cognitive biases for the purposes of deception.
+
+On the flip side, insight about cognitive biases can be used to protect oneself against others' attempts to exploit one's cognitive biases to sell untrue ideas. The information needed to exploit others' cognitive biases and to defend against exploitation of one's cognitive biases is basically the same information. Since most people don't study cognitive biases, this symmetry might appear to create a great advantage for those looking to exploit others' cognitive biases. I think it's not unlikely that such a great advantage exists. On the bright side, I think that those of us who can defend against such exploitation can help to provide a form of herd immunity by being trusted influencers of others' opinions who make a habit of calling out nonsense.
+
 ## Induction
 
 ## Probability
