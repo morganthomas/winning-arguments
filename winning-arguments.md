@@ -2304,7 +2304,7 @@ The basic idea of cognitive biases is that cognitive biases are psychological te
 * [Confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) is a cognitive bias according to which we tend towards recalling and seeking out information which confirms our current opinions, as opposed to information which challenges our current opinions, and according to which we tend towards interpreting information in ways which confirm our opinions rather than contradicting them.
 * [Self-serving bias](https://en.wikipedia.org/wiki/Self-serving_bias) is a cognitive bias according to which we tend to interpret information in ways which bolster our self esteem as opposed to threatening it.
 
-[Wikipedia has a longer list of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). The [Less Wrong sequences](https://wiki.lesswrong.com/wiki/Sequences) are another source covering the topic of cognitive biases, which was educational and entertaining to me.
+[Wikipedia has a longer list of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). The [Less Wrong sequences](https://wiki.lesswrong.com/wiki/Sequences) are another source covering the topic of cognitive biases, which has been educational and entertaining to me.
 
 In this section I'm going to try to provide a general philosophical theory of cognitive biases. There is one main idea about cognitive biases which I'm going to argue for and which I think has been underappreciated in the discussions of cognitive biases I've listened to. This is the idea that cognitive biases are not in themselves good or bad.
 
@@ -2343,6 +2343,8 @@ Our views on reality, which are outputs of our cognitive processes, are distorte
 Now let's get back to the main point: what are cognitive biases? Cognitive biases are tendencies of our psychology which affect the outputs of our cognition by selecting the influential data and how it is interpreted. Cognitive biases are those tendencies affecting the process of selecting the tiny fraction of information which gets to be cognitively salient to us, and of selecting among the innumerable possible interpretations of the information.
 
 How does one check for the presence of cognitive biases? According to this theory, cognitive biases are always there; they are fundamental to how our minds work. One can observe the effects of cognitive biases by looking at differences in how different people evaluate the same issues. For example, one can observe biases at work in political discussions, where people tend to favor interpretations of political issues which are favored by their social in-groups, and people tend to favor interpretations of political issues which benefit them personally. One can get a good example of cognitive biases at work by looking at how news outlets with different political biases cover the same events. Depending on the political biases of a news outlet, they will select different information to present, and they will select different interpretations of the information they present, with the effect being coverage that tends to reinforce the political biases held by the news outlet.
+
+
 
 ## Induction
 
