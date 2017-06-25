@@ -2396,7 +2396,7 @@ Methods of statistics and probability often belong to overarching paradigms. The
 
 Frequentist statistical and probabilistic methods are fundamentally methods of counting. In the frequentist conception of probability, the probability of an [event](https://en.wikipedia.org/wiki/Event_(probability_theory)) is essentially the size of the set of cases where the event occurs, as a portion of the set of all possible cases under consideration. 
 
-For example, the probability of a flipped fair coin landing heads is 0.5. In the frequentist paradigm, one can arrive at this conclusion in the following way. Consider the set of possible cases under consideration to be the two-element set of the outcomes "the coin lands heads" and "the coin lands tails." The event of interest is the coin landing heads, which we can equate with the one-element set of the outcome "the coin lands heads." The size of this set is 1. Dividing by the size of the set of outcomes, we get the result 1/2 = 0.5, the (frequentist) probability of the coin landing heads.
+For example, the probability of a flipped fair coin landing heads is 0.5. In the frequentist paradigm, one can arrive at this conclusion in the following way. Consider the set of possible cases under consideration to be the two-element set of the outcomes "the coin lands heads" and "the coin lands tails." The event of interest is the coin landing heads, which we can equate with the one-element set containing the outcome "the coin lands heads." The size of this set is 1. Dividing by the size of the set of all cases, we get the result 1/2 = 0.5, the (frequentist) probability of the coin landing heads.
 
 ## Beliefs
 
