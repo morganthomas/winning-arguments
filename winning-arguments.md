@@ -2400,6 +2400,8 @@ For example, the probability of a flipped fair coin landing heads is 0.5. In the
 
 The one-sample *t*-test is an example of a frequentist statistical method, or at least a statistical method to which a frequentist interpretation can be applied. It considers the set of all possible outcomes of the process of taking a random sample from the population of the same size as the actually available sample. Within this it measures the size of the set of such outcomes where the deviation of the sample mean from the expected population mean is at least the observed deviation. This gives the probability of observing a deviation such as the observed deviation, assuming the actual population mean equals the expected mean (or in other words assuming the null hypothesis is true). 
 
+Whereas the frequentist paradigm is founded on the notion of probabilities produced by counting outcomes, the Bayesian paradigm is founded on the notion of **subjective probability**. A Bayesian subjective probability of an event is essentially somebody's opinion of how likely the event is to occur, expressed as a number between 0 and 1. This subjective understanding of probability harmonizes with interesting and useful statistatical and probabilistic methods based on rigorous and deep math. For a friendly introduction to this area, I would recommend [Eliezer Yudkowsky on Bayes' theorem](http://yudkowsky.net/rational/bayes/). 
+
 ## Beliefs
 
 ## Persuasion
