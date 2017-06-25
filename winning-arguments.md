@@ -33,7 +33,7 @@ Under construction. Pardon the dust!
    * [Conclusion](#conclusion)
 * [Fallacies](#fallacies)
 * [Biases](#biases)
-* [Uncertainty](#induction)
+* [Uncertainty](#uncertainty)
 * [Beliefs](#beliefs)
 * [Persuasion](#persuasion)
 * [Math](#math)
