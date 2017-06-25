@@ -2354,7 +2354,7 @@ Another example of a cognitive bias encouraged by modern treatises on rationalit
 
 That completes the argument of this section. I have argued that cognitive biases, rather than being inherently defective, are ineliminable, indispensable, and foundational to all human thought. I have argued that the notion of being cognitively unbiased, or having an undistorted view of reality, lacks sense as applied to humans. I have argued that rationality is an example of a style of cognitive bias, and that as this example shows, cognitive biases can be good and laudable as opposed to defective.
 
-Cognitive biases are a well-studied topic, and what I'm saying should harmonize with most of the information out there. I would encourage the reader to study cognitive biases with more than just this section. Two sources I've suggested are [the LessWrong sequences](https://wiki.lesswrong.com/wiki/Sequences) and [Wikipedia's list of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). To make use of this information, one should apply it to oneself and social phenomena around oneself. 
+Cognitive biases are a well-studied topic, and what I'm saying should harmonize with most of the information out there. I would encourage the reader to study cognitive biases with more than just this section. Two sources I've suggested are [the LessWrong sequences](https://wiki.lesswrong.com/wiki/Sequences) and [Wikipedia's list of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). To make use of this information, one should apply it to analyzing one's own cognitive processes and to analyzing social phenomena around oneself.
 
 ## Induction
 
