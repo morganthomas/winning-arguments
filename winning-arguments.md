@@ -2404,6 +2404,8 @@ Whereas the frequentist paradigm is founded on the notion of probabilities produ
 
 This subjective understanding of probability harmonizes with interesting, useful, and mathematically correct statistatical and probabilistic methods. For a friendly introduction to this area, I would recommend [the Arbital guide on Bayes' rule](https://arbital.com/p/bayes_rule/?l=1zq). 
 
+Frequentist and Bayesian statistics and probability represent rival factions to some extent in the world of statistics and probability. From a practical perspective, though, there is no conflict. The methods of both schools are correct as far as they go. One can use the perspectives and methods of either or both schools. One can use whichever statistical and probablistic methods are good for one's purposes.
+
 ## Beliefs
 
 ## Persuasion
