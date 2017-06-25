@@ -2306,7 +2306,7 @@ The basic idea of cognitive biases is that cognitive biases are psychological te
 
 [Wikipedia has a longer list of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases). The [Less Wrong sequences](https://wiki.lesswrong.com/wiki/Sequences) are another source covering the topic of cognitive biases, which has been educational and entertaining to me.
 
-In this section I'm going to try to provide a general philosophical theory of cognitive biases. There is one main idea about cognitive biases which I'm going to argue for and which I think has been underappreciated in most treatments of cognitive biases I've seen. This is the idea that cognitive biases are not in themselves good or bad.
+In this section I'm going to try to provide a general philosophical theory of cognitive biases. There is one main idea about cognitive biases which I'm going to argue for and which I think has been underappreciated in most treatments of cognitive biases I've seen. This is the idea that cognitive biases are not in themselves good or bad, but can be either good or bad.
 
 In many treatments of the topic, cognitive biases are regarded as defective by nature, as imperfections of human thought. In this point of view, we should seek to become free of cognitive bias, achieving some approximation of a hypothetical state of being unbiased. The title of the blog [Overcoming Bias](http://www.overcomingbias.com/) can be read as a terse linguistic expression of this perspective on cognitive biases.
 
