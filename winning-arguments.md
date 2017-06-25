@@ -2424,6 +2424,8 @@ This simple way of approaching uncertainty has the advantage that it makes good 
 
 That completes this section's survey of various methods of dealing with uncertainty. In summary, we surveyed the methods of statistics and probability, including the frequentist and Bayesian paradigms, and we considered the method of thinking of possibilities and intuitively weighing probabilities which is part of common sense. Undoubtedly these categories do not cover all methods of dealing with uncertainty which are good for something.
 
+How do we evaluate the suitability for a given purpose of a method of dealing with uncertainty?
+
 ## Beliefs
 
 ## Persuasion
