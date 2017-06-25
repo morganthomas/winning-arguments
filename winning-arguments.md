@@ -2392,6 +2392,12 @@ The conclusion of the *t*-test is justified assuming that the *t*-test was carri
 
 Addressing the question of how closely the assumptions of a statistical test are met, and how problematic the inevitable deviations from the assumptions are likely to be, is in general a complex matter of opinion and guesswork. This is one of the main reasons that application of statistical and probablistic methods to real problems is so problematic and error-prone. Nevertheless, statistical and probablistic methods are often good, appropriate ways to deal with uncertainty. I don't intend to criticize statistical and probabilistic methods as bad methods, but merely to warn of the risks and challenges involved in applying them, and to encourage appropriate care and conscientiousness in this area.
 
+Methods of statistics and probability often belong to overarching paradigms. The most important of these paradigms are the **frequentist** and **Bayesian** paradigms of statistics and probability.
+
+Frequentist statistical and probabilistic methods are fundamentally methods of counting. In the frequentist conception of probability, the probability of an [event](https://en.wikipedia.org/wiki/Event_(probability_theory)) is essentially the size of the set of cases where the event occurs, as a portion of the set of all possible cases under consideration. 
+
+For example, the probability of a flipped fair coin landing heads is 0.5. In the frequentist paradigm, one can arrive at this conclusion in the following way. Consider the set of possible cases under consideration to be the two-element set of the outcomes "the coin lands heads" and "the coin lands tails." The event of interest is the coin landing heads, which we can equate with the one-element set of the outcome "the coin lands heads." The size of this set is 1. Dividing by the size of the set of outcomes, we get the result 1/2 = 0.5, the (frequentist) probability of the coin landing heads.
+
 ## Beliefs
 
 ## Persuasion
