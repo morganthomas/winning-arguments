@@ -2354,7 +2354,7 @@ According to this theory we can't be cognitively unbiased, and we can't even app
 
 When we are aware of the process of cognitive biasing, we have the ability to choose our biases to some extent. Practically speaking, what are good choices in this area, assuming we wish to have accurate views about things? I would say that the study of rationality is the area which studies this question. That is, the study of rationality is concerned with figuring out what cognitive biases are good and healthy for the purposes of seeking the truth and making decisions that result in winning.
 
-Self-examination of one's cognitive biases is one example of a cognitive bias which is encouraged by modern theoretical treatises on rationality. This is a bias which encourages us to pay attention to our cognitive processes and how they are biased, to interpret our cognition as importantly influenced by our cognitive biases, and to consider possible ways our current cognitive biases could be improved upon.
+The bias towards self-examination of one's cognitive biases is one example of a cognitive bias which is encouraged by modern theoretical treatises on rationality. This is a bias which encourages us to pay attention to our cognitive processes and how they are biased, to interpret our cognition as importantly influenced by our cognitive biases, and to consider possible ways our current cognitive biases could be improved upon.
 
 Another example of a cognitive bias encouraged by modern treatises on rationality is the bias towards the application of logic to look for incoherence in one's views and for interesting logical consequences of one's views.
 
