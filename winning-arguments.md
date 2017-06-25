@@ -2406,6 +2406,8 @@ This subjective understanding of probability harmonizes with interesting, useful
 
 Frequentist and Bayesian statistics and probability represent rival factions to some extent in the world of statistics and probability. From a practical perspective, though, there is no conflict as far as I'm aware. The methods of both schools are correct as far as they go. One can use the perspectives and methods of either or both schools. One can use whichever statistical and probablistic methods and paradigms are useful for one's purposes.
 
+Let's continue this survey of methods of dealing with uncertainty by turning away from statistics and probability and considering other methods of dealing with uncertainty.
+
 ## Beliefs
 
 ## Persuasion
