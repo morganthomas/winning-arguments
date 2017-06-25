@@ -2372,7 +2372,7 @@ On the flip side, insight about cognitive biases can be used to protect oneself 
 
 ## Uncertainty
 
-A big foundational question in rationality is the question of how to deal with uncertainty. This is a very broad question. The best way to deal with uncertainty is going to depend on the case. The overall goal of this section is to survey the various methods of dealing with uncertainty, to develop a meta-theory of how to evaluate the suitability to a given purpose of a given method of dealing with uncertainty, and to make general recommendations as to how select a method of dealing with uncertainty that is appropriate to a given case.
+A big foundational question in rationality is the question of how to deal with uncertainty. This is a very broad question. The best way to deal with uncertainty is going to depend on the case. The overall goal of this section is to survey the various methods of dealing with uncertainty, to develop a meta-theory of how to evaluate the suitability to a given purpose of a given method of dealing with uncertainty, and to make general recommendations as to how select a method of dealing with uncertainty that is appropriate to a given application.
 
 ## Beliefs
 
