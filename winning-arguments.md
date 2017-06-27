@@ -2400,6 +2400,8 @@ I would guess that many others have arrived at an understanding of cognitive bia
 
 Overall, I don't have much of an idea of what others may have to say about this theory of biases. Therefore I am very interested in your feedback. I am also very interested in hearing about any general theories of cognitive biases you're aware of, whether they agree or disagree with mine.
 
+TODO: discuss self reinforcing biases somewhere
+
 
 
 
