@@ -2396,7 +2396,7 @@ There are, however, substantial differences between the two theories I've presen
 
 The opposing view I have presented is not the view of any particular thinker I'm aware of; I do not attribute it to anybody. I have presented it because I don't have another thinker's general theory of cognitive biases to present in opposition to mine. TODO: There must be some out there; find them and take a look.
 
-I would guess that many others have arrived at an understanding of cognitive biases similar to mine. I don't claim that this theory is original. It is, as I have said, inspired by George Soros' general theory of reflexivity, and in many ways it is very close to that theory. George Soros, in turn, doesn't claim that his general theory of reflexivity is fundamentally novel; to a certain extent he considers it to be common sense.
+I would guess that many others have arrived at an understanding of cognitive biases similar to mine. I don't claim that this theory is original. It is, as I have said, inspired by George Soros' general theory of reflexivity, and it is very closely based on that theory, in many ways. George Soros, in turn, doesn't claim that his general theory of reflexivity is fundamentally novel; to a certain extent he considers it to be common sense.
 
 I am interested in hearing about any general theories of cognitive biases you're aware of, whether they agree or disagree with mine.
 
