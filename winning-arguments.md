@@ -1849,7 +1849,7 @@ If one wants to talk about a universe where non-set objects may exist, then one 
 
 (for all *x*, *y*, (if ((*x* is a set) and (*y* is a set)) then ((for all *z*, ((*z* in *x*) iff (*z* in *y*))) iff (*x* = *y*))))
 
-ZFC excludes non-sets from its universe because the purpose of ZFC, originally and in this text, is to provide an axiomatic foundation for math. All mathematical concepts can be defined in terms of sets, and when this is done, almost any theorem of modern math can be proven from the axioms of ZFC. This is what makes ZFC useful: it provides a rigorous foundation for (essentially) all of math. To do this, ZFC only needs sets. ZFC would still work for this purpose if it allowed non-sets, but as it's conventionally defined, ZFC doesn't allow non-sets.
+ZFC excludes non-sets from its universe because the purpose of ZFC, originally and in this text, is to provide an axiomatic foundation for math. All mathematical concepts can be defined in terms of sets, and when this is done, almost any theorem of modern math can be proven from the axioms of ZFC. This is what makes ZFC useful: it provides a rigorous foundation for (essentially) all of math. To do this, ZFC only needs sets. ZFC would still work for this purpose if it allowed non-sets, but as it's conventionally defined, ZFC talks about a universe containing only sets.
 
 The next axiom of ZFC states that every non-empty set contains a member disjoint from itself. 
 
