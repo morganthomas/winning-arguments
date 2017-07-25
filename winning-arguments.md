@@ -1853,7 +1853,7 @@ ZFC excludes non-sets from its universe because the purpose of ZFC, originally a
 
 The next axiom of ZFC states that every non-empty set contains a member disjoint from itself. 
 
-2. **Axiom of regularity.** (for all *x*, (if (for some *a*, (*a* "in" x)) then (for some *y*, ((*y* in *x*) and (not (for some *z*, ((*z* in *y*) and (*z* in *x*))))))))
+2. **Axiom of regularity.** (for all *x*, (if (for some *a*, (*a* in x)) then (for some *y*, ((*y* in *x*) and (not (for some *z*, ((*z* in *y*) and (*z* in *x*))))))))
 
 One may rightly ask why one should believe what this axiom says. It is not obviously an intuitive truth about sets. It is, however, an intuitive truth about the universe of sets under the [von Neumann universe](https://en.wikipedia.org/wiki/Von_Neumann_universe) picture of the universe of sets.
 
