@@ -1819,7 +1819,7 @@ This is a restatement in the form of a rule of the question posed three paragrap
 
 Along the way through stating the rules of classical logic and describing how to use them, we have accumulated a truly impressive series of qualifiers and disclaimers about the rules of classical logic.
 
-Yet, we have not yet scratched the surface of the debates about what specific rules of logic are correct. Classical logic represents the dominant point of view about rules of logic are correct; but there are competing sets of rules for logic, so called **non-classical logics**, which are intended to address perceived deficiencies of classical logic.
+Yet, we have not yet scratched the surface of the debates about what specific rules of logic are correct. Classical logic represents the dominant point of view about what rules of logic are correct; but there are competing sets of rules for logic, so called **non-classical logics**, which are intended to address perceived deficiencies of classical logic.
 
 In almost every case, non-classical logics are sets of rules which are *weaker* than the rules of classical logic, in the sense that the set of sets of assertions and denials that a non-classical logic counts as incoherent is typically a strict subset of the set of sets of assertions and denials that classical logic counts as incoherent.
 
