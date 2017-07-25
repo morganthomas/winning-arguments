@@ -1925,7 +1925,7 @@ The final axiom, the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_ch
 
 9. **Axiom of choice.** (for all *X*, (if (for all *y*, (if *y* in *X* then (for some *z*, (*z* in *Y*)))) then (for some *f*, (for all *A*, ((if (*A* in *X*) then (for exactly one *B*, (*A*,*B*) in *f*)) and (for all *B*, (if ((*A*,*B*) in *f*) then (*B* in *A*))))))))
 
-TODO: break this and other long FOL statements onto multiple lines, with informative spacing
+TODO: break this and other long FOL statements onto multiple lines, with informative spacing, or perhaps break into multiple definitions
 
 In order to state the axiom of choice, I have introduced a new notation: the [ordered pair](https://en.wikipedia.org/wiki/Ordered_pair) notation (*A*,*B*). Conceptually, an ordered pair is exactly what it sounds like: a sequence of exactly two objects, one after the other. In classical set theory, ordered pairs are commonly defined by [Kuratowski's definition](https://en.wikipedia.org/wiki/Ordered_pair#Kuratowski_definition), which equates the ordered pair (*A*,*B*) with the set {{*A*,*B*},{*A*}}, or in other words the set containing exactly two sets, namely: the set containing exactly *A*, and the set containing exactly *A* and *B*. Intuitively, this set can serve functionally as an ordered pair because it tells us what both the elements of the ordered pair are (namely whatever elements are in either set in the Kuratowski pair) and it tells us which is the first element of the pair (namely whatever element is in a one-element set in the Kuratowski pair). I will not pursue further formalization of the ordered pair notation, to avoid getting too distracted by details. TODO: source for formal development
 
