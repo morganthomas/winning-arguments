@@ -2270,7 +2270,7 @@ And so forth.
 
 This being how I view the situation, I don't expect to be able to resolve the debate about whether weakening the rules of classical logic is a viable approach to solving the paradoxes.
 
-One who does wish to stick to the approach of weakening the rules of logic, and who accepts statement 1, can still exclude the paradoxes of naive set theory from conisderation as ones that need to be solved. For instance, maybe their only goal is to solve the paradoxes of self referential language. I don't know how many find this way of thinking satisfying. To me, it seems like a solution to the logical paradoxes should solve all of the logical paradoxes. No approach to paradoxes based on weakening logic can accurately claim to solve all the logical paradoxes, as far as I'm aware.
+One who does wish to stick to the approach of weakening the rules of logic, and who accepts statement 1, can still exclude the paradoxes of naive set theory from consideration as ones that need to be solved. For instance, maybe their only goal is to solve the paradoxes of self referential language. I don't know how many find this way of thinking satisfying. To me, it seems like a solution to the logical paradoxes should solve all of the logical paradoxes. No approach to paradoxes based on weakening logic can accurately claim to solve all the logical paradoxes, as far as I'm aware.
 
 One can disagree with my opinion that we should not be satisfied with a solution to logical paradoxes that only works for some logical paradoxes and not others. In general, one can disagree with my overall assessment on approaches to paradoxes based on weakening logic, in a whole variety of ways. The philosophical debate will go on. I don't claim the ability to resolve it.
 
