@@ -1901,7 +1901,7 @@ The axiom schema of replacement states that the image of any set under any defin
 
 In this axiom we have used the quantifier "for exactly one," which is something we have not seen before, which was not part of our definition of statements of first-order logic as given back in the section titled Statements. A statement of the form (for exactly one **x**, **Q**) can be taken as an abbrevation for (for some **x**, (**Q** and (for all **y**, (if **Q**[**x** -> **y**] then **x** = **y**)))).
 
-The axiom schema of replacement implies that there exists the image of any set under any definable function. The argument is a straightforward variation on the argument that the axiom of union implies the existence of the union of any set of sets.
+The axiom schema of replacement implies that there exists the image of any set under any definable function. The argument is a variation on the argument that the axiom of union implies the existence of the union of any set of sets.
 
 The next axiom is the axiom of ZFC which allows it to prove the existence of infinite sets. If one removes this axiom from ZFC, then in the resulting system, it is not possible to prove the existence of infinite sets.
 
