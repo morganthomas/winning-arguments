@@ -2282,7 +2282,7 @@ The main way that the ad hoc method of rejecting contradictions could be improve
 
 One could improve the certainty of the ad hoc method of rejecting contradictions further beyond this by replacing it with a mechanical method. This is in essence an equivalent way of describing the approach of weakening the rules of logic while maintaining that the rules of logic are always correct to apply. I've already argued that one can't in this way improve upon the ad hoc method of rejecting contradictions.
 
-For further discussion of logical paradoxes, which does not form a part of the present argument, I refer the reader to the section titled The Law of One. The material in that section assists the case of this section if one buys it, but I don't discourage the reader from leaving the idea of the Law of One alone if it doesn't resonate with them, although in my opinion it is true.
+For further discussion of logical paradoxes, which does not form a part of the present argument, I refer the reader to the section titled The Law of One. The material in that section assists the case of this section if one buys it, but I don't discourage the reader from leaving the idea of the Law of One alone if it doesn't resonate with them, although in my subjective opinion it is true.
 
 TODO: discuss relevance paradox
 
