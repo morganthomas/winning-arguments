@@ -2278,7 +2278,7 @@ For the present practical purposes, we are just looking for a resolution to the 
 
 I have already argued that classical logic with the ad hoc method of rejecting contradictions is practically adequate. The question remains, are we unlikely to find solutions that are, practically speaking, better?
 
-The main way that the ad hoc method of rejecting contradictions could be improved is if it were replaced with a more certain method. I think that applying the ad hoc method of rejecting contradictions in challenging situations will lead to development of generalizable principles and rules of thumb for practicing this discipline. In this sense the ad hoc method of rejecting contradictions is open to improvement and has the possibility of improvement built in. I will explore this idea further in the section titled Inconsistent Math.
+The main way that the ad hoc method of rejecting contradictions could be improved is if it were replaced with a more certain method. I think that applying the ad hoc method of rejecting contradictions in challenging situations will lead to development of generalizable principles and rules of thumb for practicing this discipline. In this sense the ad hoc method of rejecting contradictions is open to improvement and has the possibility of improvement built in. I will explore this idea further in TODO.
 
 One could improve the certainty of the ad hoc method of rejecting contradictions further beyond this by replacing it with a mechanical method. This is in essence an equivalent way of describing the approach of weakening the rules of logic while maintaining that the rules of logic are always correct to apply. I've already argued that one can't in this way improve upon the ad hoc method of rejecting contradictions.
 
