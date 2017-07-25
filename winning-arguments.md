@@ -1843,6 +1843,14 @@ No two distinct sets have the same elements (according to the classical notion o
 
 ZFC is a set of axioms for set theory: one we have just stated the first axiom of. The vocabulary ZFC uses contains two copulas: "in," the relation of set membership, and "=," the identity copula (the relation of being one and the same thing as). Thus the whole vocabulary of ZFC is on display in the axiom of extensionality. This axiom is simply a formal statement of the idea that sets containing the same elements are equal. This is also sometimes stated by saying: sets are extensional.
 
+One of the implications of the axioms of extensionality as stated is that everything in the universe we're talking about is a set. Sets are the only things that contain things. From the axiom of extensionality we can infer that there is at most one thing that contains nothing; that's the empty set. Therefore from the axiom of extensionality it follows that everything is a set. That is to say that the universe ZFC talks about contains only sets; it doesn't contain my left hand, the City God Temple of Shanghai, or any other non-set objects. This is a departure from the intuitive notion of sets.
+
+If one wants to talk about a universe where non-set objects may exist, then one can weaken the axiom of extensionality, something like this:
+
+(for all *x*, *y*, (if ((*x* is a set) and (*y* is a set)) then ((for all *z*, ((*z* in *x*) iff (*z* in *y*))) iff (*x* = *y*))))
+
+ZFC excludes non-sets from its universe because the purpose of ZFC, originally and in this text, is to provide an axiomatic foundation for math. All mathematical concepts can be defined in terms of sets, and when this is done, almost any theorem of modern math can be proven from the axioms of ZFC. This is what makes ZFC useful: it provides a rigorous foundation for (essentially) all of math. To do this, ZFC only needs sets. ZFC would still work for this purpose if it allowed non-sets, but as it's conventionally defined, ZFC doesn't allow non-sets.
+
 The next axiom of ZFC states that every non-empty set contains a member disjoint from itself. 
 
 2. **Axiom of regularity.** (for all *x*, (if (for some *a*, (*a* "in" x)) then (for some *y*, ((*y* in *x*) and (not (for some *z*, ((*z* in *y*) and (*z* in *x*))))))))
