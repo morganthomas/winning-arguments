@@ -2483,7 +2483,7 @@ This section presents my theory of how to resolve logical paradoxes. There was a
 
 The theory of this section rests on a premise that I think most people will find implausible, though I nonetheless believe it to be true. I do not intend to present this section as more than my own opinion. I believe the premise of the section because my faith tells me it is true (see the next section, titled Faith). The source from which I heard the premise is [a source officially called The Law of One and also more commonly (in my experience) called the Ra material](http://www.lawofone.info/). The much-anticipated premise is:
 
-**The Law of One.** All is one. All objects are identically the same object.
+**The Law of One.** All is one. All things are identically the same thing.
 
 I have provided what I consider to be two equivalent formulations of the premise, which I call the Law of One. The first formulation, "all is one," is a standard New Age trope. The second formulation is the most logically precise and the most unintuitive idea which I believe to be true and consider to be a formulation of the Law of One. I will now quote commentary on the Law of One from the Ra material, which provides much more intuitive color:
 
