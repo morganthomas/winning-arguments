@@ -55,7 +55,7 @@ The author advises the reader against the use of any techniques to deliberately 
 
 The text contains exercises (TODO: not true yet), which the author feels will be likely to further the reader's learning, and which the reader is encouraged to do when they feel they will further their learning. The greatest exercise, of course, is life, where you can fruitfully exercise the skills of reasoning, critical thinking, and argumentation you can learn in this text in almost any context of life.
 
-This text is meant to be read from start to finish without skipping around. It is cumulative; each piece builds upon preceding pieces. In general you shouldn't expect to fully understand a part of the text unless you understand the text up to that point. 
+This text is meant to be read from start to finish without skipping around. It is cumulative; each piece builds upon preceding pieces. In general you shouldn't expect to fully understand a part of the text unless you understand the text up to that point.
 
 For those who have not read much philosophy before, I apologize for the abstract, hair-splitting, and sometimes exhaustingly detailed and compact nature of the text, which will probably be a challenge for some people new to philosophy. I would like to offer some words of advice on how to read the text.
 
@@ -114,7 +114,7 @@ Nonetheless, correct mathematical proofs are some of the best examples we have o
 
 We've dug a bit into the concept of arguments, in the sense of series of statements designed to provide reason to believe some conclusion(s). Let's now return to the distinction we made between debates and arguments.
 
-Debates almost always involve the participants making arguments. Can arguments occur anywhere except in the context of debates? 
+Debates almost always involve the participants making arguments. Can arguments occur anywhere except in the context of debates?
 
 One place where you can find arguments is in books, especially non-fiction books. One can argue that an argument in a book is not in the context of any particular debate, because a book is an inanimate object that can exist in many copies in different places and times. Books are objects which are incapable of participating reciprocally in debates. You can, in a certain sense, let a book make arguments to you by reading it. You can also respond to the book's arguments, mentally, in your journal, to other people, to the author, etc. But the book cannot respond to your responses to its arguments. The author might be able to, if they're still alive, but that's another issue. This is what I mean when I say that books cannot participate reciprocally in debates. For these and many other reasons, you might say that arguments in books do not necessarily occur in the context of any debate, or perhaps that they never do.
 
@@ -144,7 +144,7 @@ Question: is winning something that ever happens to people *except* in the conte
 
 To make a start on what's going to be a highly roundabout answer to this question, let's consider the phrase "winning at life." Winning at life is a form of winning, at least on a surface inspection of the phrase. One can also hypothesize that "winning at life" is in some usages a phrase with its own particular meaning that doesn't decompose as winning in the context of life, in the same way that a "close shave" doesn't always refer to a shave that was close.
 
-If winning at life is winning in the context of life, and winning only ever happens in the context of some game, then it follows that life is a game. So, then, is life a game? 
+If winning at life is winning in the context of life, and winning only ever happens in the context of some game, then it follows that life is a game. So, then, is life a game?
 
 "Life is a game" is a truism, a statement that people are liable to spout as a form of shallow wisdom, perhaps without much reflection on how true it really is. How true is the truism? To answer that, we need to ask, what does the truism mean? To answer that, we need to ask, what do the words in the truism "life is a game" mean? "Life" seems to refer to human life, and probably it's clear enough what we're referring to there. What about "game?"
 
@@ -238,7 +238,7 @@ What can we say overall about the meaning of the word "game?" On this, let's quo
 
 I have previously concluded that games always have rules. However, we have not discussed at any length what rules are. Understanding rules is quite central to understanding games, and to understanding the principles of winning arguments. To understand rules, it is also helpful to compare the meaning of the word "rule" with the meaning of the word "law." Since the terms are close in meaning, comparing and contrasting the meanings of the terms is informative about both. Therefore we will embark on a unified analysis of rules and laws.
 
-There are many different laws and sets of laws of varying kinds, degrees, and scopes of importance and validity. Examples of laws (or at any rate things that people call laws) include: the [laws and regulations](https://en.wikipedia.org/wiki/Primary_and_secondary_legislation) of each [state](https://en.wikipedia.org/wiki/State_(polity)), [region](https://en.wikipedia.org/wiki/Administrative_division), [municipality](https://en.wikipedia.org/wiki/Municipality), and so forth; religious systems of law such as [sharia law](https://en.wikipedia.org/wiki/Sharia), the [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments) and [Talmudic law](https://en.wikipedia.org/wiki/Orthodox_Judaism); the laws of [physics](https://en.wikipedia.org/wiki/Physics), [chemistry](https://en.wikipedia.org/wiki/Chemistry), [biology](https://en.wikipedia.org/wiki/Biology), [statistics](https://en.wikipedia.org/wiki/Statistics), [logic](https://en.wikipedia.org/wiki/Logic), and [mathematics](https://en.wikipedia.org/wiki/Mathematics), and other fields of study which have produced laws; satirical laws like [Murphy's law](https://en.wikipedia.org/wiki/Murphy's_law) and [Godwin's law](https://en.wikipedia.org/wiki/Godwin's_law); sociological laws like [Duverger's law](https://en.wikipedia.org/wiki/Duverger's_law); mystical laws like the [law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)) and the [Law of One](http://www.lawofone.info/synopsis.php); and so forth. 
+There are many different laws and sets of laws of varying kinds, degrees, and scopes of importance and validity. Examples of laws (or at any rate things that people call laws) include: the [laws and regulations](https://en.wikipedia.org/wiki/Primary_and_secondary_legislation) of each [state](https://en.wikipedia.org/wiki/State_(polity)), [region](https://en.wikipedia.org/wiki/Administrative_division), [municipality](https://en.wikipedia.org/wiki/Municipality), and so forth; religious systems of law such as [sharia law](https://en.wikipedia.org/wiki/Sharia), the [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments) and [Talmudic law](https://en.wikipedia.org/wiki/Orthodox_Judaism); the laws of [physics](https://en.wikipedia.org/wiki/Physics), [chemistry](https://en.wikipedia.org/wiki/Chemistry), [biology](https://en.wikipedia.org/wiki/Biology), [statistics](https://en.wikipedia.org/wiki/Statistics), [logic](https://en.wikipedia.org/wiki/Logic), and [mathematics](https://en.wikipedia.org/wiki/Mathematics), and other fields of study which have produced laws; satirical laws like [Murphy's law](https://en.wikipedia.org/wiki/Murphy's_law) and [Godwin's law](https://en.wikipedia.org/wiki/Godwin's_law); sociological laws like [Duverger's law](https://en.wikipedia.org/wiki/Duverger's_law); mystical laws like the [law of attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought)) and the [Law of One](http://www.lawofone.info/synopsis.php); and so forth.
 
 [Examples of rules](https://en.wikipedia.org/wiki/Rule) (or at any rate things that people call rules) include, firstly, the rules of any game. Secondly, there are many rules (or things that people call rules) which are not literally rules of any game, such as: the [M'Naghten rules](https://en.wikipedia.org/wiki/M'Naghten_rules); the [right-hand rule](https://en.wikipedia.org/wiki/Right-hand_rule); the [five-second rule](https://en.wikipedia.org/wiki/Five-second_rule) and other [rules of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb); [unspoken rules](https://en.wikipedia.org/wiki/Unspoken_rule); [rules of etiquette](https://en.wikipedia.org/wiki/Etiquette); rules of grammar; and rules of inference in logic (which we shall discuss at length later in the section titled Logic).
 
@@ -265,7 +265,7 @@ One objection to the view that "rule" and "law" are essentially the same concept
 
 For the sake of clear nomenclature, I will use the term "natural law" to refer to laws which are not created by humans. By definition, then, natural laws include any laws created by God, if God exists. I am not assuming that any natural laws exist, but we have a word for any that do exist (as well as any that don't exist).
 
-The nature and extent of the difference in meaning between "rule" and "law" is, at the end of the day, a question of opinion. The subtleties of the distinction are interesting. What's perhaps more interesting, though, is looking more into the basic meanings of the terms "rule" and "law." 
+The nature and extent of the difference in meaning between "rule" and "law" is, at the end of the day, a question of opinion. The subtleties of the distinction are interesting. What's perhaps more interesting, though, is looking more into the basic meanings of the terms "rule" and "law."
 
 It would be helpful towards that goal to establish more relations between "rule" and other terms we have studied. We have generalized that games and gamelike activities follow rules. Can we also generalize that rules occur in the context of games and gamelike activities?
 
@@ -400,7 +400,7 @@ For any life you can describe, you can imagine multiple frames of evaluation whi
 
 Winning at life, in this respect, is unlike winning at most games, in that fair observers will frequently disagree about whether somebody is winning at life, whereas for most games, fair observers will almost always agree about who the winner of the game is and whether there is a winner. This disanalogy is an interesting conceptual disconnect that seems worth working out, to see what can be learned.
 
-The disanalogy reminds us of a question I asked a ways back and still haven't answered: is (human) life a game? 
+The disanalogy reminds us of a question I asked a ways back and still haven't answered: is (human) life a game?
 
 Life is like a game in some ways. In life one must follow rules. In life there is winning and losing. Life is unlike typical games in that there is no privileged, official frame of evaluation for judging winning and losing at life.
 
@@ -444,7 +444,7 @@ Are debates competitive? Typically so, as participants compete to persuade other
 
 Do debates follow rules? As I have noted before, participants in a debate are usually free to say whatever they want. As such there are no descriptive rules (about the speech of participants) that all debates can be observed to follow. Similarly, there is no rulemaking authority with the power to enforce prescriptive rules applying to all debates. In short, there are no rules that all debates follow. Nor do I have any reason to expect in the future that there will be such rules.
 
-Debates can, however, be observed to follow rules. For example, the speech within debates generally follows rules of grammar and so forth. Other rules of interest applying to debates include rules of logic, rules of politeness and common decency, and other norms governing linguistic communication, such as [Grice's conversational maxims](https://www.sas.upenn.edu/~haroldfs/dravling/grice.html). As I have already observed, none of these rules are always followed in debates. However, they are often followed. Perhaps more interestingly, following these rules, along with various other widely accepted rules of language use and debate, tends to help one win debates. Why this is the case, and what it means to win debates, are questions that we haven't fully addressed, either in this text or as a species. 
+Debates can, however, be observed to follow rules. For example, the speech within debates generally follows rules of grammar and so forth. Other rules of interest applying to debates include rules of logic, rules of politeness and common decency, and other norms governing linguistic communication, such as [Grice's conversational maxims](https://www.sas.upenn.edu/~haroldfs/dravling/grice.html). As I have already observed, none of these rules are always followed in debates. However, they are often followed. Perhaps more interestingly, following these rules, along with various other widely accepted rules of language use and debate, tends to help one win debates. Why this is the case, and what it means to win debates, are questions that we haven't fully addressed, either in this text or as a species.
 
 Debates are evidently fairly gamelike. This renders palatable the usage of the phrase "winning debates." What is it to win a debate? I have said that to win is to achieve a purpose one has in a game or gamelike activity. Therefore, one can be said to win a debate if one achieves a purpose one has in it.
 
@@ -539,7 +539,7 @@ The preceding paragraph illustrates some interesting features of (natural) langu
 
 When I say that natural language is self-referential, what I mean is that natural language can reference and discuss language. For example, this sentence talks about itself. Any sentence containing the phrase "this sentence" has the property of talking about itself.
 
-When I say that (natural) language is multi-medial, what I mean is that language can exist in more than one medium. An English sentence like "the dog runs" can occur in spoken form, as vibrations in the atmosphere; in written form, as graphite or ink markings on a piece of paper; in written form, as bits stored on a computer hard drive; in written form, as light emanating from a computer monitor; in spoken form, as analog electrical signals traveling through an audio cable; in spoken form, as bits representing a digital audio signal traveling through a fiber optic network cable; and so on and so forth. I can think the sentence "the dog runs," and I can do so in different ways. For example, I can mentally recite the sentence to myself, and I can do so in different voices; or I can visualize the written sentence in my mind, and I can do so in different font styles. 
+When I say that (natural) language is multi-medial, what I mean is that language can exist in more than one medium. An English sentence like "the dog runs" can occur in spoken form, as vibrations in the atmosphere; in written form, as graphite or ink markings on a piece of paper; in written form, as bits stored on a computer hard drive; in written form, as light emanating from a computer monitor; in spoken form, as analog electrical signals traveling through an audio cable; in spoken form, as bits representing a digital audio signal traveling through a fiber optic network cable; and so on and so forth. I can think the sentence "the dog runs," and I can do so in different ways. For example, I can mentally recite the sentence to myself, and I can do so in different voices; or I can visualize the written sentence in my mind, and I can do so in different font styles.
 
 One interesting observation is that all of the items mentioned in the preceding paragraph can be called "the sentence 'the dog runs.'" E.g., "I wrote the sentence 'the dog runs' on a piece of paper," or "anybody listening to a digital audio recording of this paragraph will hear the sentence 'the dog runs.'"
 
@@ -598,7 +598,7 @@ In any case, I have given a thesis about the limitations of present day knowledg
 
 I do not assume all readers will agree that psychology is mostly inscrutable in the sense I have described, although to be honest I imagine most will agree or be willing to accept this thesis. Some of what follows depends on this thesis, and I have tried to make it clear when the argument I am making depends on the thesis that psychology is mostly inscrutable. The following paragraph is an example of a place where I invoke the thesis.
 
-The (arguable) inscrutability of psychology infects all attempts to study linguistic meaning from a psychological perspective. It is debatable whether any totally non-psychological theory can justifiably be called a theory of linguistic meaning. However, there is some appeal to such theories. 
+The (arguable) inscrutability of psychology infects all attempts to study linguistic meaning from a psychological perspective. It is debatable whether any totally non-psychological theory can justifiably be called a theory of linguistic meaning. However, there is some appeal to such theories.
 
 If it were possible to describe the relationship of "meaning" as a relationship which obtains between language and the world -- e.g. a noun phrase refers to an object, and a statement describes a state of affairs in the world -- then it might be possible to describe the relationship of meaning simply and rigorously, without involving the messiness of humans. What's not necessarily is clear is that this can be done. Let's explore.
 
@@ -616,7 +616,7 @@ However, there is still a conventional notion of the conventional meanings of se
 
 "The conventional notion of literal sentence meaning" does not refer to one exactly defined notion of sentence meaning. Rather, the phrase is open to interpretation, and its meaning will vary according to context and according to the views of the participants in a conversation where the phrase is used. The phrase can be used in conversations where it serves a useful purpose in advancing the conversation. The phrase can be used in a conversation if participants in the conversation are sufficiently comfortable with using the phrase and they are comfortable that a shared understanding of the phrase exists which is sufficiently robust to solve the conversational problems at hand.
 
-I will discuss meaning more extensively in the section titled Meaning. 
+I will discuss meaning more extensively in the section titled Meaning.
 
 Speaking very broadly, there are three big things to study about language: syntax, semantics, and pragmatics.
 
@@ -626,7 +626,7 @@ Speaking very broadly, there are three big things to study about language: synta
 
 **Pragmatics**, as I shall define it, is the study of language in the context of its usage by people.
 
-These three fields are probably not entirely disjoint, and they don't cover everything there is to discuss about language. (There is the history of language, and the biology of language, for example.) However, they are a good way of subdividing the space of topics related to language that we are going to cover. More broadly, the mature philosophical approaches to studying language that I'm aware of are subsumed under these categories. 
+These three fields are probably not entirely disjoint, and they don't cover everything there is to discuss about language. (There is the history of language, and the biology of language, for example.) However, they are a good way of subdividing the space of topics related to language that we are going to cover. More broadly, the mature philosophical approaches to studying language that I'm aware of are subsumed under these categories.
 
 The preceding paragraphs serve as an extremely high-level introduction to some of the central issues in the philosophy of language and to the study of language as a whole. In the rest of this text we will focus our study of language into specific topics which directly pertain to winning arguments. The reader is encouraged to learn every important lesson they can about language. If one learns to use language well, there is a great deal one can do with that.
 
@@ -875,11 +875,11 @@ This is because for essentially every English statement, we can find a statement
 
 However, it would be wrong of us to carry out our study of statements only in first-order logic indefinitely. Ultimately everything we learn must be applied to English statements. Arguments are almost always made in natural languages, of which English is the example used in this text. Working in English must not be a handicap for us. As debaters we benefit from wishing to become such masters of the full complexity of the natural language(s) we use that the complexity is something we turn to our advantage rather than something that stymies us. However, practically speaking, mastery of English, insofar as English differs from first-order logic, is more a matter of acquaintance and art than it is of theory and technique. Mastery of first-order logic, on the other hand, is mostly a matter of theory and technique. Acquaintance and art come only from practice, and in this book our focus outside of the exercises is on theory and technique.
 
-This simply means that the reader will mostly have to figure out for themselves how to apply the theory and technique of logic to natural language arguments. The reader should seek to synthesize for themselves a deep, intuitive understanding of the theory and technique of logic, and allow it to sink into their mind until it underpins their thinking even on an unconscious level. This, in my experience, is what enables the reflexive, sophisticated application of logic to natural language. 
+This simply means that the reader will mostly have to figure out for themselves how to apply the theory and technique of logic to natural language arguments. The reader should seek to synthesize for themselves a deep, intuitive understanding of the theory and technique of logic, and allow it to sink into their mind until it underpins their thinking even on an unconscious level. This, in my experience, is what enables the reflexive, sophisticated application of logic to natural language.
 
 ## Speech acts
 
-One important concept in the philosophy of language is the distinction between acts of speech, and speech acts. This distinction seems to have been first introduced in a systematic way by [J.L. Austin (1962)](http://pubman.mpdl.mpg.de/pubman/item/escidoc:2271128:3/component/escidoc:2271430/austin_1962_how-to-do-things-with-words.pdf). 
+One important concept in the philosophy of language is the distinction between acts of speech, and speech acts. This distinction seems to have been first introduced in a systematic way by [J.L. Austin (1962)](http://pubman.mpdl.mpg.de/pubman/item/escidoc:2271128:3/component/escidoc:2271430/austin_1962_how-to-do-things-with-words.pdf).
 
  * An **act of speech** is, in other words, the action of speaking.
  * A **speech act** is an action performed by speaking.
@@ -912,7 +912,7 @@ What is truth? What does it mean for something to be true? Here are two definiti
 1. "the quality or state of being true"
 2. "that which is true or in accordance with fact or reality"
 
-Some definitions of "true" that I found on Google: 
+Some definitions of "true" that I found on Google:
 
 1. "in accordance with fact or reality"
 2. "accurate or exact."
@@ -955,7 +955,7 @@ However, it is undeniable that the indifferent shrug is not a satisfactory respo
 
 This truism is sometimes called the **law of the excluded middle**. It states, in other words, that there are no statements which are neither true nor false.
 
-Aristotle is the earliest writer I'm aware of to have asserted this law, when he wrote "there cannot be an intermediate between contradictories, but of one subject we must either affirm or deny any one predicate." (*Metaphysics*, Book IV, Part 7) 
+Aristotle is the earliest writer I'm aware of to have asserted this law, when he wrote "there cannot be an intermediate between contradictories, but of one subject we must either affirm or deny any one predicate." (*Metaphysics*, Book IV, Part 7)
 
 The law of the excluded middle is a feature of the standard rules for first-order logic, and it is a popular idea among logicians that the law is true. However, it is also a fairly popular idea that the law is not true. Here are some possible examples of statements that are neither true nor false:
 
@@ -1012,7 +1012,7 @@ What if we assume some fixed framework of definitions? Is what's true true, and 
 This truism is not always accepted. In the author's opinion, looking at our experiences in life and at historical events supports the view that things are better in almost all cases when people have the truth about issues that matter.
 
  * When we understand the causes of diseases, we are in a position to prevent and cure them with medical science.
- * When we know the truth about the politicians who represent us, we can hold them accountable more easily and increase the likelihood that the politicians in office are good, ethical people. 
+ * When we know the truth about the politicians who represent us, we can hold them accountable more easily and increase the likelihood that the politicians in office are good, ethical people.
  * When we understand how the natural world works, we can make technology that allows us to farm more efficiently and produce far more food with a given amount of human labor, allowing most of the human population in developed countries to occupy themselves with activities other than agriculture.
  * When we know the truth about scientific political debates such as the climate change debate, we can make the right decisions that will be best for the future.
  * When we know the truth about what's going on in our personal lives, we can make decisions that will be more likely to strengthen our relationships and avoid future suffering.
@@ -1072,7 +1072,7 @@ expressions—typically, whole sentences—containing it.
 
 Hale and Wright define implicit definition as the complement of explicit definition. I disagree with their claim (in this paper) that all subtypes of implicit definition have in common the idea that we may fix the meaning of an expression by imposing some form of constraint on the use of longer expressions containing it. As a counterexample, I provide ostensive definitions, which are definitions of words made by (literally or figuratively) pointing at examples: for example, pointing at a dog and saying, "dog." Ostensive definitions are not explicit definitions, so they are implicit definitions, but they don't (in any sense that is apparent to me) fix the meaning of the words they define by imposing some form of constraint on the use of longer expressions containing them. It's possible that the category Hale and Wright defined in this paper contains more things than they intended it to. It's even possible that they made this observation and have since revised their thinking. I am not an expert on either philosopher's work, and I am merely pointing out possiblities not ruled out by the information at hand.
 
-The category of axiomatic definitions seems to be narrower even than the category of implicit definitions in Hale and Wright's (arguably) narrower sense, of definitions which fix the meaning of an expression by imposing some form of constraint on the use of longer expressions containing it. Finding an example of a non-axiomatic definition meeting Hale and Wright's narrower condition is left as exercise to the reader. I haven't solved this exercise myself, and while it may be tricky I suspect that it is solvable. Please contact me if you come up with a solution, or a good argument that there is none. 
+The category of axiomatic definitions seems to be narrower even than the category of implicit definitions in Hale and Wright's (arguably) narrower sense, of definitions which fix the meaning of an expression by imposing some form of constraint on the use of longer expressions containing it. Finding an example of a non-axiomatic definition meeting Hale and Wright's narrower condition is left as exercise to the reader. I haven't solved this exercise myself, and while it may be tricky I suspect that it is solvable. Please contact me if you come up with a solution, or a good argument that there is none.
 
 Hale and Wright point out some controversy about whether or not implicit definitions are a legitimate form of definition. Such controversy also applies to axiomatic definitions, which are the typical examples of implicit definitions. Personally, I see little reason for fuss. To me it's natural that you can explain the meaning of a word by giving rules that explain how to use it. You can teach somebody how to use the word "and" by teaching them to follow the rules of inference described before. And you can teach somebody how to use the word "true" by teaching them the T-schema.
 
@@ -1084,11 +1084,11 @@ For example, one might define "true" as "accurate to reality." This definition w
 
 As far as I am aware, any definition of "true" which tells a person how to use the word "true" and is consistent with common usage, is based on the T-schema or equivalent to it in appropriate contexts. If you find any counterexample to this statement, please tell me about it.
 
-The T-schema by itself is not enough to explain how to use the word "true." Essentially, the T-schema references questions about truth to questions about norms of assertion. If you can rightly assert a statement, then you can rightly assert that that statement is true. Instead of asking, when is a statement true, you can ask, when can you rightly assert a statement? The latter is a question that this entire text is aimed at addressing. 
+The T-schema by itself is not enough to explain how to use the word "true." Essentially, the T-schema references questions about truth to questions about norms of assertion. If you can rightly assert a statement, then you can rightly assert that that statement is true. Instead of asking, when is a statement true, you can ask, when can you rightly assert a statement? The latter is a question that this entire text is aimed at addressing.
 
 Still, some readers may feel that this misses the point. If we reduce questions about truth to questions about norms about assertion, then perhaps some readers feel we are no longer asking the questions they are interested in, because readers want to know what's true in the sense of what's real, what's actual. I don't want to convey the appearance of sidestepping these meaty questions in favor of surface questions about what we can say.
 
-It is the author's hope that the reader can get closer to what's true in the sense of what's real and what's actual on the basis of what they are learning in this book. I do not claim to know what's real and what's actual, and therefore I cannot claim to show the reader the path to come to know what's real and what's actual. However, it is my opinion that applying the techniques of this text, taken all together and used with art, skill, and fairness, will tend to help one figure out what's real and what's actual in practical terms, in most problem domains that humans can get a grip on. No guarantees can be made that the methods we discuss will lead one to an accurate understanding of reality in any particular situation. I am unaware of any totally sure, provably infallible methods of knowledge gathering. Consistent with that, I am comfortable calling this text a method of seeking the truth. 
+It is the author's hope that the reader can get closer to what's true in the sense of what's real and what's actual on the basis of what they are learning in this book. I do not claim to know what's real and what's actual, and therefore I cannot claim to show the reader the path to come to know what's real and what's actual. However, it is my opinion that applying the techniques of this text, taken all together and used with art, skill, and fairness, will tend to help one figure out what's real and what's actual in practical terms, in most problem domains that humans can get a grip on. No guarantees can be made that the methods we discuss will lead one to an accurate understanding of reality in any particular situation. I am unaware of any totally sure, provably infallible methods of knowledge gathering. Consistent with that, I am comfortable calling this text a method of seeking the truth.
 
 **Other theories of truth**
 
@@ -1165,7 +1165,7 @@ My lack of clarity around how to define or use the word "knowledge" is one diffi
 
 The other difficulty is that my experiences are consistent with a lot of different things being true. For example, I could be a [brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat) experiencing a simulated reality created by attaching my brain to computers that fire appropriate signals at my brain to make it seem like it's in a human body on the planet Earth. My experiences are entirely consistent with this possibility. Maybe the brain in a vat thought experiment is metaphysically impossible, somehow; but as far as I know, it is metaphysically possible.
 
-My experiences are consistent with the possibility that the whole world has only existed for five minutes, and all of my older memories were implanted in me by whatever mischevious God created this universe. 
+My experiences are consistent with the possibility that the whole world has only existed for five minutes, and all of my older memories were implanted in me by whatever mischevious God created this universe.
 
 My experiences are consistent with the possibility that I am the only conscious person in the world. I believe that others are conscious, but I don't see how I would know. I believe that if there is a God, then God could create elaborate holograms that are exactly like the world I experience in every way, full of totally realistic people, but in which I'm actually the only conscious person. I don't believe I know that this is not the case.
 
@@ -1181,7 +1181,7 @@ It's widely agreed that knowledge is some condition stronger than justified true
 
 A condition that's weaker than justified true belief is plain true belief. As somebody who doesn't know how to get knowledge, I aim to believe things that are true, by hook or by crook, doing whatever I think is most likely to work to get me true beliefs. I also aim to have my beliefs be justified whenever possible and desirable, which is most of the time. My belief is that good processes for arriving at beliefs will tend to also produce good justifications for those beliefs. TODO: Should this be strengthened: should beliefs always be justified? Whether or not good processes for arriving at beliefs always produce good justifications for those beliefs depends on what "good" means in the given context, and on how one is construing the meaning of "justification."
 
-So far we have considered a series of progressively weaker conditions: knowledge, justified true belief, and true belief. A condition that's even weaker than true belief is plain truth. I find value in thinking of the truth, even if I don't end up believing it or knowing it. One of the great lessons of philosophy, in my opinion, is the value of speculation. Speculation increases one's likelihood of setting one's eyes on the truth. Setting one's eyes on the truth is step one. It needs to come before believing, knowing, or being able to justify the truth. 
+So far we have considered a series of progressively weaker conditions: knowledge, justified true belief, and true belief. A condition that's even weaker than true belief is plain truth. I find value in thinking of the truth, even if I don't end up believing it or knowing it. One of the great lessons of philosophy, in my opinion, is the value of speculation. Speculation increases one's likelihood of setting one's eyes on the truth. Setting one's eyes on the truth is step one. It needs to come before believing, knowing, or being able to justify the truth.
 
 Whenever there's an event, any news coverage that comes out is subject to various degrees of uncertainty, and it's possible to imagine multiple possibilities regarding the truth of the matter. In any news report, it's possible the journalist simply made something up. If a number of different news organizations are reporting the same thing, then either it really happened, or they are in a coordinated conspiracy to make something up, or some of them are making something up and others are listening to the ones making it up. When news coverage is sincere, it can still be inaccurate. When news coverage is accurate, it can still be biased towards a particular political or other type of perspective. There are many layers of interesting interpretation that can be applied to news coverage. Especially when it comes to reporting on events like wars where intelligence can be unreliable and motives for deception run high, often there are many interpretations of what really happened that are consistent with the known facts.
 
@@ -1205,7 +1205,7 @@ At core, the attitude of truth-seeking is a striving for reality, for what's act
 
 The experience of philosophy can be compared to groping in a dark system of passageways looking for a way out. Occasionally, by some good fortune or cleverness, one finds one's way out into a brightly lit clearing where one can see many more dark, unexplored passageways terminating. One can continue spelunking indefinitely in this way, finding ever larger clearings with ever more passageways leading out of them. One can rightly wonder whether one will eventually be able to map and explore the entire system of passageways and clearings. One can also rightly wonder whether it's possible to get out of the system of passageways and clearings entirely, and if so what lies beyond it. Many philosophers have thought they had left the system of passageways and clearings entirely, only to discover that they were merely in a very large clearing.
 
-This metaphor is an elaboration of Plato's [allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_Cave). In Plato's allegory, people who were trapped in a dark cave, forced to watch illusions projected onto a wall, are one day let out into the outside world where they get to see the sunlit day, where the sunlight is compared to the light of truth. The passageways and clearings metaphor points out the great joke of philosophy, which is that what we find in philosophy is that the bright sky you emerge out into from Plato's cave later turns out to be just a clearing. 
+This metaphor is an elaboration of Plato's [allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_Cave). In Plato's allegory, people who were trapped in a dark cave, forced to watch illusions projected onto a wall, are one day let out into the outside world where they get to see the sunlit day, where the sunlight is compared to the light of truth. The passageways and clearings metaphor points out the great joke of philosophy, which is that what we find in philosophy is that the bright sky you emerge out into from Plato's cave later turns out to be just a clearing.
 
 Is it illusions all the way up? Perhaps. It doesn't really matter, from the perspective of this lifetime. Even if there is truly a way out of the system of passageways and clearings into the daylight of truth, I have no great expectation of reaching it in this lifetime.
 
@@ -1252,7 +1252,7 @@ What is the word "warrant" that I have used a couple of times now, most recently
 
 The concept of warranted assertion, understood in this way, takes in more than justification, evidence, or proof. It also takes in general concerns of appropriateness, such as relevance and politeness. It takes in every positive and negative force within the ambient social game which weighs on the decision to make or not make the assertion. Warranted assertion, understood in this way, is a highly situation-specific concept. In this conception, there is no general standard of warranted assertibility; there are only different standards appropriate to different situations (and in different people's opinions).
 
-Though there is no general standard of warranted assertibility, there are things that should generally be in a standard of warranted assertibility. There are techniques of reasoning that have been observed to work generally, across all or many problem domains. There is a simple argument for accepting the use of these techniques of reasoning to govern norms of assertion when they are applicable: namely, that it works. 
+Though there is no general standard of warranted assertibility, there are things that should generally be in a standard of warranted assertibility. There are techniques of reasoning that have been observed to work generally, across all or many problem domains. There is a simple argument for accepting the use of these techniques of reasoning to govern norms of assertion when they are applicable: namely, that it works.
 
 In the rest of this text we are going to spend a lot of time thinking about what should generally go into our concepts of warranted assertibility. What rules of logical inference should play a role? What rules of probabilistic and inductive reasoning should play a role? What else should play a role? In each case, the questions are, how widely does it work, and where does it fail? Our goal is to build a toolkit of tools of reasoning, tools for governing norms of assertion, tools for advancing debates, which work across all or many problem domains.
 
@@ -1260,11 +1260,11 @@ In the rest of this text we are going to spend a lot of time thinking about what
 
 What is meaning? We discussed this question briefly in the section titled Language. Let's recall in summary what I said back there.
 
-I drew a distinction between three types of meaning: speaker meaning, listener meaning, and sentence meaning. Speaker meaning is what a speaker intends to mean by a sentence in a particular instance. Listener meaning is what a listener takes a sentence to mean in a particular instance. Sentence meaning is what a sentence means in itself according to the conventions of a language. 
+I drew a distinction between three types of meaning: speaker meaning, listener meaning, and sentence meaning. Speaker meaning is what a speaker intends to mean by a sentence in a particular instance. Listener meaning is what a listener takes a sentence to mean in a particular instance. Sentence meaning is what a sentence means in itself according to the conventions of a language.
 
 In the field of formal semantics, people give mathematical definitions of sentence meaning for formal languages. The same kind of analysis can be done semi-formally but not exactly or comprehensively with natural languages. I pointed out that it is not feasible to give a definition of English sentence meaning that works across the board, because of the complexity and variability of English language use. We can still usefully talk informally about "the conventional notion of English sentence meaning," even though the concept breaks down after a certain point.
 
-I pointed out a competition between two general approaches to understanding linguistic meaning: psychological approaches, and non-psychological approaches. 
+I pointed out a competition between two general approaches to understanding linguistic meaning: psychological approaches, and non-psychological approaches.
 
 The problem with psychological approaches that I pointed out in the section on Language is that (arguably) psychology is mostly inscrutable. I think this is the biggest reason for the attractiveness of non-psychological approaches to understanding meaning.
 
@@ -1282,7 +1282,7 @@ Speaker meanings can also involve complexities such as double meanings, sarcasm,
 
 The foregoing gives us a basic theory of what meaning is and how to study it further. According to the theory, linguistic meanings are experiences pertaining to utterances, and they are of two types: speaker meanings and listener meanings.
 
-**Communication** is basically the attempt to coordinate speaker meanings and listener meanings in such a way that we achieve something we call shared understanding. This involves, among other things, a level of agreement on what statements are true and false, and the appearance of meaning the same things by words and sentences. 
+**Communication** is basically the attempt to coordinate speaker meanings and listener meanings in such a way that we achieve something we call shared understanding. This involves, among other things, a level of agreement on what statements are true and false, and the appearance of meaning the same things by words and sentences.
 
 There are many aspects to communication, and I encourage the reader to pursue education in communication beyond this book. TODO: Where?
 
@@ -1305,7 +1305,7 @@ An implicit speaker meaning we can also call an **implied meaning**. An implicit
 
 What is behind this distinction between implicit and explicit meanings? What is an explicit meaning? What is an implicit meaning? And how is the concept of explicit meaning related to the concept of sentence meaning, or conventional literal meaning? Are explicit meaning, sentence meaning, and conventional literal meaning all the same concept by different names, or are they different concepts?
 
-Explicit meaning and sentence meaning are not the same concept. As you can see by inspecting the name, sentence meaning is a concept that applies only to the meanings of sentences. On the other hand, any piece of language can have an explicit meaning (including paragraphs, words, etc.). 
+Explicit meaning and sentence meaning are not the same concept. As you can see by inspecting the name, sentence meaning is a concept that applies only to the meanings of sentences. On the other hand, any piece of language can have an explicit meaning (including paragraphs, words, etc.).
 
 For the same reason, conventional literal meaning and sentence meaning are not the same concept.
 
@@ -1329,7 +1329,7 @@ Here is a first pass attempt at explaining rationality in practical terms. Ratio
 
 Given the immense practical importance of rationality, we don't want to approach the understanding of rationality as a purely theoretical problem. We want to approach it as a practical problem, so that our solution will be as useful as possible to as many people as possible. My goal here is not to develop the most rigorous theory possible, but merely to give the most usable, and yet correct explanation of rationality I can.
 
-One can study rationality from a psychological perspective, by thinking about people's inner states, primarily their processes of belief formation, and by making prescriptive recommendations about how to form beliefs in order to be rational. 
+One can study rationality from a psychological perspective, by thinking about people's inner states, primarily their processes of belief formation, and by making prescriptive recommendations about how to form beliefs in order to be rational.
 
 I think it's very informative to think about rationality by thinking about the kind of moral virtues that a person should seek to have in order to be rational. Here some moral virtues that I think of as contributing to or being requirements for rationality (in no particular order):
 
@@ -1405,7 +1405,7 @@ However, knowing all the techniques of rationality does not give one the practic
     know where their functions should end.
     Knowing when to stop,
     you can avoid any danger.
-    
+
     [ch. 32]
 
 The heart of rationality is a groundedness in reality and a willingness to be swayed by reality created by a kind of emptiness and lack of preconception.
@@ -1429,7 +1429,7 @@ The heart of rationality is a groundedness in reality and a willingness to be sw
 
 Of course, the moral virtues associated with rationality are merely one aspect of rationality. In my opinion they are a critical one which should be discussed explicitly in treatises on rationality. In my opinion, anybody who seeks to become more rational should seek to cultivate in themselves the virtues I listed above (fairness, even-handedness, etc.); to seek the company of people who have such virtues; and to learn from sources which have such virtues. I would further encourage the reader to reflect on the deeper nature of rationality in an introspective fashion: to study their own mind, how it works, how it processes reality, and to form judgments on which processes are rational and which are irrational.
 
-In addition to looking at rationality from psychological, moral, and spiritual perspectives, we can also study rationality from a behavioral perspective, by studying human behavior that exhibits rationality and trying to formulate rules that describe and explain what makes rational behavior rational. 
+In addition to looking at rationality from psychological, moral, and spiritual perspectives, we can also study rationality from a behavioral perspective, by studying human behavior that exhibits rationality and trying to formulate rules that describe and explain what makes rational behavior rational.
 
 Rationality has to do with two primary areas of human behavior: communication and decision making. We employ rationality in communicating with each other, as when employing arguments to persuade others of something. We also employ rationality in decision making, as when making a purchasing decision, and in innumerable other situations.
 
@@ -1443,7 +1443,7 @@ Our language is primarily for talking about publicly observable things, and it's
 
 If I can explain the same thing either in terms of publicly observable things or in terms of privately observable things, I am more likely to choose to explain it in terms of publicly observable things, because I am more likely to think that route will lead to a clearer explanation.
 
-Norms of assertion are an important subtopic in the more general topic of **laws of rationality**. The laws of rationality are all of the rules of speech and behavior such that if we break them, we can justly be called irrational. 
+Norms of assertion are an important subtopic in the more general topic of **laws of rationality**. The laws of rationality are all of the rules of speech and behavior such that if we break them, we can justly be called irrational.
 
 A simple example of a law of rationality is the law that if you agree to the assertion that (**A** and **B**), then you should also be willing to agree to the assertion that **A**. Probably the reader knows or imagines that there are many laws of rationality. Discovering exactly what they are is the problem.
 
@@ -1465,7 +1465,7 @@ Of course, rationality is in competition with other conflicting forces: for exam
 
 Here's a basic law of rationality, a basic norm of assertion, which I'll call the **law of evidence**: if you assert a statement, you should (ideally) be able to explain your reasons for believing it, and those reasons should (ideally) be good ones.
 
-If you assert a statement, and somebody asks you why it's true, and you can't provide any good answer, it's generally an uncomfortable situation where one feels some social pressure to take back the assertion. 
+If you assert a statement, and somebody asks you why it's true, and you can't provide any good answer, it's generally an uncomfortable situation where one feels some social pressure to take back the assertion.
 
 The law of evidence is widely accepted because it is a good rule to follow if you want the truth. If you want the truth, it's a good idea to be skeptical of what other people say, to ask for the reasons that people assert things, and to doubt people who can't give good reasons for what they assert. If you want to be regarded as a truth-teller, it's a good idea to be able to give good reasons for the things you assert.
 
@@ -1507,9 +1507,9 @@ The way to develop such a method or body of theory is to start by looking at lot
 
 What I am looking to study are **laws of reasoning**. Laws of reasoning are generalizations which guide us in understanding what arguments are winning.  Laws of reasoning help us to evaluate the quality of arguments by telling us what methods of argumentation do and do not work. They are the essential theoretical ammunition that one needs to win arguments.
 
-One example of a law of reasoning is that properly formulated *reductio ad absurdum* arguments are winning. This law is basically correct. However, this formulation of it is still imprecise, and at this point in the text we lack the methodology to justify or even to state precisely the *reductio ad absurdum* principle. Furthermore, there is plenty of controversy around the *reductio ad absurdum* principle among logicians, which we have yet to touch at all. 
+One example of a law of reasoning is that properly formulated *reductio ad absurdum* arguments are winning. This law is basically correct. However, this formulation of it is still imprecise, and at this point in the text we lack the methodology to justify or even to state precisely the *reductio ad absurdum* principle. Furthermore, there is plenty of controversy around the *reductio ad absurdum* principle among logicians, which we have yet to touch at all.
 
-The overall primary aim of the text up to this point can be described as the aim of defining and analyzing important concepts that allow us clearly articulate the goal I am now setting to describe laws of reasoning. 
+The overall primary aim of the text up to this point can be described as the aim of defining and analyzing important concepts that allow us clearly articulate the goal I am now setting to describe laws of reasoning.
 
 Of course, I don't just want to describe any laws of reasoning. I want to describe laws of reasoning that are correct, or true. It's a messy question what exactly this means, especially because there are very few laws of reasoning which entirely lack plausible counterexamples (cases where they plausibly allow one to infer false conclusions from plausibly true premises).
 
@@ -1644,7 +1644,7 @@ The following rules in classical logic are related the universal quantifier ("fo
 
 **Existential quantifier rules**
 
-The following rules in classical logic are related to the existential quantifier ("for some"). 
+The following rules in classical logic are related to the existential quantifier ("for some").
 
 11. **Non-existence generalization.** Suppose (**A1**,...,**An**, **B**[**x** -> **y**] entails **C1**,...,**Cm**) is a valid sequent, and that **y** does not occur as a free variable in any of the statements **A1**,...,**An**, **C1**,...,**Cm**. Then (**A1**,...,**An**, (for some **x**, **B**) entails **C1**,...,**Cn**) is a valid sequent. The assumption that **f** does not occur as a free variable in any of the side premises **A1**,...,**An**, **C1**,...,**Cm** is a way of capturing the idea that **y** is a variable that could potentially refer to any object. The rule of non-existence generalization states in essence that *if it is inchoherent to assert **B** for an arbitrary object, then it is incoherent to assert (for some **x**, **B**).
 
@@ -1674,7 +1674,7 @@ The final structural rule in this presentation is the rule of **cut**. This rule
 
 15. **Cut.** Suppose that (**A1**,...,**An** entails **B1**,...,**Bm**, **C**) is a valid sequent, and that (**C**, **D1**,...,**Dk** entails **E1**,...,**Ek**) is a valid sequent. Then (**A1**,...,**An**, **D1**,...,**Dk** entails **B1**,...,**Bm**, **E1**,...,**Ek**) is a valid sequent. The cut rule is so named because the rule lets us combine two valid sequents, one with **C** in the conclusions and one with **C** in the premises, while cutting **C** out of the picture. The rule of cut states in essence that *if it's incoherent for you to assert **C** and it's incoherent for you to deny **C**, then your position is incoherent.*
 
-That completes my presentation of the rules of classical first order logic. For another presentation which is more compact and easier to survey, see [Wikipedia's presentation of the LK sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus#The_system_LK). 
+That completes my presentation of the rules of classical first order logic. For another presentation which is more compact and easier to survey, see [Wikipedia's presentation of the LK sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus#The_system_LK).
 
 As I have stated before, it is a matter of controversy among logicians whether all the rules of classical logic are correct in all contexts. Before we survey that very intricate debate, I would like to explain how these rules can be used.
 
@@ -1713,7 +1713,7 @@ We know that the rule we need employ is one of the universal quantifier rules. S
 
 The rule of counterexample reads as follows. Suppose (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**) is a valid sequent. Then (**A1**,...,**An**, (for all **x**, **B**) entails **C1**,...,**Cn**) is a valid sequent.
 
-This tells us that the second to last step in our proof should be to derive a sequent of the form (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**), which the rule of counterexample will turn into the desired conclusion sequent, namely: (Pa, (for all *x*, (if P*x* then Q*x*)) entails Qa). 
+This tells us that the second to last step in our proof should be to derive a sequent of the form (**A1**,...,**An**, **B**[**x** -> **t**] entails **C1**,...,**Cn**), which the rule of counterexample will turn into the desired conclusion sequent, namely: (Pa, (for all *x*, (if P*x* then Q*x*)) entails Qa).
 
 Let's find that by matching our conclusion sequent against the form of the conclusion of the rule of counterexample. The form of the conclusion of the rule of counterexample is (**A1**,...,**An**, (for all **x**, **B**) entails **C1**,...,**Cn**). Our desired conclusion instantiates this form as follows:
 
@@ -1734,7 +1734,7 @@ The final step of the proof we are constructing is to invoke the rule of counter
 
 Our goal in this step should be to build one of the logical connectives in our goal sequent. There is only one choice: we need to build the "if/then" of the statement (if Pa then Qa). This tells us that we need to use one of the conditional rules: whichever one lets us build an assertion, since (if Pa then Qa) is an assertion in our goal sequent. Thus we need to use rule 6, the rule of conditional assertion.
 
-The rule of conditional assertion reads as follows. 
+The rule of conditional assertion reads as follows.
 
 Suppose (**A1**,...,**An** entails **B**, **C1**,...,**Cm**) is a valid sequent and (**D1**,...,**Dk**, **E** entails **F1**,...,**Fj**) is a valid sequent. Then (**A1**,...,**An**, **D1**,...,**Dk**, (if **B** then **E**) entails **C1**,...,**Cm**, **F1**,...,**Fj**) is a valid sequent.
 
@@ -1785,7 +1785,7 @@ That completes my introduction of how to use the rules of classical first-order 
 
 We went entered our discussion of classical logic wanting to discover what rules of logical inference are valid. Rules of logical inference let us go from premises that are warranted assertible in a given context to conclusions that are also warranted assertible in the context. We ended up with something slightly different: we got a system of rules telling us what sets of assertions and denials are incoherent. Let's see how we can get back to the topic of rules of logical inference.
 
-A rule of logical inference can also be called an argument form. For our purposes we can equate rules of inference or argument forms with single-conclusion sequents possibly containing meta-variables. Recall that the result of instantiating the meta-variables in an argument form is called a "case." 
+A rule of logical inference can also be called an argument form. For our purposes we can equate rules of inference or argument forms with single-conclusion sequents possibly containing meta-variables. Recall that the result of instantiating the meta-variables in an argument form is called a "case."
 
 Recall that I call an argument form "valid" for a given person when it lacks counterexamples for that person. A counterexample to an argument form for a given person is a (hypothetical or real) truth-seeking debate context and a case of the argument form where they consider the premises warranted assertible and don't consider the conclusion warranted assertible. Recall also that I call an argument form simply "valid" if it is valid for people in general.
 
@@ -1795,9 +1795,9 @@ Empirically, my psychological notion of validity coincides well (but not perfect
 
 Here is one reason one might doubt the closeness of the connection I have stated between the psychological and classical logic notions of validity. One might ask, if it is incoherent to deny a conclusion in a given context, does it follow that it is warranted to assert the conclusion in that context? When a sequent is valid according to classical logic, classical logic tells us it is incoherent to deny the conclusion in contexts where the premises are held true. When an argument form is valid in the psychological sense, people consider the conclusion warranted assertible in contexts where the premises are held true (and thus warranted assertible).
 
-So then, if it's incoherent to deny a statement in a given context given premises that are held true in that context, then is it warranted to assert it? Not always. For example, if the premises that are held true in the context are incoherent, then any additional assertions or denials will be incoherent with the context (because adding more to an incoherent position gives you an incoherent position). 
+So then, if it's incoherent to deny a statement in a given context given premises that are held true in that context, then is it warranted to assert it? Not always. For example, if the premises that are held true in the context are incoherent, then any additional assertions or denials will be incoherent with the context (because adding more to an incoherent position gives you an incoherent position).
 
-Let us then restrict our attention to contexts where the premises held true in the context are, taken together, coherent (i.e. not incoherent according to classical logic). In such contexts, if a statement is incoherent to deny, is it warranted to assert it? Perhaps not, as it might be incoherent to deny the statement and yet there might be a social taboo/norm of some kind prohibiting one from asserting it. Let's set aside this possibility as well. Are there any other reasonable, significant ways that a statement can be incoherent to deny and yet not warranted to assert? 
+Let us then restrict our attention to contexts where the premises held true in the context are, taken together, coherent (i.e. not incoherent according to classical logic). In such contexts, if a statement is incoherent to deny, is it warranted to assert it? Perhaps not, as it might be incoherent to deny the statement and yet there might be a social taboo/norm of some kind prohibiting one from asserting it. Let's set aside this possibility as well. Are there any other reasonable, significant ways that a statement can be incoherent to deny and yet not warranted to assert?
 
 Yes, there are. Suppose I have a position that is not incoherent according to classical logic. Suppose my position makes it incoherent for me to deny **P**, and that I just learned this. Suppose **P** is such a shocking, implausible statement to me that I think it's probably false. I might not consider it warranted for me to assert **P**, because I might think that the fact that my position makes it incoherent for me to deny **P** means that there is something wrong in my position. As such I might consider it unwarranted for me to assert **P** but incumbent upon me to re-evaluate the assertions and denials in my position.
 
@@ -1809,7 +1809,7 @@ Logic is able to tell us that certain positions are incoherent. This is about al
 
 I started out this section by presenting a one-directional notion of rules of logical inference, according to which rules of logical inference let us pass from true, warranted assertible statements to other true, warranted assertible statements. Our inquiry has shown us that this is an incomplete picture of how logic works. Every person who accepts the rules of logic and reads a logical argument has two options: to accept the conclusion or to reject one or more of the premises. In real debates logic is not necessarily used simply to pass from truth to truth. Instead, logic constrains humans to bounce about as they will in the space of logically coherent positions. In practice, of course, humans often find themselves in logically incoherent positions; it may take them a long time to notice that; and they may never notice or never care.
 
-Suppose that (**A1**,...,**An** entails **B**) is a valid sequent according to classical logic. Suppose that I accept the rules of classical logic. Suppose **A1**,...,**An** is a coherent set of assertions (or in other words that it is not incoherent according to classical logic, or in other words that (**A1**,...,**An** entails ) is not a valid sequent (empty sequence of statements after "entails" intended)). Suppose that I accept all of **A1**,...,**An** as true and that for the purposes of this question I am not going to back down from any of these premises. Suppose that in the context under question I am not prohibited from asserting **B** by any social taboos/norms. It is incoherent for me to deny **B**. Is it therefore warranted for me to assert **B**? 
+Suppose that (**A1**,...,**An** entails **B**) is a valid sequent according to classical logic. Suppose that I accept the rules of classical logic. Suppose **A1**,...,**An** is a coherent set of assertions (or in other words that it is not incoherent according to classical logic, or in other words that (**A1**,...,**An** entails ) is not a valid sequent (empty sequence of statements after "entails" intended)). Suppose that I accept all of **A1**,...,**An** as true and that for the purposes of this question I am not going to back down from any of these premises. Suppose that in the context under question I am not prohibited from asserting **B** by any social taboos/norms. It is incoherent for me to deny **B**. Is it therefore warranted for me to assert **B**?
 
 Now, finally, the answer seems to me to be "yes;" at least, I am unaware of any further qualifiers that need to be added. However, it does not follow from the rules I have already stated about classical logic that in these circumstances it is warranted for me to assert **B**. Rather, this seems to be an additional principle about classical logic:
 
@@ -1851,7 +1851,7 @@ If one wants to talk about a universe where non-set objects may exist, then one 
 
 ZFC excludes non-sets from its universe because the purpose of ZFC, originally and in this text, is to provide an axiomatic foundation for math. All mathematical concepts can be defined in terms of sets, and when this is done, almost any theorem of modern math can be proven from the axioms of ZFC. This is what makes ZFC useful: it provides a rigorous foundation for (essentially) all of math. To do this, ZFC only needs sets. ZFC would still work for this purpose if it allowed non-sets, but as it's conventionally defined, ZFC talks about a universe containing only sets.
 
-The next axiom of ZFC states that every non-empty set contains a member disjoint from itself. 
+The next axiom of ZFC states that every non-empty set contains a member disjoint from itself.
 
 2. **Axiom of regularity.** (for all *x*, (if (for some *a*, (*a* in x)) then (for some *y*, ((*y* in *x*) and (not (for some *z*, ((*z* in *y*) and (*z* in *x*))))))))
 
@@ -1883,7 +1883,7 @@ The next axiom is a straightforward one, which states that given any two objects
 
 The next axiom states given any set of sets *F*, there is a set containing all elements of elements of *F*.
 
-5. **Axiom of union.** (for all *F*, (for some *A*, (for all *Y*, (for all *x*, (if ((*x* in *Y*) and (*Y* in *F*)) then (x in *A*)))))) 
+5. **Axiom of union.** (for all *F*, (for some *A*, (for all *Y*, (for all *x*, (if ((*x* in *Y*) and (*Y* in *F*)) then (x in *A*))))))
 
 We call the set containing exactly the elements of elements of *F* the **union** of *F*. The axiom of union does not in itself state that the union of *F* exists. One can prove that the union of every set exists in ZFC by applying the axiom of union, which yields a set containing all elements of elements of *F*, and then applying an axiom of specification to narrow down to a set containing exactly the elements of elements of *F*. For this purpose one can use the axiom of specification for the statement *P* = (for some *A*, ((*x* in *A*) and (*A* in *F*))).
 
@@ -1891,7 +1891,7 @@ After the axiom of union comes another axiom schema, another infinite set of axi
 
 A definable function, for our purposes, is a statement *P* relating a variable representing the input of the function, namely *x*, to a variable representing the output of the function, namely *y*. For a statement *P* to be a function over a set *A*, it must be the case that for every *x* in *A* there is exactly one *y* such that *P*.
 
-An example of a definable function is the statement *P* = (for all *z*, ((*z* in *y*) iff (*z* = *x*))). This statement defines the function that maps any object *x* to the set *y* containing exactly *x*. 
+An example of a definable function is the statement *P* = (for all *z*, ((*z* in *y*) iff (*z* = *x*))). This statement defines the function that maps any object *x* to the set *y* containing exactly *x*.
 
 The image of a set *A* under a definable function *P* is the set of all *y* such that for some *x* in *A*, *P*. In other words, it is the set resulting from collecting all of the output values that *P* produces for input values in *A*.
 
@@ -1919,7 +1919,7 @@ A subset of a set *A* is a set *B* such that (for all *x*, (if *x* in *B* then *
 
 8. **Axiom of power set.** (for all *A*, (for some *P*, (for all *B*, (if (for all *x*, (if *x* in *B* then *x* in *A*)) then *B* in *P*)))).
 
-The final axiom, the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice), is a subject of much wonderment, controversy, and [metamathematical](https://en.wikipedia.org/wiki/Metamathematics) research. 
+The final axiom, the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice), is a subject of much wonderment, controversy, and [metamathematical](https://en.wikipedia.org/wiki/Metamathematics) research.
 
 "Informally put, the axiom of choice says that given any collection of bins, each containing at least one object, it is possible to make a selection of exactly one object from each bin." (Wikipedia)
 
@@ -1988,7 +1988,7 @@ Model theory is an interesting achievement in which we have been able to turn fi
 
 Model theory is philosophically valuable because it offers a more explicit way of looking at the concept of truth as understood by classical logic. It is also specifically valuable for the present purpose. My present purpose is to present the best argument I can that the rules of classical logic are correct. Model theory is an essential tool in this argument. The whole argument up to this point has been laying the groundwork of set theory and model theory, which I can now put into motion to argue that the rules of classical logic are correct.
 
-Here is a natural question. Suppose that (**A1**,...,**An** entails **B**) is a valid sequent, and that **A1**,...,**An** are true. Does it follow that **B** is true? It does in the following sense: 
+Here is a natural question. Suppose that (**A1**,...,**An** entails **B**) is a valid sequent, and that **A1**,...,**An** are true. Does it follow that **B** is true? It does in the following sense:
 
 **Soundness theorem.** Let **A1**,...,**An**, **B** be statements. Suppose that (**A1**,...,**An** entails **B**) is a valid sequent. Let *M* be a model. Suppose that **A1**,...,**An** are true in *M*. Then for any model *M*, if **A1**,...,**An** are all true in *M*, then **B** is true in *M*.
 
@@ -2006,9 +2006,9 @@ Say that a sequent (**A1**,...,**An** entails **B**) **has a counterexample** if
 
 One philosophical reading of this mathematical fact is to say that the sequent (**A1**,...,**An** entails **B**) is valid if and only if **B** is true under any possible way of bestowing precise meanings to the vocabulary in **A1**,...,**An**, **B** such that  **A1**,...,**An** are true. This reading assumes that every possible way of bestowing precise meanings to the vocabulary in **A1**,...,**An**, **B** can be represented by a model in the sense I have defined.
 
-I think the assumption of the reading is true, if we understand a "precise meaning" for a predicate as necessarily saying for every object that the predicate is true or is false of the object, and similarly for copulas. 
+I think the assumption of the reading is true, if we understand a "precise meaning" for a predicate as necessarily saying for every object that the predicate is true or is false of the object, and similarly for copulas.
 
-I don't take model theory to be a theory of meaning. For me, meaning is a psychological notion, as I elaborated in the section titled Language and the section titled Meaning. I don't think classical model theory offers a plausible or realistic model of human psychology; for example, human psychological processing does not seem to readily classify every single object in the universe as either satisfying or not satisfying any given predicate. 
+I don't take model theory to be a theory of meaning. For me, meaning is a psychological notion, as I elaborated in the section titled Language and the section titled Meaning. I don't think classical model theory offers a plausible or realistic model of human psychology; for example, human psychological processing does not seem to readily classify every single object in the universe as either satisfying or not satisfying any given predicate.
 
 The thesis I have agreed to does not construe model theory as a theory of meaning. Rather, it hypothesizes a connection between precise meaning and classical model theory: namely, that every possible way of bestowing precise meanings to the terms of a vocabulary can be represented by a model. Such a representation is not a *complete* representation of such precise meanings; it only goes as far as is required to determine for every first-order logic statement over the given vocabulary whether the statement is true or false. It does not, for example, capture anything of the subjective qualities of the meanings of the terms as experienced by some language user. Moreover, these precise meanings are not necessarily a kind of meaning in the psychological sense, because meanings of predicates in the psychological sense seldom satisfy the preciseness condition of classical logic of classifying every object in the universe as either satisfying or not satsifying the predicate. Precise meanings, in this discussion, are therefore a theoretical concept not assumed to be a type of speaker or listener meaning. Precise meanings can be thought of as some kind of idealization of meanings in the psychological sense.
 
@@ -2020,7 +2020,7 @@ Everything I said since I started discussing model theory can be generalized pre
 
 A precise meaning for a predicate classifies every object in the universe as satisfying or not satisfying the predicate. In the real world of language use, predicates are rarely precise in this sense.
 
-Predicate words in natural languages are almost always **vague**. What this means is that one can find intermediate cases where it is unclear whether or not the predicate applies. This situation is classically described with [the paradox of the heap](https://en.wikipedia.org/wiki/Sorites_paradox). 
+Predicate words in natural languages are almost always **vague**. What this means is that one can find intermediate cases where it is unclear whether or not the predicate applies. This situation is classically described with [the paradox of the heap](https://en.wikipedia.org/wiki/Sorites_paradox).
 
 Imagine a heap of sand. Imagine the process of removing sand from the heap one grain at a time, going on indefinitely until no sand remains where the heap was. At some point, one no longer has a heap of sand. This point is probably reached before the sand is entirely gone. For example, one grain of sand is probably not a heap. Two grains of sand is probably not a heap. If it's unclear whether or not 137 grains of sand in a pile should be called a heap of sand, then such a collection of sand grains is an intermediate case of the predicate "is a heap." Maybe it's clear to you that 137 grains of sand is (or is not) a heap. What about two grains? What about seven? What about 500? Whatever your intuitions about heaps are, I imagine it's clear that there are numbers of sand grains which when piled together create intermediate cases for the predicate "is a heap," where it's not obvious whether or not to call those collections of sand grains "heaps."
 
@@ -2028,20 +2028,20 @@ If "is a heap" is a precise predicate, then at some point, removing a single gra
 
 There are many different theories of what it means for a predicate to be vague, and of how to make sense of vague predicates and their seemingly paradoxical nature. [PhilPapers has catalogued over a thousand scholarly works on vagueness and indeterminacy.](https://philpapers.org/browse/vagueness-and-indeterminacy) The academic debate around vagueness is, as you might guess, stunningly intricate and complicated.
 
-I don't propose to provide a theory of vague predicates in this work. I don't think one needs a theory of vague predicates in order to make effective use of them in arguments, or in life in general. 
+I don't propose to provide a theory of vague predicates in this work. I don't think one needs a theory of vague predicates in order to make effective use of them in arguments, or in life in general.
 
 For the purposes of the present argument for the correctness of the rules of classical logic, the challenge posed by vagueness is that it challenges the applicability of the rules of classical logic to real world problems. A sequent is valid according to classical logic iff it has no precise counterexamples. The existence of vagueness and other forms of non-preciseness in real predicates might make us wonder: are there invalid argument forms which lack any precise counterexamples, or valid argument forms which have precise counterexamples? If so, then the rules of classical logic are not necessarily correct in all cases.
 
-We can quickly rule out the possibility of valid argument forms which have precise counterexamples. An argument form with precise counterexamples has convincing counterexamples, and so it is not valid. 
+We can quickly rule out the possibility of valid argument forms which have precise counterexamples. An argument form with precise counterexamples has convincing counterexamples, and so it is not valid.
 
 * Here I am using "valid" in the sense of "valid for people in general" explained earlier.
 * I am using "counterexample" in the sense of a person, a (hypothetical or real) truth-seeking debate context, and an instance of the argument form where the person would generally consider the premises warranted assertible and the conclusion not warranted assertible.
 * I am using "convincing counterexample" in the sense of a counterexample which generalizes to people in general, meaning that the debate context and the argument will form a counterexample for more or less anybody (given sufficient time, attention, openness to the process of truth seeking debate, etc.) I take it to be true by the definitions of these terms that if an argument form has a convincing counterexample, then it is not valid.
 * I am using "precise counterexample" in the sense of a counterexample where the terms in the argument have precise meanings, the premises of the argument are true, and the conclusion is false.
 
-The one-sentence argument just given, for the conclusion that there are no valid argument forms with precise counterexamples, relies on the assumption that every precise counterexample is a convincing counterexample. This assumption is intuitively plausible, but I have not argued for it yet. My argument for the assumption is that as far as I am aware, when it comes to practical applications of logic, there are no convincing counterexamples to the assumption that every precise counterexample is a convincing counterexample. If given such a counterexample, then I would need to re-evaluate my position. I haven't come across one and I can't conceive of one, but I don't rule out the possibility of one existing. 
+The one-sentence argument just given, for the conclusion that there are no valid argument forms with precise counterexamples, relies on the assumption that every precise counterexample is a convincing counterexample. This assumption is intuitively plausible, but I have not argued for it yet. My argument for the assumption is that as far as I am aware, when it comes to practical applications of logic, there are no convincing counterexamples to the assumption that every precise counterexample is a convincing counterexample. If given such a counterexample, then I would need to re-evaluate my position. I haven't come across one and I can't conceive of one, but I don't rule out the possibility of one existing.
 
-That completes my argument that there are no valid argument forms with precise counterexamples. It is not a water-tight argument, to be sure. This doesn't bother me very much, for the reason that I don't consider it possible to give a water-tight argument for the correctness of a set of rules of logic. 
+That completes my argument that there are no valid argument forms with precise counterexamples. It is not a water-tight argument, to be sure. This doesn't bother me very much, for the reason that I don't consider it possible to give a water-tight argument for the correctness of a set of rules of logic.
 
 One reason for this is that as far as I can tell, any argument for the correctness of a set of rules of logic must employ rules of logic. I have been employing the rules of classical logic all throughout this argument for the correctness of the rules of classical logic, mostly implicitly; for example, in order to derive, from the axioms of ZFC, the mathematical facts that I have used in the argument.
 
@@ -2049,7 +2049,7 @@ In some sense, any argument for the correctness of a system of rules of logic wi
 
 I am comfortable that I can safely and reasonably use classical logic in the course of making this argument for the following reasons. Though I don't think I know anything about the world outside my own consciousness, I operate in the context of a subjective series of experiences affected by a reality that is hostile in many ways to my existence and my goals. I am aware of many risks and problems, and many ways of dealing with them. I am able to accomplish a great deal in the world and to do so with a degree of dependability that inspires people to rely on me for important tasks. Logic is my most central tool, and certainly my most reliable cognitive tool, for accomplishing this.
 
-More generally, my cognition is a tool that is part of my being which I use to do work. In the present context, I am applying my cognition to do the work of introspecting on my methods of cognition and investigating their reliability for the purposes of doing any kind of work. I am employing logic in this work, as I would with any other work where logic could help me to progress. 
+More generally, my cognition is a tool that is part of my being which I use to do work. In the present context, I am applying my cognition to do the work of introspecting on my methods of cognition and investigating their reliability for the purposes of doing any kind of work. I am employing logic in this work, as I would with any other work where logic could help me to progress.
 
 It is a possible outcome of the investigation that logical principles which I currently deem to be reliable are shown to be unreliable for some purposes. In such an event, I would change my views about what rules of logic are reliable according to what was shown. Until that happens, however, I have no hesitation about using the rules of logic that I ordinarily believe and assume to be reliable -- namely, the rules of classical logic -- in the course of the investigation. My views about the rules of logic are in a state of [reflective equilibrium](https://plato.stanford.edu/entries/reflective-equilibrium/).
 
@@ -2063,7 +2063,7 @@ Let us first consider the topic of vagueness. Can vague predicates provide us wi
 
 Let's start with a very simple example: the argument form ( entails (**A** or (not **A**))). This argument form has an empty sequence of premises and a single conclusion. All instances of this argument form are valid sequents in classical logic. According to classical logic, for any statement **A**, either **A** is true or its negation (not **A**) is true. According to classical logic, an equivalent way of stating this is to say that for any statement **A**, either **A** is true or **A** is false. This principle is sometimes called the **law of the excluded middle**, or **LEM** for short.
 
-Many proponents of non-classical logics reject the law of the excluded middle. Many also reject the idea that all of the formulations of LEM given in the previous paragraph are equivalent statements. The main question for our purposes is: are there any pragmatically convincing counterexamples to LEM? 
+Many proponents of non-classical logics reject the law of the excluded middle. Many also reject the idea that all of the formulations of LEM given in the previous paragraph are equivalent statements. The main question for our purposes is: are there any pragmatically convincing counterexamples to LEM?
 
 Vague predicates provide a potentially promising avenue for finding pragmatically convincing counterexamples to LEM. All we need to do is to find a pragmatic context where assuming for a specific statement **A** that the statement (**A** or (not **A**)) is true will lead us into some kind of pragmatic error.
 
@@ -2071,9 +2071,9 @@ Note that it is not sufficient to find a case where philosophical reflection tel
 
 Suppose one needs to classify human males as tall or not tall for some practical purpose. For example, one can suppose we are trying to select players for a men's basketball team, and we are trying to follow the rule that we will only select players who are tall. Or, one can suppose that we are recruiting male soliders for an elite division of an army, and that one of the physical requirements is that the recruits be tall.
 
-If one needs to classify human males as tall or not tall for some practical purpose, then in practice one will usually define a semi-arbitrary exact cut-off point, some height measurement *x*, stipulating that all males of height less than *x* are not tall, and all males of height more than *x* are tall. If one encountered a male whose height was exactly *x*, to within the limits of the precision of the measuring apparatus, then one would semi-arbitrarily make a decision as to whether or not they count as tall for whatever practical purpose is at hand. 
+If one needs to classify human males as tall or not tall for some practical purpose, then in practice one will usually define a semi-arbitrary exact cut-off point, some height measurement *x*, stipulating that all males of height less than *x* are not tall, and all males of height more than *x* are tall. If one encountered a male whose height was exactly *x*, to within the limits of the precision of the measuring apparatus, then one would semi-arbitrarily make a decision as to whether or not they count as tall for whatever practical purpose is at hand.
 
-The generalization of these comments is that in practical contexts, when one is dealing with vague predicates (e.g. "tall"), intermediate cases are handled (usually) by semi-arbitrarily classifying the object as satisfying or not satisfying the predicate in question. 
+The generalization of these comments is that in practical contexts, when one is dealing with vague predicates (e.g. "tall"), intermediate cases are handled (usually) by semi-arbitrarily classifying the object as satisfying or not satisfying the predicate in question.
 
 In contexts where this is the rule, we can think of vague predicates as being incomplete precise predicates, whose definitions are extended on an *ad hoc* basis to deal with intermediate cases as they arise.
 
@@ -2083,7 +2083,7 @@ I will assume going forward in the argument that there are no pragmatic situatio
 
 ### Intuitionism
 
-What other potential areas can we look at for pragmatically convincing counterexamples to the claim that every invalid argument form has a precise counterexample? 
+What other potential areas can we look at for pragmatically convincing counterexamples to the claim that every invalid argument form has a precise counterexample?
 
 Scholarly readers will likely expect a discussion of [intuitionism](https://en.wikipedia.org/wiki/Intuitionism), a school of thought founded by the mathematician and philosopher [L.E.J. Brouwer](https://en.wikipedia.org/wiki/L._E._J._Brouwer).
 
@@ -2093,7 +2093,7 @@ Here is my summary of some core theses or assumptions of intuitionism. I don't a
 2. Mathematical statements are synthetic a priori truths. One verifies mathematical statements by means of constructing mathematical objects in one's mind and observing their properties.
 3. The rules of classical logic are not correct in all cases in the context of mathematics. The rules of logic that are correct in the context of mathematics are the rules of [intuitionistic logic](https://en.wikipedia.org/wiki/Intuitionistic_logic). All of the argument forms that are valid according to intuitionistic logic are valid according to classical logic. The converse is not true; some argument forms that are valid according to classical logic are invalid according to intuitionistic logic.
 
-If intuitionism, as represented by these three statements, is correct, then evidently the rules of classical logic are not correct in all contexts. 
+If intuitionism, as represented by these three statements, is correct, then evidently the rules of classical logic are not correct in all contexts.
 
 I'm going to give my personal opinion on intuitionism. I don't lean on these opinions as assumptions of my argument, but this explanation of my opinion is part of the exposition of the argument, because I'm going to grant the intuitionists the assumptions they have that I myself agree with, in order to construct an argument that's compelling to me (but I hope to the reader as well).
 
@@ -2142,7 +2142,7 @@ The goal of this section is to provide a pragmatically satisfying resolution to 
 
 Russell's paradox made a big splash in the development of mathematical logic and the foundations of math. Consideration of this paradox was probably the most pivotal process in the development of those disciplines. Let me explain the history.
 
-In my awareness, Aristotle was the first to formulate a useful system of rules of logic. [Aristotle's logic](https://en.wikipedia.org/wiki/Term_logic) allowed for the classification of certain simple arguments as valid or invalid. However, Aristotle's logic did not obtain to anything resembling the generality of first order logic, which can be used to analyze the validity of essentially any precisely formulated argument. 
+In my awareness, Aristotle was the first to formulate a useful system of rules of logic. [Aristotle's logic](https://en.wikipedia.org/wiki/Term_logic) allowed for the classification of certain simple arguments as valid or invalid. However, Aristotle's logic did not obtain to anything resembling the generality of first order logic, which can be used to analyze the validity of essentially any precisely formulated argument.
 
 The next development I'll mention is George Boole (1815-1864)'s discovery or invention of so-called [boolean logic](http://www.i-programmer.info/babbages-bag/235-logic-logic-everything-is-logic.html). This forms most of the basis for the biggest practical application of logic, which is in the design and programming of computers.
 
@@ -2227,7 +2227,7 @@ I do agree that the risk the counter-argument points to exists. I simply conside
 
 In practice it seems to be the case most of the time that higher math users (e.g. physicists) rely on intuitions to move from conclusion to conclusion, and that those intuitions have a degree of reliability which does not require verification by validation in a formal system. Indeed, physicists can pass through false statements on their way to conclusions that are perfectly good and reliable. Doing so may even be better in some cases, because it may simplify their work. Who are philosophers to tell physicists (or anybody, more generally) how to play the games they play to do their jobs? Such philosophical criticism of the methods of physicists could credibly come from physicist philosophers, but they would need to persuade other physicists by the standards of physicists.
 
-To debunk the counter-argument from a less practical and more conceptual angle, I will also attack it at the premise that it is impossible to derive falsehood from truth by the rules of classical logic. In the section titled The Law of One, I have laid out a metaphysics based on the premise that all is one, from which I deduce that every statement is true (and false). If indeed every statement is true and false, then every inference proceeds from truth to falsehood. I think this is a coherent metaphysics -- more coherent, in my opinion, than others I have come across -- and that even as a thought experiment it undermines to some extent the premise that it is impossible to derive falsehood from truth by the rules of classical logic. The logical paradoxes themselves, such as the liar paradox (which arises necessarily from how natural languages work), also undermine this idea to some extent. 
+To debunk the counter-argument from a less practical and more conceptual angle, I will also attack it at the premise that it is impossible to derive falsehood from truth by the rules of classical logic. In the section titled The Law of One, I have laid out a metaphysics based on the premise that all is one, from which I deduce that every statement is true (and false). If indeed every statement is true and false, then every inference proceeds from truth to falsehood. I think this is a coherent metaphysics -- more coherent, in my opinion, than others I have come across -- and that even as a thought experiment it undermines to some extent the premise that it is impossible to derive falsehood from truth by the rules of classical logic. The logical paradoxes themselves, such as the liar paradox (which arises necessarily from how natural languages work), also undermine this idea to some extent.
 
 From the point of view of defending against the attack that I am currently defending against, the counter-argument I am currently criticizing is potentially self-defeating. The attack on classical logic that I am currently defending against advances the point of view that it is possible to derive falsehoods from truth by means of classical logic, and the Russell paradox and the liar paradox are among the examples demonstrating this phenomenon. Therefore an objection to my defense which is based on the premise that the rules of classical logic can't take us from truth to falsehood is potentially self-defeating, in the following way. If the objector (who, as we can tell by inspecting the objection, is a believer in classical logic) were to abandon my defense of classical logic on account of this objection, then they would once again be subject to the attack I am currently defending against. This is fine, as long as the objector has their own defense against the attack which meets their own standards.
 
@@ -2316,7 +2316,7 @@ The subtlety left out so far is that there is a large distinction between valid 
 
 If we consider invalid arguments to be fallacious, then many fallacious arguments are winning. It would not be conservative to equate fallacious arguments with non-winning arguments, because whether an argument is winning is extremely context-dependent, and this understanding would not line up with the traditional understanding of fallacies. I will simply say that strictly speaking, fallacious arguments are by definition logically invalid arguments; many winning arguments are fallacious; and that's not necessarily a problem.
 
-According to this, the study of fallacies covers ground already covered by the study of the rules of logic. Yet approaching the topic with a fresh perspective, but from the opposite angle, is also quite useful. Medieval logicians catalogued lists of categories of fallacies. The widely known terminology of fallacies -- *ad hominem* fallacy, appeal to authority fallacy, etc. -- provides easily accessible ammunition for debunking bad arguments. It is very intellectually productive to ask "what arguments are bad?" and set about categorizing them. In this spirit, I recommend [Wikipedia's list of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies). 
+According to this, the study of fallacies covers ground already covered by the study of the rules of logic. Yet approaching the topic with a fresh perspective, but from the opposite angle, is also quite useful. Medieval logicians catalogued lists of categories of fallacies. The widely known terminology of fallacies -- *ad hominem* fallacy, appeal to authority fallacy, etc. -- provides easily accessible ammunition for debunking bad arguments. It is very intellectually productive to ask "what arguments are bad?" and set about categorizing them. In this spirit, I recommend [Wikipedia's list of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies).
 
 [Inductive arguments](https://en.wikipedia.org/wiki/Inductive_reasoning), such as statistical inferences, are usually logically invalid. One can almost never infer infallibly from observations about a [sample](https://en.wikipedia.org/wiki/Sample_(statistics)) of a population to generalizations about the entire [population](https://en.wikipedia.org/wiki/Statistical_population). Statistically inferred generalizations are fallible, and strictly speaking they are fallacies.
 
@@ -2364,7 +2364,7 @@ In the context of those general comments about the process of cognition, I can g
 
 All human views of reality are distorted because, firstly, they are based on severely limited information, and secondly, they are a result of mostly-unconscious feedback processes between our minds and reality, and of feedback processes internal to our minds.
 
-What would it mean to have an undistorted view of reality? To explain the meaning of the phrase "undistorted view of reality," I will say that hypothetically, I would have an undistorted view of reality if I was aware of all information, if I possessed all wisdom and all insight that can be had about all information, if I could see all possible perspectives and perfectly synthesize them into the whole truth. Plainly, humans can't have an undistorted view of reality in this sense. We have to settle for possessing views of reality that are far inferior to this hypothetical ideal of an undistorted view of reality. Therefore I say that all human views of reality are distorted. 
+What would it mean to have an undistorted view of reality? To explain the meaning of the phrase "undistorted view of reality," I will say that hypothetically, I would have an undistorted view of reality if I was aware of all information, if I possessed all wisdom and all insight that can be had about all information, if I could see all possible perspectives and perfectly synthesize them into the whole truth. Plainly, humans can't have an undistorted view of reality in this sense. We have to settle for possessing views of reality that are far inferior to this hypothetical ideal of an undistorted view of reality. Therefore I say that all human views of reality are distorted.
 
 Our cognitive processes involve many choice points, with most of these choice points being navigated more or less unconsciously. As a consumer of information who hopes to learn more about what's true by my consumption, I have the task of deciding what information to consume, with the awareness that what information I decide to consume will have an impact on what conclusions about reality I arrive at.
 
@@ -2427,7 +2427,7 @@ TODO: discuss self reinforcing biases somewhere
 
 A big foundational question in rationality is the question of how to deal with uncertainty. This is a very broad question. The best way to deal with uncertainty is going to depend on the case. The overall goal of this section is to survey the various methods of dealing with uncertainty, to develop a meta-theory of how to evaluate the suitability to a given purpose of a given method of dealing with uncertainty, and to make general recommendations as to how select a method of dealing with uncertainty that is appropriate to a given application.
 
-The most rigorous available methods of dealing with uncertainty are the methods of statistics and probability. These methods are very complex and difficult to understand. The process of applying them to real problems is complex and highly prone to error. This is illustrated by [research](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) arguing, via statistical methods, that most published research findings are false. This research specifically concerns research employing statistical methods. That many experts in statistics are now making such dire pronouncements is an illustration of the extent to which application of statistical methods to real problems is error-prone. Yet, statistics and probability remain our most rigorous and theoretically dependable methods of dealing with uncertainty. 
+The most rigorous available methods of dealing with uncertainty are the methods of statistics and probability. These methods are very complex and difficult to understand. The process of applying them to real problems is complex and highly prone to error. This is illustrated by [research](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) arguing, via statistical methods, that most published research findings are false. This research specifically concerns research employing statistical methods. That many experts in statistics are now making such dire pronouncements is an illustration of the extent to which application of statistical methods to real problems is error-prone. Yet, statistics and probability remain our most rigorous and theoretically dependable methods of dealing with uncertainty.
 
 One source where you can learn about statistics and probability is [A Modern Introduction to Probability and Statistics by Dekking et. al.](http://www.springer.com/us/book/9781852338961). Here I will discuss statistics and probability at a high level without delving into the math. My intent is that what I'm saying should make some sense regardless of your level of familiarity with statistics and probability, though the more familiar you are, the more ability you will have to evaluate the sense of what I'm saying. As I am not an expert on these topics, I would especially appreciate your feedback on this section if you are an expert on these topics.
 
@@ -2441,21 +2441,21 @@ For example, suppose you prescribe a weight loss drug to 100 people, and you mea
 
 This test does not tell you whether the population mean is probably greater than zero or probably less than zero. It tells you nothing about the value of the population mean other than that it is probably not zero. Further, it does not tell you that taking the drug caused any of the weight changes observed in the sample participants. Other statistical tests can be used to get answers to these questions.
 
-The conclusion of the *t*-test is justified assuming that the *t*-test was carried out by correct procedures, and to the extent that the assumptions of the *t*-test are met. The assumptions of the *t*-test are essentially never met perfectly by real world data. For example, it is usually impossible (as in the case of populations of people) to gather a perfectly representative sample. 
+The conclusion of the *t*-test is justified assuming that the *t*-test was carried out by correct procedures, and to the extent that the assumptions of the *t*-test are met. The assumptions of the *t*-test are essentially never met perfectly by real world data. For example, it is usually impossible (as in the case of populations of people) to gather a perfectly representative sample.
 
 Addressing the question of how closely the assumptions of a statistical test are met, and how problematic the inevitable deviations from the assumptions are likely to be, is in general a complex matter of opinion and guesswork. This is one of the main reasons that application of statistical and probablistic methods to real problems is so problematic and error-prone. Nevertheless, statistical and probablistic methods are often good, appropriate ways to deal with uncertainty. I don't intend to criticize statistical and probabilistic methods as bad methods, but merely to warn of the risks and challenges involved in applying them, and to encourage appropriate care and conscientiousness in this area.
 
 Methods of statistics and probability often belong to overarching paradigms. The most important of these paradigms are the **frequentist** and **Bayesian** paradigms of statistics and probability.
 
-Frequentist statistical and probabilistic methods are fundamentally methods of counting. In the frequentist conception of probability, the probability of an [event](https://en.wikipedia.org/wiki/Event_(probability_theory)) is essentially the size of the set of cases where the event occurs, as a portion of the set of all possible cases under consideration. 
+Frequentist statistical and probabilistic methods are fundamentally methods of counting. In the frequentist conception of probability, the probability of an [event](https://en.wikipedia.org/wiki/Event_(probability_theory)) is essentially the size of the set of cases where the event occurs, as a portion of the set of all possible cases under consideration.
 
 For example, the probability of a flipped fair coin landing heads is 0.5. In the frequentist paradigm, one can arrive at this conclusion in the following way. Consider the set of possible cases under consideration to be the two-element set of the outcomes "the coin lands heads" and "the coin lands tails." The event of interest is the coin landing heads, which we can equate with the one-element set containing the outcome "the coin lands heads." The size of this set is 1. Dividing by the size of the set of all cases, we get the result 1/2 = 0.5, the (frequentist) probability of the coin landing heads.
 
-The one-sample *t*-test is an example of a frequentist statistical method, or at least a statistical method to which a frequentist interpretation can be applied. It considers the set of all possible outcomes of the process of taking a random sample from the population of the same size as the actually available sample. Within this it measures the size of the set of such outcomes where the deviation of the sample mean from the expected population mean is at least the observed deviation. This gives the probability of observing a deviation such as the observed deviation, assuming the actual population mean equals the expected mean (or in other words assuming the null hypothesis is true). 
+The one-sample *t*-test is an example of a frequentist statistical method, or at least a statistical method to which a frequentist interpretation can be applied. It considers the set of all possible outcomes of the process of taking a random sample from the population of the same size as the actually available sample. Within this it measures the size of the set of such outcomes where the deviation of the sample mean from the expected population mean is at least the observed deviation. This gives the probability of observing a deviation such as the observed deviation, assuming the actual population mean equals the expected mean (or in other words assuming the null hypothesis is true).
 
 Whereas the frequentist paradigm is founded on the notion of probabilities produced by counting outcomes, the Bayesian paradigm is founded on the notion of **subjective probability**. A Bayesian subjective probability of an event is essentially somebody's opinion of how likely the event is to occur, expressed as a number between 0 and 1.
 
-This subjective understanding of probability harmonizes with interesting, useful, and mathematically correct statistatical and probabilistic methods. For a friendly introduction to this area, I would recommend [the Arbital guide on Bayes' rule](https://arbital.com/p/bayes_rule/?l=1zq). 
+This subjective understanding of probability harmonizes with interesting, useful, and mathematically correct statistatical and probabilistic methods. For a friendly introduction to this area, I would recommend [the Arbital guide on Bayes' rule](https://arbital.com/p/bayes_rule/?l=1zq).
 
 Frequentist and Bayesian statistics and probability represent rival factions to some extent in the world of statistics and probability. From a practical perspective, though, there is no conflict as far as I'm aware. The methods of both schools are correct as far as they go. One can use the perspectives and methods of either or both schools. One can use whichever statistical and probablistic methods and paradigms are useful for one's purposes.
 
@@ -2567,3 +2567,25 @@ These conclusions can also be reached by many different arguments, some of which
 TODO
 
 ## Faith
+
+"Faith" is a word with different senses. "Faith" can refer to an attitude towards a belief, practice, or rule. I will try to articulate a more abstract sense of "faith," which is inherently spiritual in nature. It will be helpful to start by reviewing less abstract notions of faith.
+
+To adhere faithfully to a practice or rule is roughly to adhere to it consistently and with determination. We often apply this sense of "faith" towards religious rules: e.g., "she attends church faithfully." In a specialization of this sense of "faith," we say that a person is faithful to a sexual partner when they consistently have sex with nobody else.
+
+To believe a proposition faithfully is to believe the proposition, usually without conclusive evidence, and perhaps in such a way that nothing could make you abandon the belief. In this sense we often say that people have faith in their religions.
+
+Faith, as an attitude towards practices and rules, can be opposed to ambivalence or inconstancy. As an attitude towards beliefs, faith can be opposed to skepticism, doubt, or changeability in belief.
+
+The more abstract sense of faith I want to articulate does not have to do with beliefs, practices, rules, the intellect, or action/behavior. Faith in this more abstract sense is a type of internal state of a person, but not specifically an intellectual state.
+
+I define faith, in the more abstract sense, as a type of experience. In this statement I am conflating two distinct senses of "experience." *Experiences* (first sense) are conscious events, roughly speaking; e.g.: my experience of typing this, my most recent experience of eating ice cream. *Experience* (second sense) is a quality which sentient beings such as humans acquire over the course of many experiences, which enables us to respond to our experiences in more advantageous/effective ways. For example, I have had many experiences of programming computers, and the experience I have garnered from doing so makes software companies want to hire me.
+
+Faith is a type of experience, I defined. This sense of faith, then, conflates two sub-senses: *faith experiences* and *faith experience*. Faith experiences are spiritual experiences, or mystical experiences; I do not draw distinctions in meaning between these three phrases. Faith experience is a type of experience sentient beings can acquire over time through faith experiences.
+
+Faith experiences, in my opinion, reveal truth/reality to us in a way that transcends language and the intellect. I think our experiences generally reveal truth/reality to us, as for example sensory experiences reveal physical reality to us. Of course, we often misinterpret what statements are true in light of our experiences; experiences are prone to be consistent with multiple divergent interpretations in terms of intellectual models, and people commonly jump to conclusions by neglecting possibilities which are consistent with their experiences. Sensory experiences reveal truth/reality to us fairly directly (when we are not hallucinating), but even so concluding that specific statements are true on the basis of sensory experiences is a hazardous business. In my view the same is true of faith experiences: I view faith experiences as revelatory of truth/reality in a fairly direct way, but I think they reveal reality in a non-linguistic way, and interpreting their meaning in language is a hazardous business. This helps to explain why people arrive at contradictory, presumably sometimes false, conclusions on the basis of faith, even if faith experiences are revelatory of truth/reality.
+
+Faith experience is a property of a sentient being resulting from faith experiences. The development of faith experience is the primary direct and positive effect of faith experiences on people. It is a result of the transformations catalyzed by exposure to the truth through faith experiences. Such exposure can be mind-blowing in the extreme when it is sudden and powerful, but it can also be a subtler and more gradual process. I believe there is a tremendous variety in the faith experiences possible to people, and similar variety in the faith experience which people can develop. Most of this variety lies outside of what any language I know can articulate. My statement that this variety exists is based on recollection of my own experiences and presumption/inference of endless possible experiences I haven't had.
+
+How can faith experience present or manifest in people? I believe it often stimulates faith of the more concrete types we have discussed, such as faithful religious belief and practice. In a common scenario, faith experiences inspire people to heightened enthusiasm for their own culture's religion. Faith experiences can also inspire in people enthusiasm for religious/spiritual/mystical beliefs and practices not prevalent in their own culture. I believe faith experience can transform the quality of our experiences, how we think, and what our emotional lives look like. I have personally experienced all these effects of faith experience.
+
+What changes in your life would you attribute to faith experience/experiences? I attribute my own intellectual fertility to my faith experience/experiences. I thank and credit God for supplying me with inspiration. Moreover, there is basically no aspect of my life which I consider unaffected by faith. Faith brings comprehensive transformation of my mind, body, and spirit, or that's how I see it. I thank God for being the ground of being which feeds the roots of faith. I thank God for being the self, all and everything, the universal intelligence, from whom flows all life, all energy, all consciousness, and all matter.
